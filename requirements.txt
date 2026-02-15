@@ -1,0 +1,18 @@
+# ===========================
+# FinRAG — Phase 1 Dependencies
+# ===========================
+
+# --- PDF Processing ---
+PyMuPDF>=1.24.0          # Fast PDF text extraction (imported as 'fitz')
+
+# --- Web Framework ---
+fastapi>=0.115.0         # Async API framework
+uvicorn>=0.32.0          # ASGI server to run FastAPI
+
+# --- Data Validation ---
+pydantic>=2.10.0         # Schema validation & settings management
+pydantic-settings>=2.6.0 # Load config from .env files
+
+# --- Utilities ---
+python-dotenv>=1.0.0     # Environment variable management
+rich>=13.9.0             # Beautiful terminal output & logging

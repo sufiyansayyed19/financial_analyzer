@@ -1,0 +1,201 @@
+{
+  "pipeline_run": {
+    "timestamp": "2026-02-15 22:01:26",
+    "total_documents": 21,
+    "successful": 21,
+    "failed": 0,
+    "total_chunks": 24948,
+    "elapsed_seconds": 35.7
+  },
+  "documents": [
+    {
+      "file": "hdfcbank_2022_annual.pdf",
+      "company": "hdfcbank",
+      "year": "2022",
+      "pages": 426,
+      "chunks": 1602,
+      "chars_original": 1302831,
+      "chars_cleaned": 1281583
+    },
+    {
+      "file": "hdfcbank_2023_annual.pdf",
+      "company": "hdfcbank",
+      "year": "2023",
+      "pages": 447,
+      "chunks": 1696,
+      "chars_original": 1377059,
+      "chars_cleaned": 1356266
+    },
+    {
+      "file": "hdfcbank_2024_annual.pdf",
+      "company": "hdfcbank",
+      "year": "2024",
+      "pages": 585,
+      "chunks": 2060,
+      "chars_original": 1666497,
+      "chars_cleaned": 1647743
+    },
+    {
+      "file": "reliance_2023_annual.pdf",
+      "company": "reliance",
+      "year": "2023",
+      "pages": 267,
+      "chunks": 1886,
+      "chars_original": 1573003,
+      "chars_cleaned": 1508050
+    },
+    {
+      "file": "reliance_2024_annual.pdf",
+      "company": "reliance",
+      "year": "2024",
+      "pages": 159,
+      "chunks": 1229,
+      "chars_original": 1037001,
+      "chars_cleaned": 983242
+    },
+    {
+      "file": "reliance_2025_annual.pdf",
+      "company": "reliance",
+      "year": "2025",
+      "pages": 147,
+      "chunks": 1147,
+      "chars_original": 975335,
+      "chars_cleaned": 917268
+    },
+    {
+      "file": "tcs_2023_annual.pdf",
+      "company": "tcs",
+      "year": "2023",
+      "pages": 346,
+      "chunks": 1302,
+      "chars_original": 1074850,
+      "chars_cleaned": 1041432
+    },
+    {
+      "file": "tcs_2024_annual.pdf",
+      "company": "tcs",
+      "year": "2024",
+      "pages": 340,
+      "chunks": 1327,
+      "chars_original": 1092743,
+      "chars_cleaned": 1061268
+    },
+    {
+      "file": "tcs_2025_annual.pdf",
+      "company": "tcs",
+      "year": "2025",
+      "pages": 336,
+      "chunks": 1273,
+      "chars_original": 1049033,
+      "chars_cleaned": 1018290
+    },
+    {
+      "file": "jpmorgan_2022_annual.pdf",
+      "company": "jpmorgan",
+      "year": "2022",
+      "pages": 328,
+      "chunks": 1478,
+      "chars_original": 1212887,
+      "chars_cleaned": 1182102
+    },
+    {
+      "file": "jpmorgan_2023_annual.pdf",
+      "company": "jpmorgan",
+      "year": "2023",
+      "pages": 364,
+      "chunks": 1804,
+      "chars_original": 1475155,
+      "chars_cleaned": 1442680
+    },
+    {
+      "file": "jpmorgan_2024_annual.pdf",
+      "company": "jpmorgan",
+      "year": "2024",
+      "pages": 372,
+      "chunks": 1757,
+      "chars_original": 1437970,
+      "chars_cleaned": 1405521
+    },
+    {
+      "file": "nvidia_2023_annual.pdf",
+      "company": "nvidia",
+      "year": "2023",
+      "pages": 169,
+      "chunks": 744,
+      "chars_original": 605557,
+      "chars_cleaned": 594752
+    },
+    {
+      "file": "nvidia_2024_annual.pdf",
+      "company": "nvidia",
+      "year": "2024",
+      "pages": 187,
+      "chunks": 799,
+      "chars_original": 648501,
+      "chars_cleaned": 638715
+    },
+    {
+      "file": "nvidia_2025_annual.pdf",
+      "company": "nvidia",
+      "year": "2025",
+      "pages": 181,
+      "chunks": 834,
+      "chars_original": 677522,
+      "chars_cleaned": 666965
+    },
+    {
+      "file": "pfizer_2022_annual.pdf",
+      "company": "pfizer",
+      "year": "2022",
+      "pages": 114,
+      "chunks": 771,
+      "chars_original": 631799,
+      "chars_cleaned": 616207
+    },
+    {
+      "file": "pfizer_2023_annual.pdf",
+      "company": "pfizer",
+      "year": "2023",
+      "pages": 168,
+      "chunks": 994,
+      "chars_original": 811433,
+      "chars_cleaned": 794529
+    },
+    {
+      "file": "pfizer_2024_annual.pdf",
+      "company": "pfizer",
+      "year": "2024",
+      "pages": 120,
+      "chunks": 802,
+      "chars_original": 657696,
+      "chars_cleaned": 641448
+    },
+    {
+      "file": "walmart_2023_annual.pdf",
+      "company": "walmart",
+      "year": "2023",
+      "pages": 100,
+      "chunks": 466,
+      "chars_original": 382311,
+      "chars_cleaned": 372699
+    },
+    {
+      "file": "walmart_2024_annual.pdf",
+      "company": "walmart",
+      "year": "2024",
+      "pages": 97,
+      "chunks": 491,
+      "chars_original": 400007,
+      "chars_cleaned": 392227
+    },
+    {
+      "file": "walmart_2025_annual.pdf",
+      "company": "walmart",
+      "year": "2025",
+      "pages": 97,
+      "chunks": 486,
+      "chars_original": 394475,
+      "chars_cleaned": 388178
+    }
+  ]
+}
