@@ -1,0 +1,1183 @@
+# Tables from pfizer_2023_annual.pdf
+
+
+## Table 1 (Page 3)
+
+| Form 10-K | This Annual Report on Form 10-K for the fiscal year ended December 31, 2023 |
+| --- | --- |
+| 2022 Form 10-K | Our Annual Report on Form 10-K for the fiscal year ended December 31, 2022 |
+| Proxy Statement | Proxy Statement for the 2024 Annual Meeting of Shareholders, which will be filed no later than 120 days after December 31, 2023 |
+| ABO | Accumulated benefit obligation; represents the present value of the benefit obligation earned through the end of the year but does not factor in future compensation increases |
+| ACIP | Advisory Committee on Immunization Practices |
+| ADC | Antibody-Drug Conjugate |
+| Alexion | Alexion Pharma International Operations Limited, a subsidiary of AstraZeneca PLC |
+| ALK | anaplastic lymphoma kinase |
+| Alliance revenues | Revenues from alliance agreements under which we co-promote products discovered or developed by other companies or us |
+| Arena | Arena Pharmaceuticals, Inc. |
+| Array | Array BioPharma Inc. |
+| Arvinas | Arvinas, Inc. |
+| Astellas | Astellas Pharma Inc., Astellas US LLC and Astellas Pharma US, Inc. |
+| ATTR-CM | transthyretin amyloid cardiomyopathy |
+| Beam | Beam Therapeutics Inc. |
+| Biohaven | Biohaven Pharmaceutical Holding Company Limited |
+| BioNTech | BioNTech SE |
+| Biopharma | Global Biopharmaceuticals Business |
+| Blackstone | Blackstone Life Sciences |
+| BLA | Biologics License Application |
+| BMS | Bristol-Myers Squibb Company |
+| BOD | Board of Directors |
+| CDC | U.S. Centers for Disease Control and Prevention |
+| cGMP | current Good Manufacturing Practices |
+| CGRP | calcitonin gene-related peptide |
+| CMS | Centers for Medicare & Medicaid Services |
+| Comirnaty* | Unless otherwise noted, refers to, as applicable, and as authorized or approved, the Pfizer-BioNTech COVID-19 Vaccine, the Pfizer-BioNTech COVID-19 Vaccine, Bivalent (Original and Omicron BA.4/BA.5), Comirnaty (COVID-19 Vaccine, mRNA, 2023-2024 Formula), the Pfizer-BioNTech COVID-19 Vaccine (2023-2024 Formula), Comirnaty Original/Omicron BA.1, Comirnaty Original/Omicron BA.4/BA.5 and Comirnaty XBB.1.5. |
+| Consumer Healthcare JV | GSK Consumer Healthcare JV |
+| COVID-19 | novel coronavirus disease of 2019 |
+| DEA | U.S. Drug Enforcement Agency |
+| Developed Europe | Includes the following markets: Western Europe, Scandinavian countries and Finland |
+| Developed Markets | Includes the following markets: U.S., Developed Europe and Developed Rest of World |
+| Developed Rest of World | Includes the following markets: Japan, Canada, South Korea, Australia and New Zealand |
+| EC | European Commission |
+| EMA | European Medicines Agency |
+| Emerging Markets | Includes, but is not limited to, the following markets: Asia (excluding Japan and South Korea), Latin America, Eastern Europe, Central Europe, the Middle East, Africa and Turkey |
+| EPS | earnings per share |
+| ESG | Environmental, Social and Governance |
+| ESOP | employee stock ownership plan |
+| EU | European Union |
+| EUA | emergency use authorization |
+| Exchange Act | Securities Exchange Act of 1934, as amended |
+| FASB | Financial Accounting Standards Board |
+| FCPA | U.S. Foreign Corrupt Practices Act |
+| FDA | U.S. Food and Drug Administration |
+| FFDCA | U.S. Federal Food, Drug and Cosmetic Act |
+| GAAP | Generally Accepted Accounting Principles |
+
+
+## Table 2 (Page 5)
+
+| GBT | Global Blood Therapeutics, Inc. |
+| --- | --- |
+| GDFV | grant-date fair value |
+| Genmab | Genmab A/S |
+| GPD | Global Product Development organization |
+| GSK | GSK plc |
+| Haleon | Haleon plc |
+| HHS | U.S. Department of Health and Human Services |
+| HIPAA | Health Insurance Portability and Accountability Act of 1996 |
+| Hospira | Hospira, Inc. |
+| IPR&D | in-process research and development |
+| IRA | Inflation Reduction Act of 2022 |
+| IRC | Internal Revenue Code |
+| IRS | U.S. Internal Revenue Service |
+| IT | information technology |
+| JV | joint venture |
+| King | King Pharmaceuticals LLC (formerly King Pharmaceuticals, Inc.) |
+| LIBOR | London Interbank Offered Rate |
+| LOE | loss of exclusivity |
+| MCO | managed care organization |
+| mCRC | metastatic colorectal cancer |
+| mCRPC | metastatic castration-resistant prostate cancer |
+| mCSPC | metastatic castration-sensitive prostate cancer |
+| MD&A | Management’s Discussion and Analysis of Financial Condition and Results of Operations |
+| MDL | Multi-District Litigation |
+| Medivation | Medivation LLC (formerly Medivation, Inc.) |
+| Meridian | Meridian Medical Technologies, Inc. |
+| Moody’s | Moody’s Investors Service |
+| mRNA | messenger ribonucleic acid |
+| MSA | Manufacturing Supply Agreement |
+| Mylan | Mylan N.V. |
+| Mylan-Japan collaboration | a pre-existing strategic collaboration between Pfizer and Mylan for generic drugs in Japan that terminated on December 21, 2020 |
+| NAV | net asset value |
+| NDA | new drug application |
+| Nimbus | NimbusTherapeutics, LLC |
+| nmCRPC | non-metastatic castration-resistant prostate cancer |
+| nmCSPC | non-metastatic castration-sensitive prostate cancer |
+| NSCLC | non-small cell lung cancer |
+| NYSE | New York Stock Exchange |
+| ODT | oral disintegrating tablet |
+| Ono | Ono Pharmaceutical Co., Ltd. |
+| OPKO | OPKO Health, Inc. |
+| ORD | Oncology Research and Development |
+| OTC | over-the-counter |
+| Paxlovid* | an oral COVID-19 treatment (nirmatrelvir tablets and ritonavir tablets) |
+| PBM | pharmacy benefit manager |
+| PBO | Projected benefit obligation; represents the present value of the benefit obligation earned through the end of the year and factors in future compensation increases |
+| PC1 | Pfizer CentreOne |
+| PGS | Pfizer Global Supply |
+| Pharmacia | Pharmacia LLC (formerly Pharmacia Corporation) |
+| PIE | Pfizer Investment Enterprises Pte. Ltd. (a wholly-owned finance subsidiary of Pfizer) |
+| PP&E | Property, plant and equipment |
+| PRAC | Pharmacovigilance Risk Assessment Committee |
+| PRD | Pfizer Research and Development |
+| Prevnar family | Includes Prevnar 20/Apexxnar (pediatric and adult) and Prevnar 13/Prevenar 13 (pediatric and adult) |
+| PsA | psoriatic arthritis |
+| QCE | quality consistency evaluation |
+| RA | rheumatoid arthritis |
+
+
+## Table 3 (Page 7)
+
+| RCC | renal cell carcinoma |
+| --- | --- |
+| R&D | research and development |
+| ReViral | ReViral Ltd. |
+| ROU | right of use |
+| RSV | respiratory syncytial virus |
+| S&P | Standard & Poor’s |
+| Seagen | Seagen Inc. and its subsidiaries |
+| SEC | U.S. Securities and Exchange Commission |
+| SI&A | selling, informational and administrative |
+| SMPA | Sumitomo Pharma America, Inc. Takeda Pharmaceutical Company Limited |
+| Takeda |  |
+| Tax Cuts and Jobs Act or TCJA | Legislation commonly referred to as the U.S. Tax Cuts and Jobs Act of 2017 |
+| Trillium | Trillium Therapeutics ULC (formerly Trillium Therapeutics Inc.) |
+| TSAs | transition service arrangements |
+| UC | ulcerative colitis |
+| U.K. | United Kingdom |
+| Upjohn Business | Pfizer’s former global, primarily off-patent branded and generics business, which included a portfolio of 20 globally recognized solid oral dose brands, including Lipitor, Lyrica, Norvasc, Celebrex and Viagra, as well as a U.S.-based generics platform, Greenstone, that was spun-off on November 16, 2020 and combined with Mylan to create Viatris |
+| U.S. | United States |
+| Valneva | Valneva SE |
+| VBP | volume-based procurement |
+| Viatris | Viatris Inc. |
+| ViiV | ViiV Healthcare Limited |
+| Vyndaqel family | Includes Vyndaqel, Vyndamax and Vynmac |
+| WRDM | Worldwide Research, Development and Medical |
+| WTO | World Trade Organization |
+| Wyeth | Wyeth LLC (formerly Wyeth) |
+
+
+## Table 4 (Page 12)
+
+| Pfizer Oncology Division | Combines the U.S. Oncology commercial organizations, global Oncology marketing organizations and global and U.S. Oncology medical affairs from both Pfizer and Seagen. Includes innovative oncology product portfolio of ADCs, small molecules, bispecifics and other immunotherapies that treat a wide range of cancers including certain types of breast cancer, genitourinary cancer and hematologic malignancies, as well as certain types of melanoma, gastrointestinal, gynecological and thoracic cancers, which includes lung cancer. |
+| --- | --- |
+| Pfizer U.S. Commercial Division | Includes the U.S. Primary Care and U.S. Specialty Care customer groups, the Chief Marketing Office, the Global Chief Medical Affairs Office and Global Access & Value. U.S. Primary Care includes: • Internal medicine product portfolio of brands in cardiovascular metabolic, bone graft for spinal fusion and women’s health, as well as post-LOE brands. • Migraine product portfolio. • Vaccines product portfolio across all ages with a pipeline focus on infectious diseases with significant unmet medical need, including COVID-19. • Treatment for COVID-19. • Products for detection of COVID-19 and influenza. U.S. Specialty Care includes: • Inflammation & immunology product portfolio of brands and biosimilars for chronic immune and inflammatory diseases. • Rare disease product portfolio of brands for a number of therapeutic areas with rare diseases, including amyloidosis, hemophilia, endocrine diseases and sickle cell disease. • Hospital product portfolio of sterile injectable and immunoglobulin medicines. |
+| Pfizer International Commercial Division | Includes the ex-U.S. commercial and medical affairs organizations covering Pfizer’s entire product portfolio in all international markets. |
+
+
+## Table 5 (Page 37)
+
+| October 2 through October 29, 2023 | 12,222 | Col_2 | $ | 32.93 | Col_5 | — | Col_7 | $ | 3,292,882,444 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| October 30 through November 30, 2023 | 25,825 |  | $ | 29.95 |  | — |  | $ | 3,292,882,444 |
+| December 1 through December 31, 2023 | 14,449 |  | $ | 28.58 |  | — |  | $ | 3,292,882,444 |
+| Total | 52,496 |  | $ | 30.26 |  | — |  |  |  |
+
+
+## Table 6 (Page 43)
+
+| U.S. Pension Plans Expected annual rate of return on plan assets Actual annual rate of return on plan assets Discount rate used to measure the plan obligations International Pension Plans Expected annual rate of return on plan assets Actual annual rate of return on plan assets Discount rate used to measure the plan obligations | Col_1 | Col_2 | 7.5 % 6.3 % (22.4) 9.2 5.4 2.9 4.5 3.1 (26.0) 11.4 3.8 1.6 |
+| --- | --- | --- | --- |
+|  | 8.0 | % |  |
+|  | 10.4 |  |  |
+|  | 5.4 |  |  |
+|  |  |  |  |
+|  | 5.1 |  |  |
+|  | (4.6) |  |  |
+|  | 4.4 |  |  |
+
+
+## Table 7 (Page 44)
+
+| Operating segments: Biopharma Business Innovation Total revenues | Col_1 | Col_2 | $ 98,988 $ 79,557 1,342 1,731 $ 100,330 $ 81,288 | Col_4 | Col_5 | $ 42,083 $ 29,221 390 524 $ 42,473 $ 29,746 | Col_7 | Col_8 | $ 56,905 $ 50,336 952 1,206 $ 57,857 $ 51,542 | Col_10 | 24 (22) 23 | Col_12 | 44 (26) 43 | Col_14 | 13 (21 12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | 57,186 |  | $ | 26,698 |  | $ | 30,488 |  | (42) |  | (37) |  | (46) |  |
+|  | 1,310 |  |  | 390 |  |  | 920 |  |  | (2) |  | — |  | (3) |  |
+|  | $ | 58,496 |  | $ | 27,088 |  | $ | 31,408 |  | (42) |  | (36) |  | (46) |  |
+
+
+## Table 8 (Page 45)
+
+| $ | 997 |
+| --- | --- |
+| 1,655 |  |
+| 5,159 |  |
+| 9,828 |  |
+| 6,790 |  |
+| 5,619 |  |
+| $ | 30,048 |
+
+
+## Table 9 (Page 46)
+
+| $ | 2,404 |
+| --- | --- |
+| 8,816 |  |
+| $ | 11,220 |
+| $ | 4,228 |
+| 2,519 |  |
+| $ | 6,747 |
+| $ | 4,204 |
+| 2,236 |  |
+| $ | 6,440 |
+| $ | 3,151 |
+| 1,602 |  |
+| $ | 4,753 |
+| $ | 1,863 |
+| 1,458 |  |
+| $ | 3,321 |
+| $ | 1,154 |
+| 549 |  |
+| $ | 1,703 |
+| $ | (1,289) |
+| 2,568 |  |
+| $ | 1,279 |
+| $ | 1,191 |
+| — |  |
+| $ | 1,191 |
+| $ | 642 |
+| 394 |  |
+| $ | 1,036 |
+| $ | 908 |
+| 20 |  |
+| $ | 928 |
+
+
+## Table 10 (Page 47)
+
+| $ | 390 |
+| --- | --- |
+| 920 |  |
+| $ | 1,310 |
+
+
+## Table 11 (Page 47)
+
+| $ | 24,954 | Col_2 |
+| --- | --- | --- |
+| 42.7 |  | % |
+| 14,771 |  |  |
+| 10,679 |  |  |
+| 194 |  |  |
+| 4,733 |  |  |
+| 2,943 |  |  |
+| (835) |  |  |
+
+
+## Table 12 (Page 48)
+
+| Provision/(benefit) for taxes on income Effective tax rate on continuing operations | $ | (1,115) | Col_3 | $ 3,328 $ 1,852 9.6 % 7.6 % | * | 80 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | (105.4) |  | % |  |  |  |
+
+
+## Table 13 (Page 50)
+
+| PRODUCT | INDICATION OR PROPOSED INDICATION | APPROVED/FILED* | Col_3 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  |  | U.S. | EU | JAPAN |
+| Ngenla (somatrogon)(a) | Pediatric growth hormone deficiency | Approved June 2023 | Approved February 2022 | Approved January 2022 |
+| Prevnar 20/Apexxnar (Vaccine) | Active immunization to prevent pneumonia, invasive disease and otitis media caused by Streptococcus pneumoniae (adults) | Approved June 2021 | Approved February 2022 | Filed September 2023 |
+|  | Active immunization to prevent pneumonia, invasive disease and otitis media caused by Streptococcus pneumoniae (pediatric) | Approved April 2023 | Filed November 2022 | Filed March 2023 |
+| TicoVac (Vaccine) | Active immunization to prevent tick-borne encephalitis disease | Approved August 2021 |  | Filed March 2023 |
+| Paxlovid (b) (nirmatrelvir and ritonavir) | COVID-19 in high-risk adults | Approved May 2023 | Approved February 2023 | Approved July 2023 |
+| Nurtec ODT/Vydura (rimegepant) | Acute treatment of migraine with or without aura (adults) | Approved February 2020 | Approved April 2022 |  |
+|  | Prevention of episodic migraine (adults) | Approved May 2021 | Approved April 2022 |  |
+| Litfulo/Ritfulo (ritlecitinib) | Alopecia areata | Approved June 2023 | Approved September 2023 | Approved June 2023 |
+| Zavzpret (zavegepant) (intranasal) | Acute treatment of migraine with or without aura (adults) | Approved March 2023 |  |  |
+| Penbraya (PF-06886992) (Vaccine) | Active immunization to prevent serogroups ABCWY meningococcal infections (adolescent and young adults) | Approved October 2023 | Filed June 2023 |  |
+| Abrysvo (Vaccine) | Active immunization to prevent RSV infection (maternal) | Approved August 2023 | Approved August 2023 | Approved January 2024 |
+|  | Active immunization to prevent RSV infection (older adults) | Approved May 2023 | Approved August 2023 | Filed May 2023 |
+| Velsipity (etrasimod) | Ulcerative colitis (moderately to severely active) | Approved October 2023 | Approved February 2024 |  |
+| Braftovi (encorafenib) and Mektovi (binimetinib) | BRAFV600E-mutant metastatic non-small cell lung cancer | Approved October 2023 | Filed October 2023(c) |  |
+| Elrexfio (elranatamab) | Multiple myeloma triple-class relapsed/refractory | Approved August 2023 | Approved December 2023 | Filed June 2023 |
+| Talzenna (talazoparib) | Combination with Xtandi (enzalutamide) for adult patients with homologous recombination repair (HRR) gene- mutated mCRPC(d) | Approved June 2023 | Approved January 2024 | Approved January 2024 |
+|  | Treatment of BRCA gene-mutated, HER2-negative, inoperable or recurrent breast cancer who have been treated with cancer chemotherapy | Approved October 2018 | Approved June 2019 | Approved January 2024 |
+| fidanacogene elaparvovec (PF- 06838435)(e) | Hemophilia B (adults) | Filed June 2023 | Filed May 2023 |  |
+| Xtandi (enzalutamide)(f) | nmCSPC with biochemical recurrence at high risk for metastasis (high-risk BCR) | Approved November 2023 | Filed September 2023 |  |
+| marstacimab (PF-06741086) | Hemophilia A and B | Filed December 2023 | Filed October 2023 |  |
+| aztreonam-avibactam(g) (PF-06947387) | Treatment of infections caused by Gram-negative bacteria with limited or no treatment options |  | Filed September 2023 |  |
+| Padcev (enfortumab vedotin-ejfv) (h) | In combination with Keytruda (i) (pembrolizumab) for locally advanced or metastatic urothelial cancer (adults) | Approved December 2023 | Filed January 2024 | Filed January 2024 |
+| Tivdak (tisotumab vedotin-tftv)(j) | Recurrent or metastatic cervical cancer with disease progression on or after first-line therapy | Filed(k) January 2024 | Filed February 2024 |  |
+| Tukysa (tucatinib) | In combination with trastuzumab for HER2-positive metastatic colorectal cancer that has progressed following treatment with fluoropyrimidine-, oxaliplatin-, and irinotecan-based chemotherapy | Approved January 2023 |  |  |
+
+
+## Table 14 (Page 52)
+
+| Col_0 | Col_1 | PRODUCT/CANDIDATE | PROPOSED DISEASE AREA |
+| --- | --- | --- | --- |
+| LATE-STAGE CLINICAL PROGRAMS FOR ADDITIONAL USES AND DOSAGE FORMS FOR IN-LINE AND IN- REGISTRATION PRODUCTS |  | Ibrance (palbociclib)(a) | ER+/HER2+ metastatic breast cancer |
+|  |  | Talzenna (talazoparib) | Combination with Xtandi (enzalutamide) for DNA Damage Repair-deficient mCSPC |
+|  |  | Ngenla (somatrogon)(b) | Adult growth hormone deficiency |
+|  |  | Braftovi (encorafenib) and Erbitux® (cetuximab)(c) | First-line BRAFV600E-mutant mCRC |
+|  |  | Paxlovid (nirmatrelvir; ritonavir) | COVID-19 in high-risk children (6-11 years of age; >88lbs) |
+|  |  | Litfulo (ritlecitinib) | Vitiligo |
+|  |  | Elrexfio (elranatamab) | Multiple myeloma double-class exposed |
+|  |  |  | Newly diagnosed multiple myeloma post-transplant maintenance |
+|  |  |  | Newly diagnosed multiple myeloma transplant-ineligible |
+|  |  | Oxbryta (voxelotor) | Sickle cell disease (pediatric) |
+|  |  | Eliquis (apixaban)(d) | Venous thromboembolism (pediatric) |
+|  |  | Abrysvo (vaccine) | Active immunization to prevent RSV infection in adults (18-59) |
+|  |  | Padcev (enfortumab vedotin)(e) | Cisplatin-ineligible/decline muscle-invasive bladder cancer |
+|  |  |  | Cisplatin-eligible muscle-invasive bladder cancer |
+|  |  | Tukysa (tucatinib) | HER2+ adjuvant breast cancer |
+|  |  |  | 2nd line/3rd line HER2+ metastatic breast cancer |
+|  |  |  | 1st line HER2+ metastatic colorectal cancer |
+| NEW DRUG CANDIDATES IN LATE- STAGE DEVELOPMENT |  | giroctocogene fitelparvovec (PF-07055480)(f) | Hemophilia A |
+|  |  | PF-06425090 (Vaccine) | Immunization to prevent primary clostridioides difficile infection |
+|  |  | sasanlimab (PF-06801591) | Combination with Bacillus Calmette-Guerin for non-muscle-invasive bladder cancer |
+|  |  | fordadistrogene movaparvovec (PF- 06939926) | Duchenne muscular dystrophy (ambulatory) |
+|  |  | VLA15 (PF-07307405) vaccine(g) | Immunization to prevent Lyme disease |
+|  |  | PF-07252220 (quadrivalent mRNA-based vaccine) | Immunization to prevent influenza |
+|  |  | Vepdegestrant (PF-07850327)(h) | Breast cancer metastatic - 2 nd line ER+/HER2- |
+|  |  | inclacumab (PF-07940370) | Sickle cell disease |
+|  |  | Ibrance + vepdegestrant(h) | ER+/HER2- metastatic breast cancer |
+|  |  | Dazukibart (PF-06823859) | Dermatomyositis, polymyositis |
+|  |  | Disitamab vedotin(i) | 1st line HER2 (≥IHC1+) metastatic urothelial cancer |
+|  |  | PF-07926307 (COVID/flu combo vaccine) (j) | Immunization to prevent COVID infection and influenza |
+|  |  | sisunatovir (PF-07923568) | Respiratory syncytial virus infection (adults) |
+
+
+## Table 15 (Page 54)
+
+| Data presented will not (in all cases) aggregate to totals. MILLIONS, EXCEPT PER SHARE DATA GAAP Reported Amortization of intangible assets Acquisition-related items Discontinued operations(d) Certain significant items: Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring(e) Certain asset impairments(f) (Gains)/losses on equity securities(f) Actuarial valuation and other pension and postretirement plan (gains)/losses Other Income tax provision—Non-GAAP items Non-GAAP Adjusted | Cost of sales(a) | Col_2 | Col_3 | Selling, informational and administrative expenses(a) | Col_5 | Col_6 | Col_7 | Other (income)/deductions–– net(a) | Col_9 | Col_10 | Col_11 | Net income attributable to Pfizer Inc. common shareholders(a), (b), (c) | Col_13 | Col_14 | Earnings per common share attributable to Pfizer Inc. common shareholders–– diluted | Col_16 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | 24,954 |  | $ | 14,771 |  |  | $ | (835) |  |  | $ | 2,119 |  | $ | 0.37 |
+|  | — |  |  | — |  |  |  | — |  |  |  | 4,733 |  |  |  |  |
+|  | (629) |  |  | (11) |  |  |  | (28) |  |  |  | 1,874 |  |  |  |  |
+|  | — |  |  | — |  |  |  | — |  |  |  | (11) |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | (98) |  |  | (290) |  |  |  | — |  |  |  | 2,227 |  |  |  |  |
+|  | — |  |  | — |  |  |  | (3,024) |  |  |  | 3,024 |  |  |  |  |
+|  | — |  |  | — |  |  |  | 1,588 |  |  |  | (1,588) |  |  |  |  |
+|  | — |  |  | — |  |  |  | 265 |  |  |  | (265) |  |  |  |  |
+|  | (238) |  | (g) | (24) |  |  |  | (246) |  | (h) |  | 518 |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  | (2,131) |  |  |  |  |
+|  | $ | 23,988 |  | $ | 14,446 |  |  | $ | (2,281) |  |  | $ | 10,501 |  | $ | 1.84 |
+
+
+## Table 16 (Page 54)
+
+| Data presented will not (in all cases) aggregate to totals. MILLIONS, EXCEPT PER SHARE DATA GAAP Reported Amortization of intangible assets Acquisition-related items Discontinued operations(d) Certain significant items: Restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring(e) Certain asset impairments(f) (Gains)/losses on equity securities(f) Actuarial valuation and other pension and postretirement plan (gains)/losses Other Income tax provision—Non-GAAP items Non-GAAP Adjusted | Cost of sales(a) $ 34,344 — (119) — (88) — — — (40) $ 34,096 | Selling, informational and administrative expenses(a) $ 13,677 — (7) — (562) — — — (59) $ 13,049 | Other (income)/deductions–– net(a) $ 217 — (74) — — (421) (1,270) 230 (636)(h) $ (1,954) | Net income attributable to Pfizer Inc. common shareholders(a), (b), (c) $ 31,372 3,609 832 (21) 1,396 421 1,270 (230) 752 (1,683) $ 37,717 | Earnings per common share attributable to Pfizer Inc. common shareholders–– diluted |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | $ 5.47 |
+|  |  |  |  |  | $ 6.58 |
+
+
+## Table 17 (Page 56)
+
+| Cash provided by/(used in): Operating activities from continuing operations Investing activities from continuing operations Financing activities from continuing operations | Col_1 | Col_2 | The change was driven primarily by a decrease in net income adjusted for non-cash items and the $ 29,267 $ 32,922 timing of receipts and payments in the ordinary course of business, partially offset by net changes in inventory greater than one year (see Note 8A). The change was driven mainly by $43.4 billion cash paid in 2023 for the acquisition of Seagen, net of cash acquired, compared with $23.0 billion cash paid in 2022 for acquisitions (Biohaven, $11.5 billion, Arena, $6.2 billion and GBT, $5.2 billion), net of cash acquired (see Note 2A), as well $ (15,783) $ (22,534) as a $4.0 billion dividend received from the Consumer Healthcare JV in 2022 that was allocated to investing activities (see Note 2C), partially offset by a $5.5 billion increase in net redemptions of short-term investments in 2023 and a $1.7 billion decrease in purchases of long-term investments. The change was driven mostly by $30.8 billion of proceeds from the issuance of long-term debt in $ (14,834) $ (9,816) May of 2023 and a $7.9 billion increase in net proceeds from the issuance of short-term borrowings. | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | $ | 8,700 |  | The change was driven primarily by a decrease in net income adjusted for non-cash items and the timing of receipts and payments in the ordinary course of business, partially offset by net changes in inventory greater than one year (see Note 8A). |
+|  | $ | (32,278) |  | The change was driven mainly by $43.4 billion cash paid in 2023 for the acquisition of Seagen, net of cash acquired, compared with $23.0 billion cash paid in 2022 for acquisitions (Biohaven, $11.5 billion, Arena, $6.2 billion and GBT, $5.2 billion), net of cash acquired (see Note 2A), as well as a $4.0 billion dividend received from the Consumer Healthcare JV in 2022 that was allocated to investing activities (see Note 2C), partially offset by a $5.5 billion increase in net redemptions of short-term investments in 2023 and a $1.7 billion decrease in purchases of long-term investments. |
+|  | $ | 26,066 |  | The change was driven mostly by $30.8 billion of proceeds from the issuance of long-term debt in May of 2023 and a $7.9 billion increase in net proceeds from the issuance of short-term borrowings. |
+
+
+## Table 18 (Page 60)
+
+| Further, | we evaluated the PTRS rates for certain IPR&D assets by considering the phase of development of the clinical projects and the Company's history of obtaining regulatory |
+| --- | --- |
+| approval and comparing them to PTRS rates derived from analyst reports and other |  |
+
+
+## Table 19 (Page 61)
+
+| Revenues: Product revenues(a) Alliance revenues(a) Total revenues Costs and expenses: Cost of sales(b), (c) Selling, informational and administrative expenses(b) Research and development expenses(b) Acquired in-process research and development expenses Amortization of intangible assets Restructuring charges and certain acquisition-related costs Other (income)/deductions––net Income from continuing operations before provision/(benefit) for taxes on income Provision/(benefit) for taxes on income Income from continuing operations Discontinued operations––net of tax Net income before allocation to noncontrolling interests Less: Net income attributable to noncontrolling interests Net income attributable to Pfizer Inc. common shareholders Earnings per common share––basic: Income from continuing operations attributable to Pfizer Inc. common shareholders Discontinued operations––net of tax Net income attributable to Pfizer Inc. common shareholders Earnings per common share––diluted: Income from continuing operations attributable to Pfizer Inc. common shareholders Discontinued operations––net of tax Net income attributable to Pfizer Inc. common shareholders Weighted-average shares––basic Weighted-average shares––diluted | Col_1 | Col_2 | $ 91,793 $ 73,636 8,537 7,652 100,330 81,288 34,344 30,821 13,677 12,703 11,428 10,360 953 3,469 3,609 3,700 1,375 802 217 (4,878) 34,729 24,311 3,328 1,852 31,401 22,459 6 (434) 31,407 22,025 35 45 $ 31,372 $ 21,979 $ 5.59 $ 4.00 — (0.08) $ 5.59 $ 3.92 $ 5.47 $ 3.93 — (0.08) $ 5.47 $ 3.85 5,608 5,601 5,733 5,708 |
+| --- | --- | --- | --- |
+|  | $ | 50,914 |  |
+|  | 7,582 |  |  |
+|  | 58,496 |  |  |
+|  |  |  |  |
+|  | 24,954 |  |  |
+|  | 14,771 |  |  |
+|  | 10,679 |  |  |
+|  | 194 |  |  |
+|  | 4,733 |  |  |
+|  | 2,943 |  |  |
+|  | (835) |  |  |
+|  | 1,058 |  |  |
+|  | (1,115) |  |  |
+|  | 2,172 |  |  |
+|  | (15) |  |  |
+|  | 2,158 |  |  |
+|  | 39 |  |  |
+|  | $ | 2,119 |  |
+|  |  |  |  |
+|  | $ | 0.38 |  |
+|  | — |  |  |
+|  | $ | 0.38 |  |
+|  |  |  |  |
+|  | $ | 0.37 |  |
+|  | — |  |  |
+|  | $ | 0.37 |  |
+|  | 5,643 |  |  |
+|  | 5,709 |  |  |
+
+
+## Table 20 (Page 62)
+
+| Net income before allocation to noncontrolling interests Foreign currency translation adjustments, net Unrealized holding gains/(losses) on derivative financial instruments, net Reclassification adjustments for (gains)/losses included in net income(a) Unrealized holding gains/(losses) on available-for-sale securities, net Reclassification adjustments for (gains)/losses included in net income(b) Benefit plans: prior service (costs)/credits and other, net Reclassification adjustments related to amortization of prior service costs and other, net Reclassification adjustments related to curtailments of prior service costs and other, net Other comprehensive income/(loss), before tax Tax provision/(benefit) on other comprehensive income/(loss) Other comprehensive income/(loss) before allocation to noncontrolling interests Comprehensive income/(loss) before allocation to noncontrolling interests Less: Comprehensive income/(loss) attributable to noncontrolling interests Comprehensive income/(loss) attributable to Pfizer Inc. | $ | 2,158 | $ 31,407 $ 22,025 (2,328) (682) 1,444 526 (2,062) 134 (618) 660 (1,306) (355) 1,809 (30) 502 (384) (24) 116 (129) (154) (12) (75) (166) (113) (2,609) (519) (187) 71 $ (2,422) $ (589) $ 28,985 $ 21,435 20 43 $ 28,965 $ 21,393 |
+| --- | --- | --- | --- |
+|  | 452 |  |  |
+|  | 626 |  |  |
+|  | (413) |  |  |
+|  | 213 |  |  |
+|  | (121) |  |  |
+|  | (141) |  |  |
+|  | (261) |  |  |
+|  | (25) |  |  |
+|  | (117) |  |  |
+|  | (15) |  |  |
+|  | (157) |  |  |
+|  | 246 |  |  |
+|  | (85) |  |  |
+|  | $ | 331 |  |
+|  |  |  |  |
+|  | $ | 2,488 |  |
+|  | 26 |  |  |
+|  | $ | 2,462 |  |
+
+
+## Table 21 (Page 63)
+
+| Assets Cash and cash equivalents Short-term investments Trade accounts receivable, less allowance for doubtful accounts: 2023—$470; 2022—$449 Inventories Current tax assets Other current assets Total current assets Equity-method investments Long-term investments Property, plant and equipment Identifiable intangible assets Goodwill Noncurrent deferred tax assets and other noncurrent tax assets Other noncurrent assets Total assets Liabilities and Equity Short-term borrowings, including current portion of long-term debt: 2023—$2,254; 2022—$2,560 Trade accounts payable Dividends payable Income taxes payable Accrued compensation and related items Deferred revenues Other current liabilities Total current liabilities Long-term debt Pension and postretirement benefit obligations Noncurrent deferred tax liabilities Other taxes payable Other noncurrent liabilities Total liabilities Commitments and Contingencies Preferred stock, no par value, at stated value; 27 shares authorized; no shares issued or outstanding as of December 31, 2023 and December 31, 2022 Common stock, $0.05 par value; 12,000 shares authorized; issued: 2023—9,562; 2022—9,519 Additional paid-in capital Treasury stock, shares at cost: 2023—3,916; 2022—3,903 Retained earnings Accumulated other comprehensive loss Total Pfizer Inc. shareholders’ equity Equity attributable to noncontrolling interests Total equity Total liabilities and equity | Col_1 | Col_2 | $ 416 22,316 10,952 8,981 3,577 5,017 51,259 11,033 4,036 16,274 43,370 51,375 6,693 13,163 $ 197,205 $ 2,945 6,809 2,303 1,587 3,407 2,520 22,568 42,138 32,884 2,250 1,023 9,812 13,180 101,288 — 476 91,802 (113,969) 125,656 (8,304) 95,661 256 95,916 $ 197,205 |
+| --- | --- | --- | --- |
+|  | $ | 2,853 |  |
+|  | 9,837 |  |  |
+|  | 11,177 |  |  |
+|  | 10,189 |  |  |
+|  | 3,978 |  |  |
+|  | 5,299 |  |  |
+|  | 43,333 |  |  |
+|  | 11,637 |  |  |
+|  | 3,731 |  |  |
+|  | 18,940 |  |  |
+|  | 64,900 |  |  |
+|  | 67,783 |  |  |
+|  | 3,706 |  |  |
+|  | 12,471 |  |  |
+|  | $ | 226,501 |  |
+|  |  |  |  |
+|  | $ | 10,350 |  |
+|  | 6,710 |  |  |
+|  | 2,372 |  |  |
+|  | 2,349 |  |  |
+|  | 2,776 |  |  |
+|  | 2,700 |  |  |
+|  | 20,537 |  |  |
+|  | 47,794 |  |  |
+|  | 61,538 |  |  |
+|  | 2,167 |  |  |
+|  | 640 |  |  |
+|  | 8,534 |  |  |
+|  | 16,539 |  |  |
+|  | 137,213 |  |  |
+|  |  |  |  |
+|  | — |  |  |
+|  | 478 |  |  |
+|  | 92,631 |  |  |
+|  | (114,487) |  |  |
+|  | 118,353 |  |  |
+|  | (7,961) |  |  |
+|  | 89,014 |  |  |
+|  | 274 |  |  |
+|  | 89,288 |  |  |
+|  | $ | 226,501 |  |
+
+
+## Table 22 (Page 66)
+
+| Supplemental Cash Flow Information Cash paid/(received) during the period for: Income taxes Interest paid Interest rate hedges Non-cash transaction: Right-of-use assets obtained in exchange for lease liabilities | Col_1 | Col_2 | $ 7,867 $ 7,427 1,442 1,467 54 (2) $ 752 $ 1,943 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | $ | 3,147 |  |
+|  | 2,215 |  |  |
+|  | 134 |  |  |
+|  |  |  |  |
+|  | $ | 614 |  |
+
+
+## Table 23 (Page 69)
+
+| Reserve against Trade accounts receivable, less allowance for doubtful accounts Other current liabilities: Accrued rebates Other accruals Other noncurrent liabilities Total accrued rebates and other sales-related accruals | $ | 1,770 | $ 1,200 4,479 430 612 $ 6,722 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | 5,546 |  |  |
+|  | 902 |  |  |
+|  | 796 |  |  |
+|  | $ | 9,014 |  |
+
+
+## Table 24 (Page 74)
+
+| Revenues Net loss attributable to Pfizer Inc. common shareholders(a) | $ | 120 |
+| --- | --- | --- |
+|  | (746) |  |
+
+
+## Table 25 (Page 74)
+
+| Revenues Net income/(loss) attributable to Pfizer Inc. common shareholders Diluted earnings/(loss) per share attributable to Pfizer Inc. common shareholders | $ | 60,632 | $ 102,127 27,938 4.87 |
+| --- | --- | --- | --- |
+|  | (1,474) |  |  |
+|  | (0.26) |  |  |
+
+
+## Table 26 (Page 77)
+
+| Total revenues Costs and expenses: Cost of sales Selling, informational and administrative expenses Research and development expenses Acquired in-process research and development expenses Amortization of intangible assets Restructuring charges and certain acquisition-related costs Other (income)/deductions––net Pre-tax income/(loss) from discontinued operations Provision/(benefit) for taxes on income Income/(loss) from discontinued operations––net of tax Pre-tax gain/(loss) on sale of discontinued operations Provision/(benefit) for taxes on income Gain/(loss) on sale of discontinued operations––net of tax Discontinued operations––net of tax | $ | — | $ — $ 277 — 204 8 26 — 9 — — — 45 — 2 (20) 365 12 (375) 13 (107) (1) (268) 10 (211) 2 (44) 7 (167) $ 6 $ (434) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | (11) |  |  |
+|  | 11 |  |  |
+|  | 26 |  |  |
+|  | (15) |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | — |  |  |
+|  | $ | (15) |  |
+
+
+## Table 27 (Page 78)
+
+| Current assets Noncurrent assets Total assets Current liabilities Noncurrent liabilities Total liabilities Equity attributable to shareholders Equity attributable to noncontrolling interests Total net equity | $ | 5,876 | $ 5,932 35,204 $ 41,137 $ 5,235 17,220 $ 22,455 $ 18,455 227 $ 18,682 |
+| --- | --- | --- | --- |
+|  | 36,954 |  |  |
+|  | $ | 42,830 |  |
+|  | $ | 6,117 |  |
+|  | 15,744 |  |  |
+|  | $ | 21,862 |  |
+|  | $ | 20,719 |  |
+|  | 249 |  |  |
+|  | $ | 20,968 |  |
+
+
+## Table 28 (Page 78)
+
+| Net sales Cost of sales Gross profit Income from continuing operations Net income Income attributable to shareholders | $ | 13,921 | $ 13,566 $ 12,836 (5,081) (4,755) $ 8,486 $ 8,081 1,745 1,614 1,745 1,614 1,675 1,547 |
+| --- | --- | --- | --- |
+|  | (5,580) |  |  |
+|  | $ | 8,341 |  |
+|  | 1,606 |  |  |
+|  | 1,606 |  |  |
+|  | 1,528 |  |  |
+
+
+## Table 29 (Page 78)
+
+| Current assets Noncurrent assets Total assets Current liabilities Noncurrent liabilities Total liabilities Total net equity/(deficit) attributable to shareholders | $ | 4,237 | $ 4,043 3,014 $ 7,057 $ 3,780 5,996 $ 9,777 $ (2,720) |
+| --- | --- | --- | --- |
+|  | 3,009 |  |  |
+|  | $ | 7,245 |  |
+|  | $ | 4,085 |  |
+|  | 5,998 |  |  |
+|  | $ | 10,083 |  |
+|  | $ | (2,838) |  |
+
+
+## Table 30 (Page 79)
+
+| $ | 7,845 |
+| --- | --- |
+| (1,060) |  |
+| $ | 6,785 |
+| 3,090 |  |
+| 3,090 |  |
+| 3,090 |  |
+
+
+## Table 31 (Page 81)
+
+| Employee terminations Asset impairments Exit costs/(credits) Restructuring charges/(credits)(a) Transaction costs(b) Integration costs and other(c) Restructuring charges and certain acquisition-related costs Net periodic benefit costs/(credits) recorded in Other (income)/deductions––net Additional depreciation––asset restructuring recorded in our consolidated statements of income as follows (d): Cost of sales Selling, informational and administrative expenses Total additional depreciation––asset restructuring Implementation costs recorded in our consolidated statements of income as follows (e): Cost of sales Selling, informational and administrative expenses Research and development expenses Total implementation costs Total costs associated with acquisitions and cost-reduction/productivity initiatives | $ | 1,622 | $ 776 $ 680 52 53 54 8 882 741 144 20 348 41 1,375 802 (9) (63) 34 63 2 23 36 87 54 45 560 426 2 1 616 472 $ 2,018 $ 1,298 |
+| --- | --- | --- | --- |
+|  | 227 |  |  |
+|  | 119 |  |  |
+|  | 1,968 |  |  |
+|  | 190 |  |  |
+|  | 785 |  |  |
+|  | 2,943 |  |  |
+|  | (7) |  |  |
+|  |  |  |  |
+|  | 31 |  |  |
+|  | 1 |  |  |
+|  | 32 |  |  |
+|  |  |  |  |
+|  | 67 |  |  |
+|  | 289 |  |  |
+|  | 101 |  |  |
+|  | 457 |  |  |
+|  | $ | 3,426 |  |
+
+
+## Table 32 (Page 81)
+
+| Provision Utilization and other(a) Balance, December 31, 2023(c) | 1,622 | Col_2 | Col_3 | 227 | Col_5 | Col_6 | 119 | Col_8 | Col_9 | 1,968 | Col_11 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (840) |  |  | (227) |  |  | (116) |  |  | (1,184) |  |
+|  | $ | 1,978 |  | $ | — |  | $ | 11 |  | $ | 1,988 |
+
+
+## Table 33 (Page 82)
+
+| Interest income Interest expense(a) Net interest expense(b) Royalty-related income Net (gains)/losses recognized during the period on equity securities(c) Income from collaborations, out-licensing arrangements and sales of compound/product rights(d) Net periodic benefit costs/(credits) other than service costs Certain legal matters, net(e) Certain asset impairments(f) Haleon/Consumer Healthcare JV equity method (income)/loss(g) Other, net(h) Other (income)/deductions––net | $ | (1,624) | $ (251) $ (36) 1,238 1,291 987 1,255 (845) (857) 1,273 (1,344) (188) (396) (849) (2,547) 230 182 421 86 (436) (471) (378) (786) $ 217 $ (4,878) |
+| --- | --- | --- | --- |
+|  | 2,209 |  |  |
+|  | 585 |  |  |
+|  | (1,058) |  |  |
+|  | (1,590) |  |  |
+|  | (154) |  |  |
+|  | (610) |  |  |
+|  | 474 |  |  |
+|  | 3,024 |  |  |
+|  | (505) |  |  |
+|  | (1,002) |  |  |
+|  | $ | (835) |  |
+
+
+## Table 34 (Page 82)
+
+| Intangible assets––IPR&D(b) Intangible assets––Developed technology rights(b) Intangible assets––Licensing agreements and other(b) Total | $ | 3,860 | Col_3 | $ | — | Col_6 | $ | — | Col_9 | $ | 3,860 | Col_12 | $ | 1,704 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 1,942 |  |  | — |  |  | — |  |  | 1,942 |  |  | 1,184 |  |
+|  | — |  |  | — |  |  | — |  |  | — |  |  | 120 |  |
+|  | $ | 5,802 |  | $ | — |  | $ | — |  | $ | 5,802 |  | $ | 3,008 |
+
+
+## Table 35 (Page 83)
+
+| United States International Income from continuing operations before provision/(benefit) for taxes on income(a), (b) | $ | (4,411) | $ 5,032 $ 6,064 29,697 18,247 $ 34,729 $ 24,311 |
+| --- | --- | --- | --- |
+|  | 5,469 |  |  |
+|  | $ | 1,058 |  |
+
+
+## Table 36 (Page 83)
+
+| 2023 v. 2022–– | The domestic loss in 2023 versus domestic income in 2022 and the decrease in international income in 2023 was primarily attributable to lower revenues, higher intangible asset | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Col_11 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| impairment charges, and increases in |  |  |  | Restructuring charges and certain acquisition-related costs | , | Amortization of intangible assets |  | , and | Selling, informational and administrative expenses | , partially offset |  |
+| by a decrease in |  | Cost of sales | and net gains on equity securities in 2023 versus net losses on equity securities in 2022. |  |  |  |  |  |  |  |  |
+
+
+## Table 37 (Page 83)
+
+| United States Current income taxes: Federal State and local Deferred income taxes: Federal State and local Total U.S. tax provision/(benefit) International Current income taxes Deferred income taxes Total international tax provision/(benefit) Provision/(benefit) for taxes on income | Col_1 | Col_2 | $ 2,744 $ 3,342 (20) 34 (3,271) (3,850) (310) (491) (857) (964) 4,368 2,769 (183) 48 4,185 2,816 $ 3,328 $ 1,852 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  | $ | 1,321 |  |
+|  | (135) |  |  |
+|  |  |  |  |
+|  | (2,606) |  |  |
+|  | (184) |  |  |
+|  | (1,605) |  |  |
+|  |  |  |  |
+|  | 1,142 |  |  |
+|  | (652) |  |  |
+|  | 490 |  |  |
+|  | $ | (1,115) |  |
+
+
+## Table 38 (Page 84)
+
+| 21.0 | % |
+| --- | --- |
+| (21.1) |  |
+| (40.3) |  |
+| (33.1) |  |
+| (22.4) |  |
+| (7.3) |  |
+| — |  |
+| (15.8) |  |
+| 13.5 |  |
+| 0.2 |  |
+| (105.4) | % |
+
+
+## Table 39 (Page 84)
+
+| (c) | See | Note 5A | . |
+| --- | --- | --- | --- |
+| (d) | The higher rate benefit from the Foreign-Derived Intangible Income deduction in 2022 is mainly the result of the TCJA requirement to capitalize R&D costs for tax years beginning after December 31, |  |  |
+|  |  |  |  |
+|  | 2021 |  |  |
+| (e) | Includes the impact of U.S. state and local taxes and changes in the state valuation allowances including those related to the acquisition of Seagen. |  |  |
+| (f) | Includes changes in interest related to our uncertain tax positions not included in the reconciling item called “Tax settlements and resolution of certain tax positions”. |  |  |
+|  |  |  |  |
+| (g) | All other, net is primarily due to routine business operations. |  |  |
+
+
+## Table 40 (Page 85)
+
+| Prepaid/deferred items(a) Accrued/deferred royalties Deferred revenues(b) Inventories(c) Intangible assets(d) Property, plant and equipment Employee benefits(e) Restructurings and other charges Legal and product liability reserves Research and development(f) Net operating loss/tax credit carryforwards(g), (h) Unremitted earnings State and local tax adjustments Investments(i) All other Valuation allowances Total deferred taxes Net deferred tax asset/(liability)(j), (k) | $ | 2,658 | Col_3 | $ | (654) | $ 1,673 $ (533) 2,127 — 95 — 672 (262) 1,445 (6,288) 112 (1,845) 1,314 (276) 302 — 385 — 4,137 — 2,224 — — (51) 151 — 91 (208) 78 (56) 14,806 (9,519) (1,541) — $ 13,265 $ (9,519) $ 3,746 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 1,655 |  |  | — |  |  |
+|  | 471 |  |  | — |  |  |
+|  | 1,210 |  |  | (1,060) |  |  |
+|  | 1,526 |  |  | (11,605) |  |  |
+|  | 168 |  |  | (2,039) |  |  |
+|  | 1,085 |  |  | (287) |  |  |
+|  | 537 |  |  | — |  |  |
+|  | 430 |  |  | — |  |  |
+|  | 6,275 |  |  | — |  |  |
+|  | 2,708 |  |  | — |  |  |
+|  | — |  |  | (60) |  |  |
+|  | 119 |  |  | — |  |  |
+|  | 133 |  |  | (395) |  |  |
+|  | 62 |  |  | (72) |  |  |
+|  | 19,037 |  |  | (16,172) |  |  |
+|  | (1,738) |  |  | — |  |  |
+|  | $ | 17,299 |  | $ | (16,172) |  |
+|  | $ | 1,128 |  |  |  |  |
+
+
+## Table 41 (Page 86)
+
+| Balance, beginning Acquisitions Increases based on tax positions taken during a prior period(a) Decreases based on tax positions taken during a prior period(a), (b) Decreases based on settlements for a prior period(b), (c) Increases based on tax positions taken during the current period(a) Impact of foreign exchange Other, net(a), (d) Balance, ending(e) | $ | (4,494) | $ (6,068) $ (5,595) (52) — (67) (111) 1,339 103 842 24 (701) (550) 90 22 122 40 $ (4,494) $ (6,068) |
+| --- | --- | --- | --- |
+|  | (46) |  |  |
+|  | (158) |  |  |
+|  | 310 |  |  |
+|  | 85 |  |  |
+|  | (515) |  |  |
+|  | (44) |  |  |
+|  | 58 |  |  |
+|  | $ | (4,802) |  |
+
+
+## Table 42 (Page 86)
+
+| The U.S. is one of our major tax jurisdictions, and we are regularly audited by the IRS. | With respect to Pfizer, tax years 2016-2018 are under audit. Tax years 2019-2023 are open | Col_2 |
+| --- | --- | --- |
+| but not under audit. All other tax years are closed. In addition to the open audit years in the U.S., we have open audit years and certain related audits, appeals and investigations in |  |  |
+| certain major international tax jurisdictions such as Canada (2017-2023), Europe (2012-2023, primarily in Ireland, the U.K., France, Italy, Spain and Germany), Asia Pacific (2013- |  |  |
+| 2023, primarily in Australia, China, Japan and Singapore) and Latin America (1998-2023, primarily in Brazil) |  |  |
+
+
+## Table 43 (Page 87)
+
+| Other comprehensive income/(loss)(b) Balance, December 31, 2023 | 497 | Col_2 | Col_3 | 195 | Col_5 | Col_6 | (229) | Col_8 | Col_9 | (120) | Col_11 | Col_12 | 343 | Col_14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | (7,863) |  | $ | (217) |  | $ | (9) |  | $ | 128 |  | $ | (7,961) |
+
+
+## Table 44 (Page 88)
+
+| Financial assets: Short-term investments Equity securities with readily determinable fair values: Money market funds Available-for-sale debt securities: Government and agency—non-U.S. Government and agency—U.S. Corporate and other Total short-term investments Other current assets Derivative assets: Foreign exchange contracts Total other current assets Long-term investments Equity securities with readily determinable fair values(a) Available-for-sale debt securities: Government and agency—non-U.S. Corporate and other Total long-term investments Other noncurrent assets Derivative assets: Interest rate contracts Foreign exchange contracts Total derivative assets Insurance contracts(b) Total other noncurrent assets Total assets Financial liabilities: Other current liabilities Derivative liabilities: Interest rate contracts Foreign exchange contracts Total other current liabilities Other noncurrent liabilities Derivative liabilities: Interest rate contracts Foreign exchange contracts Total other noncurrent liabilities Total liabilities | Col_1 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | $ 1,588 $ — $ 1,588 15,915 — 15,915 1,313 — 1,313 1,514 — 1,514 18,743 — 18,743 20,331 — 20,331 714 — 714 714 — 714 2,836 2,823 13 280 — 280 72 — 72 352 — 352 3,188 2,823 365 — — — 364 — 364 364 — 364 665 — 665 1,028 — 1,028 $ 25,261 $ 2,823 $ 22,439 $ 10 $ — $ 10 694 — 694 704 — 704 321 — 321 864 — 864 1,185 — 1,185 $ 1,889 $ — $ 1,889 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | $ | 5,124 |  | $ | — |  | $ | 5,124 |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 817 |  |  | — |  |  | 817 |  |  |
+|  | 2,601 |  |  | — |  |  | 2,601 |  |  |
+|  | 982 |  |  | — |  |  | 982 |  |  |
+|  | 4,400 |  |  | — |  |  | 4,400 |  |  |
+|  | 9,524 |  |  | — |  |  | 9,524 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 298 |  |  | — |  |  | 298 |  |  |
+|  | 298 |  |  | — |  |  | 298 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 2,779 |  |  | 2,772 |  |  | 7 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 124 |  |  | — |  |  | 124 |  |  |
+|  | 26 |  |  | — |  |  | 26 |  |  |
+|  | 150 |  |  | — |  |  | 150 |  |  |
+|  | 2,929 |  |  | 2,772 |  |  | 156 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 144 |  |  | — |  |  | 144 |  |  |
+|  | 258 |  |  | — |  |  | 258 |  |  |
+|  | 402 |  |  | — |  |  | 402 |  |  |
+|  | 790 |  |  | — |  |  | 790 |  |  |
+|  | 1,191 |  |  | — |  |  | 1,191 |  |  |
+|  | $ | 13,943 |  | $ | 2,772 |  | $ | 11,170 |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | $ | 16 |  | $ | — |  | $ | 16 |  |
+|  | 404 |  |  | — |  |  | 404 |  |  |
+|  | 420 |  |  | — |  |  | 420 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 275 |  |  | — |  |  | 275 |  |  |
+|  | 725 |  |  | — |  |  | 725 |  |  |
+|  | 1,000 |  |  | — |  |  | 1,000 |  |  |
+|  | $ | 1,420 |  | $ | — |  | $ | 1,420 |  |
+
+
+## Table 45 (Page 90)
+
+| Commercial paper, principal amount(a) Current portion of long-term debt, principal amount Other short-term borrowings, principal amount(b) Total short-term borrowings, principal amount Net fair value adjustments related to hedging and purchase accounting Net unamortized discounts, premiums and debt issuance costs Total Short-term borrowings, including current portion of long-term debt, carried at historical proceeds, as adjusted | $ | 7,965 | $ — 2,550 385 2,935 11 (1) $ 2,945 |
+| --- | --- | --- | --- |
+|  | 2,250 |  |  |
+|  | 252 |  |  |
+|  | 10,467 |  |  |
+|  | 5 |  |  |
+|  | (121) |  |  |
+|  | $ | 10,350 |  |
+
+
+## Table 46 (Page 90)
+
+| Notes due 2024 (3.9% for 2022)(a) Notes due 2025 (3.9% for 2023 and 0.8% for 2022) Notes due 2026 (3.7% for 2023 and 2.9% for 2022) Notes due 2027 (2.1% for 2023 and 2022) Notes due 2028 (4.6% for 2023 and 4.8% for 2022) Notes due 2029 (3.5% for 2023 and 2022) Notes due 2030-2034 (4.1% for 2023 and 2.9% for 2022) Notes due 2035-2039 (5.8% for 2023 and 2022) Notes due 2040-2044 (4.1% for 2023 and 3.6% for 2022) Notes due 2045-2049 (4.1% for 2023 and 2022) Notes due 2050-2063 (5.0% for 2023 and 2.7% for 2022) Total long-term debt, principal amount Net fair value adjustments related to hedging and purchase accounting Net unamortized discounts, premiums and debt issuance costs Other long-term debt Total long-term debt, carried at historical proceeds, as adjusted Current portion of long-term debt, carried at historical proceeds, as adjusted (not included above (3.9% for 2023 and 3.7% for 2022)) | $ | — | $ 2,250 750 3,000 1,000 1,660 1,750 4,000 8,017 4,903 3,500 1,250 32,080 959 (175) 20 $ 32,884 $ 2,560 |
+| --- | --- | --- | --- |
+|  | 3,750 |  |  |
+|  | 6,000 |  |  |
+|  | 1,029 |  |  |
+|  | 5,660 |  |  |
+|  | 1,750 |  |  |
+|  | 12,000 |  |  |
+|  | 8,048 |  |  |
+|  | 7,995 |  |  |
+|  | 3,500 |  |  |
+|  | 11,250 |  |  |
+|  | 60,982 |  |  |
+|  | 1,039 |  |  |
+|  | (483) |  |  |
+|  | — |  |  |
+|  | $ | 61,538 |  |
+|  | $ | 2,254 |  |
+
+
+## Table 47 (Page 90)
+
+| 4.65% May 19, 2025 4.45% May 19, 2026 4.45% May 19, 2028 4.65% May 19, 2030 4.75% May 19, 2033 5.11% May 19, 2043 5.30% May 19, 2053 5.34% May 19, 2063 Total long-term debt issued in 2023(c) | $ | 3,000 |
+| --- | --- | --- |
+|  | 3,000 |  |
+|  | 4,000 |  |
+|  | 3,000 |  |
+|  | 5,000 |  |
+|  | 3,000 |  |
+|  | 6,000 |  |
+|  | 4,000 |  |
+|  | $ | 31,000 |
+
+
+## Table 48 (Page 92)
+
+| Derivative Financial Instruments in Cash Flow Hedge Relationships: Interest rate contracts Foreign exchange contracts(b) Amount excluded from effectiveness testing and amortized into earnings(c) Derivative Financial Instruments in Fair Value Hedge Relationships: Interest rate contracts Hedged item Derivative Financial Instruments in Net Investment Hedge Relationships: Foreign exchange contracts Amount excluded from effectiveness testing and amortized into earnings(c) Non-Derivative Financial Instruments in Net Investment Hedge Relationships (d): Foreign currency short-term borrowings Foreign currency long-term debt Derivative Financial Instruments Not Designated as Hedges: Foreign exchange contracts | Col_1 | Col_2 | $ — — — (337) 337 — — — — (1,153) $ (1,153) | Col_4 | Col_5 | $ — 1,296 148 — — 816 73 26 51 — $ 2,409 | Col_7 | Col_8 | $ — 1,916 145 — — — 129 — — — $ 2,190 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | — |  | $ | 68 |  | $ | 1 |  |
+|  | — |  |  | 380 |  |  | 236 |  |  |
+|  | — |  |  | 178 |  |  | 177 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 196 |  |  | — |  |  | — |  |  |
+|  | (196) |  |  | — |  |  | — |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | — |  |  | (393) |  |  | — |  |  |
+|  | — |  |  | 137 |  |  | 136 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | — |  |  | — |  |  | — |  |  |
+|  | — |  |  | (29) |  |  | — |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 164 |  |  | — |  |  | — |  |  |
+|  | $ | 164 |  | $ | 341 |  | $ | 549 |  |
+
+
+## Table 49 (Page 92)
+
+| Short-term borrowings, including current portion of long-term debt Long-term debt | $ | — | Col_3 | $ | — | Col_6 | $ | 4 | $ — $ — $ 10 $ 2,235 $ (321) $ 1,042 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | 7,196 |  | $ | (131) |  | $ | 957 |  |
+
+
+## Table 50 (Page 94)
+
+| United States Developed Europe Developed Rest of World Emerging Markets Property, plant and equipment | $ | 10,674 | $ 9,179 5,389 293 1,413 $ 16,274 |
+| --- | --- | --- | --- |
+|  | 6,221 |  |  |
+|  | 290 |  |  |
+|  | 1,756 |  |  |
+|  | $ | 18,940 |  |
+
+
+## Table 51 (Page 94)
+
+| Finite-lived intangible assets Developed technology rights(a) Brands Licensing agreements and other(b) Indefinite-lived intangible assets Brands IPR&D(c) Licensing agreements and other Identifiable intangible assets(d) | Col_1 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | $ 85,604 $ (56,307) $ 29,297 922 (844) 78 2,237 (1,397) 841 88,763 (58,548) 30,215 827 827 11,357 11,357 971 971 13,155 13,155 $ 101,919 $ (58,548) $ 43,370 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | 99,267 |  | $ | (60,493) |  | $ | 38,773 |  |
+|  | 922 |  |  | (877) |  |  | 45 |  |  |
+|  | 2,756 |  |  | (1,458) |  |  | 1,297 |  |  |
+|  | 102,944 |  |  | (62,828) |  |  | 40,116 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  | 827 |  |  |  |  |  | 827 |  |  |
+|  | 23,193 |  |  |  |  |  | 23,193 |  |  |
+|  | 763 |  |  |  |  |  | 763 |  |  |
+|  | 24,784 |  |  |  |  |  | 24,784 |  |  |
+|  | $ | 127,728 |  | $ | (62,828) |  | $ | 64,900 |  |
+
+
+## Table 52 (Page 95)
+
+| Additions(b) Impact of foreign exchange and other Balance, December 31, 2023 | 16,117 | Col_2 |
+| --- | --- | --- |
+|  | 292 |  |
+|  | $ | 67,783 |
+
+
+## Table 53 (Page 95)
+
+| Service cost Interest cost Expected return on plan assets Amortization of prior service cost/(credit) Actuarial (gains)/losses(a) Curtailments Special termination benefits Net periodic benefit cost/(credit) reported in income Cost/(credit) reported in Other comprehensive income/(loss) Cost/(credit) recognized in Comprehensive income | $ | — | $ — $ — 534 455 (862) (1,052) 2 (2) 225 (684) — — 18 17 (84) (1,265) (2) 2 $ (86) $ (1,264) | $ | 85 | $ 116 $ 130 157 146 (296) (327) (1) (1) (11) (690) (11) (4) 1 — (45) (746) (1) 4 $ (46) $ (742) | $ | 12 | $ 29 $ 36 27 29 (47) (39) (130) (151) (440) (167) (18) (82) 1 2 (578) (372) 169 107 $ (410) $ (265) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 589 |  |  | 287 |  |  | 21 |  |  |
+|  | (778) |  |  | (304) |  |  | (44) |  |  |
+|  | 2 |  |  | — |  |  | (119) |  |  |
+|  | (410) |  |  | 102 |  |  | 51 |  |  |
+|  | — |  |  | (2) |  |  | (12) |  |  |
+|  | 6 |  |  | — |  |  | — |  |  |
+|  | (592) |  |  | 169 |  |  | (90) |  |  |
+|  | (2) |  |  | 31 |  |  | 128 |  |  |
+|  | $ | (594) |  | $ | 199 |  | $ | 38 |  |
+
+
+## Table 54 (Page 96)
+
+| Healthcare cost trend rate assumed for next year Rate to which the cost trend rate is assumed to decline Year that the rate reaches the ultimate trend rate | 7.9 | % | 6.4 % 4.0 % 2045 |
+| --- | --- | --- | --- |
+|  | 4.0 | % |  |
+|  | 2047 |  |  |
+
+
+## Table 55 (Page 98)
+
+| U.S. pension plans Cash and cash equivalents Equity securities: Global equity securities Equity commingled funds Fixed income securities: Corporate debt securities Government and agency obligations(b) Fixed income commingled funds Other investments: Partnership investments(c) Insurance contracts Other commingled funds(d) Total International pension plans Cash and cash equivalents Equity securities: Equity commingled funds Fixed income securities: Corporate debt securities Government and agency obligations(b) Fixed income commingled funds Other investments: Partnership investments(c) Insurance contracts Other(d) Total U.S. postretirement plans(e) Cash and cash equivalents Insurance contracts Total | Col_1 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Col_11 | Col_12 | Col_13 | Col_14 | Col_15 | Col_16 | Col_17 | $ 828 $ 49 $ 779 $ — $ — 1,555 1,553 1 1 — 165 — 165 — — 3,512 5 3,507 — — 1,772 — 1,772 — — 16 — 16 — — 2,152 — — — 2,152 116 — 116 — — 756 — — — 756 $ 10,871 $ 1,607 $ 6,355 $ 1 $ 2,908 $ 221 $ 58 $ 163 $ — $ — 714 — 672 — 42 569 — 569 — — 862 — 862 — — 2,053 — 1,045 — 1,008 128 — 1 — 126 1,197 — 54 1,143 — 1,122 — 133 312 677 $ 6,865 $ 58 $ 3,498 $ 1,455 $ 1,853 $ 97 $ 1 $ 96 $ — $ — 551 — 551 — — $ 647 $ 1 $ 646 $ — $ — |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 0-10% |  |  | $ | 606 |  | $ | 47 |  | $ | 559 |  | $ | — |  | $ | — |  |
+|  | 10-40% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 1,537 |  |  | 1,537 |  |  | — |  |  | 1 |  |  | — |  |  |
+|  |  |  |  | 100 |  |  | — |  |  | 100 |  |  | — |  |  | — |  |  |
+|  | 45-80% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 3,668 |  |  | 1 |  |  | 3,667 |  |  | — |  |  | — |  |  |
+|  |  |  |  | 1,971 |  |  | — |  |  | 1,971 |  |  | — |  |  | — |  |  |
+|  |  |  |  | 25 |  |  | — |  |  | 14 |  |  | — |  |  | 11 |  |  |
+|  | 5-35% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 2,449 |  |  | — |  |  | — |  |  | — |  |  | 2,449 |  |  |
+|  |  |  |  | 99 |  |  | — |  |  | 99 |  |  | — |  |  | — |  |  |
+|  |  |  |  | 479 |  |  | — |  |  | — |  |  | — |  |  | 479 |  |  |
+|  | 100 | % |  | $ | 10,935 |  | $ | 1,585 |  | $ | 6,410 |  | $ | 1 |  | $ | 2,939 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0-10% |  |  | $ | 268 |  | $ | 120 |  | $ | 148 |  | $ | — |  | $ | — |  |
+|  | 10-20% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 633 |  |  | — |  |  | 587 |  |  | — |  |  | 46 |  |  |
+|  | 45-70% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 617 |  |  | — |  |  | 617 |  |  | — |  |  | — |  |  |
+|  |  |  |  | 848 |  |  | — |  |  | 848 |  |  | — |  |  | — |  |  |
+|  |  |  |  | 1,852 |  |  | — |  |  | 872 |  |  | — |  |  | 980 |  |  |
+|  | 15-35% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 145 |  |  | — |  |  | 2 |  |  | — |  |  | 142 |  |  |
+|  |  |  |  | 1,151 |  |  | — |  |  | 55 |  |  | 1,096 |  |  | — |  |  |
+|  |  |  |  | 1,039 |  |  | — |  |  | 167 |  |  | 244 |  |  | 628 |  |  |
+|  | 100 | % |  | $ | 6,552 |  | $ | 120 |  | $ | 3,295 |  | $ | 1,340 |  | $ | 1,796 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 0-5% |  |  | $ | 3 |  | $ | 1 |  | $ | 2 |  | $ | — |  | $ | — |  |
+|  | 95-100% |  |  | 633 |  |  | — |  |  | 633 |  |  | — |  |  | — |  |  |
+|  | 100 | % |  | $ | 636 |  | $ | 1 |  | $ | 635 |  | $ | — |  | $ | — |  |
+
+
+## Table 56 (Page 98)
+
+| Fair value, beginning Actual return on plan assets: Assets held, ending Assets sold during the period Purchases, sales, and settlements, net Transfer into/(out of) Level 3 Exchange rate changes Fair value, ending | $ 1,455 | $ 1,677 (177) 4 (129) 241 (161) $ 1,455 |
+| --- | --- | --- |
+|  |  |  |
+|  | (96) |  |
+|  | (3) |  |
+|  | (155) |  |
+|  | 81 |  |
+|  | 59 |  |
+|  | $ 1,340 |  |
+
+
+## Table 57 (Page 101)
+
+| Awarded to | Terms | Valuation | Recognition and Presentation |
+| --- | --- | --- | --- |
+| Total Shareholder Return Units (TSRUs) |  |  |  |
+| Senior and other key management and select employees | • Entitle the holder to receive shares of our common stock with a value equal to the difference between the defined settlement price and the grant price, plus the dividend equivalents accumulated during the five or seven-year term, if and to the extent the total value is positive. • Settlement price is the average closing price of our common stock during the 20 trading days ending on the fifth or seventh anniversary of the grant, as applicable; the grant price is the closing price of our common stock on the date of the grant. • Automatically settle on the fifth or seventh anniversary of the grant but vest on the third anniversary of the grant. • Retirement-eligible holders can convert their TSRUs, when vested, into Profit Units (PTUs) with a conversion ratio based on a calculation used to determine the shares at TSRU settlement. The PTUs are entitled to earn Dividend Equivalent Units (DEUs), and the PTUs and DEUs will be settled in our common stock on the TSRUs’ original settlement date and will be subject to the terms and conditions of the original grant including forfeiture provisions. | As of the grant date using a Monte Carlo simulation model | Amortized on a straight-line basis over the vesting term into Cost of sales, Selling, informational and administrative expenses, and/or Research and development expenses, as appropriate. |
+| Restricted Stock Units (RSUs) |  |  |  |
+| Select employees | • Entitle the holder to receive a specified number of shares of our common stock, including dividend equivalents that are reinvested into additional RSUs. • For RSUs granted before 2022, generally in all instances, the units vest on the third anniversary of the grant date assuming continuous service from the grant date. Beginning in 2022, generally in all instances, the units vest and distribute one-third per year for three years on each of the three annual anniversaries from the date of grant assuming continuous service from the grant date. | As of the grant date using the closing price of our common stock | Amortized on a straight-line basis for RSUs granted before 2022, and on an accelerated attribution approach for RSUs granted beginning in 2022, over the vesting term into Cost of sales, Selling, informational and administrative expenses, and/or Research and development expenses, as appropriate. |
+| Portfolio Performance Shares (PPSs) |  |  |  |
+| Select employees | • Entitle the holder to receive, at the end of the performance period, shares of our common stock, if any, including shares resulting from dividend equivalents earned on such shares. • For PPSs granted, the awards vest on the third anniversary of the grant assuming continuous service from the grant date and the number of shares paid, if any, depends on the achievement of predetermined goals related to Pfizer’s long-term product portfolio during a three or five-year performance period from the year of the grant date, as applicable. • The number of shares that may be earned ranges from 0% to 200% of the initial award depending on goal achievement over the performance period. | As of the grant date using the intrinsic value method using the closing price of our common stock | Amortized on a straight-line basis over the vesting term into Cost of sales, Selling, informational and administrative expenses and/or Research and development expenses, as appropriate, and adjusted each reporting period, as necessary, to reflect changes in the price of our common stock, the number of shares that are probable of being earned, and management’s assessment of the probability that the specified performance criteria will be achieved. |
+| Performance Share Awards (PSAs) |  |  |  |
+| Senior and other key management | • Entitle the holder to receive, at the end of the performance period, shares of our common stock (retirees) earned, if any, or an equal value in cash (active colleagues), including dividend equivalents on shares earned, dependent upon the achievement of predetermined goals related to two measures: a. Adjusted net income over three one-year periods; and b. TSR as compared to the NYSE ARCA Pharmaceutical Index (DRG Index) over the three-year performance period. • PSAs vest on the third anniversary of the grant assuming continuous service from the grant date. • The award that may be earned ranges from 0% to 200% of the target award depending on goal achievement over the performance period. | As of the grant date using the intrinsic value method using the closing price of our common stock | Amortized on a straight-line basis over the vesting term into Cost of sales, Selling, informational and administrative expenses, and/or Research and development expenses, as appropriate, and adjusted each reporting period, as necessary, to reflect changes in the price of our common stock, the number of shares that are probable of being earned and management’s assessment of the probability that the specified performance criteria will be achieved. |
+| Breakthrough Performance Awards (BPAs) |  |  |  |
+| Select employees identified as instrumental in delivering medicines to patients (excluding executive officers) | • Entitle the holder to receive, at the end of the performance period, shares of our common stock, if any, including shares resulting from dividend equivalents earned on such shares. • For BPAs granted, the awards, if earned/vested, are settled at the end of the performance period, but no earlier than the one-year anniversary of the date of grant and dependent upon the achievement of the respective predetermined performance goals related to advancing Pfizer’s product pipeline during the performance period. • The number of shares that may be earned ranges from 0% to 600% of the target award depending on the level and timing of goal achievement over the performance period. | As of the grant date using the intrinsic value method using the closing price of our common stock | Amortized on a straight-line basis over the probable vesting term into Cost of sales, Selling, informational and administrative expenses, and/or Research and development expenses, as appropriate, and adjusted each reporting period, as necessary, to reflect changes in the price of our common stock, the number of shares that are probable of being earned and management’s assessment of the probability that the specified performance criteria will be achieved and/or management’s assessment of the probable vesting term. |
+
+
+## Table 58 (Page 103)
+
+| TSRUs Outstanding 163,572 TSRUs Vested 85,899 TSRUs Expected to vest(d) 75,276 Outstanding PTUs converted from TSRUs exercised | 163,572 | Col_2 | Col_3 | Col_4 | $ | 36.83 | Col_7 | 2.0 | Col_9 | $ | 131 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 85,899 |  |  |  | 34.05 |  |  | 0.8 |  | 131 |  |
+|  | 75,276 |  |  |  | $ | 39.82 |  | 3.2 |  | — |  |
+|  |  |  | 1,060 |  |  |  |  | 0.6 |  | $ | 31 |
+
+
+## Table 59 (Page 103)
+
+| Granted Exercised Forfeited Expired Outstanding, December 31, 2023 Vested and expected to vest, December 31, 2023(b) Exercisable, December 31, 2023 | 635 | Col_2 | 42.30 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (6,709) |  | 27.47 |  |  |  |  |  |  |
+|  | (36) |  | 39.37 |  |  |  |  |  |  |
+|  | (718) |  | 31.25 |  |  |  |  |  |  |
+|  | 28,452 |  | 32.66 |  |  | 1.7 |  | $ | — |
+|  | 28,385 |  | 32.63 |  |  | 1.7 |  | — |  |
+|  | 26,667 |  | $ | 32.19 |  | 1.3 |  | $ | — |
+
+
+## Table 60 (Page 103)
+
+| EPS Numerator Income from continuing operations attributable to Pfizer Inc. common shareholders Discontinued operations––net of tax Net income attributable to Pfizer Inc. common shareholders EPS Denominator Weighted-average number of common shares outstanding––Basic Common-share equivalents Weighted-average number of common shares outstanding––Diluted Anti-dilutive common stock equivalents(a) | Col_1 | Col_2 | $ 31,366 $ 22,414 6 (434) $ 31,372 $ 21,979 5,608 5,601 125 107 5,733 5,708 1 2 |
+| --- | --- | --- | --- |
+|  | $ | 2,134 |  |
+|  | (15) |  |  |
+|  | $ | 2,119 |  |
+|  |  |  |  |
+|  | 5,643 |  |  |
+|  | 66 |  |  |
+|  | 5,709 |  |  |
+|  | 9 |  |  |
+
+
+## Table 61 (Page 104)
+
+| ROU assets Other noncurrent assets Lease liabilities (short-term) Other current liabilities Lease liabilities (long-term) Other noncurrent liabilities | $ | 2,924 | $ 3,002 620 2,597 |
+| --- | --- | --- | --- |
+|  | 527 |  |  |
+|  | 2,626 |  |  |
+
+
+## Table 62 (Page 104)
+
+| Operating lease cost Variable lease cost Sublease income Total lease cost | $ | 863 | $ 714 $ 548 536 381 (32) (41) $ 1,218 $ 888 |
+| --- | --- | --- | --- |
+|  | 444 |  |  |
+|  | (24) |  |  |
+|  | $ | 1,283 |  |
+
+
+## Table 63 (Page 104)
+
+| Weighted-Average Remaining Contractual Lease Term (Years) Weighted-Average Discount Rate | 10.8 | Col_2 | 11 3.0 % |
+| --- | --- | --- | --- |
+|  | 3.8 | % |  |
+
+
+## Table 64 (Page 104)
+
+| Operating cash flows from operating leases (Gains)/losses on sale and leaseback transactions, net | $ | 744 | $ 617 $ 387 11 1 |
+| --- | --- | --- | --- |
+|  | (49) |  |  |
+
+
+## Table 65 (Page 104)
+
+| Next one year(a) 1-2 years 2-3 years 3-4 years 4-5 years Thereafter Total undiscounted lease payments Less: Imputed interest Present value of minimum lease payments Less: Current portion Noncurrent portion | $ | 639 |
+| --- | --- | --- |
+|  | 474 |  |
+|  | 387 |  |
+|  | 319 |  |
+|  | 262 |  |
+|  | 1,743 |  |
+|  | 3,824 |  |
+|  | 671 |  |
+|  | 3,153 |  |
+|  | 527 |  |
+|  | $ | 2,626 |
+
+
+## Table 66 (Page 112)
+
+| Reportable Segment: Biopharma Other business activities(c) Reconciling Items: Amortization of intangible assets Acquisition-related items Certain significant items(d) | Col_1 | Col_2 | $ 98,988 $ 79,557 1,342 1,731 $ 100,330 $ 81,288 | Col_4 | Col_5 | $ 57,148 $ 40,647 (14,370) (13,455) (3,609) (3,746) (832) (139) (3,608) 1,003 $ 34,729 $ 24,311 | Col_7 | Col_8 | $ 813 $ 789 626 590 3,609 3,746 (20) (21) 36 87 $ 5,064 $ 5,191 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | $ | 57,186 |  | $ | 30,632 |  | $ | 882 |  |
+|  | 1,310 |  |  | (19,050) |  |  | 654 |  |  |
+|  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | (4,733) |  |  | 4,733 |  |  |
+|  |  |  |  | (1,874) |  |  | (11) |  |  |
+|  |  |  |  | (3,917) |  |  | 32 |  |  |
+|  | $ | 58,496 |  | $ | 1,058 |  | $ | 6,290 |  |
+
+
+## Table 67 (Page 113)
+
+| United States Developed Europe Developed Rest of World Emerging Markets Total revenues | $ | 27,088 | $ 42,473 $ 29,746 21,982 18,336 15,778 12,506 20,097 20,701 $ 100,330 $ 81,288 |
+| --- | --- | --- | --- |
+|  | 11,650 |  |  |
+|  | 7,761 |  |  |
+|  | 11,996 |  |  |
+|  | $ | 58,496 |  |
+
+
+## Table 68 (Page 113)
+
+| McKesson, Inc. Cencora, Inc. (formerly AmerisourceBergen Corporation) Cardinal Health, Inc. U.S. government(a) | 17 | % | 8 % 9 % 5 % 7 % 4 % 5 % 23 % 13 % |
+| --- | --- | --- | --- |
+|  | 12 | % |  |
+|  | 10 | % |  |
+|  |  |  |  |
+|  | — |  |  |
+
+
+## Table 69 (Page 114)
+
+| $ | 58,496 |
+| --- | --- |
+| $ | 57,186 |
+| $ | 30,589 |
+| 11,220 |  |
+| 6,747 |  |
+| 6,440 |  |
+| 1,279 |  |
+| 928 |  |
+| 890 |  |
+| 397 |  |
+| 338 |  |
+| 268 |  |
+| 179 |  |
+| 126 |  |
+| 1,777 |  |
+| $ | 14,970 |
+| 3,321 |  |
+| 1,703 |  |
+| 830 |  |
+| 757 |  |
+| 584 |  |
+| 539 |  |
+| 511 |  |
+| 490 |  |
+| 424 |  |
+| 406 |  |
+| 339 |  |
+| 328 |  |
+| 267 |  |
+| 238 |  |
+| 230 |  |
+| 195 |  |
+| 187 |  |
+| 158 |  |
+| 128 |  |
+| 1,092 |  |
+| 2,244 |  |
+| $ | 11,627 |
+| 4,753 |  |
+| 1,191 |  |
+| 1,036 |  |
+| 645 |  |
+| 539 |  |
+| 424 |  |
+
+
+## Table 70 (Page 159)
+
+| Name of Subsidiary Issuer | State of Formation of Issuer | Description of Registered Notes |
+| --- | --- | --- |
+| Wyeth LLC | Delaware | 6.45% Notes due 2024 |
+| Pharmacia LLC | Delaware | 6.75% Debentures due 2027 |
+| Pharmacia LLC | Delaware | 6.60% Debentures due 2028 |
+| Wyeth LLC | Delaware | 6.50% Notes due 2034 |
+| Wyeth LLC | Delaware | 6.00% Notes due 2036 |
+| Wyeth LLC | Delaware | 5.95% Notes due 2037 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 4.650% Notes due 2025 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 4.450% Notes due 2026 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 4.450% Notes due 2028 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 4.650% Notes due 2030 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 4.750% Notes due 2033 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 5.110% Notes due 2043 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 5.300% Notes due 2053 |
+| Pfizer Investment Enterprises Pte. Ltd. | Republic of Singapore | 5.340% Notes due 2063 |

@@ -3,7 +3,7 @@
 # ===========================
 
 # --- PDF Processing ---
-PyMuPDF>=1.24.0          # Fast PDF text extraction (imported as 'fitz')
+PyMuPDF>=1.24.0          # Fast PDF text extraction + table detection (imported as 'fitz')
 
 # --- Web Framework ---
 fastapi>=0.115.0         # Async API framework

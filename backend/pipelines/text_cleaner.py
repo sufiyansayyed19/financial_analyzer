@@ -97,6 +97,27 @@ def clean_text(raw_text: str, company: str = "", year: str = "") -> tuple[str, C
     text = text.replace("\x00", "")
     text = text.replace("\xad", "")
 
+    # ── STEP 1b: Resolve typographic ligatures ──
+    # PDFs embed ligature characters like ﬁ (U+FB01) instead of "fi".
+    # These look fine visually but break text search and NLP:
+    #   "ﬁnancial" won't match "financial" in search!
+    # TCS reports had 100+ of these per file.
+    ligature_map = {
+        "\ufb00": "ff",   # ﬀ
+        "\ufb01": "fi",   # ﬁ
+        "\ufb02": "fl",   # ﬂ
+        "\ufb03": "ffi",  # ﬃ
+        "\ufb04": "ffl",  # ﬄ
+    }
+    for lig, replacement in ligature_map.items():
+        text = text.replace(lig, replacement)
+
+    # ── STEP 1c: Remove control characters ──
+    # Some PDFs contain invisible control chars (ASCII 0-31)
+    # that corrupt downstream processing. Keep only \n, \r, \t.
+    # Reliance reports had 1000+ of these.
+    text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+
     # ──────────────────────────────────────────
     # STEP 2: Normalize line endings
     # ──────────────────────────────────────────
@@ -173,6 +194,40 @@ def clean_text(raw_text: str, company: str = "", year: str = "") -> tuple[str, C
             flags=re.MULTILINE,
         )
 
+    # ── STEP 5b: Auto-detect and remove repeated lines ──
+    # Financial PDFs repeat section headers on EVERY page:
+    #   "Financial Statements" → 206 times in HDFC Bank
+    #   "JPMorgan Chase & Co./2022 Form 10-K" → 261 times
+    #
+    # Instead of hardcoding patterns, we COUNT line frequencies
+    # and remove any line appearing 8+ times (clearly a header/footer).
+    #
+    # WHY 8? Most real content appears 1-3 times. Headers appear
+    # on most pages (100-300+). 8 is a safe threshold that catches
+    # headers without removing legitimate repeated financial terms.
+    from collections import Counter
+    line_freq = Counter()
+    temp_lines = text.split("\n")
+    for line in temp_lines:
+        stripped = line.strip()
+        if len(stripped) > 10:  # Only track substantial lines
+            line_freq[stripped] += 1
+
+    # Build set of lines to remove (appearing 8+ times)
+    repeated_lines = {line for line, count in line_freq.items() if count >= 8}
+
+    if repeated_lines:
+        cleaned = []
+        removed_count = 0
+        for line in temp_lines:
+            if line.strip() in repeated_lines:
+                cleaned.append("")  # Replace with blank (collapsed later)
+                removed_count += 1
+            else:
+                cleaned.append(line)
+        text = "\n".join(cleaned)
+        stats.lines_removed += removed_count
+
     # ──────────────────────────────────────────
     # STEP 6: Normalize bullet points
     # ──────────────────────────────────────────
@@ -185,10 +240,14 @@ def clean_text(raw_text: str, company: str = "", year: str = "") -> tuple[str, C
     # Replace multiple spaces/tabs within a line with single space
     text = re.sub(r"[ \t]+", " ", text)
 
-    # Replace 3+ consecutive newlines with exactly 2
+    # Replace 3+ consecutive blank/whitespace-only lines with exactly 2 newlines
     # (preserve paragraph breaks but remove excessive gaps)
+    #
+    # IMPORTANT: We use (\s*\n) not just (\n) because PDF extraction
+    # often produces lines with ONLY spaces/tabs — these look blank
+    # but the regex \n{3,} won't catch them!
     prev_len = len(text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
+    text = re.sub(r"(\s*\n){3,}", "\n\n", text)
     stats.whitespace_normalized = prev_len - len(text)
 
     # ──────────────────────────────────────────
@@ -210,6 +269,20 @@ def clean_text(raw_text: str, company: str = "", year: str = "") -> tuple[str, C
 
     stats.lines_removed = original_line_count - len(cleaned_lines)
     text = "\n".join(cleaned_lines)
+
+    # ──────────────────────────────────────────
+    # STEP 8.5: Collapse blank lines AGAIN
+    # ──────────────────────────────────────────
+    # WHY AGAIN? Step 8 removed short lines, which created NEW
+    # consecutive blank line runs. For example:
+    #   [blank] + [removed "42"] + [blank] → [blank][blank][blank]
+    #
+    # LESSON: When pipeline steps create side effects, you sometimes
+    # need a "cleanup" pass at the end.
+    text = re.sub(r"(\s*\n){3,}", "\n\n", text)
+
+    # Strip trailing whitespace from each line
+    text = "\n".join(line.rstrip() for line in text.split("\n"))
 
     # ──────────────────────────────────────────
     # STEP 9: Final trim

@@ -56,7 +56,7 @@ Portions of the Proxy Statement for the 2024 Annual Meeting of Shareholders
 Part III
 
 TABLE OF CONTENTS
- 
+
 Page
 Defined Terms
 Available Information
@@ -370,8 +370,6 @@ QCE
 quality consistency evaluation
 rheumatoid arthritis
 
-2023 Form 10-K
-
 RCC
 renal cell carcinoma
 R&D
@@ -402,7 +400,7 @@ TSAs
 transition service arrangements
 ulcerative colitis
 U.K.
-United Kingdom
+
 Upjohn Business
 
 brands, including Lipitor, Lyrica, Norvasc, Celebrex and Viagra, as well as a U.S.-based generics platform, Greenstone, that was spun-off on
@@ -455,7 +453,6 @@ Information relating to corporate governance at Pfizer, including our Corporate 
 of our employees, including our Chief Executive Officer, Chief Financial Officer and Principal Accounting Officer); Code of Business Conduct and Ethics for Members of the Board of
 Directors; information concerning our Directors; ways to
 
-2023 Form 10-K
 iii
 
 communicate by e-mail with our Directors; information concerning our Board Committees; Committee Charters; Charter of the Lead Independent Director; and transactions in Pfizer
@@ -464,8 +461,6 @@ securities by Directors and Officers are available on our website. We will provi
 Conduct affecting our Chief Executive Officer, Chief Financial Officer, Principal Accounting Officer and executive officers on our website as promptly as practicable, as may be
 required under applicable SEC and NYSE rules. Information relating to shareholder services, including the Computershare Investment Program, book-entry share ownership and
 direct deposit of dividends, is also available on our website.
-
-2023 Form 10-K
 
 FORWARD-LOOKING INFORMATION AND FACTORS THAT MAY AFFECT FUTURE RESULTS
 This Form 10-K contains forward-looking statements. We also provide forward-looking statements in other materials we release to the public, as well as public oral statements. Given
@@ -520,8 +515,6 @@ availability or commercial potential of our products and product candidates;
 • claims and concerns that may arise regarding the safety or efficacy of in-line products and product candidates, including claims and concerns that may arise from the
 outcome of post-approval clinical trials, which could impact marketing approval, product labeling, and/or availability or commercial potential;
 
-2023 Form 10-K
-
 • the success and impact of external business development activities, such as the recent acquisition of Seagen, including the ability to identify and execute on potential
 business development opportunities; the ability to satisfy the conditions to closing of announced transactions in the anticipated time frame or at all; the ability to realize
 the anticipated benefits of any such transactions in the anticipated time frame or at all; the potential need for and impact of additional equity or debt financing to pursue
@@ -574,8 +567,6 @@ or subsidized health programs, including the IRA, or changes in the tax treatmen
 • U.S. federal or state legislation or regulatory action and/or policy efforts affecting, among other things, pharmaceutical product pricing, intellectual property,
 reimbursement or access or restrictions on U.S. direct-to-consumer advertising; limitations on
 
-2023 Form 10-K
-
 interactions with healthcare professionals and other industry stakeholders; as well as pricing pressures for our products as a result of highly competitive
 biopharmaceutical markets;
 • legislation or regulatory action in markets outside of the U.S., such as China or Europe, including, without limitation, laws related to pharmaceutical product pricing,
@@ -627,8 +618,6 @@ equitable access and pricing; product quality and safety; diversity, equity and 
 We are committed to strategically capitalizing on growth opportunities, primarily by advancing our own product pipeline and maximizing the value of our existing products, but also
 through various business development activities. We view our business development activity as an enabler of our strategies and seek to generate growth by pursuing opportunities
 and transactions that have the potential to strengthen our business and our
-
-2023 Form 10-K
 
 capabilities. We assess our business, assets and scientific capabilities/portfolio as part of our regular, ongoing portfolio review process and also continue to consider business
 development activities that will help advance our business strategy.
@@ -690,8 +679,6 @@ R&D is at the heart of fulfilling our purpose to deliver breakthroughs that chan
 vaccines that may be the most impactful for patients. In addition to discovering and developing new products, our R&D efforts seek to add value to our existing products by
 improving their safety, efficacy and ease of dosing and by discovering potential new indications.
 
-2023 Form 10-K
-
 Our R&D Priorities and Strategy. Our R&D priorities include:
 • delivering a pipeline of highly differentiated medicines and vaccines where we have a unique opportunity to bring the most important new therapies to patients in need;
 • advancing our capabilities that can position us for long-term R&D leadership; and
@@ -736,8 +723,6 @@ Overview of Our Performance, Operating Environment, Strategy and Outlook—COVID
 appropriate patients. We fund between 50% and 60% of all development costs depending on the study, and profits and losses are shared equally except in certain countries
 where we commercialize Eliquis and pay a percentage of net sales to BMS. In
 
-2023 Form 10-K
-
 certain smaller markets we have full commercialization rights and BMS supplies the product to us at cost plus a percentage of the net sales to end-customers.
 • Xtandi (enzalutamide) is an androgen receptor inhibitor that blocks multiple steps in the androgen receptor signaling pathway within tumor cells that is being developed and
 commercialized in collaboration with Astellas. We share equally in the gross profits and losses related to U.S. net sales and also share equally all Xtandi commercialization costs
@@ -780,8 +765,6 @@ clinics, government agencies and pharmacies. In 2022 and 2023, we principally so
 the federal government (including the CDC), wholesalers, individual provider offices, retail pharmacies and integrated delivery systems. Our vaccines outside the U.S. are primarily
 sold to government and non-government institutions. Certain of these government contracts may be renegotiated or terminated at the discretion of a government entity. Our
 
-2023 Form 10-K
-
 contracts with government and supranational organizations for the sales of Comirnaty and Paxlovid, which are binding contracts, represented a significant amount of revenues in
 2022 and 2023. Sales of Comirnaty and Paxlovid in the U.S. transitioned to commercial channels in the second half of 2023. For information on our October 2023 amended
 agreement with the U.S. government regarding Paxlovid, see Note 17C.
@@ -809,8 +792,6 @@ In various markets, a period of regulatory exclusivity may be provided for drugs
 period will run concurrently with the term of any existing patent rights associated with the drug at the time of approval.
 Based on current sales and other factors, and considering the competition with products sold by our competitors, the patent rights we consider most significant in relation to our
 business as a whole, together with the year in which the basic product patent expires, are as follows:
-
-2023 Form 10-K
 
 Product
 U.S. Basic Product Patent Expiration
@@ -977,8 +958,6 @@ launch of a generic version of Eliquis on April 1, 2028 (the settled generic com
 (3)
 (4)
 
-2023 Form 10-K
-
 remaining generic companies and following the resolution of the litigation in our favor, the three generic companies are not permitted to launch their products until the 2031 expiration date of the
 formulation patent. Both the composition of matter patent expiring in November 2026 and the formulation patent expiring in 2031 may be subject to future challenges. While we cannot predict the outcome
 of any potential future litigation, there are certain potential alternatives that might occur which could potentially permit generic launch prior to April 1, 2028: (i) if the formulation patent is held invalid or not
@@ -1054,8 +1033,6 @@ some countries for as long as the mark is used while in others, for as long as i
 (22)
 (23)
 
-2023 Form 10-K
-
 COMPETITION
 Our business is conducted in intensely competitive and highly regulated markets. Many of our products face competition in the form of branded or generic drugs or biosimilars that
 treat similar diseases or indications. The principal forms of competition include efficacy, safety, ease of use and cost. Though the means of competition vary among our products,
@@ -1108,8 +1085,6 @@ that reward providers and pharmaceutical manufacturers for cost reductions and i
 restricted access to, new medicines. At the same time, these models can also promote utilization of drugs by encouraging physicians to screen and diagnose and consider drugs as
 a means of forestalling more costly medical interventions. Further, these models may also encourage payors and their PBMs to cover higher cost drugs where coverage is tied to
 patient outcomes and other quality incentives.
-
-2023 Form 10-K
 
 The impact of large-scale healthcare disruptions, like the COVID-19 pandemic, on the pace of adoption of value-based payment models remains unclear. Both payors and providers
 may resist adopting such models or choose to adopt such models at a slower pace if the incentives available do not outweigh the financial risk involved. Adoption of such models, in
@@ -1165,8 +1140,6 @@ conducting business in applicable jurisdictions, and could result in harm to our
 and may require significant technical expertise and capital investment to ensure compliance. While capital expenditures or operating costs for compliance with government
 regulations
 
-2023 Form 10-K
-
 cannot be predicted with certainty, we do not currently anticipate they will have a material effect on our capital expenditures or competitive position.
 In the U.S.
 Drug and Biologic Regulation. The FDA, pursuant to the FFDCA, the Public Health Service Act and other federal statutes and regulations, extensively regulates pre- and postmarketing activities related to our biopharmaceutical products and devices. The regulations govern areas such as safety and efficacy, clinical trials, advertising and promotion, quality
@@ -1219,8 +1192,6 @@ Changes to the Medicaid Drug Rebate Program or the 340B Program could have a mat
 2020 final rule, including which products qualify as so-called “line extension” drugs subject to increased rebate liability, may have a material impact on our business. Additionally, in
 May 2023, CMS proposed new rules that could, if finalized, have a material impact on our business. Those proposals include, for example, new rules regarding how manufacturers
 would be required to aggregate discounts for purposes of determining their Medicaid Best Price. Additionally, various potential changes to the 340B Program are undergoing
-
-2023 Form 10-K
 
 review or are the subject of current regulatory activity and/or litigation, and their status is unclear. In 2022, we implemented a policy that will help improve contract pharmacy integrity.
 The HHS Health Resources and Services Administration (HRSA), which administers the 340B Program, has sent letters to numerous manufacturers that have also implemented
@@ -1279,8 +1250,6 @@ toward increasing regulation.
 Pricing and Reimbursement. Certain governments, including in the different EU member states, the U.K., Japan, China, Canada and South Korea, provide healthcare at low-to-zero
 direct cost to consumers at the point of care and have significant power to regulate pharmaceutical
 
-2023 Form 10-K
-
 prices or patient reimbursement levels to control costs for the government-sponsored healthcare system, particularly under recent global financing pressures. Governments globally
 may use a variety of measures to control costs, including, among others, legislative or regulatory pricing reforms, cross country collaboration and procurement, price cuts, mandatory
 rebates, health technology assessments, forced localization as a condition of market access, “international reference pricing” (i.e., the practice of a country linking its regulated
@@ -1337,8 +1306,6 @@ and its value chain emissions by 90% from 2019 levels by 2040. To support our go
 to achieve reductions throughout our value chain including investing in new technologies and innovative climate solutions, and setting expectations for our suppliers to establish
 science-aligned GHG emission reduction goals. Our emission reduction plan-related expenses and capital spending incurred for 2023 were not
 
-2023 Form 10-K
-
 material to our consolidated financial statements. While we expect to incur incremental capital and operational expenditures to meet our goal, we do not currently anticipate they will
 have a material effect on our financial position in the near term. Longer term uncertainties such as the likelihood of commercially available technologies make it difficult to predict the
 financial impact of meeting the goal, and we will continue to assess and monitor the financial impact of the emission reduction plan.
@@ -1389,8 +1356,6 @@ difference in the lives of people around the world.
 Pfizer also prioritizes colleague recognition to drive engagement, a sense of belonging, motivation, and productivity. Our global rewards and recognition program, Bravo, lets
 colleagues celebrate and acknowledge each other for demonstrating Pfizer values in a way that makes an impact on the company, a colleague, a team or a patient. In 2023, 84% of
 colleagues were recognized, and more than 650,000 recognitions were given.
-
-2023 Form 10-K
 
 Performance and Leadership. We understand the significance of leadership and its crucial role in promoting growth and delivering breakthrough results. We believe that each of our
 colleagues has the potential to lead in a unique way and create a meaningful impact on a global scale. To support this belief, we have developed a new leadership profile for our
@@ -1448,8 +1413,6 @@ patient to first fail on one or more other products before permitting access to 
 the IRA prices become publicly available, we may face greater pricing pressure from private third-party payors as they continue to drive more of their patients to use lower cost
 alternatives
 
-2023 Form 10-K
-
 or seek even larger rebates to control costs or offset losses from the IRA. For additional information on the IRA, see the Item 1. Business—Government Regulation and Price
 Constraints section.
 Also, business arrangements in this area are subject to a high degree of government scrutiny, and available safe harbors under applicable federal and state fraud and abuse laws
@@ -1503,8 +1466,6 @@ The discovery and development of new products, as well as the development of add
 product lines must be replenished over time to offset revenue losses when products lose exclusivity or market share or to respond to healthcare and innovation trends, as well as to
 provide for earnings growth, primarily through internal R&D or through collaborations, acquisitions, JVs, licensing or other arrangements. Growth depends in large part on our ability
 to identify and develop
-
-2023 Form 10-K
 
 new products or new indications for existing products that address unmet medical needs and receive reimbursement from payors. However, balancing current growth, investment for
 future growth and the delivery of shareholder return remains a major challenge. The costs of product development continue to be high and are growing, as are regulatory
@@ -1562,8 +1523,6 @@ In 2021, Pfizer recalled all lots of Chantix in the U.S. due to the presence of 
 authorities outside the U.S. have issued updated guidance on nitrosamine acceptable intake levels. With this recently issued guidance, which included an updated intake level for Nnitroso-varenicline, we expect to make regulatory submissions in 2024 to potentially enable Chantix to return to market outside the U.S., and our related discussions with FDA are
 ongoing.
 
-2023 Form 10-K
-
 Our manufacturing facility in Rocky Mount, NC was damaged by a tornado in July 2023. While manufacturing has resumed, the supply of medicines impacted by the tornado is
 expected to be affected through 2024. See the Overview of Our Performance, Operating Environment, Strategy and Outlook—Our Operating Environment section within MD&A.
 COLLABORATIONS AND OTHER RELATIONSHIPS WITH THIRD PARTIES
@@ -1618,8 +1577,6 @@ considering, patient access constraints or cost cutting under state regulated pr
 drug costs, generally by increasing price transparency or attempting to limit drug price increases for state regulated insurance. Measures to regulate prices or payment for
 pharmaceutical
 
-2023 Form 10-K
-
 products, including legislation on drug importation, such as Florida’s drug importation program which was recently approved by the FDA, could adversely affect our business. For
 additional information on U.S. pricing and reimbursement, see the Item 1. Business—Government Regulation and Price Constraints section.
 We encounter similar regulatory and legislative issues in most other countries in which we operate. In certain markets, such as in EU member states, the U.K., Japan, China,
@@ -1673,8 +1630,6 @@ availability or commercial potential of our products and product candidates. Fur
 product candidates can negatively impact current or future product sales, as applicable, and potentially lead to product recalls or withdrawals, including regulator-directed risk
 evaluations and assessments, and/or consumer fraud, product liability and other litigation and claims. Regulatory requirements may also result in a more challenging, expensive and
 lengthy regulatory approval process than anticipated due to requests for, among other things, additional or more extensive clinical trials prior
-
-2023 Form 10-K
 
 to granting approval, or increased post-approval requirements. For these and other reasons discussed in this Risk Factors section, we may not obtain the approvals we expect within
 the timeframe we anticipate, or at all.
@@ -1731,8 +1686,6 @@ We and certain of our subsidiaries are also subject to numerous contingencies ar
 environmental contingencies. Amounts recorded for legal and environmental contingencies can result from a complex series of judgments about future events and uncertainties and
 can rely heavily on estimates and assumptions. While we have accrued for
 
-2023 Form 10-K
-
 worldwide legal liabilities, no guarantee exists that additional costs will not be incurred or additional payments will not be required beyond the amounts accrued.
 For additional information, including information regarding certain legal proceedings in which we are involved in, see Note 16A.
 RISKS RELATED TO INTELLECTUAL PROPERTY, TECHNOLOGY AND SECURITY:
@@ -1785,8 +1738,6 @@ area may not be first and another company or entity may have obtained relevant p
 market pharmaceutical products, including related to Abrysvo, Comirnaty and Paxlovid. As we expand our mRNA portfolio, patent-related disputes may increase. Once we have final
 regulatory approval of the related products, we may decide to commercially market these products even though associated legal proceedings (including any appeals) have not been
 resolved (i.e., “at-risk” launch). If one of our marketed products (or a product of our
-
-2023 Form 10-K
 
 collaboration/licensing partners to which we have licenses or co-promotion rights) is found to infringe valid patent rights of a third party, such third party may be awarded significant
 damages or royalty payments, or we may be prevented from further sales of that product. Such damages may be enhanced as much as three-fold if we or one of our subsidiaries is
@@ -1843,8 +1794,6 @@ controls, procedures and policies. Further, while we seek to mitigate risks and 
 result of business development transactions. There is no assurance that we will be able to acquire attractive businesses or enter into strategic business relationships on favorable
 terms ahead of our competitors, or that such acquisitions or strategic business development relationships will be accretive to earnings or improve our competitive position.
 
-2023 Form 10-K
-
 Where we invest in or otherwise obtain debt or equity securities of third parties in connection with business development transactions, such as our ownership interest in Haleon, we
 may be unable to direct or influence the management, operational decisions and policies of such companies and the value of the acquired securities will fluctuate and may lose
 value. Any future distribution or sale of such securities will be subject to prevailing market conditions and other factors, including the size of our ownership stake, at the time of such
@@ -1898,8 +1847,6 @@ and/or EUA applications or amendments to any such applications for any indicatio
 obtained, whether or when such EUA or licenses, or existing EUAs, will expire or terminate;
 • whether and when any application that may be pending or filed for Comirnaty, any vaccine candidate or other vaccines that may result from the BNT162 program, Paxlovid or any
 future COVID-19 treatment or any other COVID-19 program may be approved by particular regulatory
-
-2023 Form 10-K
 
 authorities, which will depend on myriad factors, including making a determination as to whether the vaccine’s or drug’s benefits outweigh its known risks and determination of the
 vaccine’s or drug’s efficacy and, if approved, whether it will be commercially successful;
@@ -1955,8 +1902,6 @@ we do not meet, or are perceived not to meet, our goals or other stakeholder exp
 services, as well as damage to our brand and reputation, reduced demand for our products or other negative impacts on our business and operations. While we monitor a broad
 range of ESG matters, we cannot be certain that we will manage such matters successfully, or that we will successfully meet the expectations of investors, employees, consumers,
 governments and other stakeholders.
-
-2023 Form 10-K
 
 MARKET FLUCTUATIONS IN OUR EQUITY AND OTHER INVESTMENTS
 Changes in the fair value of certain equity investments that are recognized in net income may result in increased volatility of our income. See Note 4 and the Analysis of Financial
@@ -2015,8 +1960,6 @@ Such plans include the protocol by which material incidents would be communicate
 • Enterprise-Wide Coordination: We engage experts from across the Company to identify emerging risks and respond to cybersecurity threats. This cross-functional approach
 includes personnel from our R&D, manufacturing, commercial, technology, legal, compliance, internal audit and other business functions.
 
-2023 Form 10-K
-
 • Governance: Our BOD’s oversight of cybersecurity risk management is led by the Audit Committee, which oversees our ERM program. Cybersecurity threats, risks and mitigation
 are periodically reviewed by the Audit Committee and such reviews include both internal and independent assessment of risks, controls and effectiveness.
 Our risk assessment efforts have indicated that we are a target for theft of intellectual property, financial resources, personal information, and trade secrets from a wide range of
@@ -2058,8 +2001,6 @@ operations in the foreseeable future. See Note 9 for amounts invested in land, b
 ITEM 3.
 LEGAL PROCEEDINGS
 Certain legal proceedings in which we are involved are discussed in Note 16A.
-
-2023 Form 10-K
 
 INFORMATION ABOUT OUR EXECUTIVE OFFICERS
 The executive officers of the Company are set forth in this table. Each holds the office or offices indicated until his or her successor is chosen and qualified at the regular meeting of
@@ -2133,8 +2074,6 @@ Chief Corporate Affairs Officer, Executive Vice President since January 2019. Ex
 External Affairs and Communications) from December 2010 until December 2018. Senior Vice President, Policy, External Affairs and
 Communications from December 2009 until December 2010.
 
-2023 Form 10-K
-
 PART II
 ITEM 5.
 MARKET FOR THE COMPANY’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES
@@ -2160,19 +2099,19 @@ Purchased
  Under the Plan
 October 2 through October 29, 2023
 12,222
-32.93 
-3,292,882,444 
+32.93
+3,292,882,444
 October 30 through November 30, 2023
 25,825
-29.95 
-3,292,882,444 
+29.95
+3,292,882,444
 December 1 through December 31, 2023
 14,449
-28.58 
-3,292,882,444 
+28.58
+3,292,882,444
 Total
-52,496 
-30.26 
+52,496
+30.26
 See Note 12.
 Represents (i) 49,685 shares of common stock surrendered to the Company to satisfy tax withholding obligations in connection with the vesting of awards under our long-term incentive programs and (ii)
 the open market purchase by the trustee of 2,811 shares of common stock in connection with the reinvestment of dividends paid on common stock held in trust for employees who deferred receipt of
@@ -2183,7 +2122,7 @@ major U.S. and European-based pharmaceutical companies, which are: AbbVie Inc., 
 Johnson & Johnson, Merck & Co., Inc., Novartis AG, Novo Nordisk, Roche Holding AG and Sanofi SA, the S&P 500 Index and the NYSE Arca Pharmaceutical Index (DRG index).
 Five Year Performance
 
-PFIZER 
+PFIZER
 $100.0
 $93.1
 $96.3
@@ -2197,7 +2136,7 @@ $128.7
 $154.4
 $179.9
 $207.8
-S&P 500 
+S&P 500
 $100.0
 $131.5
 $155.6
@@ -2219,8 +2158,6 @@ ITEM 6.
 (a)
 (a)
 (b)
-
-2023 Form 10-K
 
 ITEM 7.
 MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
@@ -2257,8 +2194,6 @@ the needs of society to help sustain long-term value creation for all stakeholde
 • Maximize performance of our new products
 • Expand margins by realigning our cost base
 • Allocate capital to enhance shareholder value
-
-2023 Form 10-K
 
 In 2023, we managed our commercial operations through a global structure consisting of two operating segments: Biopharma and Business Innovation. Biopharma was the only
 reportable segment. See Note 1A and the Item 1. Business––Commercial Operations section.
@@ -2298,8 +2233,6 @@ The following chart outlines the components of the net change in Total revenues:
 See the Total Revenues by Geography and Total Revenues––Selected Product Discussion sections within MD&A for more information, including a discussion of key drivers of our
 revenue performance. See also The Global Economic Environment––COVID-19 section below for information about our COVID-19 products. For information regarding the primary
 indications or class of certain products, see Note 17C.
-
-2023 Form 10-K
 
 While royalty income through December 31, 2023 has been recorded in Other Income/(Deductions)—net, we will begin reporting such royalty income in Total revenues beginning in
 2024 and will restate prior periods for consistency with our 2024 presentation. Additionally, we will no longer record royalties from U.S. sales of Bavencio, as we have irrevocably
@@ -2356,8 +2289,6 @@ In 2023, we recorded $286 million to Cost of sales for inventory losses, overhea
 from the tornado damage. Losses incurred in 2023 were partially offset by insurance recoveries received in the fourth quarter of 2023. We may record additional losses and/or costs
 and/or insurance recoveries in future periods, but we are unable to predict them with certainty at this time.
 
-2023 Form 10-K
-
 Product Supply––We periodically encounter supply delays, disruptions and shortages, including due to voluntary product recalls and natural or man-made disasters. In 2021, Pfizer
 recalled all lots of Chantix in the U.S. due to the presence of a nitrosamine, N-nitroso-varenicline, at or above the FDA interim acceptable intake limit. Regulatory authorities outside
 the U.S. have issued updated guidance on nitrosamine acceptable intake levels. With this recently issued guidance, which included an updated intake level for N-nitroso-varenicline,
@@ -2409,8 +2340,6 @@ statements as they require the application of the most subjective and the most c
 Impairments (Note 1M); Tax Assets and Liabilities and Income Tax Contingencies (Note 1Q); Pension and Postretirement Benefit Plans (Note 1R); and Legal and Environmental
 Contingencies (Note 1S).
 For a discussion of recently adopted accounting standards, see Note 1B.
-
-2023 Form 10-K
 
 Acquisitions
 We account for acquired businesses using the acquisition method of accounting, which requires, among other things, that most assets acquired and liabilities assumed be
@@ -2465,8 +2394,6 @@ nature of R&D. Newly acquired and recently impaired indefinite-lived assets are 
 measured at the lower of fair value or carrying value at the end of each reporting period. As such, immediately after acquisition or impairment, even small declines in the outlook for
 these assets can negatively impact our ability to recover the carrying value and can result in an impairment charge.
 
-2023 Form 10-K
-
 Goodwill––Our goodwill impairment review work as of December 31, 2023 concluded that none of our goodwill was impaired and we do not believe the risk of impairment is
 significant at this time, as the fair value of each of our reporting units is significantly higher than their respective net book values.
 In our review, we first assess qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying amount. Qualitative factors
@@ -2494,26 +2421,26 @@ Expected annual rate of return on plan assets
 7.5 %
 6.3 %
 Actual annual rate of return on plan assets
-10.4 
+10.4
 (22.4)
-9.2 
+9.2
 Discount rate used to measure the plan obligations
-5.4 
-5.4 
-2.9 
+5.4
+5.4
+2.9
 International Pension Plans
 Expected annual rate of return on plan assets
-5.1 
-4.5 
-3.1 
+5.1
+4.5
+3.1
 Actual annual rate of return on plan assets
 (4.6)
 (26.0)
-11.4 
+11.4
 Discount rate used to measure the plan obligations
-4.4 
-3.8 
-1.6 
+4.4
+3.8
+1.6
 For detailed assumptions associated with our benefit plans, see Note 11B.
 Expected Annual Rate of Return on Plan Assets––The assumptions for the expected annual rate of return on all of our plan assets reflect our actual historical return experience and
 our long-term assessment of forward-looking return expectations by asset classes, which is used to develop a weighted-average expected return based on the implementation of our
@@ -2544,8 +2471,6 @@ our net periodic benefit cost for that year and (ii) the amount of service cost 
 (a)
 (a)
 
-2023 Form 10-K
-
 The following illustrates the sensitivity of net periodic benefit costs and benefit obligations to a 10 basis point decline in our assumption for the discount rate, holding all other
 assumptions constant (in millions, pre-tax):
 Assumption
@@ -2568,16 +2493,15 @@ indemnifications. See Notes 1Q, 1S, 5D and 16.
 ANALYSIS OF THE CONSOLIDATED STATEMENTS OF INCOME
 Total Revenues by Geography
 The following presents worldwide Total revenues by geography:
- 
-Year Ended December 31,
+
 % Change
- 
+
 Worldwide
 U.S.
-International
+
 Worldwide
 U.S.
-International
+
 (MILLIONS)
 
 23/22
@@ -2588,15 +2512,15 @@ International
 22/21
 Operating segments:
 Biopharma
-57,186 
-$ 98,988 
-$ 79,557 
-$ 26,698 
-$ 42,083 
-$ 29,221 
-$ 30,488 
-$ 56,905 
-$ 50,336 
+57,186
+$ 98,988
+$ 79,557
+$ 26,698
+$ 42,083
+$ 29,221
+$ 30,488
+$ 56,905
+$ 50,336
 (42)
 
 (37)
@@ -2604,26 +2528,26 @@ $ 50,336
 (46)
 
 Business Innovation
-1,310 
-1,342 
-1,731 
+1,310
+1,342
+1,731
 
-1,206 
+1,206
 (2)
 (22)
 (26)
 (3)
 (21)
 Total revenues
-58,496 
-$ 100,330 
-$ 81,288 
-$ 27,088 
-$ 42,473 
-$ 29,746 
-$ 31,408 
-$ 57,857 
-$ 51,542 
+58,496
+$ 100,330
+$ 81,288
+$ 27,088
+$ 42,473
+$ 29,746
+$ 31,408
+$ 57,857
+$ 51,542
 (42)
 
 (36)
@@ -2635,7 +2559,7 @@ The following provides an analysis of the worldwide change in Total revenues by 
 (MILLIONS)
 Worldwide
 U.S.
-International
+
 Operational growth/(decline):
 Worldwide declines from Comirnaty
 (26,423)
@@ -2647,8 +2571,8 @@ Worldwide declines from Paxlovid
 (5,703)
 Worldwide growth from the Vyndaqel family, Eliquis, the Prevnar family and Inlyta, partially offset by worldwide
 declines from Ibrance, Xeljanz and Xtandi
-1,016 
-1,018 
+1,016
+1,018
 (2)
 Increase in revenues from Nurtec ODT/Vydura and Oxbryta, which were acquired in the fourth quarter of 2022
 
@@ -2681,49 +2605,42 @@ product revenue deductions on gross sales for a reporting period. Historically, 
 material to our overall business and generally have been less than 1% of revenues. Product-specific rebates, however, can have a significant impact on year-over-year individual
 product revenue growth trends.
 
-2023 Form 10-K
-
 The following presents information about product revenue deductions:
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 Medicare rebates
 
-
-
 Medicaid and related state program rebates
-1,655 
+1,655
 
-1,214 
+1,214
 Performance-based contract rebates
-5,159 
-3,575 
-3,253 
+5,159
+3,575
+3,253
 Chargebacks
-9,828 
-7,560 
-6,122 
+9,828
+7,560
+6,122
 Sales allowances
-6,790 
-5,460 
-4,809 
+6,790
+5,460
+4,809
 Sales returns and cash discounts
-5,619 
-1,290 
-1,054 
+5,619
+1,290
+1,054
 Total
-30,048 
-19,697 
-17,178 
+30,048
+19,697
+17,178
 The increase in sales returns and cash discounts in 2023 was primarily due to the revenue reversal of $3.5 billion in the fourth quarter of 2023, related to the expected return of an estimated 6.5 million
 treatment courses of EUA-labeled U.S. government Paxlovid inventory (see Note 17C).
 Product revenue deductions are primarily a function of product sales volume, mix of products sold, contractual or legislative discounts and rebates.
 For information on our accruals for product revenue deductions, including the balance sheet classification of these accruals, see Note 1G.
 (a)
-(a) 
-
-2023 Form 10-K
+(a)
 
 Total Revenues—Selected Product Discussion
 Biopharma
@@ -2742,114 +2659,113 @@ Operational Results Commentary
 Comirnaty
 $11,220
 Down 70%
-(operationally)
+
 U.S.
-2,404 
-8,775 
+2,404
+8,775
 (73)
 Declines largely driven by lower contracted deliveries and demand in
 international markets and lower U.S. government contracted deliveries, due to
 transition to new variant vaccines in most markets and the transition to traditional
 U.S. commercial market sales which began in September 2023.
 Int’l.
-8,816 
-29,032 
+8,816
+29,032
 (70)
 (69)
 Worldwide
-11,220 
-37,806 
+11,220
+37,806
 (70)
 (70)
 Eliquis
 $6,747
 Up 5%
-(operationally)
+
 U.S.
-4,228 
-3,822 
+4,228
+3,822
 
 Growth driven primarily by continued oral anti-coagulant adoption and market
 share gains in the non-valvular atrial fibrillation indication in the U.S. and certain
 markets in Europe, partially offset by declines due to LOE and generic
 competition in certain international markets.
 Int’l.
-2,519 
-2,658 
+2,519
+2,658
 (5)
 (3)
 Worldwide
-6,747 
-6,480 
+6,747
+6,480
 
 Prevnar family
 $6,440
 Up 3%
-(operationally)
+
 U.S.
-4,204 
-4,032 
+4,204
+4,032
 
 Growth primarily driven by the adult indications in the U.S. due to strong patient
 demand for Prevnar 20 for the eligible adult population, partially offset by the
 Prevnar pediatric indication in the U.S. driven by lower market share due to
 competitor entry.
 Int’l.
-2,236 
-2,305 
+2,236
+2,305
 (3)
 Worldwide
-6,440 
-6,337 
+6,440
+6,337
 
 Ibrance
 $4,753
 Down 6%
- 
-(operationally)
+
 U.S.
-3,151 
-3,370 
+3,151
+3,370
 (6)
 Declines primarily driven by lower demand globally due to competitive pressure,
 lower clinical trial purchases internationally, and planned price decreases in
 certain international developed markets.
 Int’l.
-1,602 
-1,751 
+1,602
+1,751
 (8)
 (6)
 Worldwide
-4,753 
-5,120 
+4,753
+5,120
 (7)
 (6)
 Vyndaqel family
 $3,321
 Up 36%
-(operationally)
+
 U.S.
-1,863 
-1,245 
+1,863
+1,245
 
 Growth largely driven by continued strong uptake of the ATTR-CM indication,
 primarily in the U.S. and developed Europe, partially offset by a planned price
 decrease that went into effect in Japan in the second quarter of 2022.
 Int’l.
-1,458 
-1,202 
+1,458
+1,202
 
 Worldwide
-3,321 
-2,447 
+3,321
+2,447
 
 Xeljanz
 $1,703
 Down 4%
-(operationally)
+
 U.S.
-1,154 
-1,129 
+1,154
+1,129
 
 Decline driven primarily by decreased prescription volumes globally resulting
 from ongoing shifts in prescribing patterns related to label changes, partially
@@ -2859,17 +2775,17 @@ Int’l.
 (18)
 (15)
 Worldwide
-1,703 
-1,796 
+1,703
+1,796
 (5)
 (4)
 Paxlovid
 $1,279
 Down 92%
-(operationally)
+
 U.S.
 (1,289)
-10,514 
+10,514
 Declines primarily driven by:
 a non-cash revenue reversal of $3.5 billion recorded in the fourth quarter of
 2023, of which a portion was associated with sales recorded in 2022, related
@@ -2882,37 +2798,36 @@ the first quarter of 2023; and
 fourth quarter sales under traditional commercial markets following transition,
 primarily in the U.S.
 Int’l.
-2,568 
-8,419 
+2,568
+8,419
 (69)
 (68)
 Worldwide
-1,279 
-18,933 
+1,279
+18,933
 (93)
 (92)
 Xtandi
 $1,191
 Down 1%
-(operationally)
+
 U.S.
-1,191 
-1,198 
+1,191
+1,198
 (1)
 Decline driven by lower net price mainly due to unfavorable changes in channel
 mix, partially offset by higher demand.
 Int’l.
 Worldwide
-1,191 
-1,198 
+1,191
+1,198
 (1)
 (1)
 Inlyta
 $1,036
 Up 5%
-(operationally)
-U.S.
 
+U.S.
 
 Growth primarily reflects continued growth in emerging markets and the U.S.
 driven by the adoption of combinations of certain immune checkpoint inhibitors
@@ -2921,14 +2836,13 @@ offset by lower volumes and lower net price in certain European markets.
 Int’l.
 
 Worldwide
-1,036 
-1,003 
+1,036
+1,003
 
 Nurtec
 ODT/Vydura
 $928
 U.S.
-
 
 Growth primarily driven by timing of the acquisition of Biohaven (fourth quarter of
 2022) as well as strong patient demand in the U.S. See Note 2A.
@@ -2936,10 +2850,7 @@ Int’l.
 
 Worldwide
 
-
 (a)
-
-2023 Form 10-K
 
 Business Innovation
 Revenue
@@ -2959,9 +2870,8 @@ Business
 Innovation
 $1,310
 Down 2%
-(operationally)
-U.S.
 
+U.S.
 
 Decline primarily driven by a reduction in Comirnaty supply to BioNTech and
 lower revenues from our active pharmaceutical ingredient sales operation,
@@ -2973,8 +2883,8 @@ Int’l.
 (3)
 (3)
 Worldwide
-1,310 
-1,342 
+1,310
+1,342
 (2)
 (2)
 Comirnaty includes direct sales and Alliance revenues related to sales of the Pfizer-BioNTech COVID-19 vaccine, which are recorded within our Primary Care customer group. It does not include revenues
@@ -2985,16 +2895,16 @@ developments concerning patent and product litigation relating to certain of the
 discussed above.
 Costs and Expenses
 Costs and expenses follow:
-Year Ended December 31,
+
 % Change
 (MILLIONS)
 
 23/22
 22/21
-Cost of sales
-24,954 
-34,344 
-30,821 
+
+24,954
+34,344
+30,821
 (27)
 
 Percentage of Total revenues
@@ -3002,32 +2912,31 @@ Percentage of Total revenues
 34.2 %
 37.9 %
 Selling, informational and administrative expenses
-14,771 
-13,677 
-12,703 
+14,771
+13,677
+12,703
 
 Research and development expenses
-10,679 
-11,428 
-10,360 
+10,679
+11,428
+10,360
 (7)
 
 Acquired in-process research and development expenses
 
-3,469 
+3,469
 (80)
 (73)
 Amortization of intangible assets
-4,733 
-3,609 
-3,700 
+4,733
+3,609
+3,700
 
 (2)
 Restructuring charges and certain acquisition-related
 costs
-2,943 
-1,375 
-
+2,943
+1,375
 
 Other (income)/deductions—net
 (835)
@@ -3059,8 +2968,6 @@ Research and development expenses decreased $749 million, primarily due to:
 (a)
 (a)
 (a)
-
-2023 Form 10-K
 
 partially offset by:
 • increased investments of $345 million, mainly to develop certain acquired assets, as well as activities to support upcoming product launches.
@@ -3096,8 +3003,7 @@ Upjohn Separation Costs
 Since inception through December 31, 2023, we have incurred substantially all costs of approximately $700 million in connection with separating Upjohn, including costs and
 expenses related to separation of legal entities and transaction costs.
 Provision/(Benefit) for Taxes on Income
- 
-Year Ended December 31,
+
 % Change
 (MILLIONS)
 
@@ -3105,8 +3011,8 @@ Year Ended December 31,
 22/21
 Provision/(benefit) for taxes on income
 (1,115)
-3,328 
-1,852 
+3,328
+1,852
 
 Effective tax rate on continuing operations
 (105.4)%
@@ -3123,8 +3029,6 @@ which we do business, and such impact could be material to our results of operat
 implementation by individual countries.
 Discontinued Operations
 For information about our discontinued operations, see Note 2B.
-
-2023 Form 10-K
 
 PRODUCT DEVELOPMENTS
 A comprehensive update of Pfizer’s development pipeline was published as of January 30, 2024 and is available at www.pfizer.com/science/drug-product-pipeline. It includes an
@@ -3189,8 +3093,6 @@ In September 2023, Pfizer and BioNTech announced the FDA approved a regulatory a
 age (Pfizer-BioNTech COVID-19 Vaccine (2023-2024 Formula)).
 (a)
 (a)
-
-2023 Form 10-K
 
 Other Products
 PRODUCT
@@ -3439,8 +3341,6 @@ V600E
 (j)
 (k)
 
-2023 Form 10-K
-
 For the U.S., the filing date is the date on which the FDA accepted our submission. For the EU, the filing date is the date on which the EMA validated our submission.
 Being developed in collaboration with OPKO.
 Previously authorized under EUA in the U.S. (December 2021) and approved by the FDA in high-risk adults (May 2023). Remains under EUA for children (12-18 years of age; >88lbs) in the U.S.
@@ -3493,7 +3393,7 @@ Cisplatin-eligible muscle-invasive bladder cancer
 Tukysa (tucatinib)
 HER2+ adjuvant breast cancer
 2nd line/3rd line HER2+ metastatic breast cancer
-1st line HER2+ metastatic colorectal cancer 
+1st line HER2+ metastatic colorectal cancer
 NEW DRUG
 CANDIDATES IN LATESTAGE DEVELOPMENT
 giroctocogene fitelparvovec
@@ -3567,8 +3467,6 @@ V600E
 (h)
 (i)
 (j)
-
-2023 Form 10-K
 
 For additional information about our R&D organization, see Note 17 and the Item 1. Business—Research and Development section. For additional information regarding certain
 collaboration arrangements, see Item 1. Business—Collaboration and Co-Promotion Agreements.
@@ -3648,8 +3546,6 @@ changes for contingent consideration.
 (a)
 (b)
 
-2023 Form 10-K
-
 Discontinued Operations––Adjusted income excludes the results of discontinued operations, as well as any related gains or losses on the disposal of such operations. We believe
 that this presentation is meaningful to investors because, while we review our product portfolio for strategic fit with our operations, we do not build or run our business with the intent
 to discontinue parts of our business. Restatements due to discontinued operations do not impact compensation or change the Adjusted income measure for the compensation in
@@ -3669,7 +3565,7 @@ Reconciliations of GAAP Reported to Non-GAAP Adjusted Information––Certain L
 Year Ended December 31, 2023
 Data presented will not (in all cases) aggregate to totals.
 MILLIONS, EXCEPT PER SHARE DATA
-Cost of sales
+
 Selling, informational and
 administrative expenses
 Other
@@ -3685,18 +3581,18 @@ Inc. common
 shareholders––
 diluted
 GAAP Reported
-24,954 
-14,771 
+24,954
+14,771
 (835)
-2,119 
-0.37 
+2,119
+0.37
 Amortization of intangible assets
-4,733 
+4,733
 Acquisition-related items
 (629)
 (11)
 (28)
-1,874 
+1,874
 Discontinued operations
 (11)
 Certain significant items:
@@ -3705,12 +3601,12 @@ costs and additional depreciation—asset
 restructuring
 (98)
 (290)
-2,227 
+2,227
 Certain asset impairments
 (3,024)
-3,024 
+3,024
 (Gains)/losses on equity securities
-1,588 
+1,588
 (1,588)
 Actuarial valuation and other pension and
 postretirement plan (gains)/losses
@@ -3724,15 +3620,15 @@ Other
 Income tax provision—Non-GAAP items
 (2,131)
 Non-GAAP Adjusted
-23,988 
-14,446 
+23,988
+14,446
 (2,281)
-10,501 
-1.84 
+10,501
+1.84
 Year Ended December 31, 2022
 Data presented will not (in all cases) aggregate to totals.
 MILLIONS, EXCEPT PER SHARE DATA
-Cost of sales
+
 Selling, informational and
 administrative expenses
 Other
@@ -3748,13 +3644,13 @@ Inc. common
 shareholders––
 diluted
 GAAP Reported
-34,344 
-13,677 
+34,344
+13,677
 
-31,372 
-5.47 
+31,372
+5.47
 Amortization of intangible assets
-3,609 
+3,609
 Acquisition-related items
 (119)
 (7)
@@ -3768,13 +3664,13 @@ costs and additional depreciation—asset
 restructuring
 (88)
 (562)
-1,396 
+1,396
 Certain asset impairments
 (421)
 
 (Gains)/losses on equity securities
 (1,270)
-1,270 
+1,270
 Actuarial valuation and other pension and
 postretirement plan (gains)/losses
 
@@ -3787,11 +3683,11 @@ Other
 Income tax provision—Non-GAAP items
 (1,683)
 Non-GAAP Adjusted
-34,096 
-13,049 
+34,096
+13,049
 (1,954)
-37,717 
-6.58 
+37,717
+6.58
 (a)
 (a)
 (a)
@@ -3812,12 +3708,10 @@ Non-GAAP Adjusted
 (f)
 (h)
 
-2023 Form 10-K
-
 Year Ended December 31, 2021
 Data presented will not (in all cases) aggregate to totals.
 MILLIONS, EXCEPT PER SHARE DATA
-Cost of sales
+
 Selling, informational and
 administrative expenses
 Other
@@ -3833,15 +3727,15 @@ Inc. common
 shareholders––
 diluted
 GAAP Reported
-30,821 
-12,703 
+30,821
+12,703
 (4,878)
-21,979 
-3.85 
+21,979
+3.85
 Amortization of intangible assets
 (38)
 (2)
-3,746 
+3,746
 Acquisition-related items
 
 (3)
@@ -3855,16 +3749,16 @@ costs and additional depreciation—asset
 restructuring
 (108)
 (450)
-1,309 
+1,309
 Certain asset impairments
 (86)
 
 (Gains)/losses on equity securities
-1,338 
+1,338
 (1,338)
 Actuarial valuation and other pension and
 postretirement plan (gains)/losses
-1,601 
+1,601
 (1,601)
 Other
 (52)
@@ -3874,11 +3768,11 @@ Other
 Income tax provision—Non-GAAP items
 (2,250)
 Non-GAAP Adjusted
-30,685 
-12,071 
+30,685
+12,071
 (2,475)
-23,196 
-4.06 
+23,196
+4.06
 Items that reconcile GAAP Reported to non-GAAP Adjusted balances are shown pre-tax. Our effective tax rates for GAAP Reported income from continuing operations were: (105.4)% in 2023, 9.6% in
 2022 and 7.6% in 2021. See Note 5. Our effective tax rates for non-GAAP Adjusted income were: 9.0% in 2023, 11.7% in 2022 and 14.5% in 2021.
 Includes reconciling amounts for Research and development expenses that are not material to our non-GAAP consolidated results of operations.
@@ -3921,23 +3815,20 @@ For 2021, the total of $141 million primarily included costs for consulting, leg
 (h)
 (i)
 
-2023 Form 10-K
-
 ANALYSIS OF THE CONSOLIDATED STATEMENTS OF CASH FLOWS
 For a discussion of the drivers of change for 2022 versus 2021 as well as cash flows from discontinued operations in 2021, see the Analysis of the Consolidated Statements of Cash
 Flows section within MD&A in our 2022 Form 10-K.
 Cash Flows from Continuing Operations
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 Drivers of change 2023 v. 2022
 Cash provided by/(used in):
 Operating activities from continuing
 operations
-8,700 
-29,267 
-32,922 
+8,700
+29,267
+32,922
 The change was driven primarily by a decrease in net income adjusted for non-cash items and the
 timing of receipts and payments in the ordinary course of business, partially offset by net changes
 in inventory greater than one year (see Note 8A).
@@ -3954,7 +3845,7 @@ investing activities (see Note 2C), partially offset by a $5.5 billion increase 
 short-term investments in 2023 and a $1.7 billion decrease in purchases of long-term investments.
 Financing activities from continuing
 operations
-26,066 
+26,066
 (14,834)
 (9,816)
 The change was driven mostly by $30.8 billion of proceeds from the issuance of long-term debt in
@@ -4002,8 +3893,6 @@ Statements of Cash Flows section within MD&A.
 Financing for Seagen Acquisition––As part of the financing for our acquisition of Seagen, we issued $31 billion of long-term debt in May 2023 and $8 billion of commercial paper
 in the fourth quarter of 2023. The net proceeds from long-term debt were invested in short-term investments in a combination of money market funds and available-for-sale debt
 securities until the completion of the acquisition.
-
-2023 Form 10-K
 
 Credit Ratings––The cost and availability of financing are influenced by credit ratings, and an increase or decrease in our credit rating could have a beneficial or adverse effect on
 financing. Our long-term debt is rated high-quality by both S&P and Moody’s. In March 2023, following the announcement of the proposed acquisition of Seagen, Moody’s changed
@@ -4063,8 +3952,6 @@ Equity Price Risk––We hold long-term investments in equity securities with r
 transactions (see Note 7B). While we are holding such securities, we are subject to equity price risk, and this may increase the volatility of our income in future periods due to
 changes in the fair value of equity investments. From time to time, we will sell
 
-2023 Form 10-K
-
 such equity securities based on our business considerations, which may include limiting our price risk. Our equity securities with readily determinable fair values are analyzed at
 year-end to determine their sensitivity to equity price rate changes. In this sensitivity analysis, the expected impact on our net income would not be significant.
 NEW ACCOUNTING STANDARDS
@@ -4108,8 +3995,6 @@ ITEM 7A.
 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 The information required by this Item is incorporated by reference to the discussion in the Analysis of Financial Condition, Liquidity, Capital Resources and Market Risk section within
 MD&A.
-
-2023 Form 10-K
 
 ITEM 8.
 FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
@@ -4164,8 +4049,6 @@ The following are the primary procedures we performed to address this critical a
 over the Company’s liability for unrecognized tax position process related to (1) interpretation of tax law, (2) evaluation of which of the Company’s tax positions may not be sustained
 upon audit, and (3) estimation and recording of the gross
 
-2023 Form 10-K
-
 Report of Independent Registered Public Accounting Firm
 unrecognized tax benefits. We involved tax and valuation professionals with specialized skills and knowledge who assisted in evaluating the Company’s interpretation of tax laws,
 including the assessment of transfer pricing practices in accordance with applicable tax laws and regulations. We inspected settlements with applicable taxing authorities, including
@@ -4211,118 +4094,109 @@ firms have served as the Company’s auditor since at least 1942.
 New York, New York
 February 22, 2024
 
-2023 Form 10-K
-
 Consolidated Statements of Income
 
- 
-Year Ended December 31,
 (MILLIONS, EXCEPT PER SHARE DATA)
 
 Revenues:
 Product revenues
-50,914 
-91,793 
-73,636 
+50,914
+91,793
+73,636
 Alliance revenues
-7,582 
-8,537 
-7,652 
+7,582
+8,537
+7,652
 Total revenues
-58,496 
-100,330 
-81,288 
+58,496
+100,330
+81,288
 Costs and expenses:
- 
- 
-Cost of sales
-24,954 
-34,344 
-30,821 
+
+24,954
+34,344
+30,821
 Selling, informational and administrative expenses
-14,771 
-13,677 
-12,703 
+14,771
+13,677
+12,703
 Research and development expenses
-10,679 
-11,428 
-10,360 
+10,679
+11,428
+10,360
 Acquired in-process research and development expenses
 
-3,469 
+3,469
 Amortization of intangible assets
-4,733 
-3,609 
-3,700 
+4,733
+3,609
+3,700
 Restructuring charges and certain acquisition-related costs
-2,943 
-1,375 
+2,943
+1,375
 
 Other (income)/deductions––net
 (835)
 
 (4,878)
 Income from continuing operations before provision/(benefit) for taxes on income
-1,058 
-34,729 
-24,311 
+1,058
+34,729
+24,311
 Provision/(benefit) for taxes on income
 (1,115)
-3,328 
-1,852 
+3,328
+1,852
 Income from continuing operations
-2,172 
-31,401 
-22,459 
+2,172
+31,401
+22,459
 Discontinued operations––net of tax
 (15)
 
 (434)
 Net income before allocation to noncontrolling interests
-2,158 
-31,407 
-22,025 
+2,158
+31,407
+22,025
 Less: Net income attributable to noncontrolling interests
 
 Net income attributable to Pfizer Inc. common shareholders
-2,119 
-31,372 
-21,979 
+2,119
+31,372
+21,979
 Earnings per common share––basic:
- 
- 
- 
+
 Income from continuing operations attributable to Pfizer Inc. common shareholders
-0.38 
-5.59 
-4.00 
+0.38
+5.59
+4.00
 Discontinued operations––net of tax
 (0.08)
 Net income attributable to Pfizer Inc. common shareholders
-0.38 
-5.59 
-3.92 
+0.38
+5.59
+3.92
 Earnings per common share––diluted:
- 
- 
+
 Income from continuing operations attributable to Pfizer Inc. common shareholders
-0.37 
-5.47 
-3.93 
+0.37
+5.47
+3.93
 Discontinued operations––net of tax
 (0.08)
 Net income attributable to Pfizer Inc. common shareholders
-0.37 
-5.47 
-3.85 
+0.37
+5.47
+3.85
 Weighted-average shares––basic
-5,643 
-5,608 
-5,601 
+5,643
+5,608
+5,601
 Weighted-average shares––diluted
-5,709 
-5,733 
-5,708 
+5,709
+5,733
+5,708
 See Note 1G.
 Exclusive of amortization of intangible assets.
 See Notes 8A and 17A.
@@ -4336,24 +4210,21 @@ See Accompanying Notes.
 (b)
 (c)
 
-2023 Form 10-K
-
 Consolidated Statements of Comprehensive Income
 
-Year Ended December 31,
 (MILLIONS)
 
 Net income before allocation to noncontrolling interests
-2,158 
-31,407 
-22,025 
+2,158
+31,407
+22,025
 Foreign currency translation adjustments, net
 
 (2,328)
 (682)
 Unrealized holding gains/(losses) on derivative financial instruments, net
 
-1,444 
+1,444
 
 Reclassification adjustments for (gains)/losses included in net income
 (413)
@@ -4367,7 +4238,7 @@ Unrealized holding gains/(losses) on available-for-sale securities, net
 (355)
 Reclassification adjustments for (gains)/losses included in net income
 (141)
-1,809 
+1,809
 (30)
 (261)
 
@@ -4384,7 +4255,7 @@ Reclassification adjustments related to curtailments of prior service costs and 
 (15)
 (12)
 (75)
- 
+
 (157)
 (166)
 (113)
@@ -4400,19 +4271,17 @@ Other comprehensive income/(loss) before allocation to noncontrolling interests
 
 (2,422)
 (589)
- 
- 
- 
+
 Comprehensive income/(loss) before allocation to noncontrolling interests
-2,488 
-28,985 
-21,435 
+2,488
+28,985
+21,435
 Less: Comprehensive income/(loss) attributable to noncontrolling interests
 
 Comprehensive income/(loss) attributable to Pfizer Inc.
-2,462 
-28,965 
-21,393 
+2,462
+28,965
+21,393
 Reclassified into Other (income)/deductions—net and Cost of sales. See Note 7E.
 Reclassified into Other (income)/deductions—net.
 See Accompanying Notes.
@@ -4421,145 +4290,136 @@ See Accompanying Notes.
 (a)
 (b)
 
-2023 Form 10-K
-
 Consolidated Balance Sheets
 
-As of December 31,
 (MILLIONS, EXCEPT PER SHARE DATA)
 
 Assets
 Cash and cash equivalents
-2,853 
+2,853
 
 Short-term investments
-9,837 
-22,316 
+9,837
+22,316
 Trade accounts receivable, less allowance for doubtful accounts: 2023—$470; 2022—$449
-11,177 
-10,952 
+11,177
+10,952
 Inventories
-10,189 
-8,981 
+10,189
+8,981
 Current tax assets
-3,978 
-3,577 
+3,978
+3,577
 Other current assets
-5,299 
-5,017 
+5,299
+5,017
 Total current assets
-43,333 
-51,259 
+43,333
+51,259
 Equity-method investments
-11,637 
-11,033 
+11,637
+11,033
 Long-term investments
-3,731 
-4,036 
+3,731
+4,036
 Property, plant and equipment
-18,940 
-16,274 
+18,940
+16,274
 Identifiable intangible assets
-64,900 
-43,370 
+64,900
+43,370
 Goodwill
-67,783 
-51,375 
+67,783
+51,375
 Noncurrent deferred tax assets and other noncurrent tax assets
-3,706 
-6,693 
+3,706
+6,693
 Other noncurrent assets
-12,471 
-13,163 
+12,471
+13,163
 Total assets
-226,501 
-197,205 
+226,501
+197,205
 Liabilities and Equity
- 
- 
+
 Short-term borrowings, including current portion of long-term debt: 2023—$2,254; 2022—$2,560
-10,350 
-2,945 
+10,350
+2,945
 Trade accounts payable
-6,710 
-6,809 
+6,710
+6,809
 Dividends payable
-2,372 
-2,303 
+2,372
+2,303
 Income taxes payable
-2,349 
-1,587 
+2,349
+1,587
 Accrued compensation and related items
-2,776 
-3,407 
+2,776
+3,407
 Deferred revenues
-2,700 
-2,520 
+2,700
+2,520
 Other current liabilities
-20,537 
-22,568 
+20,537
+22,568
 Total current liabilities
-47,794 
-42,138 
+47,794
+42,138
 Long-term debt
-61,538 
-32,884 
+61,538
+32,884
 Pension and postretirement benefit obligations
-2,167 
-2,250 
+2,167
+2,250
 Noncurrent deferred tax liabilities
 
-1,023 
+1,023
 Other taxes payable
-8,534 
-9,812 
+8,534
+9,812
 Other noncurrent liabilities
-16,539 
-13,180 
+16,539
+13,180
 Total liabilities
-137,213 
-101,288 
+137,213
+101,288
 Commitments and Contingencies
 Preferred stock, no par value, at stated value; 27 shares authorized; no shares issued or outstanding as of December 31, 2023
 and December 31, 2022
 Common stock, $0.05 par value; 12,000 shares authorized; issued: 2023—9,562; 2022—9,519
 
 Additional paid-in capital
-92,631 
-91,802 
+92,631
+91,802
 Treasury stock, shares at cost: 2023—3,916; 2022—3,903
 (114,487)
 (113,969)
 Retained earnings
-118,353 
-125,656 
+118,353
+125,656
 Accumulated other comprehensive loss
 (7,961)
 (8,304)
 Total Pfizer Inc. shareholders’ equity
-89,014 
-95,661 
+89,014
+95,661
 Equity attributable to noncontrolling interests
 
 Total equity
-89,288 
-95,916 
+89,288
+95,916
 Total liabilities and equity
-226,501 
-197,205 
+226,501
+197,205
 See Accompanying Notes.
-
-2023 Form 10-K
 
 Consolidated Statements of Equity
 
- 
 Common Stock
- 
+
 Treasury Stock
- 
- 
- 
+
 (MILLIONS, EXCEPT PER SHARE DATA)
 Shares
 Par Value
@@ -4581,21 +4441,21 @@ Interests
 Total
 Equity
 Balance, January 1, 2021
-9,407 
+9,407
 
-88,674 
+88,674
 (3,840)
 (110,988)
-90,392 
+90,392
 (5,310)
-63,238 
+63,238
 
-63,473 
+63,473
 Net income
-21,979 
-21,979 
+21,979
+21,979
 
-22,025 
+22,025
 Other comprehensive income/(loss), net of tax
 (587)
 (587)
@@ -4611,33 +4471,33 @@ Noncontrolling interests
 (8)
 Share-based payment transactions
 
-1,917 
+1,917
 (11)
 (373)
 (77)
-1,470 
-1,470 
+1,470
+1,470
 Other
 (85)
 (85)
 (7)
 (92)
 Balance, December 31, 2021
-9,471 
+9,471
 
-90,591 
+90,591
 (3,851)
 (111,361)
-103,394 
+103,394
 (5,897)
-77,201 
+77,201
 
-77,462 
+77,462
 Net income
-31,372 
-31,372 
+31,372
+31,372
 
-31,407 
+31,407
 Other comprehensive income/(loss), net of tax
 (2,407)
 (2,407)
@@ -4653,7 +4513,7 @@ Noncontrolling interests
 (13)
 Share-based payment transactions
 
-1,192 
+1,192
 (13)
 (608)
 (73)
@@ -4665,25 +4525,24 @@ Purchases of common stock
 (2,000)
 Other
 
-
 (13)
 
 Balance, December 31, 2022
-9,519 
+9,519
 
-91,802 
+91,802
 (3,903)
 (113,969)
-125,656 
+125,656
 (8,304)
-95,661 
+95,661
 
-95,916 
+95,916
 Net income
-2,119 
-2,119 
+2,119
+2,119
 
-2,158 
+2,158
 Other comprehensive income/(loss), net of tax
 
 (12)
@@ -4704,51 +4563,45 @@ Share-based payment transactions
 
 Other
 Balance, December 31, 2023
-9,562 
+9,562
 
-92,631 
+92,631
 (3,916)
 (114,487)
-118,353 
+118,353
 (7,961)
-89,014 
+89,014
 
-89,288 
+89,288
 See Accompanying Notes.
-
-2023 Form 10-K
 
 Consolidated Statements of Cash Flows
 
- 
-Year Ended December 31,
 (MILLIONS)
 
 Operating Activities
- 
- 
+
 Net income before allocation to noncontrolling interests
-2,158 
-31,407 
-22,025 
+2,158
+31,407
+22,025
 Discontinued operations—net of tax
 (15)
 
 (434)
 Net income from continuing operations before allocation to noncontrolling interests
-2,172 
-31,401 
-22,459 
+2,172
+31,401
+22,459
 Adjustments to reconcile net income before allocation to noncontrolling interests to net cash
  provided by/(used in) operating activities:
- 
- 
+
 Depreciation and amortization
-6,290 
-5,064 
-5,191 
+6,290
+5,064
+5,191
 Asset write-offs and impairments
-3,408 
+3,408
 
 Deferred taxes
 (3,442)
@@ -4756,14 +4609,14 @@ Deferred taxes
 (4,293)
 Share-based compensation expense
 
-1,182 
+1,182
 Benefit plan contributions in excess of expense/income
 (787)
 (1,158)
 (3,123)
 Inventory write-offs and related charges associated with COVID-19 products
-6,199 
-1,183 
+6,199
+1,183
 Other adjustments, net
 (3,492)
 
@@ -4782,29 +4635,28 @@ Other assets
 (1,057)
 Trade accounts payable
 (300)
-1,191 
-1,242 
+1,191
+1,242
 Other liabilities
 
 (1,449)
-18,721 
+18,721
 Other tax accounts, net
 (982)
 (545)
 (1,166)
 Net cash provided by/(used in) operating activities from continuing operations
-8,700 
-29,267 
-32,922 
+8,700
+29,267
+32,922
 Net cash provided by/(used in) operating activities from discontinued operations
 (343)
 Net cash provided by/(used in) operating activities
-8,700 
-29,267 
-32,580 
+8,700
+29,267
+32,580
 Investing Activities
- 
- 
+
 Purchases of property, plant and equipment
 (3,907)
 (3,236)
@@ -4814,11 +4666,11 @@ Purchases of short-term investments
 (36,384)
 (38,457)
 Proceeds from redemptions/sales of short-term investments
-39,264 
-44,821 
-27,447 
+39,264
+44,821
+27,447
 Net (purchases of)/proceeds from redemptions/sales of short-term investments with original maturities of three months or less
-5,174 
+5,174
 (483)
 (8,088)
 Purchases of long-term investments
@@ -4826,13 +4678,13 @@ Purchases of long-term investments
 (1,913)
 (1,068)
 Proceeds from redemptions/sales of long-term investments
-1,979 
+1,979
 
 Acquisitions of businesses, net of cash acquired
 (43,430)
 (22,997)
 Dividend received from the Consumer Healthcare JV
-3,960 
+3,960
 Other investing activities, net
 (179)
 (192)
@@ -4848,20 +4700,19 @@ Net cash provided by/(used in) investing activities
 (15,783)
 (22,546)
 Financing Activities
- 
- 
+
 Proceeds from short-term borrowings
-4,525 
-3,891 
+4,525
+3,891
 Payments on short-term borrowings
 (3)
 (3,887)
 Net (payments on)/proceeds from short-term borrowings with original maturities of three months or less
-3,161 
+3,161
 (222)
 (96)
 Proceeds from issuances of long-term debt
-30,831 
+30,831
 
 Payments on long-term debt
 (2,569)
@@ -4878,7 +4729,7 @@ Other financing activities, net
 (335)
 
 Net cash provided by/(used in) financing activities
-26,066 
+26,066
 (14,834)
 (9,816)
 Effect of exchange-rate changes on cash and cash equivalents and restricted cash and cash equivalents
@@ -4886,17 +4737,17 @@ Effect of exchange-rate changes on cash and cash equivalents and restricted cash
 (165)
 (59)
 Net increase/(decrease) in cash and cash equivalents and restricted cash and cash equivalents
-2,448 
+2,448
 (1,515)
 
 Cash and cash equivalents and restricted cash and cash equivalents, at beginning of period
 
-1,983 
-1,825 
+1,983
+1,825
 Cash and cash equivalents and restricted cash and cash equivalents, at end of period
-2,917 
+2,917
 
-1,983 
+1,983
 - Continued -
 (a)
 (a)
@@ -4904,32 +4755,26 @@ Cash and cash equivalents and restricted cash and cash equivalents, at end of pe
 (c)
 (d)
 
-2023 Form 10-K
-
 Consolidated Statements of Cash Flows
 
-Year Ended December 31,
-
 Supplemental Cash Flow Information
- 
- 
+
 Cash paid/(received) during the period for:
 Income taxes
-3,147 
-7,867 
-7,427 
+3,147
+7,867
+7,427
 Interest paid
-2,215 
-1,442 
-1,467 
+2,215
+1,442
+1,467
 Interest rate hedges
 
 (2)
 Non-cash transaction:
 Right-of-use assets obtained in exchange for lease liabilities
 
-
-1,943 
+1,943
 See Notes 8A and 17A.
 See Note 8A.
 See Note 17C.
@@ -4939,10 +4784,6 @@ See Accompanying Notes.
 (b)
 (c)
 (d)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 Note 1. Basis of Presentation and Significant Accounting Policies
 A. Basis of Presentation
@@ -4994,10 +4835,6 @@ We measure certain assets and liabilities at fair value, either upon initial rec
 which requires, among other things, that we determine the price that would be received to sell an asset or paid to transfer a liability in an orderly market. The determination of an exit
 price is considered from the perspective of market participants,
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 considering the highest and best use of non-financial assets and, for liabilities, assuming that the risk of non-performance will be the same before and after the transfer.
 When estimating fair value, depending on the nature and complexity of the asset or liability, we may use one or all of the following techniques:
 • Income approach, which is based on the present value of a future stream of net cash flows.
@@ -5047,10 +4884,6 @@ Provisions for pharmaceutical sales returns––Provisions are based on a calcu
 practices; historical returns as a percentage of sales; an understanding of the reasons for past returns; estimated shelf life by product; an estimate of the amount of time between
 shipment and return or lag time; and any other factors that could
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 impact the estimate of future returns, such as LOE, product recalls or a changing competitive environment. Generally, returned products are destroyed, and customers are refunded
 the sales price in the form of a credit.
 We record sales incentives as a reduction of revenues at the time the related revenues are recorded or when the incentive is offered, whichever is later. We estimate the cost of our
@@ -5085,24 +4918,23 @@ prices and lower volumes due to added generic competition. We generally provide 
 expiration of intellectual property rights.
 Our accruals for Medicare, Medicaid and related state program and performance-based contract rebates, chargebacks, sales allowances and sales returns and cash discounts are
 as follows:
- 
-As of December 31,
+
 (MILLIONS)
 
 Reserve against Trade accounts receivable, less allowance for doubtful accounts
-1,770 
-1,200 
+1,770
+1,200
 Other current liabilities:
 Accrued rebates
-5,546 
-4,479 
+5,546
+4,479
 Other accruals
 
 Other noncurrent liabilities
 
 Total accrued rebates and other sales-related accruals
-9,014 
-6,722 
+9,014
+6,722
 Taxes collected from customers relating to product sales and remitted to governmental authorities are excluded from Product revenues.
 Trade Accounts Receivable—Trade accounts receivable are stated at their net realizable value. The allowance for credit losses reflects our best estimate of expected credit losses of
 the receivables portfolio determined on the basis of historical experience, current information, and forecasts of future economic conditions. In developing the estimate for expected
@@ -5112,10 +4944,6 @@ In determining the reserve percentages for each pool of trade accounts receivabl
 and legal environments, country and political risk, and other relevant current and future forecasted macroeconomic factors. These credit risk indicators are monitored on a quarterly
 basis to determine whether there have been any changes in the economic environment that would indicate the established reserve percentages should be adjusted, and are
 considered on a regional basis to reflect more geographic-specific metrics. Additionally, write-offs and recoveries of customer receivables are tracked against collections
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 on a quarterly basis to determine whether the reserve percentages remain appropriate. When management becomes aware of certain customer-specific factors that impact credit
 risk, specific allowances for these known troubled accounts are recorded. Trade accounts receivable are written off after all reasonable means to collect the full amount (including
@@ -5164,10 +4992,6 @@ depreciation. Property, plant and equipment assets, other than land and construc
 individual assets. Depreciation begins when the asset is ready for its intended use. For tax purposes, accelerated depreciation methods are used as allowed by tax laws.
 • Identifiable intangible assets, less accumulated amortization—These assets are recorded at fair value at acquisition. Intangible assets with finite lives are amortized on a straightline basis over their estimated useful lives. Intangible assets with indefinite lives are not amortized until a useful life can be determined.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 • Goodwill—Goodwill represents the excess of the consideration transferred for an acquired business over the assigned values of its net assets. Goodwill is not amortized.
 Amortization of finite-lived acquired intangible assets is included in Amortization of intangible assets.
 We review our long-lived assets for impairment indicators throughout the year. We perform impairment testing for indefinite-lived intangible assets and goodwill at least annually and
@@ -5215,10 +5039,6 @@ adjustments resulting from observable price changes in orderly transactions for 
 equity-method of accounting. Under the equity-method, we record our share of the investee’s income and expenses in Other (income)/deductions—net. The excess of the cost of
 the investment over our share of the underlying equity in the net assets of the investee as of the acquisition date is allocated to the identifiable assets and liabilities of the investee,
 with any remaining
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 excess amount allocated to goodwill. Such investments are initially recorded at cost, which is the fair value of consideration paid and typically does not include contingent
 consideration.
@@ -5271,10 +5091,6 @@ return on plan assets, expected employee turnover and participant mortality. For
 For our other postretirement benefit plans, the obligation may include assumptions as to the expected cost of providing medical insurance benefits, as well as the extent to which
 those costs are shared with the employee or others (such as governmental programs). Plan assets are measured at fair value.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 S. Legal and Environmental Contingencies
 We and certain of our subsidiaries are subject to numerous contingencies arising in the ordinary course of business, such as patent litigation, product liability and other productrelated litigation, commercial and other asserted or unasserted matters, environmental claims and proceedings, government investigations and guarantees and indemnifications. In
 assessing contingencies related to legal and environmental proceedings that are pending against the Company, or unasserted claims that are probable of being asserted, we record
@@ -5307,13 +5123,13 @@ as of Acquisition Date
 Working capital, excluding inventories
 
 Inventories
-4,195 
+4,195
 Property, plant and equipment
 
 Identifiable intangible assets, excluding in-process research and development
-7,970 
+7,970
 In-process research and development
-20,800 
+20,800
 Other noncurrent assets
 
 Net income tax accounts
@@ -5321,11 +5137,11 @@ Net income tax accounts
 Other noncurrent liabilities
 (167)
 Total identifiable net assets
-28,108 
+28,108
 Goodwill
-16,126 
+16,126
 Net assets acquired/total consideration transferred
-44,234 
+44,234
 Includes cash and cash equivalents, accounts receivable, other current assets, accounts payable, accrued compensation and other current liabilities.
 Comprised of $1.0 billion current inventories and $3.1 billion noncurrent inventories.
 Comprised mainly of $7.5 billion of finite-lived developed technology rights with an estimated weighted-average life of approximately 18 years.
@@ -5343,10 +5159,6 @@ the completion of certain physical inventory counts and the confirmation of the 
 (b)
 (c)
 (d)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 • Amounts for income tax assets, receivables and liabilities, pending the filing of Seagen’s pre-acquisition tax returns and the receipt of information, including but not limited to that
 from taxing authorities, which may change certain estimates and assumptions used.
@@ -5386,18 +5198,18 @@ estimated to have been sold ($109 million pre-tax); (ii) amortization expense re
 depreciation expense related to the preliminary fair value adjustment of fixed assets acquired from Seagen ($2 million pre-tax).
 The following table provides unaudited U.S. GAAP supplemental pro forma information as if the acquisition of Seagen had occurred on January 1, 2022:
 Unaudited Supplemental Pro Forma Consolidated Results
-Year Ended December 31,
+
 (MILLIONS, EXCEPT PER SHARE DATA)
 
 Revenues
-60,632 
-102,127 
+60,632
+102,127
 Net income/(loss) attributable to Pfizer Inc. common shareholders
 (1,474)
-27,938 
+27,938
 Diluted earnings/(loss) per share attributable to Pfizer Inc. common shareholders
 (0.26)
-4.87 
+4.87
 The unaudited supplemental pro forma consolidated results do not purport to reflect what the combined company’s results of operations would have been had the acquisition
 occurred on January 1, 2022, nor do they project the future results of operations of the combined company or reflect the expected realization of any cost savings associated with the
 acquisition. The actual results of operations of the combined company may differ significantly from the pro forma adjustments reflected here due to many factors.
@@ -5407,10 +5219,6 @@ and the liabilities assumed from Seagen. The historical U.S. GAAP financial info
 acquired.
 (a)
 (a)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 • Additional expense related to the preliminary estimate of the fair value adjustment to acquisition-date inventory estimated to have been sold (approximately $796 million in 2023
 and $887 million in 2022).
@@ -5462,10 +5270,6 @@ determined the applicable milestone was not achieved.
 We accounted for the transaction as an asset acquisition since the lead asset, sisunatovir, represented substantially all of the fair value of the gross assets acquired. At the
 acquisition date, we recorded a $426 million charge representing an acquired IPR&D asset with no alternative
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 use in Acquired in-process research and development expenses, which is presented as a cash outflow from operating activities. Other assets acquired and liabilities assumed were
 not significant.
 Trillium––On November 17, 2021, we acquired all of the issued and outstanding common stock not already owned by Pfizer of Trillium, a clinical stage immuno-oncology company
@@ -5500,18 +5304,13 @@ recorded under the above agreements in 2023, 2022 and 2021 were not material to 
 December 31, 2023 and $94 million as of December 31, 2022. The cash flows associated with the above agreements are included in Net cash provided by operating activities from
 continuing operations, except for a $277 million payment to Viatris made in 2021 pursuant to terms of the separation agreement, which is reported in Other financing activities, net.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Components of Discontinued operations––net of tax:
-Year Ended December 31,
+
 (MILLIONS)
 
 Total revenues
 
 Costs and expenses:
-Cost of sales
 
 Selling, informational and administrative expenses
 
@@ -5579,70 +5378,66 @@ Healthcare JV was not material to our results of operations in 2023 and 2021. Se
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Summarized financial information for our equity-method investee, Haleon/the Consumer Healthcare JV, as of September 30, 2023, the most recent period available, and as of
 September 30, 2022 and for the periods ending September 30, 2023, 2022, and 2021 is as follows:
 (MILLIONS)
 September 30, 2023
 September 30, 2022
 Current assets
-5,876 
-5,932 
+5,876
+5,932
 Noncurrent assets
-36,954 
-35,204 
+36,954
+35,204
 Total assets
-42,830 
-41,137 
+42,830
+41,137
 Current liabilities
-6,117 
-5,235 
+6,117
+5,235
 Noncurrent liabilities
-15,744 
-17,220 
+15,744
+17,220
 Total liabilities
-21,862 
-22,455 
+21,862
+22,455
 Equity attributable to shareholders
-20,719 
-18,455 
+20,719
+18,455
 Equity attributable to noncontrolling interests
 
 Total net equity
-20,968 
-18,682 
+20,968
+18,682
 For the Twelve Months Ending
 (MILLIONS)
 September 30, 2023
 September 30, 2022
 September 30, 2021
 Net sales
-13,921 
-13,566 
-12,836 
-Cost of sales
+13,921
+13,566
+12,836
+
 (5,580)
 (5,081)
 (4,755)
 Gross profit
-8,341 
-8,486 
-8,081 
+8,341
+8,486
+8,081
 Income from continuing operations
-1,606 
-1,745 
-1,614 
+1,606
+1,745
+1,614
 Net income
-1,606 
-1,745 
-1,614 
+1,606
+1,745
+1,614
 Income attributable to shareholders
-1,528 
-1,675 
-1,547 
+1,528
+1,675
+1,547
 In connection with GSK’s previously announced planned demerger of at least 80% of GSK’s 68% equity interest in the Consumer Healthcare JV, in March 2022 the Consumer
 Healthcare JV completed its offering of a total aggregate principal amount of $8.75 billion in U.S. dollar-denominated senior notes of various maturities, €2.35 billion in eurodenominated senior notes of various maturities and £700 million in U.K. pound-denominated senior notes of various maturities (collectively, the “notes”). The notes were guaranteed
 by GSK generally up to and excluding the date of the demerger (the “Guarantee Assumption Date”). We agreed to indemnify GSK for 32% (representing our pro rata equity interest
@@ -5662,62 +5457,57 @@ income (loss) in our results of operations. Since 2016, we have recognized divid
 $265 million in 2023, $314 million in 2022 and $166 million in 2021 (see Note 4).
 Summarized financial information for our equity-method investee, ViiV, as of December 31, 2023 and 2022 and for the years ending December 31, 2023, 2022, and 2021 is as
 follows:
-As of December 31,
+
 (MILLIONS)
 
 Current assets
-4,237 
-4,043 
+4,237
+4,043
 Noncurrent assets
-3,009 
-3,014 
+3,009
+3,014
 Total assets
-7,245 
-7,057 
+7,245
+7,057
 Current liabilities
-4,085 
-3,780 
+4,085
+3,780
 Noncurrent liabilities
-5,998 
-5,996 
+5,998
+5,996
 Total liabilities
-10,083 
-9,777 
+10,083
+9,777
 Total net equity/(deficit) attributable to shareholders
 (2,838)
 (2,720)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
-Year Ended December 31,
 (MILLIONS)
 
 Net sales
-7,845 
-6,955 
-6,380 
-Cost of sales
+7,845
+6,955
+6,380
+
 (1,060)
 (819)
 (682)
 Gross profit
-6,785 
-6,135 
-5,698 
+6,785
+6,135
+5,698
 Income from continuing operations
-3,090 
-3,108 
-2,040 
+3,090
+3,108
+2,040
 Net income
-3,090 
-3,108 
-2,040 
+3,090
+3,108
+2,040
 Income attributable to shareholders
-3,090 
-3,108 
-2,040 
+3,090
+3,108
+2,040
 D. Licensing Arrangement
 Agreement with Valneva––In June 2022, we entered into an Equity Subscription Agreement, under which we invested €90.5 million ($95 million) in Valneva to further support our
 arrangement to co-develop and commercialize Lyme disease vaccine candidate, VLA15, which we originally entered into with Valneva in 2020. In addition, we updated the terms of
@@ -5760,10 +5550,6 @@ in the fourth quarter of 2021 for an upfront payment due to Beam, and if we exer
 billion in development, regulatory and commercial milestone payments for a potential total deal consideration of up to $1.35 billion. Beam is also eligible to receive royalties on global
 net sales for each licensed program.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Collaboration with Arvinas––On July 21, 2021, we entered into a global collaboration with Arvinas to develop and commercialize ARV-471, an investigational oral PROTAC
 (PROteolysis TArgeting Chimera) estrogen receptor protein degrader. The estrogen receptor is a well-known disease driver in most breast cancers. In connection with the
 agreement, we made an upfront cash payment of $650 million to Arvinas and we made a $350 million equity investment in the common stock of Arvinas. We recognized $706 million
@@ -5772,22 +5558,20 @@ to receive up to $400 million in approval milestones and up to $1 billion in com
 expenses and profits. As of December 31, 2023, we held a 5.1% equity stake of Arvinas.
 Summarized Financial Information for Collaborative Arrangements
 The following provides the amounts and classification of payments (income/(expense)) between us and our collaboration partners:
-Year Ended December 31,
+
 (MILLIONS)
 
 Product revenues
 
-
-
 Alliance revenues
-7,582 
-8,537 
-7,652 
+7,582
+8,537
+7,652
 Total revenues from collaborative arrangements
-7,795 
-8,974 
-8,241 
-Cost of sales
+7,795
+8,974
+8,241
+
 (4,277)
 (15,589)
 (16,169)
@@ -5850,52 +5634,45 @@ our Biopharma segment and have substantially completed this program.
 (f)
 (g)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Realigning our Cost Base Program––In the fourth quarter of 2023, we announced that we launched a multi-year, enterprise-wide cost realignment program that aims to realign our
 costs with our longer-term revenue expectations. We expect costs associated with this multi-year effort to continue through 2024 and to total approximately $3.0 billion, primarily
 representing cash expenditures for severance and implementation costs, of which $1.1 billion is associated with our Biopharma segment.
 In 2023, we incurred costs under this program of $1.7 billion, of which $674 million (including $665 million of restructuring charges) is associated with our Biopharma segment.
 B. Key Activities
 The following summarizes costs and credits for acquisitions and cost-reduction/productivity initiatives:
-Year Ended December 31,
+
 (MILLIONS)
 
 Restructuring charges/(credits):
 Employee terminations
-1,622 
-
+1,622
 
 Asset impairments
 
 Exit costs/(credits)
 
 Restructuring charges/(credits)
-1,968 
+1,968
 
 Transaction costs
 
 Integration costs and other
 
 Restructuring charges and certain acquisition-related costs
-2,943 
-1,375 
+2,943
+1,375
 
 Net periodic benefit costs/(credits) recorded in Other (income)/deductions––net
 (7)
 (9)
 (63)
 Additional depreciation––asset restructuring recorded in our consolidated statements of income as follows :
-Cost of sales
 
 Selling, informational and administrative expenses
 
 Total additional depreciation––asset restructuring
 
 Implementation costs recorded in our consolidated statements of income as follows :
-Cost of sales
 
 Selling, informational and administrative expenses
 
@@ -5904,9 +5681,9 @@ Research and development expenses
 Total implementation costs
 
 Total costs associated with acquisitions and cost-reduction/productivity initiatives
-3,426 
-2,018 
-1,298 
+3,426
+2,018
+1,298
 Primarily represents cost-reduction initiatives. Amounts associated with our Biopharma segment: $672 million for 2023 (including charges of $665 million for Realigning our Cost Base Program and credits
 of $20 million for Transforming to a More Focused Company program), $354 million for 2022 (including charges of $291 million for Transforming to a More Focused Company program) and $610 million for
 2021 (including charges of $612 million for Transforming to a More Focused Company program).
@@ -5929,9 +5706,9 @@ Charges
 Exit Costs
 Accrual
 Balance, January 1, 2022
-1,014 
+1,014
 
-1,071 
+1,071
 Provision
 
 Utilization and other
@@ -5940,29 +5717,29 @@ Utilization and other
 (103)
 (750)
 Balance, December 31, 2022
-1,196 
+1,196
 
-1,204 
+1,204
 Provision
-1,622 
+1,622
 
-1,968 
+1,968
 Utilization and other
 (840)
 (227)
 (116)
 (1,184)
 Balance, December 31, 2023
-1,978 
+1,978
 
-1,988 
+1,988
 Other activity includes adjustments for foreign currency translation that are not material to our consolidated financial statements.
 Included in Other current liabilities ($991 million) and Other noncurrent liabilities ($213 million).
 Included in Other current liabilities ($1.3 billion) and Other noncurrent liabilities ($663 million).
 (a)
 (b)
 (c)
- 
+
 (d)
 (e)
 (a)
@@ -5977,14 +5754,10 @@ Included in Other current liabilities ($1.3 billion) and Other noncurrent liabil
 (a)
 (b)
 (c)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 Note 4. Other (Income)/Deductions—Net
 Components of Other (income)/deductions––net include:
-Year Ended December 31,
+
 (MILLIONS)
 
 Interest income
@@ -5992,19 +5765,19 @@ Interest income
 (251)
 (36)
 Interest expense
-2,209 
-1,238 
-1,291 
+2,209
+1,238
+1,291
 Net interest expense
 
-1,255 
+1,255
 Royalty-related income
 (1,058)
 (845)
 (857)
 Net (gains)/losses recognized during the period on equity securities
 (1,590)
-1,273 
+1,273
 (1,344)
 Income from collaborations, out-licensing arrangements and sales of compound/product rights
 (154)
@@ -6017,7 +5790,7 @@ Net periodic benefit costs/(credits) other than service costs
 Certain legal matters, net
 
 Certain asset impairments
-3,024 
+3,024
 
 Haleon/Consumer Healthcare JV equity method (income)/loss
 (505)
@@ -6068,19 +5841,19 @@ Level 2
 Level 3
 Impairment
 Intangible assets––IPR&D
-3,860 
-3,860 
-1,704 
+3,860
+3,860
+1,704
 Intangible assets––Developed technology rights
-1,942 
-1,942 
-1,184 
+1,942
+1,942
+1,184
 Intangible assets––Licensing agreements and other
 
 Total
-5,802 
-5,802 
-3,008 
+5,802
+5,802
+3,008
 The fair value amounts are presented as of the date of impairment, as these assets are not measured at fair value on a recurring basis. See also Note 1E.
 Reflects intangible assets written down to fair value in 2023. Fair value was determined using the income approach, specifically the multi-period excess earnings method, also known as the discounted
 cash flow method. We started with a forecast of all the expected net cash flows for the asset and then applied an asset-specific discount rate to arrive at a net present value amount. Some of the more
@@ -6110,29 +5883,24 @@ cash flows.
 (a)
 (b)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Note 5. Tax Matters
 A. Taxes on Income from Continuing Operations
 Components of Income from continuing operations before provision/(benefit) for taxes on income include:
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 United States
 (4,411)
-5,032 
-6,064 
-International
-5,469 
-29,697 
-18,247 
+5,032
+6,064
+
+5,469
+29,697
+18,247
 Income from continuing operations before provision/(benefit) for taxes on income
-1,058 
-34,729 
-24,311 
+1,058
+34,729
+24,311
 2023 v. 2022––The domestic loss in 2023 versus domestic income in 2022 and the decrease in international income in 2023 was primarily attributable to lower revenues, higher intangible asset
 impairment charges, and increases in Restructuring charges and certain acquisition-related costs, Amortization of intangible assets, and Selling, informational and administrative expenses, partially offset
 by a decrease in Cost of sales and net gains on equity securities in 2023 versus net losses on equity securities in 2022.
@@ -6140,16 +5908,15 @@ by a decrease in Cost of sales and net gains on equity securities in 2023 versus
 restructuring charges and certain acquisition-related costs, partially offset by Paxlovid income and lower acquired IPR&D expenses. The increase in international income is primarily related to Paxlovid and
 Comirnaty income partially offset by lower net periodic benefit credits.
 Components of Provision/(benefit) for taxes on income based on the location of the taxing authorities include:
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 United States
 Current income taxes:
 Federal
-1,321 
-2,744 
-3,342 
+1,321
+2,744
+3,342
 State and local
 (135)
 (20)
@@ -6167,23 +5934,23 @@ Total U.S. tax provision/(benefit)
 (1,605)
 (857)
 (964)
-International
+
 Current income taxes
-1,142 
-4,368 
-2,769 
+1,142
+4,368
+2,769
 Deferred income taxes
 (652)
 (183)
 
 Total international tax provision/(benefit)
 
-4,185 
-2,816 
+4,185
+2,816
 Provision/(benefit) for taxes on income
 (1,115)
-3,328 
-1,852 
+3,328
+1,852
 The changes in Provision/(benefit) for taxes on income impacting the effective tax rate year-over-year are summarized below:
 2023 v. 2022
 The tax benefit of $1.1 billion for 2023 compared to the tax provision of $3.3 billion for 2022 was primarily a result of changes in the jurisdictional mix of earnings and the resolution of
@@ -6208,14 +5975,8 @@ changes in our uncertain tax positions and/or availability of attributes such as
 (a)
 (b)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 B. Tax Rate Reconciliation
 The reconciliation of the U.S. statutory income tax rate to our effective tax rate for Income from continuing operations follows:
- 
-Year Ended December 31,
 
 U.S. statutory income tax rate
 21.0 %
@@ -6247,11 +6008,11 @@ U.S. R&D tax credit
 (0.6)
 (0.5)
 Interest
-13.5 
-0.2 
-0.4 
+13.5
+0.2
+0.4
 All other, net
-0.2 
+0.2
 (0.6)
 (0.7)
 Effective tax rate for income from continuing operations
@@ -6294,10 +6055,6 @@ All other, net is primarily due to routine business operations.
 (f)
 (g)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 C. Deferred Taxes
 Components of our deferred tax assets and liabilities, shown before jurisdictional netting, follow:
 2023 Deferred Tax*
@@ -6308,24 +6065,24 @@ Assets
 Assets
 (Liabilities)
 Prepaid/deferred items
-2,658 
+2,658
 (654)
-1,673 
+1,673
 (533)
 Accrued/deferred royalties
-1,655 
-2,127 
+1,655
+2,127
 Deferred revenues
 
 Inventories
-1,210 
+1,210
 (1,060)
 
 (262)
 Intangible assets
-1,526 
+1,526
 (11,605)
-1,445 
+1,445
 (6,288)
 Property, plant and equipment
 
@@ -6333,20 +6090,20 @@ Property, plant and equipment
 
 (1,845)
 Employee benefits
-1,085 
+1,085
 (287)
-1,314 
+1,314
 (276)
 Restructurings and other charges
 
 Legal and product liability reserves
 
 Research and development
-6,275 
-4,137 
+6,275
+4,137
 Net operating loss/tax credit carryforwards
-2,708 
-2,224 
+2,708
+2,224
 Unremitted earnings
 (60)
 (51)
@@ -6362,21 +6119,21 @@ All other
 (72)
 
 (56)
-19,037 
+19,037
 (16,172)
-14,806 
+14,806
 (9,519)
 Valuation allowances
 (1,738)
 (1,541)
 Total deferred taxes
-17,299 
+17,299
 (16,172)
-13,265 
+13,265
 (9,519)
 Net deferred tax asset/(liability)
-1,128 
-3,746 
+1,128
+3,746
 The deferred tax assets and liabilities associated with global intangible low-taxed income are included in the relevant categories. See Note 1Q.
 The increase in net deferred tax assets in 2023 is primarily related to temporary differences associated with the timing of cash tax payments made and accruals recorded in the ordinary course of
 business.
@@ -6430,10 +6187,6 @@ For a description of our accounting policies associated with accounting for inco
 (j)
 (k)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Uncertain Tax Positions
 As tax law is complex and often subject to varied interpretations, it is uncertain whether some of our tax positions will be sustained upon audit. As of December 31, 2023, we had
 $3.1 billion and as of December 31, 2022, we had $2.9 billion in net unrecognized tax benefits, excluding associated interest.
@@ -6461,7 +6214,7 @@ Increases based on tax positions taken during a prior period
 (111)
 Decreases based on tax positions taken during a prior period
 
-1,339 
+1,339
 
 Decreases based on settlements for a prior period
 
@@ -6513,14 +6266,9 @@ such changes could be significant.
 (d)
 (e)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 E. Tax Provision/(Benefit) on Other Comprehensive Income/(Loss)
 Components of the Tax provision/(benefit) on other comprehensive income/(loss) include:
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 Foreign currency translation adjustments, net
@@ -6543,7 +6291,7 @@ Reclassification adjustments for (gains)/losses included in net income
 (18)
 
 (4)
- 
+
 (33)
 
 (48)
@@ -6559,7 +6307,7 @@ Reclassification adjustments related to curtailments of prior service costs and 
 (4)
 (3)
 (18)
- 
+
 (37)
 (37)
 (38)
@@ -6589,7 +6337,6 @@ Income/(Loss)
 Balance, January 1, 2021
 (5,450)
 (428)
-
 
 (5,310)
 Other comprehensive income/(loss)
@@ -6638,10 +6385,6 @@ Consumer Healthcare JV (see Note 2C).
 (a)
 (b)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Note 7. Financial Instruments
 A. Fair Value Measurements
 Financial Assets and Liabilities Measured at Fair Value on a Recurring Basis and Fair Value Hierarchy, using a Market Approach:
@@ -6658,46 +6401,45 @@ Financial assets:
 Short-term investments
 Equity securities with readily determinable fair values:
 Money market funds
-5,124 
-5,124 
-1,588 
-1,588 
+5,124
+5,124
+1,588
+1,588
 Available-for-sale debt securities:
 Government and agency—non-U.S.
 
-15,915 
-15,915 
+15,915
+15,915
 Government and agency—U.S.
-2,601 
-2,601 
-1,313 
-1,313 
+2,601
+2,601
+1,313
+1,313
 Corporate and other
 
-1,514 
-1,514 
-4,400 
-4,400 
-18,743 
-18,743 
+1,514
+1,514
+4,400
+4,400
+18,743
+18,743
 Total short-term investments
-9,524 
-9,524 
-20,331 
-20,331 
+9,524
+9,524
+20,331
+20,331
 Other current assets
 Derivative assets:
-Foreign exchange contracts
 
 Total other current assets
 
 Long-term investments
 Equity securities with readily determinable fair values
-2,779 
-2,772 
+2,779
+2,772
 
-2,836 
-2,823 
+2,836
+2,823
 
 Available-for-sale debt securities:
 Government and agency—non-U.S.
@@ -6705,43 +6447,36 @@ Government and agency—non-U.S.
 Corporate and other
 
 Total long-term investments
-2,929 
-2,772 
+2,929
+2,772
 
-3,188 
-2,823 
+3,188
+2,823
 
 Other noncurrent assets
 Derivative assets:
 Interest rate contracts
-
-Foreign exchange contracts
 
 Total derivative assets
 
 Insurance contracts
 
 Total other noncurrent assets
-1,191 
-1,191 
-1,028 
-1,028 
+1,191
+1,191
+1,028
+1,028
 Total assets
-13,943 
-2,772 
-11,170 
-25,261 
-2,823 
-22,439 
+13,943
+2,772
+11,170
+25,261
+2,823
+22,439
 Financial liabilities:
 Other current liabilities
 Derivative liabilities:
 Interest rate contracts
-
-
-
-
-Foreign exchange contracts
 
 Total other current liabilities
 
@@ -6749,18 +6484,16 @@ Other noncurrent liabilities
 Derivative liabilities:
 Interest rate contracts
 
-Foreign exchange contracts
-
 Total other noncurrent liabilities
-1,000 
-1,000 
-1,185 
-1,185 
+1,000
+1,000
+1,185
+1,185
 Total liabilities
-1,420 
-1,420 
-1,889 
-1,889 
+1,420
+1,420
+1,889
+1,889
 Long-term equity securities of $130 million as of December 31, 2023 and $143 million as of December 31, 2022 were held in restricted trusts for U.S. non-qualified employee benefit plans.
 Includes life insurance policies held in restricted trusts for U.S. non-qualified employee benefit plans. The underlying invested assets in these contracts are marketable securities, which are carried at fair
 value, with changes in fair value recognized in Other (income)/deductions—net (see Note 4).
@@ -6775,33 +6508,29 @@ short-term borrowings are based on Level 2 inputs. The fair value measurements o
 (a)
 (b)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 B. Investments
 Total Short-Term, Long-Term and Equity-Method Investments
 The following summarizes our investments by classification type:
-As of December 31,
+
 (MILLIONS)
 
 Short-term investments
 Equity securities with readily determinable fair values
-5,124 
-1,588 
+5,124
+1,588
 Available-for-sale debt securities
-4,400 
-18,743 
+4,400
+18,743
 Held-to-maturity debt securities
 
-1,985 
+1,985
 Total Short-term investments
-9,837 
-22,316 
+9,837
+22,316
 Long-term investments
 Equity securities with readily determinable fair values
-2,779 
-2,836 
+2,779
+2,836
 Available-for-sale debt securities
 
 Held-to-maturity debt securities
@@ -6809,16 +6538,15 @@ Held-to-maturity debt securities
 Private equity securities at cost
 
 Total Long-term investments
-3,731 
-4,036 
+3,731
+4,036
 Equity-method investments
-11,637 
-11,033 
+11,637
+11,033
 Total long-term investments and equity-method investments
-15,368 
-15,069 
+15,368
+15,069
 Held-to-maturity cash equivalents
-
 
 Represent money market funds primarily invested in U.S. Treasury and government debt.
 Represent investments in the life sciences sector.
@@ -6846,61 +6574,57 @@ Fair Value
 Available-for-sale debt securities
 Government and agency––non-U.S.
 
-
 (14)
 
-
-
-15,946 
+15,946
 
 (48)
-16,195 
+16,195
 Government and agency––U.S.
-2,601 
-2,601 
-2,601 
-1,313 
-1,313 
+2,601
+2,601
+2,601
+1,313
+1,313
 Corporate and other
-1,006 
+1,006
 
 (2)
-1,007 
+1,007
 
-1,584 
+1,584
 
 (4)
-1,586 
+1,586
 Held-to-maturity debt securities
 Time deposits and other
 
-1,171 
-1,171 
+1,171
+1,171
 Government and agency––non-U.S.
 
-1,542 
-1,542 
+1,542
+1,542
 Total debt securities
-5,126 
+5,126
 
 (16)
-5,115 
-4,919 
+5,115
+4,919
 
-
-21,556 
+21,556
 
 (53)
-21,807 
+21,807
 Any expected credit losses to these portfolios would be immaterial to our financial statements.
 Equity Securities
 The following presents the calculation of the portion of unrealized (gains)/losses that relates to equity securities, excluding equity-method investments, held at the reporting date:
-Year Ended December 31,
+
 (MILLIONS)
 
 Net (gains)/losses recognized during the period on equity securities
 (1,590)
-1,273 
+1,273
 (1,344)
 Less: Net (gains)/losses recognized during the period on equity securities sold during
 the period
@@ -6910,7 +6634,7 @@ the period
 Net unrealized (gains)/losses during the reporting period on equity securities still held
 at the reporting date
 
-1,400 
+1,400
 (1,264)
 Reported in Other (income)/deductions––net. See Note 4.
 Included in net unrealized (gains)/losses are observable price changes on equity securities without readily determinable fair values. As of December 31, 2023, there were cumulative impairments and
@@ -6925,33 +6649,29 @@ downward adjustments of $259 million and upward adjustments of $213 million. Imp
 (a)
 (b)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 C. Short-Term Borrowings
 Short-term borrowings include:
-As of December 31,
+
 (MILLIONS)
 
 Commercial paper, principal amount
-7,965 
+7,965
 Current portion of long-term debt, principal amount
-2,250 
-2,550 
+2,250
+2,550
 Other short-term borrowings, principal amount
 
 Total short-term borrowings, principal amount
-10,467 
-2,935 
+10,467
+2,935
 Net fair value adjustments related to hedging and purchase accounting
 
 Net unamortized discounts, premiums and debt issuance costs
 (121)
 (1)
 Total Short-term borrowings, including current portion of long-term debt, carried at historical proceeds, as adjusted
-10,350 
-2,945 
+10,350
+2,945
 Issued in the fourth quarter of 2023 as part of the financing for our acquisition of Seagen (see Note 2A). The weighted-average effective interest rate on commercial paper outstanding was approximately
 5.37% as of December 31, 2023.
 Primarily includes cash collateral. See Note 7F.
@@ -6961,46 +6681,46 @@ revolving credit facilities, our lenders have provided us an additional $305 mil
 unused as of December 31, 2023.
 D. Long-Term Debt
 The following outlines our senior unsecured long-term debt* and the weighted-average stated interest rate by maturity:
-As of December 31,
+
 (MILLIONS)
 
 Notes due 2024 (3.9% for 2022)
-2,250 
+2,250
 Notes due 2025 (3.9% for 2023 and 0.8% for 2022)
-3,750 
+3,750
 
 Notes due 2026 (3.7% for 2023 and 2.9% for 2022)
-6,000 
-3,000 
+6,000
+3,000
 Notes due 2027 (2.1% for 2023 and 2022)
-1,029 
-1,000 
+1,029
+1,000
 Notes due 2028 (4.6% for 2023 and 4.8% for 2022)
-5,660 
-1,660 
+5,660
+1,660
 Notes due 2029 (3.5% for 2023 and 2022)
-1,750 
-1,750 
+1,750
+1,750
 Notes due 2030-2034 (4.1% for 2023 and 2.9% for 2022)
-12,000 
-4,000 
+12,000
+4,000
 Notes due 2035-2039 (5.8% for 2023 and 2022)
-8,048 
-8,017 
+8,048
+8,017
 Notes due 2040-2044 (4.1% for 2023 and 3.6% for 2022)
-7,995 
-4,903 
+7,995
+4,903
 Notes due 2045-2049 (4.1% for 2023 and 2022)
-3,500 
-3,500 
+3,500
+3,500
 Notes due 2050-2063 (5.0% for 2023 and 2.7% for 2022)
-11,250 
-1,250 
+11,250
+1,250
 Total long-term debt, principal amount
-60,982 
-32,080 
+60,982
+32,080
 Net fair value adjustments related to hedging and purchase accounting
-1,039 
+1,039
 
 Net unamortized discounts, premiums and debt issuance costs
 (483)
@@ -7008,12 +6728,12 @@ Net unamortized discounts, premiums and debt issuance costs
 Other long-term debt
 
 Total long-term debt, carried at historical proceeds, as adjusted
-61,538 
-32,884 
+61,538
+32,884
 Current portion of long-term debt, carried at historical proceeds, as adjusted (not included above (3.9% for 2023 and 3.7% for
 2022))
-2,254 
-2,560 
+2,254
+2,560
 Our long-term debt is generally redeemable by us at any time at varying redemption prices plus accrued and unpaid interest.
 Reclassified to the current portion of long-term debt.
 Issuances
@@ -7025,30 +6745,30 @@ Maturity Date
 December 31, 2023
 4.65%
 May 19, 2025
-3,000 
+3,000
 4.45%
 May 19, 2026
-3,000 
+3,000
 4.45%
 May 19, 2028
-4,000 
+4,000
 4.65%
 May 19, 2030
-3,000 
+3,000
 4.75%
 May 19, 2033
-5,000 
+5,000
 5.11%
 May 19, 2043
-3,000 
+3,000
 5.30%
 May 19, 2053
-6,000 
+6,000
 5.34%
 May 19, 2063
-4,000 
+4,000
 Total long-term debt issued in 2023
-31,000 
+31,000
 (a)
 (b)
 (a)
@@ -7057,10 +6777,6 @@ Total long-term debt issued in 2023
 (a)
 (a), (b)
 (c)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 The notes are fully and unconditionally guaranteed on a senior unsecured basis by Pfizer Inc. PIE was formed to finance a portion of the consideration for the acquisition of Seagen and has no assets or
 operations, and will have no assets or operations, other than as related to the issuance, administration and repayment of the notes and any other debt securities that it may issue in the future.
@@ -7105,32 +6821,31 @@ Notional
 Asset
 Liability
 Derivatives designated as hedging instruments:
-Foreign exchange contracts
-18,750 
 
+18,750
 
-26,603 
+26,603
 
-1,196 
+1,196
 Interest rate contracts
-6,750 
+6,750
 
-2,250 
+2,250
 
-1,206 
+1,206
 
-1,527 
+1,527
 Derivatives not designated as hedging instruments:
-Foreign exchange contracts
-25,609 
 
-29,814 
+25,609
+
+29,814
 
 Total
 
-1,420 
-1,078 
-1,889 
+1,420
+1,078
+1,889
 The notional amount of outstanding foreign exchange contracts hedging our intercompany forecasted inventory sales was $4.9 billion as of December 31, 2023 and $4.4 billion as of December 31, 2022.
 (a)
 (b)
@@ -7138,12 +6853,8 @@ The notional amount of outstanding foreign exchange contracts hedging our interc
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 The following summarizes information about the gains/(losses) incurred to hedge or offset operational foreign exchange or interest rate risk exposures:
- 
+
 Gains/(Losses)
 Recognized in OID
 Gains/(Losses)
@@ -7151,25 +6862,17 @@ Recognized in OCI
 Gains/(Losses)
 Reclassified from
 OCI into OID and COS
-Year Ended December 31,
+
 (MILLIONS)
 
 Derivative Financial Instruments in Cash Flow Hedge
 Relationships:
- 
- 
- 
- 
- 
- 
+
 Interest rate contracts
 
+1,296
 
-Foreign exchange contracts
-
-1,296 
-
-1,916 
+1,916
 Amount excluded from effectiveness testing and amortized
 into earnings
 
@@ -7183,7 +6886,7 @@ Hedged item
 
 Derivative Financial Instruments in Net Investment Hedge
 Relationships:
-Foreign exchange contracts
+
 (393)
 
 Amount excluded from effectiveness testing and amortized
@@ -7197,15 +6900,14 @@ Foreign currency long-term debt
 (29)
 
 Derivative Financial Instruments Not Designated as Hedges:
-Foreign exchange contracts
 
 (1,153)
 
 (1,153)
 
-2,409 
+2,409
 
-2,190 
+2,190
 OID = Other (income)/deductions—net, included in Other (income)/deductions—net in the consolidated statements of income. COS = Cost of Sales, included in Cost of sales in the consolidated
 statements of income. OCI = Other comprehensive income/(loss), included in the consolidated statements of comprehensive income.
 The amounts reclassified from OCI into COS were a net gain of $253 million in 2023 and a net gain of $375 million in 2022. The remaining amounts were reclassified from OCI into OID. Based on yearend foreign exchange rates that are subject to change, we expect to reclassify a pre-tax gain of $11 million within the next 12 months into income. The maximum length of time over which we are hedging
@@ -7245,14 +6947,13 @@ Relationships
 Short-term borrowings, including current
 portion of long-term debt
 
-
 Long-term debt
-7,196 
+7,196
 (131)
 
-2,235 
+2,235
 (321)
-1,042 
+1,042
 Carrying amounts exclude the cumulative amount of fair value hedging adjustments.
 F. Credit Risk
 On an ongoing basis, we monitor and review the credit risk of our customers, financial institutions and exposures in our investment portfolio.
@@ -7274,10 +6975,6 @@ accounts receivable balances are due from wholesalers and governments. For addit
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 With respect to our investments, we monitor concentrations of credit risk associated with government, government agency, and corporate issuers of securities. Investments are
 placed in instruments that are investment grade and are primarily short in duration. Exposure limits are established to limit a concentration with any single credit counterparty. As of
 December 31, 2023, the largest investment exposures in our portfolio consisted primarily of U.S. government money market funds, as well as sovereign debt instruments issued by
@@ -7292,24 +6989,24 @@ portion of long-term debt.
 Note 8. Other Financial Information
 A. Inventories
 The following summarizes the components of Inventories:
-As of December 31,
+
 (MILLIONS)
 
 Finished goods
-3,495 
-2,603 
+3,495
+2,603
 Work-in-process
-5,688 
-5,519 
+5,688
+5,519
 Raw materials and supplies
-1,007 
+1,007
 
 Inventories
-10,189 
-8,981 
+10,189
+8,981
 Noncurrent inventories not included above
-4,568 
-5,827 
+4,568
+5,827
 The increase from December 31, 2022 of $1.2 billion reflects an increase of approximately $1.0 billion representing acquired Seagen inventory, inclusive of the fair value step-up (see Note 2A), and
 increases for certain products due to new product launches, supply recovery and changes in net market demand. These increases were offset to a large extent by $1.0 billion in inventory write-offs for
 Paxlovid and Comirnaty.
@@ -7330,70 +7027,64 @@ within trade payables in our consolidated balance sheet. As of December 31, 2023
 suppliers who participate in these financing arrangements were outstanding.
 Note 9. Property, Plant and Equipment
 The following summarizes the components of Property, plant and equipment:
- 
+
 Useful Lives
-As of December 31,
+
 (MILLIONS)
-(Years) 
+(Years)
 
 Land
 
-
 Buildings
 33-50
-9,046 
-8,832 
+9,046
+8,832
 Machinery and equipment
 8-20
-14,263 
-12,881 
+14,263
+12,881
 Furniture, fixtures and other
 3-12.5
-5,399 
-4,491 
+5,399
+4,491
 Construction in progress
-5,925 
-4,875 
-34,985 
-31,448 
+5,925
+4,875
+34,985
+31,448
 Less: Accumulated depreciation
-16,045 
-15,174 
+16,045
+15,174
 Property, plant and equipment
-18,940 
-16,274 
+18,940
+16,274
 (a)
 (b)
 (a)
 (b)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 The following provides long-lived assets by geographic area:
- 
-As of December 31,
+
 (MILLIONS)
 
 United States
-10,674 
-9,179 
+10,674
+9,179
 Developed Europe
-6,221 
-5,389 
+6,221
+5,389
 Developed Rest of World
 
 Emerging Markets
-1,756 
-1,413 
+1,756
+1,413
 Property, plant and equipment
-18,940 
-16,274 
+18,940
+16,274
 Note 10. Identifiable Intangible Assets and Goodwill
 A. Identifiable Intangible Assets
 The following summarizes the components of Identifiable intangible assets:
- 
+
 As of December 31, 2023
 As of December 31, 2022
 (MILLIONS)
@@ -7419,12 +7110,12 @@ Accumulated
 Amortization
 Finite-lived intangible assets
 Developed technology rights
-99,267 
+99,267
 (60,493)
-38,773 
-85,604 
+38,773
+85,604
 (56,307)
-29,297 
+29,297
 Brands
 
 (877)
@@ -7432,39 +7123,39 @@ Brands
 (844)
 
 Licensing agreements and other
-2,756 
+2,756
 (1,458)
-1,297 
-2,237 
+1,297
+2,237
 (1,397)
 
-102,944 
+102,944
 (62,828)
-40,116 
-88,763 
+40,116
+88,763
 (58,548)
-30,215 
+30,215
 Indefinite-lived intangible assets
 Brands
 
 IPR&D
-23,193 
-23,193 
-11,357 
-11,357 
+23,193
+23,193
+11,357
+11,357
 Licensing agreements and other
 
-24,784 
-24,784 
-13,155 
-13,155 
+24,784
+24,784
+13,155
+13,155
 Identifiable intangible assets
-127,728 
+127,728
 (62,828)
-64,900 
-101,919 
+64,900
+101,919
 (58,548)
-43,370 
+43,370
 The increase in the gross carrying amount primarily includes, among other things: (i) $7.5 billion for the acquisition of Seagen (see Note 2A); (ii) the transfer of IPR&D to developed technology rights of
 $3.6 billion for etrasimod (Velsipity), $2.1 billion for Padcev, $1.1 billion for Braftovi/Mektovi, and $450 million as a result of the approval in the U.S. for Zavzpret nasal spray; and (iii) $495 million of
 capitalized milestones as a result of the approval in the U.S. for Zavzpret nasal spray, partially offset by (iv) impairments of $964 million for Prevnar 13 (see Note 4).
@@ -7499,10 +7190,6 @@ development or commercialization by the licensing partners. A
 (c)
 (d)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 significant component of the licensing arrangements are for out-licensing arrangements with a number of partners. Accordingly, during the development period after the date of
 acquisition, each of these assets is classified as indefinite-lived intangible assets and will not be amortized until approval is obtained in a major market. At that time we will determine
 the useful life of the asset, reclassify the respective licensing arrangement asset to finite-lived intangible asset and begin amortization. If the development effort is abandoned, the
@@ -7513,29 +7200,29 @@ The following provides the expected annual amortization expense:
 (MILLIONS)
 
 Amortization expense
-5,079 
-4,763 
-4,639 
-4,054 
-3,702 
+5,079
+4,763
+4,639
+4,054
+3,702
 B. Goodwill
 The following summarizes the changes in the carrying amount of Goodwill:
 (MILLIONS)
 Total
 Balance, January 1, 2022
-49,208 
+49,208
 Additions
-2,917 
+2,917
 Impact of foreign exchange
 (750)
 Balance, December 31, 2022
-51,375 
+51,375
 Additions
-16,117 
+16,117
 Impact of foreign exchange and other
 
 Balance, December 31, 2023
-67,783 
+67,783
 Our goodwill balance continues to be assigned within the Biopharma reportable segment.
 Additions in 2022 relate to our acquisitions of GBT, Arena and Biohaven, and in 2023 primarily related to our acquisition of Seagen. See Note 2A.
 Note 11. Pension and Postretirement Benefit Plans and Defined Contribution Plans
@@ -7549,16 +7236,10 @@ The following summarizes the components of net periodic benefit cost/(credit) an
 Pension Plans
  Postretirement Plans
 U.S.
-International
-Year Ended December 31,
+
 (MILLIONS)
 
 Service cost
-
-
-
-
-
 
 Interest cost
 
@@ -7637,17 +7318,12 @@ actuarial remeasurement gains in 2021, primarily due to favorable plan asset per
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 The components of net periodic benefit cost/(credit) other than the service cost component are primarily included in Other (income)/deductions––net (see Note 4).
 B. Actuarial Assumptions
 Pension Plans
 Postretirement Plans
 U.S.
-International
-Year Ended December 31,
+
 (PERCENTAGES)
 
 Weighted-average assumptions used to
@@ -7707,7 +7383,6 @@ investment grade corporate bonds rated AA/Aa or better, including, when there is
 requirements. Overall, the yield curves used to measure the benefit obligations at year-end 2023 resulted in broadly unchanged discount rates for the U.S. pension and
 postretirement plans and higher discount rates for the international pension plans as compared to the prior year.
 The following provides the healthcare cost trend rate assumptions for our U.S. postretirement benefit plans:
-As of December 31,
 
 Healthcare cost trend rate assumed for next year
 7.9 %
@@ -7721,29 +7396,23 @@ Year that the rate reaches the ultimate trend rate
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 C. Obligations and Funded Status
 The following provides: (i) an analysis of the changes in our benefit obligations, plan assets and funded status of our benefit plans, (ii) the funded status recognized in our
 consolidated balance sheets and (iii) the pre-tax components of cumulative amounts recognized in Accumulated other comprehensive loss:
- 
+
 Pension Plans
  Postretirement Plans
- 
+
 U.S.
-International
-Year Ended December 31,
+
 (MILLIONS)
 
 Change in benefit obligation
 Benefit obligation, beginning
-11,420 
-17,150 
-7,497 
-11,657 
-
+11,420
+17,150
+7,497
+11,657
 
 Service cost
 
@@ -7790,20 +7459,20 @@ Benefits paid
 (137)
 (101)
 Benefit obligation, ending
-10,756 
-11,420 
-7,292 
-7,497 
+10,756
+11,420
+7,292
+7,497
 
 Change in plan assets
 Fair value of plan assets, beginning
-10,871 
-16,346 
-6,865 
-10,729 
+10,871
+16,346
+6,865
+10,729
 
 Actual return on plan assets
-1,061 
+1,061
 (3,550)
 (316)
 (2,624)
@@ -7836,10 +7505,10 @@ Benefits paid
 (137)
 (101)
 Fair value of plan assets, ending
-10,935 
-10,871 
-6,552 
-6,865 
+10,935
+10,871
+6,552
+6,865
 
 Funded status
 
@@ -7847,14 +7516,9 @@ Funded status
 (740)
 (632)
 
-
 Amounts recorded in our consolidated balance sheet:
 Noncurrent assets
-1,010 
-
-
-
-
+1,010
 
 Current liabilities
 (94)
@@ -7876,7 +7540,6 @@ Funded status
 (740)
 (632)
 
-
 Pre-tax components of cumulative amounts recognized in Accumulated
 other comprehensive loss:
 Prior service (costs)/credits
@@ -7885,27 +7548,23 @@ Prior service (costs)/credits
 (65)
 (34)
 
-
 Information related to the funded status of pension plans with an ABO in
 excess of plan assets :
 Fair value of plan assets
 
-
-
 ABO
 
-1,834 
-1,600 
+1,834
+1,600
 Information related to the funded status of pension plans with a PBO in
 excess of plan assets :
 Fair value of plan assets
 
-
-1,081 
+1,081
 PBO
 
-2,347 
-2,496 
+2,347
+2,496
 For the U.S. pension plans, the benefit obligation is both the PBO and ABO as these plans are frozen and future benefit accruals no longer increase with future compensation increases. For the
 international pension plans, the benefit obligation is the PBO. The ABO for our international pension plans was $7.0 billion in 2023 and $7.2 billion in 2022. For the postretirement plans, the benefit
 obligation is the ABO.
@@ -7927,16 +7586,11 @@ Our main U.S. qualified plan, U.S. postretirement plan and many of our larger fu
 (c)
 (d)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 D. Plan Assets
 The following provides the components of plan assets:
 As of December 31, 2023
 As of December 31, 2022
- 
- 
+
 Fair Value
 Fair Value
 (MILLIONS EXCEPT TARGET
@@ -7963,72 +7617,60 @@ U.S. pension plans
 Cash and cash equivalents
 0-10%
 
-
-
-
-
-
 Equity securities:
 10-40%
 Global equity securities
-1,537 
-1,537 
+1,537
+1,537
 
-1,555 
-1,553 
+1,555
+1,553
 
 Equity commingled funds
 
 Fixed income securities:
 45-80%
 Corporate debt securities
-3,668 
+3,668
 
-3,667 
-3,512 
+3,667
+3,512
 
-3,507 
+3,507
 Government and agency
 obligations
-1,971 
-1,971 
-1,772 
-1,772 
+1,971
+1,971
+1,772
+1,772
 Fixed income commingled funds
 
 Other investments:
 5-35%
 Partnership investments
-2,449 
-2,449 
-2,152 
-2,152 
+2,449
+2,449
+2,152
+2,152
 Insurance contracts
 
 Other commingled funds
 
-
-
 Total
 100 %
-10,935 
-1,585 
-6,410 
+10,935
+1,585
+6,410
 
-2,939 
-10,871 
-1,607 
-6,355 
+2,939
+10,871
+1,607
+6,355
 
-2,908 
+2,908
 International pension plans
 Cash and cash equivalents
 0-10%
-
-
-
-
-
 
 Equity securities:
 10-20%
@@ -8042,58 +7684,48 @@ Government and agency
 obligations
 
 Fixed income commingled funds
-1,852 
+1,852
 
-2,053 
-1,045 
-1,008 
+2,053
+1,045
+1,008
 Other investments:
 15-35%
 Partnership investments
 
 Insurance contracts
-1,151 
+1,151
 
-1,096 
-1,197 
+1,096
+1,197
 
-1,143 
+1,143
 Other
-1,039 
+1,039
 
-1,122 
+1,122
 
 Total
 100 %
-6,552 
+6,552
 
-3,295 
-1,340 
-1,796 
-6,865 
+3,295
+1,340
+1,796
+6,865
 
-3,498 
-1,455 
-1,853 
+3,498
+1,455
+1,853
 U.S. postretirement plans
 Cash and cash equivalents
 0-5%
-
-
-
-
-
 
 Insurance contracts
 95-100%
 
 Total
 100 %
-
-
-
-
-
 
 Certain investments that are measured at NAV per share (or its equivalent) have not been classified in the fair value hierarchy. The NAV amounts presented in this table are intended to permit
 reconciliation of the fair value hierarchy to the amounts presented for the total pension benefits plan assets.
@@ -8103,12 +7735,12 @@ Mostly includes investments in hedge funds and real estate.
 Reflects postretirement plan assets, which support our U.S. retiree medical plans.
 The following provides an analysis of the changes in our more significant investments valued using significant unobservable inputs:
 International Pension Plans
-Year Ended December 31,
+
 (MILLIONS)
 
 Fair value, beginning
-1,455 
-1,677 
+1,455
+1,677
 Actual return on plan assets:
 Assets held, ending
 (96)
@@ -8125,8 +7757,8 @@ Exchange rate changes
 
 (161)
 Fair value, ending
-1,340 
-1,455 
+1,340
+1,455
 (a)
 (a)
 (b)
@@ -8141,10 +7773,6 @@ Fair value, ending
 (c)
 (d)
 (e)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 The following methods and assumptions were used to estimate the fair value of our pension and postretirement plans’ assets:
 • Cash and cash equivalents: Level 1 investments may include cash, cash equivalents and foreign currency valued using exchange rates. Level 2 investments may include shortterm investment funds which are commingled funds priced at a stable NAV by the administrator of the funds.
@@ -8174,25 +7802,21 @@ E. Cash Flows
 It is our practice to fund amounts for our qualified pension plans that are at least sufficient to meet the minimum requirements set forth in applicable employee benefit laws and local
 tax laws.
 The following provides the expected future cash flow information related to our benefit plans:
- 
+
 Pension Plans
 Postretirement Plans
 (MILLIONS)
 U.S.
-International
+
 Expected employer contributions:
-
-
-
 
 Expected benefit payments:
 
-1,009 
-
+1,009
 
 2029–2033
-4,004 
-2,073 
+4,004
+2,073
 
 The above table reflects the total U.S. and international plan benefits projected to be paid from the plans or from our general assets under the current actuarial assumptions used for
 the calculation of the benefit obligation.
@@ -8205,10 +7829,6 @@ Note 12. Equity
 A. Common Stock Purchases
 We purchase our common stock through privately negotiated transactions or in the open market as circumstances and prices warrant. Purchased shares under a share-purchase
 plan, which is authorized by our BOD, are available for general corporate purposes. In December
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 2018, the BOD authorized a $10 billion share repurchase program to be utilized over time and share repurchases commenced thereunder in the first quarter of 2019.
 In the first quarter of 2022, we purchased 39 million shares of our common stock at a cost of $2 billion under our publicly announced share-purchase plan. Our remaining sharepurchase authorization was approximately $3.3 billion as of December 31, 2023.
@@ -8228,10 +7848,6 @@ maximum potential payout, while TSRUs and stock options count as one share, towa
 shares were available for award, including 68 million shares that we assumed from the remaining shares available from the stock plan of Seagen which can be issued to legacy
 employees of Seagen and newly hired employees after the date of acquisition once such shares are registered on Form S-8. Although not required to do so, we have used
 authorized and unissued shares and, to a lesser extent, treasury stock to satisfy our obligations under these programs.
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 A summary of the awards and valuation details:
 Awarded to
@@ -8362,10 +7978,6 @@ probable of being earned and management’s assessment of the
 probability that the specified performance criteria will be achieved
 and/or management’s assessment of the probable vesting term.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Awarded to
 Terms
 Valuation
@@ -8396,7 +8008,6 @@ RSUs
 PPSs
 PSAs
 Stock Options
-Year Ended December 31,
 
 Total fair value of shares vested
 $10.71
@@ -8489,7 +8100,6 @@ period presented.
 Summary of the weighted-average assumptions used in the valuation of TSRUs and stock options:
 TSRUs
 Stock Options
-Year Ended December 31,
 
 Expected dividend yield (based on a constant dividend yield during the
 expected term)
@@ -8527,17 +8137,17 @@ TSRUs
 RSUs
 PPSs
 PSAs
-TSRUs 
+TSRUs
 Per TSRU, Weighted
 Average
-Shares 
+Shares
  Weighted Avg.
 GDFV per share
-Shares 
+Shares
 Weighted Avg.
 Intrinsic Value
 per share
-Shares 
+Shares
 Weighted Avg.
 Intrinsic Value
 per share
@@ -8549,66 +8159,62 @@ Grant Price
 (Thousands)
 Nonvested, December 31, 2022
 101,693
-7.58 
-35.26 
+7.58
+35.26
 27,826
-38.26 
+38.26
 22,322
-51.24 
+51.24
 5,018
-51.24 
+51.24
 Granted
 26,631
-10.71 
-42.29 
+10.71
+42.29
 10,007
-42.11 
+42.11
 8,751
-42.30 
+42.30
 1,623
-42.30 
+42.30
 Vested
 (48,277)
-6.08 
-31.38 
+6.08
+31.38
 (12,330)
-37.15 
+37.15
 (7,736)
-40.78 
+40.78
 (1,428)
-40.74 
+40.74
 Reinvested dividend equivalents
-1,195 
-36.07 
+1,195
+36.07
 Forfeited
 (2,374)
-9.99 
-40.86 
+9.99
+40.86
 (855)
-41.25 
+41.25
 (1,112)
-36.09 
+36.09
 (479)
-38.47 
+38.47
 Nonvested, December 31, 2023
 77,673
-9.67 
-39.92 
+9.67
+39.92
 25,844
-40.08 
+40.08
 22,225
-28.79 
+28.79
 4,734
-28.79 
+28.79
 Vested and non-vested shares outstanding, but not paid as of December 31, 2023 were 35.8 million.
 (a)
 (a)
 (a)
 (a)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 Summary of TSRU and PTU information as of December 31, 2023
 TSRUs
@@ -8625,21 +8231,21 @@ Contractual Term
 Aggregate Intrinsic
 Value (Millions)
 TSRUs Outstanding
-163,572 
-36.83 
+163,572
+36.83
 2.0
 
 TSRUs Vested
-85,899 
-34.05 
+85,899
+34.05
 0.8
 
 TSRUs Expected to vest
-75,276 
-39.82 
+75,276
+39.82
 3.2
 Outstanding PTUs converted from TSRUs exercised
-1,060 
+1,060
 0.6
 
 In 2023, we settled 38,957,175 TSRUs with a weighted-average grant price of $29.80 per unit.
@@ -8660,70 +8266,66 @@ Aggregate
 Intrinsic Value
 (Millions)
 Outstanding, December 31, 2022
-35,280 
-31.47 
+35,280
+31.47
 Granted
 
-42.30 
+42.30
 Exercised
 (6,709)
-27.47 
+27.47
 Forfeited
 (36)
-39.37 
+39.37
 Expired
 (718)
-31.25 
- 
- 
+31.25
+
 Outstanding, December 31, 2023
-28,452 
-32.66 
+28,452
+32.66
 1.7
 Vested and expected to vest, December 31, 2023
-28,385 
-32.63 
+28,385
+32.63
 1.7
 Exercisable, December 31, 2023
-26,667 
-32.19 
+26,667
+32.19
 1.3
 Market price of our underlying common stock less exercise price.
 The number of options expected to vest takes into account an estimate of expected forfeitures.
 Note 14. Earnings Per Common Share Attributable to Pfizer Inc. Common Shareholders
 The following presents the detailed calculation of EPS:
- 
-Year Ended December 31,
+
 (IN MILLIONS)
 
 EPS Numerator
- 
- 
+
 Income from continuing operations attributable to Pfizer Inc. common shareholders
-2,134 
-31,366 
-22,414 
+2,134
+31,366
+22,414
 Discontinued operations––net of tax
 (15)
 
 (434)
 Net income attributable to Pfizer Inc. common shareholders
-2,119 
-31,372 
-21,979 
+2,119
+31,372
+21,979
 EPS Denominator
- 
- 
+
 Weighted-average number of common shares outstanding––Basic
-5,643 
-5,608 
-5,601 
+5,643
+5,608
+5,601
 Common-share equivalents
 
 Weighted-average number of common shares outstanding––Diluted
-5,709 
-5,733 
-5,708 
+5,709
+5,733
+5,708
 Anti-dilutive common stock equivalents
 
 These common stock equivalents were outstanding for the periods presented, but were not included in the computation of diluted EPS for those periods because their inclusion would have had an antidilutive effect.
@@ -8752,35 +8354,29 @@ liabilities are recognized at commencement date
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 based on the present value of lease payments over the lease term. As most of our leases do not provide an implicit rate, we use our estimated incremental borrowing rate based on
 the information available at commencement date in determining the present value of future payments.
 For operating leases, the ROU assets and liabilities in our consolidated balance sheets follows:
-As of December 31,
+
 (MILLIONS)
 Balance Sheet Classification
 
 ROU assets
 Other noncurrent assets
-2,924 
-3,002 
+2,924
+3,002
 Lease liabilities (short-term)
 Other current liabilities
 
 Lease liabilities (long-term)
 Other noncurrent liabilities
-2,626 
-2,597 
+2,626
+2,597
 Components of total lease cost includes:
-Year Ended December 31,
+
 (MILLIONS)
 
 Operating lease cost
-
-
 
 Variable lease cost
 
@@ -8789,11 +8385,11 @@ Sublease income
 (32)
 (41)
 Total lease cost
-1,283 
-1,218 
+1,283
+1,218
 
 Other supplemental information follows:
-As of December 31,
+
 (MILLIONS)
 
 Operating leases
@@ -8803,13 +8399,11 @@ Weighted-Average Remaining Contractual Lease Term (Years)
 Weighted-Average Discount Rate
 3.8 %
 3.0 %
-Year Ended December 31,
+
 (MILLIONS)
 
 Cash paid for amounts included in the measurement of lease liabilities:
 Operating cash flows from operating leases
-
-
 
 (Gains)/losses on sale and leaseback transactions, net
 (49)
@@ -8830,17 +8424,17 @@ Next one year
 4-5 years
 
 Thereafter
-1,743 
+1,743
 Total undiscounted lease payments
-3,824 
+3,824
 Less: Imputed interest
 
 Present value of minimum lease payments
-3,153 
+3,153
 Less: Current portion
 
 Noncurrent portion
-2,626 
+2,626
 Reflects lease payments due within 12 months subsequent to the balance sheet date.
 Note 16. Contingencies and Certain Commitments
 We and certain of our subsidiaries are subject to numerous contingencies arising in the ordinary course of business, including tax and legal contingencies, guarantees and
@@ -8852,10 +8446,6 @@ loss of patent protection for a product, a significant loss of revenues from a p
 actions.
 (a)
 (a)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 • Product liability and other product-related litigation related to current or former products, which can include personal injury, consumer, off-label promotion, securities, antitrust and
 breach of contract claims, among others, and often involves highly complex issues relating to medical causation, label warnings and reliance on those warnings, scientific
@@ -8910,10 +8500,6 @@ anticipated. In the event that any of the patents are found valid and infringed,
 be required to pay us a royalty.
 We are also subject to patent litigation pursuant to which one or more third parties seek damages and/or injunctive relief to compensate for alleged infringement of its patents by our
 commercial or other activities. If one of our marketed products (or a product of our collaboration/
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 licensing partners to which we have licenses or co-promotion rights) is found to infringe valid patent rights of a third party, such third party may be awarded significant damages or
 royalty payments, or we may be prevented from further sales of that product. Such damages may be enhanced as much as three-fold if we or one of our subsidiaries is found to
@@ -8970,10 +8556,6 @@ after March 7, 2022. In the U.K., Pfizer and BioNTech brought an action against 
 September 2022 action filed by ModernaTX. In November 2023, one of the European patents was revoked by the European Patent Office. In December 2023, the other European
 patent was declared invalid by a court in the
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Netherlands (the invalidity decision is limited to the Netherlands). ModernaTX has also filed additional patent infringement actions against Pfizer and BioNTech in certain other exU.S. jurisdictions.
 In April 2023, Arbutus Biopharma Corporation (Arbutus) and Genevant Sciences GmbH (Genevant) filed a complaint in the U.S. District Court for the District of New Jersey against
 Pfizer and BioNTech alleging that Comirnaty and its manufacture infringe five U.S. patents, and seeking unspecified monetary damages.
@@ -9026,10 +8608,6 @@ consisting of persons or entities who directly purchased, indirectly purchased o
 of the defendants from March 2010 until the cessation of the defendants’ allegedly unlawful conduct (the Class Period). The plaintiffs allege delay in the launch of generic Lipitor, in
 violation of federal antitrust laws and/or state antitrust, consumer protection and various other laws, resulting from (i) the
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 2008 agreement pursuant to which Pfizer and Ranbaxy settled certain patent litigation involving Lipitor and Pfizer granted Ranbaxy a license to sell a generic version of Lipitor in
 various markets beginning on varying dates, and (ii) in certain of the actions, the procurement and/or enforcement of certain patents for Lipitor. Each of the actions seeks, among
 other things, treble damages on behalf of the putative class for alleged price overcharges for Lipitor (or, in certain of the actions, generic Lipitor) during the Class Period. In addition,
@@ -9080,10 +8658,6 @@ injury actions against Pfizer and other defendants filed in California state cou
 court cases have been filed in the Superior Court of Delaware in New Castle County.
 Many of these Zantac-related cases have been outstanding for a number of years and could take many more years to resolve. From time to time, Pfizer has explored and will
 continue to explore opportunistic settlements of these matters.
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 Chantix
 Beginning in August 2021, a number of putative class actions have been filed against Pfizer in various U.S. federal courts following Pfizer’s voluntary recall of Chantix due to the
@@ -9139,10 +8713,6 @@ In 2023, Pfizer and BioNTech Manufacturing GmbH initiated separate formal procee
 of First Instance of Brussels. Pfizer and BioNTech are seeking an order from the Court holding those countries to their commitments for COVID-19 vaccine orders, which were
 placed as part of their contracts signed in 2021.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 A4. Legal Proceedings––Government Investigations
 We are subject to extensive regulation by government agencies in the U.S., other developed markets and multiple emerging markets in which we operate. Criminal charges,
 substantial fines and/or civil penalties, limitations on our ability to conduct business in applicable jurisdictions, corporate integrity or deferred prosecution agreements, as well as
@@ -9194,10 +8764,6 @@ The CID seeks records and information related to, among other things, engagement
 Department of Insurance issued a subpoena seeking records similar to those requested by the CID. Biohaven is a wholly-owned subsidiary that we acquired in October 2022. We
 are producing records in response to these requests.
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 U.S. Department of Justice Inquiry relating to Mexico Operations
 In March 2023, we received an informal request from the U.S. Department of Justice’s FCPA Unit seeking documents relating to our operations in Mexico. We are producing records
 pursuant to this request.
@@ -9247,10 +8813,6 @@ oncology is performed by a new end-to-end ORD organization and discovery to late
 research and early-stage development assets and, prior to July 2023, GPD was generally responsible for the clinical development strategy and operational execution of clinical trials
 for both early- and late-stage clinical assets in Pfizer’s pipeline. In 2023, Biopharma received R&D services from
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 ORD, PRD and the predecessor WRDM and GPD organizations. These services included IPR&D projects for new investigational products and additional indications for in-line
 products.
 Other Business Activities––Other business activities include the operating results of Business Innovation as well as certain pre-tax costs not allocated to our operating segment
@@ -9282,30 +8844,26 @@ decision maker does not regularly review any asset information by operating segm
 $227 billion as of December 31, 2023 and $197 billion as of December 31, 2022.
 Selected Income Statement Information
 The following table provides selected income statement information by reportable segment:
- 
+
 Total Revenues
 Earnings
 Depreciation and Amortization
-Year Ended December 31,
-Year Ended December 31,
-Year Ended December 31,
+
 (MILLIONS)
 
 Reportable Segment:
 Biopharma
-57,186 
-98,988 
-79,557 
-30,632 
-57,148 
-40,647 
-
-
+57,186
+98,988
+79,557
+30,632
+57,148
+40,647
 
 Other business activities
-1,310 
-1,342 
-1,731 
+1,310
+1,342
+1,731
 (19,050)
 (14,370)
 (13,455)
@@ -9315,9 +8873,9 @@ Amortization of intangible assets
 (4,733)
 (3,609)
 (3,746)
-4,733 
-3,609 
-3,746 
+4,733
+3,609
+3,746
 Acquisition-related items
 (1,874)
 (832)
@@ -9328,17 +8886,17 @@ Acquisition-related items
 Certain significant items
 (3,917)
 (3,608)
-1,003 
+1,003
 
-58,496 
-100,330 
-81,288 
-1,058 
-34,729 
-24,311 
-6,290 
-5,064 
-5,191 
+58,496
+100,330
+81,288
+1,058
+34,729
+24,311
+6,290
+5,064
+5,191
 Earnings = Income from continuing operations before provision/(benefit) for taxes on income. Biopharma’s revenues and earnings in 2023 reflect a non-cash revenue reversal of $3.5 billion (see Note
 17C). Biopharma’s earnings also include dividend income from our investment in ViiV of $265 million in 2023, $314 million in 2022 and $166 million in 2021.
 Certain production facilities are shared. Depreciation is allocated based on estimates of physical production.
@@ -9359,10 +8917,6 @@ billion recorded in Other (income)/deductions––net and (ii) restructuring ch
 (c)
 (d)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 and additional depreciation—asset restructuring of $2.2 billion ($290 million recorded in Selling, informational and administrative expenses and the remaining amount primarily recorded in Restructuring
 charges and certain acquisition-related costs), partially offset by (iii) net gains on equity securities of $1.6 billion recorded in Other (income)/deductions––net. Earnings in 2022 included, among other
 items: (i) restructuring charges/(credits) and implementation costs and additional depreciation—asset restructuring of $1.4 billion ($562 million recorded in Selling, informational and administrative
@@ -9373,30 +8927,29 @@ and (ii) net gains on equity securities of $1.3 billion recorded in Other (incom
 acquisition-related costs). See Notes 3 and 4.
 B. Geographic Information
 The following summarizes revenues by geographic area:
- 
-Year Ended December 31,
+
 (MILLIONS)
 
 United States
-27,088 
-42,473 
-29,746 
+27,088
+42,473
+29,746
 Developed Europe
-11,650 
-21,982 
-18,336 
+11,650
+21,982
+18,336
 Developed Rest of World
-7,761 
-15,778 
-12,506 
+7,761
+15,778
+12,506
 Emerging Markets
-11,996 
-20,097 
-20,701 
+11,996
+20,097
+20,701
 Total revenues
-58,496 
-100,330 
-81,288 
+58,496
+100,330
+81,288
 Revenues exceeded $500 million in each of 14, 24 and 21 countries outside the U.S. in 2023, 2022 and 2021, respectively. The U.S. is the only country to contribute more than 10%
 of total revenue in 2023, 2022 and 2021. As a percentage of revenues, our largest country outside the U.S. was Japan, which contributed 6% of total revenue in 2023, 8% of total
 revenue in 2022 and 9% of total revenue in 2021.
@@ -9425,8 +8978,6 @@ pandemic preparedness through 2028, which will be managed and supplied by Pfizer
 estimated 7.5 million treatment courses are delivered, there is no remaining cash consideration for these treatment courses.
 The following summarizes revenue, as a percentage of Total revenues, for our three largest U.S. wholesaler customers and the U.S. government, which was concentrated in our
 Biopharma operating segment:
- 
-Year Ended December 31,
 
 McKesson, Inc.
 17 %
@@ -9448,52 +8999,48 @@ sales in the second half of 2023 as well as the revenue reversal for Paxlovid in
 (a)
 (a)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 Collectively, our three largest U.S. wholesaler customers represented 44% and 32% of total trade accounts receivable as of December 31, 2023 and December 31, 2022,
 respectively. Accounts receivable from the U.S. government as of December 31, 2023 and December 31, 2022 were not material to our consolidated financial statements.
 Significant Revenues by Product
 The following provides detailed revenue information for several of our major products:
 (MILLIONS)
-Year Ended December 31,
+
 PRODUCT
 PRIMARY INDICATION OR CLASS
 
 TOTAL REVENUES
-58,496 
-100,330 
-81,288 
+58,496
+100,330
+81,288
 GLOBAL BIOPHARMACEUTICALS BUSINESS (BIOPHARMA)
-57,186 
-98,988 
-79,557 
+57,186
+98,988
+79,557
 Primary Care
-30,589 
-73,023 
-52,029 
+30,589
+73,023
+52,029
 Comirnaty direct sales and alliance
 revenues
 Active immunization to prevent COVID-19
-11,220 
-37,806 
-36,781 
+11,220
+37,806
+36,781
 Eliquis alliance revenues and direct sales
 Nonvalvular atrial fibrillation, deep vein thrombosis, pulmonary embolism
-6,747 
-6,480 
-5,970 
+6,747
+6,480
+5,970
 Prevnar family
 Active immunization to prevent pneumonia, invasive disease and otitis media caused by
 Streptococcus pneumoniae
-6,440 
-6,337 
-5,272 
+6,440
+6,337
+5,272
 Paxlovid
 COVID-19 in certain high-risk patients
-1,279 
-18,933 
+1,279
+18,933
 
 Nurtec ODT/Vydura
 Acute treatment of migraine and prevention of episodic migraine
@@ -9518,29 +9065,29 @@ Active immunization to prevent invasive disease caused by Neisseria meningitidis
 
 All other Primary Care
 Various
-1,777 
-1,932 
-2,604 
+1,777
+1,932
+2,604
 Specialty Care
-14,970 
-13,833 
-15,194 
+14,970
+13,833
+15,194
 Vyndaqel family
 ATTR-CM and polyneuropathy
-3,321 
-2,447 
-2,015 
+3,321
+2,447
+2,015
 Xeljanz
 RA, PsA, UC, active polyarticular course juvenile idiopathic arthritis, ankylosing spondylitis
-1,703 
-1,796 
-2,455 
+1,703
+1,796
+2,455
 Enbrel (Outside the U.S. and Canada)
 RA, juvenile idiopathic arthritis, PsA, plaque psoriasis, pediatric plaque psoriasis, ankylosing
 spondylitis and nonradiographic axial spondyloarthritis
 
-1,003 
-1,185 
+1,003
+1,185
 Sulperazon
 Bacterial infections
 
@@ -9592,33 +9139,33 @@ Atopic dermatitis
 
 All other Anti-infectives
 Various
-1,092 
-1,171 
-1,572 
+1,092
+1,171
+1,572
 All other Specialty Care
 Various
-2,244 
-2,350 
-2,830 
+2,244
+2,350
+2,830
 Oncology
-11,627 
-12,132 
-12,333 
+11,627
+12,132
+12,333
 Ibrance
 HR-positive/HER2-negative metastatic breast cancer
-4,753 
-5,120 
-5,437 
+4,753
+5,120
+5,437
 Xtandi alliance revenues
 mCRPC, nmCRPC, mCSPC, nmCSPC
-1,191 
-1,198 
-1,185 
+1,191
+1,198
+1,185
 Inlyta
 Advanced RCC
-1,036 
-1,003 
-1,002 
+1,036
+1,003
+1,002
 Bosulif
 Philadelphia chromosome–positive chronic myelogenous leukemia
 
@@ -9633,12 +9180,8 @@ glioblastoma; metastatic RCC; and persistent, recurrent or metastatic cervical c
 (b)
 (c)
 
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
-
 (MILLIONS)
-Year Ended December 31,
+
 PRODUCT
 PRIMARY INDICATION OR CLASS
 
@@ -9702,21 +9245,21 @@ All other Oncology
 Various
 
 BUSINESS INNOVATION
-1,310 
-1,342 
-1,731 
+1,310
+1,342
+1,731
 Pfizer CentreOne
 Various
-1,265 
-1,335 
-1,731 
+1,265
+1,335
+1,731
 Pfizer Ignite
 Various
 
 Total Alliance revenues included above
-7,582 
-8,537 
-7,652 
+7,582
+8,537
+7,652
 Excludes revenues for certain Comirnaty-related manufacturing activities performed on behalf of BioNTech, which are included in the PC1 contract development and manufacturing organization. See
 footnote (h) below.
 Includes a non-cash revenue reversal of $3.5 billion recorded in the fourth quarter of 2023, of which a portion was associated with sales recorded in 2022, related to the expected return of an estimated 6.5
@@ -9744,13 +9287,13 @@ The deferred revenues related to Paxlovid totaled $3.4 billion as of December 31
 respectively, while deferred revenues related to Paxlovid were not material as of December 31, 2022. The increase in Paxlovid deferred revenues during 2023 was primarily driven
 by the reversal of Paxlovid revenues and conversion of previously purchased EUA-labeled Paxlovid treatment courses into a volume-based credit under our October 2023 amended
 agreement with the U.S. government.
-V600E/K 
-V600E 
+V600E/K
+V600E
 (d)
 V600E
 (e)
 V600E/K
-V600E 
+V600E
 (f)
 (f)
 (f)
@@ -9765,10 +9308,6 @@ V600E
 (f)
 (g)
 (h)
-
-2023 Form 10-K
-
-Notes to Consolidated Financial Statements
 
 The deferred revenues related to Comirnaty totaled $1.7 billion as of December 31, 2023, with $1.1 billion and $552 million recorded in current liabilities and noncurrent liabilities,
 respectively. The deferred revenues related to Comirnaty totaled $2.5 billion as of December 31, 2022, with $2.4 billion and $77 million recorded in current liabilities and noncurrent
@@ -9793,8 +9332,6 @@ Changes in Internal Controls
 On December 14, 2023, we acquired Seagen. Other than the addition of Seagen’s operations to our internal control over financial reporting and any related changes in control to
 integrate Seagen into Pfizer, there has not been any change in the Company’s internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f)
 under the Exchange Act) that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
-
-2023 Form 10-K
 
 Report of Independent Registered Public Accounting Firm
 To the Board of Directors and Shareholders
@@ -9835,8 +9372,6 @@ deteriorate.
 New York, New York
 February 22, 2024
 
-2023 Form 10-K
-
 Management’s Report on Internal Control Over Financial Reporting
 Management’s Report
 We prepared and are responsible for the financial statements that appear in this Form 10-K. These financial statements are in conformity with accounting principles generally
@@ -9862,16 +9397,14 @@ revenues for the year ended December 31, 2023, and assets associated with Seagen
 2023.
 The Company’s independent auditors have issued their auditors’ report on the Company’s internal control over financial reporting. That report appears above in this Form 10-K.
 Albert Bourla
- 
+
 Chairman and Chief Executive Officer
- 
+
 David M. Denton
 Jennifer B. Damico
 Principal Financial Officer
 Principal Accounting Officer
 February 22, 2024
-
-2023 Form 10-K
 
 ITEM 9B.
 OTHER INFORMATION
@@ -9922,11 +9455,9 @@ Consolidated Statements of Comprehensive Income
 Consolidated Balance Sheets
 Consolidated Statements of Equity
 Consolidated Statements of Cash Flows
-Notes to Consolidated Financial Statements
+
 15(a)(2) Financial Statement Schedules. Schedules are omitted because they are not required or because the information is provided elsewhere in the financial statements. The
 financial statements of unconsolidated subsidiaries are omitted because, considered in the aggregate, they would not constitute a significant subsidiary.
-
-2023 Form 10-K
 
 15(a)(3) Exhibits. These exhibits are available upon request. Requests should be directed to our Corporate Secretary, Pfizer Inc., 66 Hudson Boulevard East, New York, New York
 10001-2192. The exhibit numbers preceded by an asterisk (*) indicate exhibits filed with this Form 10-K. All other exhibit numbers indicate exhibits filed by incorporation by
@@ -9999,8 +9530,6 @@ is incorporated by reference from Wyeth’s 2003 Annual Report on Form 10-K.
 4.15
 Sixth Supplemental Indenture, dated as of November 14, 2005, between Wyeth and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N.A.), as trustee,
 is incorporated by reference from Wyeth’s Current Report on Form 8-K filed on November 15, 2005.
-
-2023 Form 10-K
 
 4.16
 Seventh Supplemental Indenture, dated as of March 27, 2007, between Wyeth and The Bank of New York Mellon (as successor to JPMorgan Chase Bank, N.A.), as trustee,
@@ -10084,8 +9613,6 @@ Amendment No. 6 to the Pfizer Supplemental Savings Plan is incorporated by refer
 10.20
 Amendment No. 7 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2019 Annual Report on Form 10-K.
 
-2023 Form 10-K
-
 10.21
 Amendment No. 8 to the Pfizer Supplemental Savings Plan is incorporated by reference from our 2020 Annual Report on Form 10-K.
 10.22
@@ -10167,8 +9694,6 @@ Power of Attorney (included as part of signature page).
 *31.1
 Certification by the Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
 
-2023 Form 10-K
-
 *31.2
 Certification by the Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
 *32.1
@@ -10197,8 +9722,6 @@ ITEM 16.
 FORM 10-K SUMMARY
 None.
 
-2023 Form 10-K
-
 SIGNATURES
 Under the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, this report was signed on behalf of the Registrant by the authorized person named below.
 
@@ -10220,17 +9743,17 @@ Date
 Albert Bourla
 Chairman, Chief Executive Officer and Director
 (Principal Executive Officer)
-February 20, 2024
+
 /S/ DAVID M. DENTON
 David M. Denton
 Chief Financial Officer, Executive Vice President
 (Principal Financial Officer)
-February 20, 2024
+
 /S/ JENNIFER B. DAMICO
 Jennifer B. Damico
 Senior Vice President and Controller
 (Principal Accounting Officer)
-February 20, 2024
+
 /S/ RONALD E. BLAYLOCK
 Ronald E. Blaylock
 Director
@@ -10242,7 +9765,7 @@ February 21, 2024
 /S/ JOSEPH J. ECHEVARRIA
 Joseph J. Echevarria
 Director
-February 20, 2024
+
 /S/ SCOTT GOTTLIEB
 Scott Gottlieb
 Director
@@ -10250,23 +9773,23 @@ February 21, 2024
 /S/ HELEN H. HOBBS
 Helen H. Hobbs
 Director
-February 20, 2024
+
 /S/ SUSAN HOCKFIELD
 Susan Hockfield
 Director
-February 20, 2024
+
 /S/ DAN R. LITTMAN
 Dan R. Littman
 Director
-February 20, 2024
+
 /S/ SHANTANU NARAYEN
 Shantanu Narayen
 Director
-February 20, 2024
+
 /S/ SUZANNE NORA JOHNSON
 Suzanne Nora Johnson
 Director
-February 20, 2024
+
 /S/ JAMES QUINCEY
 James Quincey
 Director
@@ -10274,9 +9797,6 @@ February 21, 2024
 /S/ JAMES C. SMITH
 James C. Smith
 Director
-February 20, 2024
-
-2023 Form 10-K
 
 EXHIBIT 4.26
 DESCRIPTION OF THE REGISTRANT’S SECURITIES REGISTERED PURSUANT TO SECTION 12 OF THE SECURITIES EXCHANGE ACT OF 1934
@@ -10304,7 +9824,7 @@ Anti-takeover Effects of the Certificate of Incorporation, Bylaws and Delaware L
 Certificate of Incorporation and Bylaws. Various provisions contained in the Certificate of Incorporation and the Bylaws could delay or discourage some transactions involving an
 actual or potential change in control of us or a change in our management and may limit the ability of our stockholders to remove current management or approve transactions that
 our stockholders may deem to be in their best interests. Among other things, these provisions:
- 
+
 limit the right of stockholders to call special meetings of stockholders to holders of at least 10% of the total number of shares of stock entitled to vote on the matter to be
 brought before the proposed special meeting;
 authorize our Board of Directors to establish one or more series of preferred stock without stockholder approval;
@@ -10490,7 +10010,7 @@ The information in this section concerning Euroclear and Clearstream Banking and
 reliable. We are not responsible for the accuracy or completeness of this information.
 We have been advised by Clearstream and Euroclear, respectively, as follows:
 Clearstream has advised that:
- 
+
 It is incorporated under the laws of Luxembourg and licensed as a bank and professional depositary. Clearstream holds securities for its participating organizations and
 facilitates the clearance and settlement of securities transactions among its participants through electronic book-entry changes in accounts of its participants, thereby
 eliminating the need for physical movement of certificates.
@@ -10591,7 +10111,7 @@ we have cured or the holders have waived all Events of Default, other than the n
 provided in the indenture.
 If a default in the performance or breach of the indenture shall have occurred and be continuing, the holders of not less than a majority in principal amount of the outstanding notes
 of all series affected thereby, by notice to the trustee, may waive any past Event of Default or its consequences under the indenture. However, an Event of Default cannot be waived
-with respect to any series of notes in the following two circumstances: 
+with respect to any series of notes in the following two circumstances:
 a failure to pay the principal of, and premium, if any, or interest on any security or in the payment of any sinking fund installment; or
 a covenant or provision that cannot be modified or amended without the consent of each holder of outstanding notes of that series.
 Other than its duties in case of a default, the trustee is not obligated to exercise any of its rights or powers under the indenture at the request, order or direction of any holders,
@@ -11071,7 +10591,7 @@ maximum of fifteen (15). The initial payment shall be made in cash within sixty 
 5.2 and 5.3 herein. The remaining installment payments shall be made in cash each year thereafter, until the Participant’s entire deferred compensation account has been
 paid. Interest shall accrue on the deferred amounts in the Participant’s deferred compensation account immediately prior each such payment, multiplied by a fraction, the
 numerator of which is one (1), and the denominator of which is the number of installment payments remaining.
- 
+
 (c) Alternative Payment Schedule. If approved by the Committee, a Participant may elect an alternate payment schedule.
 5.5 Change in Control. Notwithstanding any provision contained in the Plan, in the event of a Change in Control, all participants shall be entitled to an immediate lump sum
 payment of their deferred amounts, together with interest earned thereon.
@@ -11146,7 +10666,7 @@ California
 AH Robins LLC
 Delaware
 AHP Manufacturing B.V.
-Netherlands
+
 Alpharma Pharmaceuticals LLC
 Delaware
 American Food Industries LLC
@@ -11180,7 +10700,7 @@ Vermont
 Bulldog (BVI) NewCo Limited
 British Virgin Islands
 C.P. Pharmaceuticals International C.V.
-Netherlands
+
 CICL Corporation
 Delaware
 COC I Corporation
@@ -11200,7 +10720,7 @@ Delaware
 Fort Dodge Manufatura Ltda.
 Brazil
 G. D. Searle & Co. Limited
-United Kingdom
+
 G. D. Searle International Capital LLC
 Delaware
 Genetics Institute, LLC
@@ -11228,7 +10748,7 @@ Singapore
 Hospira Puerto Rico, LLC
 Delaware
 Hospira UK Limited
-United Kingdom
+
 Hospira Worldwide, LLC
 Delaware
 
@@ -11243,7 +10763,7 @@ Delaware
 International Affiliated Corporation LLC
 Delaware
 John Wyeth & Brother Limited
-United Kingdom
+
 King Pharmaceuticals Holdings LLC
 Delaware
 King Pharmaceuticals LLC
@@ -11275,11 +10795,11 @@ Delaware
 Monarch Pharmaceuticals, LLC
 Tennessee
 MPP Trustee Limited
-United Kingdom
+
 MTG Divestitures LLC
 Delaware
 Neusentis Limited
-United Kingdom
+
 PAH USA IN8 LLC
 Delaware
 Parke, Davis & Company LLC
@@ -11297,21 +10817,21 @@ Canada
 PF Argentum US Corporation
 Delaware
 PF Czech Republic Holdings B.V.
-Netherlands
+
 PF Finland Holdings B.V.
-Netherlands
+
 PF OFG South Korea 1 B.V.
-Netherlands
+
 PF OFG South Korea 2 B.V.
-Netherlands
+
 PF PR Holdings C.V.
-Netherlands
+
 PF PRISM C.V.
-Netherlands
+
 PF PRISM Holdings B.V.
-Netherlands
+
 PF PRISM IMB B.V.
-Netherlands
+
 PF Prism S.á.r.l.
 Luxembourg
 Pfizer
@@ -11346,7 +10866,6 @@ Norway
 
 Singapore
 Pfizer Australia Holdings B.V.
-Netherlands
 
 Australia
 
@@ -11354,7 +10873,7 @@ Australia
 
 Australia
 Pfizer B.V.
-Netherlands
+
 Pfizer Biopharma Egypt LLC
 Egypt
 Pfizer Biopharmaceuticals Egypt LLC
@@ -11374,7 +10893,6 @@ Ecuador
 
 Pennsylvania
 Pfizer Consumer Healthcare
-United Kingdom
 
 Ireland
 
@@ -11390,15 +10908,14 @@ Germany
 Pfizer Development LLC
 Delaware
 
-United Kingdom
 Pfizer East India B.V.
-Netherlands
+
 Pfizer Eastern Investments B.V.
-Netherlands
+
 Pfizer Europe MA EEIG
 Belgium
 Pfizer Export B.V.
-Netherlands
+
 Pfizer Export Company
 Ireland
 Pfizer France International Investments
@@ -11406,7 +10923,6 @@ France
 Pfizer Free Zone Panama, S. de R.L.
 Panama
 Pfizer Global Holdings B.V.
-Netherlands
 
 Japan
 Pfizer Global Trading
@@ -11426,7 +10942,7 @@ Ireland
 Pfizer Hellas, A.E.
 Greece
 Pfizer Himalaya Holdings Coöperatief U.A.
-Netherlands
+
 Pfizer Holding France
 France
 
@@ -11481,10 +10997,6 @@ Kenya
 
 Ireland
 
-United Kingdom
-
-United Kingdom
-
 India
 
 Taiwan
@@ -11515,13 +11027,12 @@ Delaware
 
 Brazil
 Pfizer Mexico Holding B.V.
-Netherlands
 
 New Zealand
 Pfizer North America Services LLC
 Delaware
 Pfizer OTC B.V.
-Netherlands
+
 Pfizer Overseas LLC
 Delaware
 Pfizer Oy
@@ -11529,17 +11040,16 @@ Finland
 
 Pakistan
 Pfizer PFE AsiaPac Holding B.V.
-Netherlands
+
 Pfizer PFE Australia Holding B.V.
-Netherlands
 
 Australia
 
 Ecuador
 Pfizer PFE Eastern Investments B.V.
-Netherlands
+
 Pfizer PFE Global Holdings B.V.
-Netherlands
+
 Pfizer PFE İlaçları Anonim Şirketi
 Turkey
 Pfizer PFE Pharmaceuticals Israel Holding LLC
@@ -11548,9 +11058,9 @@ Delaware
 Israel
 
 Pfizer PFE Service Company Holding B.V.
-Netherlands
+
 Pfizer PFE Spain B.V.
-Netherlands
+
 Pfizer Pharm Algerie
 Algeria
 Pfizer Pharma GmbH
@@ -11560,7 +11070,6 @@ People's Republic of China
 
 Hungary
 Pfizer Pharmaceuticals Global B.V.
-Netherlands
 
 Israel
 
@@ -11582,11 +11091,9 @@ Connecticut
 
 India
 Pfizer R&D Holding B.V.
-Netherlands
+
 Pfizer R&D Japan G.K.
 Japan
-
-United Kingdom
 
 Delaware
 Pfizer Romania SRL
@@ -11624,7 +11131,6 @@ Singapore
 
 Nigeria
 
-United Kingdom
 Pfizer SRB d.o.o.
 Serbia
 Pfizer Strategic Investment Holdings LLC
@@ -11667,9 +11173,9 @@ Delaware
 Pharmacia Inter-American LLC
 Pennsylvania
 Pharmacia International B.V.
-Netherlands
+
 Pharmacia Limited
-United Kingdom
+
 Pharmacia LLC
 Delaware
 PHIVCO Corp.
@@ -11681,7 +11187,7 @@ Luxembourg
 PIMB OFG Spain Holding, S.L.
 Spain
 PRISM Holdings B.V.
-Netherlands
+
 PT. Pfizer Indonesia
 Indonesia
 Purepac Pharmaceutical Holdings LLC
@@ -11691,13 +11197,13 @@ Wyoming
 ResApp Health Limited
 Australia
 ReViral Limited
-United Kingdom
+
 Rinat Neuroscience Corp.
 Delaware
 Seagen Austria GmbH
 Austria
 Seagen B.V.
-Netherlands
+
 Seagen Canada Inc.
 Canada
 Seagen Denmark ApS
@@ -11719,7 +11225,7 @@ Spain
 Seagen Sweden AB
 Sweden
 Seagen U.K. Ltd.
-United Kingdom
+
 Seagen U.S. Inc.
 Delaware
 SeaGen US Holdings, LLC
@@ -11801,39 +11307,38 @@ Delaware
 Wyeth LLC
 Delaware
 5.95% Notes due 2037
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 4.650% Notes due 2025
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 4.450% Notes due 2026
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 4.450% Notes due 2028
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 4.650% Notes due 2030
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 4.750% Notes due 2033
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 5.110% Notes due 2043
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 5.300% Notes due 2053
-Pfizer Investment Enterprises Pte.
+
 Ltd.
-Republic of Singapore
+
 5.340% Notes due 2063
- 
 
 EXHIBIT 23
 Consent of Independent Registered Public Accounting Firm
@@ -12009,7 +11514,6 @@ completed fiscal years and that results from a change in the Company’s fiscal 
 Restatement for a given reporting period, with such date being the earlier of: (i) the date the Board, a committee of the Board, or the officer or officers of the Company
 authorized to take such action if Board action is not required, concludes, or reasonably should have concluded, that the Company is required to prepare an
 Restatement, or (ii) the date a court, regulator or other legally authorized body directs the Company to prepare a Restatement.
- 
 
 Recovery of any Erroneously Awarded Compensation under the Policy is not dependent on if or when the Restatement is actually filed.
 “NYSE” means the New York Stock Exchange.

@@ -1,0 +1,4622 @@
+# Tables from reliance_2025_annual.pdf
+
+
+## Table 1 (Page 5)
+
+| Col_0 | US$ million | FY 2024-25 | FY 2023-24 | FY 2022-23*** | FY 2021-22 | FY 2020-21 | FY 2019-20 | FY 2018-19 | FY 2017-18 | FY 2016-17 | FY 2015-16 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Value of Sales and Services (Revenue) Total Income Earnings Before Depreciation, Finance Cost and Tax Expenses (EBDIT) # Depreciation and Amortisation Exceptional Items gain/(loss) Profit for the Year Equity Dividend (%)## Dividend Payout## Equity Share Capital Net Worth Gross Fixed Assets Net Fixed Assets Total Assets Market Capitalisation^ | 125,320 | 10,71,174 | 10,00,122 9,74,864 7,88,743 5,39,238 6,59,997 6,25,212 4,30,731 3,30,180 2,93,298 9,30,529 9,03,045 7,32,578 5,02,653 6,25,601 5,91,480 4,18,214 3,39,623 3,05,351 1,78,290 1,53,920 1,23,684 97,580 1,02,280 92,656 74,184 55,529 53,993 50,832 40,303 29,782 26,572 22,203 20,934 16,706 11,646 11,565 - - 2,836 5,642 (4,444) - 1,087 - 4,574 79,020 73,670 66,184 53,739 39,880 39,837 36,080 29,833 29,861 90 80 70 65 65 60 110 - 105 6,089 5,083 4,297 3,921 3,852 3,554 3,255 - 3,095 6,766 6,766 6,765 6,445 6,339 5,926 5,922 2,959 2,948 7,42,922 6,68,880 6,45,127 5,48,156 3,71,569 3,24,644 2,89,798 2,58,511 2,31,556 14,38,448 12,96,484 10,43,121 8,91,553 8,42,635 7,63,988 7,62,493 6,81,238 5,59,942 11,03,851 10,03,287 7,87,295 6,56,999 6,31,505 5,65,840 5,85,094 5,18,471 4,09,353 17,55,986 16,07,431 14,99,665 13,21,212 11,65,915 10,02,406 8,16,348 7,06,802 5,98,997 20,14,011 15,77,093 17,81,841 13,15,998 7,05,212 8,63,996 5,59,223 4,28,909 3,38,703 |  |  |  |  |  |  |  |  |
+|  | 116,773 | 9,98,114 |  |  |  |  |  |  |  |  |  |
+|  | 21,459 | 1,83,422 |  |  |  |  |  |  |  |  |  |
+|  | 6,217 | 53,136 |  |  |  |  |  |  |  |  |  |
+|  | - | - |  |  |  |  |  |  |  |  |  |
+|  | 9,513 | 81,309 |  |  |  |  |  |  |  |  |  |
+|  | - | 100 |  |  |  |  |  |  |  |  |  |
+|  | 792 | 6,766 |  |  |  |  |  |  |  |  |  |
+|  | 1,583 | 13,532 |  |  |  |  |  |  |  |  |  |
+|  | 93,018 | 7,95,069 |  |  |  |  |  |  |  |  |  |
+|  | 188,831 | 16,14,033 |  |  |  |  |  |  |  |  |  |
+|  | 144,747 | 12,37,221 |  |  |  |  |  |  |  |  |  |
+|  | 228,151 | 19,50,121 |  |  |  |  |  |  |  |  |  |
+|  | 201,858 | 17,25,378 |  |  |  |  |  |  |  |  |  |
+
+
+## Table 2 (Page 5)
+
+| Col_0 | US$ | FY 2024-25 | FY 2023-24 | FY 2022-23*** | FY 2021-22 | FY 2020-21 | FY 2019-20 | FY 2018-19 | FY 2017-18 | FY 2016-17 | FY 2015-16 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Earnings Per Share* (`) Turnover Per Share* (`) Book Value Per Share* (`) Debt: Equity Ratio EBDIT/Gross Turnover (%) Net Profit Margin (%) RONW (%)** ROCE (%)** | 0.6 | 51.5 | 102.9 98.0 89.5 76.4 63.1 66.8 61.0 101.3 101.0 1,478.1 1,440.8 1,165.7 836.7 1,041.1 1,055.1 727.4 1,115.9 994.9 1,172.7 1,058.0 1,152.1 1,086.4 708.5 653.3 495.6 891.2 785.5 0.41:1 0.44:1 0.34:1 0.36:1 0.75:1 0.74:1 0.75:1 0.75:1 0.78:1 17.8 15.8 15.7 18.1 15.5 14.8 17.2 16.8 18.4 7.9 7.6 8.4 10.0 6.0 6.4 8.4 9.0 10.2 16.3 15.0 13.2 13.1 12.7 15.1 16.9 16.4 16.5 12.6 13.3 12.7 10.6 12.0 13.5 13.6 13.5 13.0 |  |  |  |  |  |  |  |  |
+|  | 9.3 | 791.6 |  |  |  |  |  |  |  |  |  |
+|  | 7.3 | 623.1 |  |  |  |  |  |  |  |  |  |
+|  | - | 0.41:1 |  |  |  |  |  |  |  |  |  |
+|  | - | 17.1 |  |  |  |  |  |  |  |  |  |
+|  | - | 7.6 |  |  |  |  |  |  |  |  |  |
+|  | - | 14.6 |  |  |  |  |  |  |  |  |  |
+|  | - | 11.3 |  |  |  |  |  |  |  |  |  |
+
+
+## Table 3 (Page 7)
+
+| Value of sales and services | 3,30,943 | 3,06,848 7.9% |
+| --- | --- | --- |
+| Revenue from operations | 2,91,043 | 2,73,131 6.6% |
+| EBITDA | 25,094 | 23,108 8.6% |
+| EBITDA margin* | 8.6% | 8.5% 10 bps |
+
+
+## Table 4 (Page 10)
+
+| Value of sales and services | 20,696 | 11,875 74.3% |
+| --- | --- | --- |
+| Revenue from operations | 17,762 | 10,157 74.9% |
+| EBITDA | 1,833 | 765 139.6% |
+| EBITDA margin** | 10.3% | 7.5% 280 bps |
+
+
+## Table 5 (Page 12)
+
+| Revenue (J Crore) | 6,26,921 | 5,64,749 11.0% |
+| --- | --- | --- |
+| EBITDA (J Crore) | 54,988 | 62,389 (11.9%) |
+| EBITDA Margin | 8.8% | 11.0% (220 bps) |
+
+
+## Table 6 (Page 13)
+
+| Revenue (J Crore) | 25,211 | 24,439 3.2% |
+| --- | --- | --- |
+| EBITDA (J Crore) | 21,188 | 20,191 4.9% |
+| EBITDA margin | 84.0% | 82.6% 140 bps |
+|  |  |  |
+| Price Realisation FY 2024-25 FY 2023-24 Y-o-Y Change |  |  |
+| KG D6 Gas (US$/mmbtu) | 9.7 | 10.1 (4.0%) |
+| CBM Gas (US$/mmbtu) | 11.0 | 14.4 (23.6%) |
+| Condensate (US$/bbl) | 79.8 | 81.1 (1.6%) |
+
+
+## Table 7 (Page 17)
+
+| 1 | Climate Change Page 35 | Col_2 | Col_3 |
+| --- | --- | --- | --- |
+| 2 | Managing Environmental Impacts Page 35 |  |  |
+| 3 | Energy Efficiency of Operations Page 36 |  |  |
+| 4 | Water and Effluent Management Page 36 |  |  |
+| 5 | Raw Material Security Page 38 |  |  |
+| 6 | Ecosystem and Biodiversity Page 36 |  |  |
+| 7 | Innovation and Technology Page 39 |  |  |
+| 8 | Waste Management and Circular Economy Page 36 |  |  |
+| 9 | Sustainable Supply Chain Management Page 40 |  |  |
+| 10 | Disaster Preparedness and Management Page 26-27 |  |  |
+| 11 | Health, Safety and Employee Well-being Page 37 |  |  |
+| 12 | Diversity and Inclusion Page 37 |  |  |
+| 13 | Customer Satisfaction Page 40 |  |  |
+| 14 | Data Privacy and Cybersecurity Page 39 |  |  |
+| 15 | Security and Asset Management Page 39 |  |  |
+| 16 | Talent Management Page 37 |  |  |
+| 17 | Community Development Page 40 |  |  |
+| 18 | Labour Management Page 38 |  |  |
+| 19 | Human Rights Page 38 |  |  |
+| 20 | Business Ethics, Integrity and Transparency Page 38 |  |  |
+| 21 | Regulatory Issues and Compliance Page 45 |  |  |
+| 22 | Grievance Redressal Mechanisms Page 38 |  |  |
+| 23 | Risk Management Page 25 |  |  |
+| 24 | Economic Performance Page 7 |  |  |
+| 25 | Code of Conduct Page 45 |  |  |
+
+
+## Table 8 (Page 19)
+
+| TPM ‘000 Tonnes | 1.15 | 1.36 1.88 |
+| --- | --- | --- |
+| SOx ‘000 Tonnes | 15.91 | 16.64 19.29 |
+| NOx ‘000 Tonnes | 35.70 | 34.00 35.80 |
+| VOC ‘000 Tonnes | 48.46 | 46.88 46.27 |
+
+
+## Table 9 (Page 20)
+
+| O2C and E&P* Hazardous waste (disposed) ‘000 MT | 17.40 | 14.80 12.32 |
+| --- | --- | --- |
+| Hazardous waste diverted from disposal ‘000 MT (recycled/reused) | 108.65 | 87.89 80.68 |
+| Non-hazardous waste (disposed) ‘000 MT | 4.75 | 4.80 4.44 |
+| Non-hazardous waste diverted from disposal ‘000 MT (recycled/reused) | 641.00 | 569.27 521.77 |
+| Reliance Jio Hazardous waste (disposed) ‘000 MT | 0.003 | 1.93 3.84 |
+| Hazardous waste diverted from disposal (recycled/reused) ‘000 MT | 0.54 | - - |
+| Non-hazardous waste (disposed) ‘000 MT | 0.00 | 3.84 4.47 |
+| Non-hazardous waste diverted from disposal ‘000 MT (recycled/reused) | 1.36 | - - |
+
+
+## Table 10 (Page 28)
+
+| Name of the Director | Last AGM held on August 29, 2024 | Board Meetings held on | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | April 22, 2024 | July 19, 2024 | September 5, 2024 | October 14, 2024 | December 11, 2024 | January 16, 2025 |
+
+
+## Table 11 (Page 29)
+
+| Date of the Meeting | Attended by | Col_2 | Col_3 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Raminder Singh Gujral | K. V. Chowdary | Haigreve Khaitan | % Attendance at Meeting |
+
+
+## Table 12 (Page 29)
+
+| Date of the Meeting | Attended by | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Raminder Singh Gujral | Dr. Shumeet Banerji | K. V. Chowdary | Hital R. Meswani | P. M. S. Prasad | Srikanth Venkatachari | % Attendance at Meeting |
+
+
+## Table 13 (Page 29)
+
+| Date of the Meeting | Attended by | Col_2 | Col_3 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Dr. Shumeet Banerji | Raminder Singh Gujral | K. V. Chowdary | % Attendance at Meeting |
+
+
+## Table 14 (Page 32)
+
+| Commodity Name | Exposure towards the particular commodity (in K crore) | Exposure in quantity terms towards the particular commodity (in 1000 Metric tonnes) | % of such exposure hedged through commodity derivatives | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Domestic market |  | International market |  | Total |
+|  |  |  | OTC | Exchange | OTC | Exchange* |  |
+
+
+## Table 15 (Page 40)
+
+| Col_0 | Standalone | Col_2 | Col_3 | Col_4 | Consolidated | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2024-25 |  | 2023-24 |  | 2024-25 |  | 2023-24 |  |
+|  | K crore | US$ million* | K crore | US$ million* | K crore | US$ million* | K crore | US$ million* |
+| Profit Before Tax Current Tax Deferred Tax Profit After Tax Share of Profit / (Loss) of Associates and Joint Ventures Profit After Tax and Share of Profit / (Loss) of Associates and Joint Ventures Net Profit attributable to Non-Controlling Interest Net Profit Attributable to Owners of the Company Balance in Retained Earnings Transferred to statement of Profit & Loss A/c ^ Others #^ Fresh issue of equity by subsidiary ^ | 46,128 | 5,397 | 55,273 6,627 (10,922) (1,310) (2,309) (277) 42,042 5,040 - - 42,042 5,040 - - 42,042 5,040 97,110 13,970 - - - - - - |  | 1,06,017 | 12,403 | 1,04,340 12,509 (13,590) (1,629) (12,117) (1,453) 78,633 9,427 387 47 79,020 9,474 (9,399) (1,127) 69,621 8,347 2,95,739 39,733 (818) (98) - - 11,184 1,341 |  |
+|  | (9,399) | (1,100) |  |  | (12,758) | (1,493) |  |  |
+|  | (1,467) | (172) |  |  | (12,472) | (1,459) |  |  |
+|  | 35,262 | 4,125 |  |  | 80,787 | 9,451 |  |  |
+|  | - | - |  |  | 522 | 61 |  |  |
+|  | 35,262 | 4,125 |  |  | 81,309 | 9,512 |  |  |
+|  | - | - |  |  | (11,661) | (1,364) |  |  |
+|  | 35,262 | 4,125 |  |  | 69,648 | 8,148 |  |  |
+|  | 1,03,213 | 14,701 |  |  | 3,39,787 | 45,014 |  |  |
+|  | - | - |  |  | - | - |  |  |
+|  | - | - |  |  | (10,813) | (1,265) |  |  |
+|  | - | - |  |  | - | - |  |  |
+| Sub-Total | 1,38,475 | 18,826 | 1,39,152 19,010 |  | 3,98,622 | 51,897 | 3,75,726 49,323 |  |
+| Appropriations Transferred to General Reserve Transferred to Statutory Reserve Transferred from Debenture Redemption Reserve Transferred from Special Economic Zone Reinvestment Reserve Dividend on Equity Shares Closing Balance |  |  | (30,000) (3,597) - - - - 150 18 (6,089) (730) |  |  |  | (30,000) (3,597) - - - - 150 18 (6,089) (730) |  |
+|  | - | - |  |  | - | - |  |  |
+|  | - | - |  |  | (158) | (18) |  |  |
+|  | - | - |  |  | 245 | 29 |  |  |
+|  | - | - |  |  | - | - |  |  |
+|  | (6,766) | (792) |  |  | (6,766) | (792) |  |  |
+|  | 1,31,709 | 18,034 | 1,03,213 14,701 |  | 3,91,943 | 51,116 | 3,39,787 45,014 |  |
+
+
+## Table 16 (Page 40)
+
+| Particulars | Standalone | Col_2 | Consolidated | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | K crore | US$ billion* | K crore | US$ billion* |
+
+
+## Table 17 (Page 44)
+
+| Total Amount Spent for the financial year | Amount Unspent (C in crore) | Col_2 | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  | Total Amount transferred to Unspent CSR Account as per sub-section (6) of Section 135 |  | Amount transferred to any fund specified under Schedule VII as per second proviso to sub-section (5) of Section 135 |  |  |
+|  | Amount | Date of transfer | Name of the Fund | Amount | Date of transfer |
+
+
+## Table 18 (Page 45)
+
+| (1) | (2) | (3) | (4) | (5) | (6) | Col_6 | (7) | (8) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sl. No. | Preceding financial year(s) | Amount transferred to Unspent CSR Account under subsection (6) of section 135 (K In crore) | Balance Amount in Unspent CSR Account under subsection (6) of section 135 (K In crore) | Amount Spent in the financial year (K In crore) | Amount transferred to a Fund as specified under Schedule VII as per second proviso to subsection (5) of section 135, if any |  | Amount remaining to be spent in succeeding financial years (K In crore) | Deficiency, if any |
+|  |  |  |  |  | Amount (K In crore) | Date of Transfer |  |  |
+
+
+## Table 19 (Page 45)
+
+| Sl. No. | Short particulars of the property or asset(s) [including complete address and location of the property] | Pincode of the property or asset(s) | Date of creation | Amount of CSR amount spent - K in crore | Details of entity/ Authority/ beneficiary of the registered owner | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| (1) | (2) | (3) | (4) | (5) | (6) |  |  |
+|  |  |  |  |  | CSR Registration Number, if applicable | Name | Registered address |
+
+
+## Table 20 (Page 49)
+
+| Sr. No | Manufacturing Division | Capital investments on energy efficient equipment (K in crore) | Energy savings |
+| --- | --- | --- | --- |
+|  |  |  | (Gcal/hr) |
+
+
+## Table 21 (Page 57)
+
+| Col_0 | Col_1 | Notes | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| Assets Non-Current Assets Property, Plant and Equipment 1 Intangible Assets 1 Capital Work-in-Progress 1 Intangible Assets Under Development 1 Financial Assets Investments 2 Loans 3 Other Financial Assets 4 Other Non-Current Assets 5 |  |  |  | 2,58,911 40,719 44,294 17,338 3,01,400 10,051 16,902 7,403 |
+|  |  |  |  |  |
+|  |  |  | 2,67,096 |  |
+|  |  |  | 43,951 |  |
+|  |  |  | 76,322 |  |
+|  |  |  | 6,095 |  |
+|  |  |  |  |  |
+|  |  |  | 3,33,258 |  |
+|  |  |  | 4,941 |  |
+|  |  |  | 15,256 |  |
+|  |  |  | 5,919 |  |
+| Total Non-Current Assets |  |  | 7,52,838 | 6,97,018 |
+| Current Assets Inventories 6 Financial Assets Investments 7 Trade Receivables 8 Cash and Cash Equivalents 9 Other Financial Assets 10 Other Current Assets 12 |  |  |  | 85,100 68,663 14,740 69,248 11,747 13,127 |
+|  |  |  | 89,216 |  |
+|  |  |  |  |  |
+|  |  |  | 57,102 |  |
+|  |  |  | 15,591 |  |
+|  |  |  | 82,471 |  |
+|  |  |  | 15,218 |  |
+|  |  |  | 9,965 |  |
+| Total Current Assets |  |  | 2,69,563 | 2,62,625 |
+| Total Assets |  |  | 10,22,401 | 9,59,643 |
+
+
+## Table 22 (Page 57)
+
+| Col_0 | Col_1 | Notes | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| Equity and Liabilities Equity Equity Share capital 13 Other Equity 14 |  |  |  | 6,766 5,08,330 |
+|  |  |  |  |  |
+|  |  |  | 13,532 |  |
+|  |  |  | 5,29,555 |  |
+| Total Equity |  |  | 5,43,087 | 5,15,096 |
+| Liabilities Non-Current Liabilities Financial Liabilities Borrowings 15 Lease Liabilities Other Financial Liabilities 16 Provisions 17 Deferred Tax Liabilities (Net) 18 Other Non-Current Liabilities 19 |  |  |  | 1,61,059 2,692 - 1,701 36,259 2,822 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 1,72,025 |  |
+|  |  |  | 2,627 |  |
+|  |  |  | 4,397 |  |
+|  |  |  | 1,767 |  |
+|  |  |  | 37,390 |  |
+|  |  |  | 3,173 |  |
+| Total Non-Current Liabilities |  |  | 2,21,379 | 2,04,533 |
+| Current Liabilities Financial Liabilities Borrowings 20 Lease Liabilities Trade Payables Due to: 21 Micro and Small Enterprises Other than Micro and Small Enterprises Other Financial Liabilities 22 Other Current Liabilities 23 Provisions 24 |  |  |  | 50,731 93 492 1,29,367 27,493 30,866 972 |
+|  |  |  |  |  |
+|  |  |  | 26,788 |  |
+|  |  |  | 65 |  |
+|  |  |  |  |  |
+|  |  |  | 1,301 |  |
+|  |  |  | 1,21,078 |  |
+|  |  |  | 35,264 |  |
+|  |  |  | 72,283 |  |
+|  |  |  | 1,156 |  |
+| Total Current Liabilities |  |  | 2,57,935 | 2,40,014 |
+| Total Liabilities |  |  | 4,79,314 | 4,44,547 |
+| Total Equity and Liabilities |  |  | 10,22,401 | 9,59,643 |
+| Material Accounting Policies A-C See accompanying Notes to the Financial Statements 1 to 43 |  |  |  |  |
+|  |  |  |  |  |
+
+
+## Table 23 (Page 58)
+
+| Col_0 | Notes | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| Income Value of Sales Income from Services Value of Sales & Services (Revenue) Less: GST Recovered Revenue from Operations 25 Other Income 26 |  |  | 5,33,566 41,390 |
+|  |  | 5,38,564 |  |
+|  |  | 18,599 |  |
+|  |  | 5,57,163 | 5,74,956 27,014 |
+|  |  | 24,371 |  |
+|  |  | 5,32,792 | 5,47,942 12,128 |
+|  |  | 16,094 |  |
+| Total Income |  | 5,48,886 | 5,60,070 |
+| Expenses Cost of Materials Consumed Purchase of Stock-in-Trade Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade 27 Excise Duty Employee Benefits Expense 28 Finance Costs 29 Depreciation / Amortisation and Depletion Expense 1 Other Expenses 30 |  |  | 3,76,418 13,453 2,700 13,408 7,807 13,430 17,690 59,891 |
+|  |  | 3,84,021 |  |
+|  |  | 15,864 |  |
+|  |  | (10,679) |  |
+|  |  | 15,443 |  |
+|  |  | 8,690 |  |
+|  |  | 10,054 |  |
+|  |  | 17,981 |  |
+|  |  | 61,384 |  |
+| Total Expenses |  | 5,02,758 | 5,04,797 |
+| Profit Before Tax |  | 46,128 | 55,273 |
+| Tax Expenses Current Tax 11 Deferred Tax 11 |  |  | 10,922 2,309 |
+|  |  | 9,399 |  |
+|  |  | 1,467 |  |
+| Profit for the Year |  | 35,262 | 42,042 |
+| Other Comprehensive Income i. Items that will not be reclassified to Profit or Loss 26.1 ii. Income tax relating to items that will not be reclassified to Profit or Loss 26.1 iii. Items that will be reclassified to Profit or Loss 26.2 iv. Income tax relating to items that will be reclassified to Profit or Loss 26.2 Total Other Comprehensive Income / (Loss) for the Year (Net of Tax) |  |  | (38) 11 63 7 |
+|  |  | 255 |  |
+|  |  | (29) |  |
+|  |  | (1,132) |  |
+|  |  | 365 |  |
+|  |  | (541) | 43 |
+| Total Comprehensive Income for the Year |  | 34,721 | 42,085 |
+
+
+## Table 24 (Page 58)
+
+| Col_0 | Notes | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  | 26.06 |  |
+|  |  | 26.06 |  |
+|  |  |  |  |
+|  |  |  |  |
+
+
+## Table 25 (Page 59)
+
+| Col_0 | Balance as at 1st April, 2023 | Change during the year 2023-24 | Balance as at 31st March, 2024 | Change during the year 2024-25** | Balance as at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 6,766 | 13,532 |
+
+
+## Table 26 (Page 59)
+
+| Col_0 | Col_1 | Balance as at 1st April, 2024 | Total Comprehensive Income for the Year | Dividend | Transfer (to)/from Retained Earnings | Transfer (to)/from General Reserve | On Rights Issue# | On Employee Stock Options | Issue of bonus shares** | Balance as at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| As at 31st March, 2025 Reserves and Surplus Capital Reserve Debenture Redemption Reserve Share Based Payments Reserve Special Economic Zone Reinvestment Reserve* Securities Premium General Reserve Retained Earnings Other Comprehensive Income Remeasurement of Defined Benefit Plan Equity Instruments through OCI Debt Instruments through OCI Cash Flow Hedge Total |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 403 | - | - | - | - | - @ | - | - | 403 |
+|  |  | 1,683 | - | - | - | - | - | - | - | 1,683 |
+|  |  | 53 | - | - | - | - | - | (32) | - | 21 |
+|  |  | - | - | - | - | - | - | - | - | - |
+|  |  | 99,802 | - | - | - | - | 22 | 46 | (6,766) | 93,104 |
+|  |  | 2,56,549 | - | - | - | - | - | - | - | 2,56,549 |
+|  |  | 1,03,213 | 35,262 | (6,766) | - | - | - | - | - | 1,31,709 |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  | (174) | (51) | - | - | - | - | - | - | (225) |
+|  |  | 59,568 | 277 | - | - | - | - | - | - | 59,845 |
+|  |  | (76) | 632 | - | - | - | - | - | - | 556 |
+|  |  | (12,691) | (1,399) |  |  |  |  |  |  | (14,090) |
+|  |  | 5,08,330 | 34,721 | (6,766) | - | - | 22 | 14 | (6,766) | 5,29,555 |
+
+
+## Table 27 (Page 60)
+
+| Col_0 | Col_1 | Col_2 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| A. Cash Flow from Operating Activities Net Profit Before Tax as per Statement of Profit and Loss Adjusted for: Loss on Sale / Discard of Property, Plant and Equipment and Intangible Assets (Net) Depreciation / Amortisation and Depletion Expense Effect of Exchange Rate Change Net Gain on Financial Assets Dividend Income Interest Income Finance costs Operating Profit before Working Capital Changes Adjusted for: Trade and Other Receivables Inventories Trade and Other Payables Cash Generated from Operations Taxes Paid (Net) Net Cash Flow from Operating Activities* B. Cash Flow from Investing Activities Expenditure on Property, Plant and Equipment and Intangible Assets Proceeds from disposal of Property, Plant and Equipment and Intangible Assets Investments in Subsidiaries Proceeds from Redemption / Disposal of Investments in Subsidiaries Purchase of Other Investments Proceeds from Sale of Financial Assets Loans repaid – Subsidiaries, Associates, Joint Ventures and Others Interest Income Dividend Income from Subsidiaries, Associates and Joint Ventures Dividend Income from Others Net Cash Used in Investing Activities C. Cash Flow From Financing Activities Proceeds from Issue of Equity Share Capital@ Net Proceeds from Rights Issue Payment of Lease Liabilities Proceeds from Borrowings - Non-Current (including current maturities) Repayment of Borrowings - Non-Current (including current maturities) Borrowings - Current (Net) Dividends Paid Interest Paid Net Cash Used in Financing Activities Net Increase in Cash and Cash Equivalents Opening Balance of Cash and Cash Equivalents Closing Balance of Cash and Cash Equivalents (Refer Note 9) |  |  |  | 55,273 113 17,690 (1,307) (372) (59) (9,349) 13,430 |
+|  |  |  | 46,128 |  |
+|  |  |  |  |  |
+|  |  |  | 14 |  |
+|  |  |  | 17,981 |  |
+|  |  |  | (1,877) |  |
+|  |  |  | (433) |  |
+|  |  |  | (1,763) |  |
+|  |  |  | (11,180) |  |
+|  |  |  | 10,054 |  |
+|  |  |  | 58,924 | 75,419 |
+|  |  |  |  | 9,930 (344) (1,761) |
+|  |  |  | 3,209 |  |
+|  |  |  | (4,116) |  |
+|  |  |  | 30,536 |  |
+|  |  |  | 88,553 | 83,244 |
+|  |  |  | (9,161) | (9,246) |
+|  |  |  | 79,392 | 73,998 |
+|  |  |  |  | (34,258) 62 (40,506) 4,305 (3,75,590) 3,94,803 2,975 9,858 59 - |
+|  |  |  | (37,304) |  |
+|  |  |  | 39 |  |
+|  |  |  | (46,372) |  |
+|  |  |  | 15,089 |  |
+|  |  |  | (4,12,018) |  |
+|  |  |  | 4,33,295 |  |
+|  |  |  | 5,110 |  |
+|  |  |  | 12,292 |  |
+|  |  |  | 1,762 |  |
+|  |  |  | 1 |  |
+|  |  |  | (28,106) | (38,292) |
+|  |  |  |  | - 7 (98) 38,592 (23,930) (19,074) (6,089) (16,873) |
+|  |  |  | - |  |
+|  |  |  | 22 |  |
+|  |  |  | (93) |  |
+|  |  |  | 4,016 |  |
+|  |  |  | (17,253) |  |
+|  |  |  | (3,427) |  |
+|  |  |  | (6,766) |  |
+|  |  |  | (14,562) |  |
+|  |  |  | (38,063) | (27,465) |
+|  |  |  | 13,223 | 8,241 61,007 |
+|  |  |  | 69,248 |  |
+|  |  |  | 82,471 | 69,248 |
+
+
+## Table 28 (Page 60)
+
+| Col_0 | 1st April, 2024 | Cash flow | Foreign exchange movement/Others | 31st March, 2025 |
+| --- | --- | --- | --- | --- |
+|  | 1,94,492 | (13,237) | 3,687 | 1,84,942 |
+|  | 17,298 | (3,427) | - | 13,871 |
+|  | 2,11,790 | (16,664) | 3,687 | 1,98,813 |
+
+
+## Table 29 (Page 63)
+
+| Description | Gross Block | Col_2 | Col_3 | Col_4 | Depreciation / Amortisation and Depletion | Col_6 | Col_7 | Col_8 | Net Block | Col_10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | As at 01-04- 2024 | Additions / Adjustments | Deductions / Adjustments | As at 31-03- 2025 | As at 01-04- 2024 | For the Year# | Deductions / Adjustments | As at 31-03- 2025 | As at 31-03- 2025 | As at 31-03- 2024 |
+| Property, Plant and Equipment Own Assets: Land 38,974 201 2 Buildings 32,360 7,166 11 Plant & Machinery 2,78,386 7,682 1,195 Electrical Installations 9,682 829 20 Equipments$ 25,798 1,729 87 Furniture & Fixtures 1,180 296 3 Vehicles 1,101 266 3 Ships 512 5 - Aircrafts & Helicopters 46 - - Sub-Total 3,88,039 18,174 1,321 Right-of-Use Assets: Land 17,689 134 - Plant & Machinery 4,619 - - Ships 10 - - Sub-Total 22,318 134 - |  |  |  |  | - - - 10,129 812 1 1,22,826 5,141 1,132 5,451 588 20 7,785 2,856 86 601 108 3 761 154 3 385 12 - 43 1 - |  |  |  |  | 38,974 22,231 1,55,560 4,231 18,013 579 340 127 3 |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 39,173 |  |  |  | - | 39,173 |  |
+|  |  |  |  | 39,515 |  |  |  | 10,940 | 28,575 |  |
+|  |  |  |  | 2,84,873 |  |  |  | 1,26,835 | 1,58,038 |  |
+|  |  |  |  | 10,491 |  |  |  | 6,019 | 4,472 |  |
+|  |  |  |  | 27,440 |  |  |  | 10,555 | 16,885 |  |
+|  |  |  |  | 1,473 |  |  |  | 706 | 767 |  |
+|  |  |  |  | 1,364 |  |  |  | 912 | 452 |  |
+|  |  |  |  | 517 |  |  |  | 397 | 120 |  |
+|  |  |  |  | 46 |  |  |  | 44 | 2 |  |
+|  |  |  |  | 4,04,892 | 1,47,981 9,672 1,245 2,217 172 - 1,238 203 - 10 - - |  |  | 1,56,408 | 2,48,484 | 2,40,058 15,472 3,381 - |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  | 17,823 |  |  |  | 2,389 | 15,434 |  |
+|  |  |  |  | 4,619 |  |  |  | 1,441 | 3,178 |  |
+|  |  |  |  | 10 |  |  |  | 10 | - |  |
+|  |  |  |  | 22,452 | 3,465 375 - |  |  | 3,840 | 18,612 | 18,853 |
+| Total (A) 4,10,357 18,308 1,321 |  |  |  | 4,27,344 | 1,51,446 10,047 1,245 |  |  | 1,60,248 | 2,67,096 | 2,58,911 |
+| Intangible Assets Technical Knowhow 4,669 48 - Fees Software 1,160 46 - Development Rights 81,985 10,326 4,208 Others^ 2,426 1,014 - Total (B) 90,240 11,434* 4,208 |  |  |  |  | 3,641 122 - 983 49 - 42,708 7,151 4,208 2,189 880 - |  |  |  |  | 1,028 177 39,277 237 |
+|  |  |  |  | 4,717 |  |  |  | 3,763 | 954 |  |
+|  |  |  |  | 1,206 |  |  |  | 1,032 | 174 |  |
+|  |  |  |  | 88,103 |  |  |  | 45,651 | 42,452 |  |
+|  |  |  |  | 3,440 |  |  |  | 3,069 | 371 |  |
+|  |  |  |  | 97,466 | 49,521 8,202 4,208 |  |  | 53,515 | 43,951 | 40,719 |
+| Total (A + B) 5,00,597 29,742 5,529 |  |  |  | 5,24,810 | 2,00,967 18,249 5,453 |  |  | 2,13,763 | 3,11,047 | 2,99,630 |
+| Previous Year 4,66,561 35,274 1,238 Capital Work-in- Progress Intangible Assets under Development |  |  |  | 5,00,597 | 1,84,260 17,766 1,059 |  |  | 2,00,967 | 2,99,630 | 2,82,301 44,294 17,338 |
+|  |  |  |  |  |  |  |  |  | 76,322 |  |
+|  |  |  |  |  |  |  |  |  | 6,095 |  |
+
+
+## Table 30 (Page 64)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| 2. Investments-Non-Current Investments measured at Amortised Cost In Preference Shares of Joint Venture Companies U nquoted, fully paid up Alok Industries Limited - 9% Non Convertible Redeemable Preference Shares of H 1 each In Debentures of Joint Venture Companies Unquoted, fully paid up BAM DLR Chennai Private Limited - 11.5% Non Convertible Debenture of H 100 each. In Preference Shares of Other Companies Unquoted, fully paid up Summit Digitel Infrastructure Limited - 0% Redeemable, Non- Participating, Non-Cumulative and Non-Convertible Preference Shares of H 10 each In Debentures of Other Company Unquoted, fully paid up Mahan Energen Limited - 12% Unsecured, Optionally Fully Convertible Debenture of H 10 each In Government Securities Unquoted 6 Years National Savings Certificates (Deposited with Sales Tax Department and Other Government Authorities) [H 39,087 (Previous Year H 39,087)] |  |  | 33,00,00,00,000 3,300 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 33,00,00,00,000 | 3,300 |  |  |
+|  |  | 3,300 | 3,300 63,00,000 63 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 63,00,000 | 63 |  |  |
+|  |  | 63 | 63 5,00,00,000 16 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 5,00,00,000 | 17 |  |  |
+|  |  | 17 | 16 - - |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 10,00,00,000 | 100 |  |  |
+|  |  | 100 | - - - |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  | - |  |  |
+|  |  | - | - |  |
+| Total of Investments measured at Amortised Cost |  | 3,480 | 3,379 |  |
+
+
+## Table 31 (Page 65)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| Investments measured at Cost In Equity Shares of Associate Companies Quoted, fully paid up R eliance Industrial Infrastructure Limited of H 10 each In Equity Shares of Joint Venture Companies Quoted, fully paid up A lok Industries Limited of H 1 each In Equity Shares of Associate Companies Unquoted, fully paid up Gujarat Chemical Port Limited of H 1 each Indian Vaccines Corporation Limited of H 10 each$ Jamnagar Utilities & Power Private Limited Class ‘A’ shares of H 1 each [H 40,40,000; (Previous Year H 40,40,000)] Reliance Europe Limited of Sterling Pound 1 each Vadodara Enviro Channel Limited of H 10 each [ H 1,43,020; (Previous Year H 1,43,020)] In Equity Shares of Joint Venture Companies Unquoted, fully paid up BAM DLR Chennai Private Limited of H 10 each BAM DLR Data Centre Services Private Limited of H 10 each BAM DLR Kolkata Private Limited of H 10 each [ H 34,00,950; (Previous Year H 34,00,950)] BAM DLR Mumbai Private Limited of H 10 each BAM DLR Network Services Private Limited of H 10 each Football Sports Development Limited of H 10 each India Gas Solution Private Limited of H 10 each Pipeline Management Services Private Limited of H 10 each Sintex Industries Limited of H 1 each In Preference Shares of Joint Venture Companies Unquoted, fully paid up Alok Industries Limited - 9% Optionally Convertible Preference Shares of H 1 each In Debentures of Joint Venture Companies Unquoted, fully paid up Sintex Industries Limited - 6% Unsecured Optionally Fully Convertible Debenture of H 1 each. |  |  | 68,60,064 16 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 68,60,064 | 16 |  |  |
+|  |  | 16 | 16 1,98,65,33,333 269 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,98,65,33,333 | 269 |  |  |
+|  |  | 269 | 269 64,29,20,000 64 62,63,125 1 52,00,000 - 11,08,500 4 14,302 - |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 64,29,20,000 | 64 |  |  |
+|  | 62,63,125 | 1 |  |  |
+|  | 52,00,000 | - |  |  |
+|  | 11,08,500 | 4 |  |  |
+|  | 14,302 | - |  |  |
+|  |  | 69 | 69 1,52,58,850 210 24,70,000 9 2,05,000 - 12,02,86,182 134 19,84,000 2 10,80,141 134 2,25,00,000 23 5,00,000 1 6,00,00,00,000 600 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,52,58,850 | 210 |  |  |
+|  | 24,70,000 | 9 |  |  |
+|  | 2,05,000 | - |  |  |
+|  | 12,02,86,182 | 134 |  |  |
+|  | 19,84,000 | 2 |  |  |
+|  | - | - |  |  |
+|  | 2,25,00,000 | 23 |  |  |
+|  | 5,00,000 | 1 |  |  |
+|  | 6,00,00,00,000 | 600 |  |  |
+|  |  | 979 | 1,113 2,50,00,00,000 250 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 2,50,00,00,000 | 250 |  |  |
+|  |  | 250 | 250 9,00,00,00,000 900 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 9,00,00,00,000 | 900 |  |  |
+|  |  | 900 | 900 |  |
+
+
+## Table 32 (Page 65)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| In Equity Shares of Subsidiary Companies Unquoted, fully paid up Indiawin Sports Private Limited of H 10 each Jio Platforms Limited of H 10 each Jio Limited of H 10 each [H 5,00,000; (Previous Year H 3,00,000)] Lakadia B Power Transmission Limited of H 10 each [H 5,00,000; (Previous Year H NIL)] MSKVY Nineteenth Solar SPV Limited of H 10 each MSKVY Twenty Second Solar SPV Limited of H 10 each Navi Mumbai IIA Private Limited of H 10 each REC Sustainable Energy Solutions Pte. Ltd. of USD 1 each Reliance 4IR Realty Development Limited of H 10 each Reliance Bhutan Limited of H 10 each [H 5,00,000; (Previous Year H 5,00,000)] Reliance BP Mobility Limited of H 10 each [H 4,95,790; (Previous Year H 4,95,790)] Reliance Chemicals and Materials Limited of H 10 each Reliance Commercial Dealers Limited of H 10 each Reliance Content Distribution Limited of H 10 each [H 5,00,000; (Previous Year H 5,00,000)] Reliance Digital Health Limited of H 10 each Reliance Ethane Holding Pte. Ltd. of USD 1 each Reliance Ethane Pipeline Limited of H 10 each Reliance Exploration & Production DMCC of AED 1,000 each Reliance Gas Pipelines Limited of H 7 each Reliance Global Energy Services (Singapore) Pte. Ltd. of SGD 1 each Reliance Global Energy Services Limited of GBP 1 each Reliance Industries (Middle East) DMCC of AED 1,000 each Reliance International Limited of USD 1 each Reliance Mappedu Multi Modal Logistics Park Limited of H 10 each [H 10; (Previous Year H 10)] Reliance New Energy Limited of H 10 each Reliance New Energy Battery Limited of H 10 each [H 14,80,000; (Previous Year H NIL)] Reliance Petro Marketing Limited of H 10 each Reliance Projects & Property Management Services Limited of H 10 each Reliance Retail Ventures Limited of H 10 each Reliance Sibur Elastomers Private Limited of H10 each Reliance SOU Limited of H 10 each (Previous Year H 1,00,000) Reliance Strategic Business Ventures Limited of H 10 each Reliance Syngas Limited of H 10 each [H 10,00,000; (Previous Year H 10,00,000] Reliance Ventures Limited of H 10 each Rise Worldwide Limited of H 10 each SenseHawk, Inc. of USD 0.0001 each Star India Private Limited of H 10 each Star Television Productions Limited of USD 1 each Studio 18 Media Private Limited of H 10 each (Formerly known as Viacom18 Media Private Limited) |  |  | 26,50,000 3 5,93,78,41,645 54,863 30,000 - - - - - - - - - 10,00,00,000 17,614 50,000 - 49,579 - - - 1,50,00,000 25 50,000 - 16,17,18,500 186 22,42,72,113 1,844 5,00,50,000 49 16,66,900 2,738 37,30,00,000 257 15,00,000 65 30,00,000 54 7,62,235 1,366 2,50,00,000 189 1 - 6,45,04,00,000 6,450 - - 50,000 299 10,00,00,000 32 5,85,84,86,658 19,817 1,76,35,43,119 1,764 10,000 - 10,00,00,000 10,035 1,00,000 - 26,91,150 2,351 10,67,20,148 253 32,12,690 158 - - - - - - |  |
+|  |  |  |  |  |
+|  | 26,50,000 | 3 |  |  |
+|  | 5,93,78,41,645 | 54,900 |  |  |
+|  | 50,000 | - |  |  |
+|  | 50,000 | - |  |  |
+|  | 1,00,10,000 | 11 |  |  |
+|  | 40,10,000 | 5 |  |  |
+|  | 57,12,39,588 | 1,628 |  |  |
+|  | 1,00,000 | 1 |  |  |
+|  | 10,00,00,000 | 17,614 |  |  |
+|  | 50,000 | - |  |  |
+|  | 49,579 | - |  |  |
+|  | 39,00,00,000 | 390 |  |  |
+|  | 1,50,00,000 | 25 |  |  |
+|  | 50,000 | - |  |  |
+|  | 16,17,18,500 | 186 |  |  |
+|  | 22,42,72,113 | 1,844 |  |  |
+|  | 5,00,50,000 | 49 |  |  |
+|  | 16,66,900 | 2,738 |  |  |
+|  | 37,30,00,000 | 257 |  |  |
+|  | 15,00,000 | 65 |  |  |
+|  | 30,00,000 | 54 |  |  |
+|  | 7,62,235 | 1,366 |  |  |
+|  | 2,50,00,000 | 189 |  |  |
+|  | 1 | - |  |  |
+|  | 6,45,04,00,000 | 6,450 |  |  |
+|  | 1,48,000 | - |  |  |
+|  | 50,000 | 299 |  |  |
+|  | - | - |  |  |
+|  | 5,85,84,86,658 | 19,817 |  |  |
+|  | 1,76,35,43,119 | 1,764 |  |  |
+|  | 10,10,000 | 1 |  |  |
+|  | 10,00,00,000 | 10,035 |  |  |
+|  | 1,00,000 | - |  |  |
+|  | 26,91,150 | 2,351 |  |  |
+|  | 10,67,20,148 | 253 |  |  |
+|  | 32,12,690 | 158 |  |  |
+|  | 26,05,19,406 | 11,500 |  |  |
+|  | 31,582 | 211 |  |  |
+|  | 30,18,61,503 | 23,216 |  |  |
+|  |  | 1,57,380 | 1,20,412 |  |
+
+
+## Table 33 (Page 66)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| In Preferred Shares of Subsidiary Companies Unquoted, fully paid up SenseHawk, Inc. of USD 0.00001 each - Series B In Preference Shares of Subsidiary Companies Unquoted, fully paid up Indiawin Sports Private Limited - 9% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance 4IR Realty Development Limited - 0.01% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Chemicals and Materials Limited- 8.1% Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Content Distribution Limited - 6% Non-Cumulative Optionally Convertible Preference Shares of H10 each Reliance Ethane Pipeline Limited - 6% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Gas Pipelines Limited - 6% Non-Cumulative Optionally Convertible Preference Shares of H 7 each Reliance Projects & Property Management Services Limited - 0.01% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Prolific Traders Private Limited - 9% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Strategic Business Ventures Limited - 6% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Reliance Universal Traders Private Limited - 9% Non-Cumulative Optionally Convertible Preference Shares of H 10 each Studio 18 Media Private Limited - 0.001% Cumulative Compulsorily Convertible Preference Shares of H 10 each (Formerly known as Viacom18 Media Private Limited) Members Contribution in Subsidiary Companies, Unquoted Reliance Marcellus LLC$ In Debentures of Subsidiary Companies Unquoted, fully paid up Lakadia B Power Transmission Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each MSKVY Nineteenth Solar SPV Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance 4IR Realty Development Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Ambit Trade Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Comtrade Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each [H 20,00,000; (Previous Year H 20,00,000)] Reliance Content Distribution Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each |  |  | 21,18,803 106 |  |
+|  |  |  |  |  |
+|  | 21,18,803 | 106 |  |  |
+|  |  | 106 | 106 22,49,96,000 225 6,07,51,270 12,510 - - 5,34,00,60,000 5,340 18,55,00,000 182 36,76,50,000 253 9,79,52,40,000 12,009 14,39,92,000 1,296 27,75,000 288 1,71,64,000 103 24,61,33,682 18,930 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 22,49,96,000 | 225 |  |  |
+|  | 6,07,51,270 | 12,510 |  |  |
+|  | 64,70,00,000 | 647 |  |  |
+|  | 5,34,00,60,000 | 5,340 |  |  |
+|  | 18,55,00,000 | 182 |  |  |
+|  | 36,76,50,000 | 253 |  |  |
+|  | - | - |  |  |
+|  | 14,39,92,000 | 1,296 |  |  |
+|  | 27,75,000 | 288 |  |  |
+|  | 1,71,64,000 | 103 |  |  |
+|  | - | - |  |  |
+|  |  | 20,844 | 51,136 532 |  |
+|  |  |  |  |  |
+|  |  | 769 |  |  |
+|  |  | 769 | 532 - - - - 3,44,97,311 6,976 3,11,10,000 31 2,00,000 - 48,49,52,700 485 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 67,00,000 | 7 |  |  |
+|  | 1,00,00,000 | 10 |  |  |
+|  | 12,37,91,643 | 25,491 |  |  |
+|  | 3,11,10,000 | 31 |  |  |
+|  | 2,00,000 | - |  |  |
+|  | 48,49,52,700 | 485 |  |  |
+
+
+## Table 34 (Page 66)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| Reliance Digital Health Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Eminent Trading & Commercial Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Gas Pipelines Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 7 each Reliance New Energy Limited - Zero Coupon Unsecured Compulsorily Convertible Debentures of H 10 each Reliance New Energy Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Prolific Commercial Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Reliance Strategic Business Ventures Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each In Corpus of Trust Unquoted Independent Media Trust Jio Financial Services Limited Trust [H 30,000; (Previous Year H 30,000)] | 38,24,52,748 | 421 | 34,32,57,000 378 2,12,00,000 21 56,00,00,000 392 22,50,00,000 225 9,33,92,20,000 9,339 3,75,70,000 38 18,76,19,496 22,514 |  |
+|  | 2,12,00,000 | 21 |  |  |
+|  | 49,00,00,000 | 343 |  |  |
+|  | 22,50,00,000 | 225 |  |  |
+|  | 12,76,99,40,000 | 12,770 |  |  |
+|  | 3,75,70,000 | 38 |  |  |
+|  | 20,43,50,426 | 25,091 |  |  |
+|  |  | 64,933 | 40,399 3,367 - |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  | 3,367 |  |  |
+|  |  | - |  |  |
+|  |  | 3,367 | 3,367 |  |
+| Total of Investments measured at Cost |  | 2,49,882 | 2,18,569 |  |
+| Investments measured at Fair Value through Other Comprehensive Income (FVTOCI) In Equity Shares of Other Companies Unquoted, fully paid up Ahmedabad Mega Clean Association of H 10 each [H 1,00,000; (Previous Year H 1,00,000)] Ishvahah Enterprises Private Limited of H 10 each [H 36,000; (Previous Year H NIL)] Mahan Energen Limited of H 10 each Petronet India Limited of H 0.10 each [H 10,00,000; (Previous Year H 10,00,000)] Petronet VK Limited of H 10 each$ [H 20,000; (Previous Year H 20,000)] VAKT Holdings Limited of USD 0.001 each Quoted, fully paid up Balaji Telefilms Limited of H 2 each Eros STX Global Corporation of GBP 0.30 each. [H 26,592 ; (Previous Year H 6,487)] In Preference Shares of Other Companies Unquoted, fully paid up Jio Digital Fibre Private Limited - 0.01% Cumulative Redeemable and Non - Convertible Preference Shares of H 10 each Jio Digital Fibre Private Limited - 0.01% Redeemable, Cumulative and Optionally Convertible Preference Shares of H 10 each |  |  | 10,000 - - - - - 1,00,00,000 - 1,49,99,990 - 81,810 15 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 10,000 | - |  |  |
+|  |  |  |  |  |
+|  | 450 | - |  |  |
+|  |  |  |  |  |
+|  | 5,00,00,000 | 50 |  |  |
+|  | 1,00,00,000 | - |  |  |
+|  |  |  |  |  |
+|  | 1,49,99,990 | - |  |  |
+|  |  |  |  |  |
+|  | 81,810 | 15 |  |  |
+|  |  | 65 | 15 2,52,00,000 185 31,11,088 - |  |
+|  |  |  |  |  |
+|  | 2,52,00,000 | 152 |  |  |
+|  | 31,11,088 | - |  |  |
+|  |  | 152 | 185 12,50,000 1 77,70,11,98,375 77,842 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 12,50,000 | 1 |  |  |
+|  | 77,70,11,98,375 | 78,088 |  |  |
+|  |  | 78,089 | 77,843 |  |
+
+
+## Table 35 (Page 67)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| Other Investments In Membership Share in LLP, Unquoted Breakthrough Energy Ventures II L.P. Labs 02 Limited Partnership In Membership Interest in LLC, Unquoted Breakthrough Energy Ventures LLC |  |  | 398 43 718 |  |
+|  |  |  |  |  |
+|  |  | 519 |  |  |
+|  |  | 36 |  |  |
+|  |  |  |  |  |
+|  |  | 785 |  |  |
+|  |  | 1,340 | 1,159 |  |
+| Total of Investments measured at Fair Value Through Other Comprehensive Income |  | 79,646 | 79,202 |  |
+| Investments measured at Fair Value Through Profit and Loss (FVTPL) In Equity Shares of Other Companies - Unquoted, fully paid up Jio Digital Fibre Private Limited of H 1 each |  |  | 2,49,54,43,333 250 |  |
+|  |  |  |  |  |
+|  | 2,49,54,43,333 | 250 |  |  |
+| Total of Investments measured at Fair Value Through Profit and Loss |  | 250 | 250 |  |
+| Total Investments Non-Current |  | 3,33,258 | 3,01,400 |  |
+| Aggregate amount of Quoted Investments Market Value of Quoted Investments Aggregate amount of Unquoted Investments |  | 437 | 470 6,196 3,00,930 |  |
+|  |  | 3,696 |  |  |
+|  |  | 3,32,821 |  |  |
+
+
+## Table 36 (Page 67)
+
+| Sr. No. | Name of the Company | As at 31st March, 2025 | Maximum Balance during the year | As at 31st March, 2024 | Maximum Balance during the year |
+| --- | --- | --- | --- | --- | --- |
+| Loans - Non-Current^ 1 Reliance 4IR Realty Development Limited 2 Reliance Corporate IT Park Limited 3 Reliance Chemicals and Materials Limited 4 Reliance Ethane Pipeline Limited 5 Reliance New Energy Limited 6 Reliance Projects & Property Management Services Limited 7 Reliance Sibur Elastomers Private Limited 8 Reliance Strategic Business Ventures Limited Loans - Current 1 Reliance Sibur Elastomers Private Limited Total |  |  |  | 6,162 6,192 2,114 2,773 - - 168 403 - 6,582 136 145 1,216 1,216 255 15,556 |  |
+|  |  | 1,860 | 6,173 |  |  |
+|  |  | 431 | 2,209 |  |  |
+|  |  | - | 20 |  |  |
+|  |  | - | 168 |  |  |
+|  |  | - | - |  |  |
+|  |  | - | 282 |  |  |
+|  |  | 911 | 1,216 |  |  |
+|  |  | 1,739 | 1,770 |  |  |
+|  |  | 4,941 |  | 10,051 |  |
+|  |  |  |  | - 595 |  |
+|  |  | - | - |  |  |
+|  |  | - |  | - |  |
+|  |  | 4,941 |  | 10,051 |  |
+
+
+## Table 37 (Page 67)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 2.1 Category-Wise Investments – Non-Current Financial assets measured at Amortised Cost Financial assets measured at Cost Financial assets measured at Fair Value through Other Comprehensive Income Financial assets measured at Fair Value through Profit or Loss Total Investments – Non-Current |  | 3,379 2,18,569 79,202 250 |
+|  | 3,480 |  |
+|  | 2,49,882 |  |
+|  | 79,646 |  |
+|  | 250 |  |
+|  | 3,33,258 | 3,01,400 |
+
+
+## Table 38 (Page 67)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 3. Loans – Non-Current Unsecured and Considered Good Loans to Related parties (Refer Note 32 (V)) Total |  | 10,051 |
+|  |  |  |
+|  | 4,941 |  |
+|  | 4,941 | 10,051 |
+
+
+## Table 39 (Page 68)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 4. Other Financials Assets – Non-Current Deposits with Related Parties (Refer Note 32 (V)) Receivable from Related Parties Others* |  | 563 15,465 874 |
+|  | 633 |  |
+|  | 13,011 |  |
+|  | 1,612 |  |
+|  | 15,256 | 16,902 |
+
+
+## Table 40 (Page 68)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 5. Other Non-Current Assets (Unsecured and Considered Good) Capital Advances Others* Total |  | 1,050 6,353 |
+|  | 948 |  |
+|  | 4,971 |  |
+|  | 5,919 | 7,403 |
+
+
+## Table 41 (Page 68)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| Advance Income Tax (Net of Provision) At start of year Charge for the year - Current Tax Others Tax paid (Net) during the year At end of year |  | 1,663 (10,922) 13 9,246 |
+|  | - |  |
+|  | (9,399) |  |
+|  | 238 |  |
+|  | 9,161 |  |
+|  | - | - |
+
+
+## Table 42 (Page 68)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 6. Inventories Raw Materials (Including Material in Transit) Work-in-Progress* Finished Goods Stock-in-Trade Stores and Spares Total |  | 17,969 42,279 15,513 134 9,205 |
+|  | 11,990 |  |
+|  | 52,514 |  |
+|  | 15,689 |  |
+|  | 133 |  |
+|  | 8,890 |  |
+|  | 89,216 | 85,100 |
+
+
+## Table 43 (Page 69)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 7. Investment – Current Investments Measured at Amortised Cost In Collateral Borrowing & Lending Obligation - Unquoted |  | 999 |
+|  |  |  |
+|  | 1,699 |  |
+| Total of Investments measured at Amortised Cost | 1,699 | 999 |
+| Investments measured at Fair Value through Other Comprehensive Income (FVTOCI) In Government Securities - Quoted fully paid up* In Debentures or Bonds Quoted, fully paid up* In Mutual Fund - Quoted In Mutual Fund - Unquoted |  | 7,929 18,107 4,758 4,825 |
+|  | 11,794 |  |
+|  | 5,088 |  |
+|  | 396 |  |
+|  | 645 |  |
+| Total of Investments measured at Fair Value Through Other Comprehensive Income | 17,923 | 35,619 |
+| Investments measured at Fair Value Through Profit or Loss (FVTPL) In Government Securities - Quoted, fully paid up* In Debentures or Bonds Quoted, fully paid up* In Treasury Bills - Quoted In Mutual Fund- Unquoted In Certificate of Deposit- Quoted In Commercial Papers- Quoted |  | 23,652 1,957 3,471 116 1,018 1,831 |
+|  | 23,239 |  |
+|  | 1,137 |  |
+|  | 10,234 |  |
+|  | 2,403 |  |
+|  | 467 |  |
+|  | - |  |
+| Total of Investments measured at Fair Value Through Profit or Loss | 37,480 | 32,045 |
+| Total Investments - Current | 57,102 | 68,663 |
+| Aggregate amount of Quoted Investments Market Value of Quoted Investments Aggregate amount of Unquoted Investments | 52,355 | 62,723 62,723 5,940 |
+|  | 52,355 |  |
+|  | 4,747 |  |
+
+
+## Table 44 (Page 69)
+
+| Particulars | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Not due | Less than 6 months | 6 months - 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+| As at 31st March, 2025 (i) Undisputed Trade Receivables - considered good (ii) Undisputed Trade Receivables - which have significant increase in credit risk (iii) Undisputed Trade Receivables - credit impaired (iv) Disputed Trade Receivables - considered good (v) Disputed Trade Receivables - which have significant increase in credit risk (vi) Disputed Trade Receivables - credit impaired Total |  |  |  |  |  |  |  |
+|  | 15,020 | 545 | 17 | 5 | 1 | 3 | 15,591 |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | 15,020 | 545 | 17 | 5 | 1 | 3 | 15,591 |
+
+
+## Table 45 (Page 69)
+
+| Particulars | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Not due | Less than 6 months | 6 months - 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+
+
+## Table 46 (Page 69)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 7.1 Category-Wise Investments – Current Financial assets measured at Amortised Cost Financial assets measured at Fair Value through Other Comprehensive Income Financial Assets measured at Fair value through Profit or Loss Total Investments - Current |  | 999 35,619 32,045 |
+|  | 1,699 |  |
+|  | 17,923 |  |
+|  | 37,480 |  |
+|  | 57,102 | 68,663 |
+
+
+## Table 47 (Page 69)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 8. Trade Receivables (Unsecured and Considered Good) Trade Receivables Total |  | 14,740 |
+|  | 15,591 |  |
+|  | 15,591 | 14,740 |
+
+
+## Table 48 (Page 69)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 9. Cash and Cash Equivalents Cash on Hand Balances with Banks* Cash and Cash Equivalents as per Balance Sheet Cash and Cash Equivalents as per Statement of Cash Flows |  | 17 69,231 |
+|  | 17 |  |
+|  | 82,454 |  |
+|  | 82,471 | 69,248 |
+|  | 82,471 | 69,248 |
+
+
+## Table 49 (Page 70)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 10. Other Financial Assets – Current Deposits with Related Parties (Refer Note 32 (V)) Other Deposits Receivables from Related Parties Others* Total |  | 39 3,238 1,541 6,929 |
+|  | 35 |  |
+|  | 2,490 |  |
+|  | 1,751 |  |
+|  | 10,942 |  |
+|  | 15,218 | 11,747 |
+
+
+## Table 50 (Page 70)
+
+| Col_0 | Col_1 | Col_2 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| Issued and Subscribed Capital: 13,53,23,72,898 Equity Shares of H 10 each (6,76,61,09,014) |  |  |  | 6,766 |
+|  |  |  | 13,532 |  |
+|  |  |  |  |  |
+| Total |  |  | 13,532 | 6,766 |
+| Paid Up Capital: 13,53,23,72,898 Equity Shares of H 10 each fully paid up (6,76,61,09,014) Less: Calls Unpaid [H NIL (Previous Year H 27,21,523) ] (Refer Note 13.7) Total |  |  |  | 6,766 - |
+|  |  |  | 13,532 |  |
+|  |  |  |  |  |
+|  |  |  | - |  |
+|  |  |  | 13,532 | 6,766 |
+
+
+## Table 51 (Page 70)
+
+| Col_0 | Year ended 31st March, 2025 | Year ended 31st March, 2024 |
+| --- | --- | --- |
+| 11. Taxation Tax Expenses Recognised in Statement of Profit and Loss Current tax Deferred tax Total |  | 10,922 2,309 |
+|  |  |  |
+|  | 9,399 |  |
+|  | 1,467 |  |
+|  | 10,866 | 13,231 |
+
+
+## Table 52 (Page 70)
+
+| Col_0 | Year ended 31st March, 2025 | Year ended 31st March, 2024 |
+| --- | --- | --- |
+| Profit Before Tax Applicable Tax Rate Computed Tax Expense Tax effect of: Expenses disallowed Additional allowances / Deduction Current Tax Provision (A) Incremental Deferred tax Liability / (Asset) on account of Property, Plant and Equipment and Intangible Assets Impact on account of change in Tax Rate Incremental Deferred tax Liability / (Asset) on account of Financial Assets and Other items Deferred Tax Provision (B) | 46,128 | 55,273 25.168% 13,911 4,348 (7,337) |
+|  | 25.168% |  |
+|  | 11,609 |  |
+|  |  |  |
+|  | 4,677 |  |
+|  | (6,887) |  |
+|  | 9,399 | 10,922 2,321 - (12) |
+|  | 3,123 |  |
+|  | (1,572) |  |
+|  | (84) |  |
+|  | 1,467 | 2,309 |
+| Tax Expenses Recognised in Statement of Profit and Loss (A+B) | 10,866 | 13,231 |
+| Effective Tax Rate | 23.56% | 23.94% |
+
+
+## Table 53 (Page 70)
+
+| Name of the Shareholder | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | No. of Shares | % held | No. of Shares | % held |
+| 13.2 The details of shareholders holding more than 5% shares: Srichakra Commercials LLP Devarshi Commercials LLP Karuna Commercials LLP Tattvam Enterprises LLP Life Insurance Corporation of India |  |  | 73,95,99,829 10.93 54,55,69,460 8.06 54,55,69,460 8.06 54,55,69,460 8.06 41,54,11,317 6.14 |  |
+|  | 1,47,91,99,658 | 10.93 |  |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 89,38,39,330 | 6.61 |  |  |
+
+
+## Table 54 (Page 70)
+
+| Sr. No. | Class of Equity Share | Promoter’s Name | No. of shares at the beginning of the year | change during the year | No. of shares at the end of the year | % of total shares | % change during the year |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| As at 31st March, 2025 1 Fully paid-up equity Mukesh D Ambani shares of H 10 each Total |  |  |  |  |  |  |  |
+|  |  |  | 80,52,020 | 80,52,020 | 1,61,04,040 | 0.12 | - |
+|  |  |  | 80,52,020 | 80,52,020 | 1,61,04,040 | 0.12 |  |
+
+
+## Table 55 (Page 70)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 12. Other Current Assets (Unsecured and Considered Good) Balance with Customs, Central Excise, GST and state authorities Others# Total |  | 9,666 3,461 |
+|  | 7,076 |  |
+|  | 2,889 |  |
+|  | 9,965 | 13,127 |
+
+
+## Table 56 (Page 70)
+
+| Col_0 | Col_1 | Col_2 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| 13. Share Capital Authorised Share Capital: 49,00,00,00,000 Equity Shares of C 10 each (14,00,00,00,000) 1,00,00,00,000 Preference Shares of C 10 each (1,00,00,00,000) |  |  |  | 14,000 1,000 |
+|  |  |  |  |  |
+|  |  |  | 49,000 |  |
+|  |  |  |  |  |
+|  |  |  | 1,000 |  |
+|  |  |  |  |  |
+|  |  |  | 50,000 | 15,000 |
+
+
+## Table 57 (Page 71)
+
+| Particulars | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+|  | No. of Shares | No. of Shares |
+| 13.4 The Reconciliation of the Number of Shares Outstanding is set out below: Equity Shares at the beginning of the year Add: Shares issued on exercise of employee stock options (Refer Note 28.2) Less: Forfeiture and Cancellation of Shares (Refer Note 13.7) Add: Allotment of Bonus Shares (Refer Note 13.8) Equity Shares at the end of the year |  | 6,76,60,94,014 15,000 - |
+|  | 6,76,61,09,014 |  |
+|  | 2,20,000 |  |
+|  | 1,42,565 |  |
+|  | 6,76,61,86,449 | 6,76,61,09,014 - |
+|  | 6,76,61,86,449 |  |
+|  | 13,53,23,72,898 | 6,76,61,09,014 |
+
+
+## Table 58 (Page 71)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| Share Based Payments Reserve As per last Balance Sheet On Employee Stock Option Special Economic Zone Reinvestment Reserve As per last Balance Sheet Transferred (to) / from Retained Earnings* General Reserve As per last Balance Sheet Transferred from Retained Earnings Retained Earnings As per last Balance Sheet Profit for the year Appropriations Dividend on Equity Shares [Dividend per Share H10 (Previous Year H 9)] Transferred from/(to) General Reserve Transferred from/(to) Special Economic Zone Reinvestment Reserve Other Comprehensive Income Remeasurement of Defined Benefit Plan As per last Balance Sheet Movement during the year Equity Instruments through OCI As per last Balance Sheet Movement during the year Debt Instruments through OCI As per last Balance Sheet Movement during the year Cash Flow Hedge As per last Balance Sheet Movement during the year |  |  | 41 12 |
+|  | 53 |  |  |
+|  | (32) |  |  |
+|  |  | 21 | 53 |
+|  |  |  | 150 (150) |
+|  | - |  |  |
+|  | - |  |  |
+|  |  | - | - |
+|  |  |  | 2,26,549 30,000 |
+|  | 2,56,549 |  |  |
+|  | - |  |  |
+|  |  | 2,56,549 | 2,56,549 |
+|  |  |  | 97,110 42,042 |
+|  | 1,03,213 |  |  |
+|  | 35,262 |  |  |
+|  | 1,38,475 |  | 1,39,152 |
+|  |  |  | (6,089) (30,000) 150 |
+|  | (6,766) |  |  |
+|  | - |  |  |
+|  | - |  |  |
+|  |  | 1,31,709 | 1,03,213 |
+|  |  |  | (116) (58) |
+|  |  |  |  |
+|  | (174) |  |  |
+|  | (51) |  |  |
+|  |  | (225) | (174) |
+|  |  |  | 59,537 31 |
+|  | 59,568 |  |  |
+|  | 277 |  |  |
+|  |  | 59,845 | 59,568 |
+|  |  |  | (850) 782 |
+|  | (76) |  |  |
+|  | 632 |  |  |
+|  |  | 556 | (76) |
+|  |  |  | (11,979) (712) |
+|  | (12,691) |  |  |
+|  | (1,399) |  |  |
+|  |  | (14,090) | (12,691) |
+|  |  | 5,29,555 | 5,08,330 |
+
+
+## Table 59 (Page 71)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 14. Other Equity Capital Reserve As per last Balance Sheet Movement during the year Securities Premium As per last Balance Sheet On Exercise of Employee stock options Calls Received - Rights Issue (Refer Note 13.7) Less: On Issue of Bonus Shares (Refer Note 13.8) D ebentures Redemption Reserve As per last Balance Sheet Transferred to General Reserves |  |  | 403 - |
+|  |  |  |  |
+|  | 403 |  |  |
+|  | -* |  |  |
+|  |  | 403 | 403 |
+|  |  |  | 99,792 4 6 - |
+|  | 99,802 |  |  |
+|  | 46 |  |  |
+|  | 22 |  |  |
+|  | (6,766) |  |  |
+|  |  | 93,104 | 99,802 |
+|  |  |  | 1,683 - |
+|  | 1,683 |  |  |
+|  | - |  |  |
+|  |  | 1,683 | 1,683 |
+
+
+## Table 60 (Page 72)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Non-Current | Current | Non-Current | Current |
+| 15. Borrowings Secured - At Amortised cost Non-Convertible Debentures Unsecured - At Amortised cost Non-Convertible Debentures Bonds Term Loans - from Banks Term Loans - from Others Total |  |  | 21,184 1,000 |  |
+|  |  |  |  |  |
+|  | 20,415 | 1,000 |  |  |
+|  | 20,415 | 1,000 | 21,184 1,000 |  |
+|  |  |  | 9,012 2,281 51,407 9,006 79,456 21,049 - 97 |  |
+|  | 7,367 | 1,645 |  |  |
+|  | 52,048 | 683 |  |  |
+|  | 92,195 | 9,589 |  |  |
+|  | - | - |  |  |
+|  | 1,51,610 | 11,917 | 1,39,875 32,433 |  |
+|  | 1,72,025 | 12,917 | 1,61,059 33,433 |  |
+
+
+## Table 61 (Page 72)
+
+| Rate of Interest | Non-Current* | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Current* |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2096-97 | 2061-62 | 2051-52 | 2046-47 | 2044-45 | 2040-41 | 2031-32 | 2027-28 | 2026-27 | Total | 2025-26 |
+| 1.87% - - - - - - - - - - 2.06% - - - - - - - - - - 2.44% - - - - - - - - - - 2.51% - - - - - - - - - - 2.88% - - - - - - 12,821 - - 12,821 3.63% - - 14,958 - - - - - - 14,958 3.67% - - - - - - - 6,838 - 6,838 3.75% - 6,411 - - - - - - - 6,411 4.88% - - - - 6,411 - - - - 6,411 6.25% - - - - - 4,274 - - - 4,274 7.63% - - - - - - - 26 - 26 8.25% - - - - - - - - 290 290 9.38% - - - - - - - - 189 189 10.25% 106 - - - - - - - - 106 10.50% - - - 82 - - - - - 82 |  |  |  |  |  |  |  |  |  |  | 166 |
+|  |  |  |  |  |  |  |  |  |  |  | 163 |
+|  |  |  |  |  |  |  |  |  |  |  | 185 |
+|  |  |  |  |  |  |  |  |  |  |  | 192 |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+
+
+## Table 62 (Page 72)
+
+| Col_0 | Non-Current | Col_2 | Col_3 | Current |
+| --- | --- | --- | --- | --- |
+|  | 1-5 years | Above 5 years | Total | 2025-26 |
+| Term Loans- from Banks* 79,728 13,498 93,226 79,728 13,498 93,226 |  |  |  | 9,843 |
+|  |  |  |  | 9,843 |
+
+
+## Table 63 (Page 72)
+
+| Rate of Interest | Non-Current* | Col_2 | Col_3 | Current |
+| --- | --- | --- | --- | --- |
+|  | 2033-2034 | 2032-2033 | Total | 2025-26 |
+| 8.25% - - - 7.79% 15,000 5,000 20000 Total 15,000 5,000 20,000 |  |  |  | 1,000 |
+|  |  |  |  | - |
+|  |  |  |  | 1,000 |
+
+
+## Table 64 (Page 72)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 16. Other Financial Liabilities – Non-Current Other Payables* Total |  | - |
+|  | 4,397 |  |
+|  | 4,397 | - |
+
+
+## Table 65 (Page 72)
+
+| Rate of Interest | Non-Current* | Col_2 | Current* |
+| --- | --- | --- | --- |
+|  | 2028-29 | Total | 2025-26 |
+| 7.40% - - 8.65% 2,190 2,190 8.70% 800 800 8.95% 1,990 1,990 9.05% 2,409 2,409 Total 7,389 7,389 |  |  | 1,650 |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | 1,650 |
+
+
+## Table 66 (Page 72)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 17. Provisions – Non-Current Provision for decommissioning of Assets# Total |  | 1,701 |
+|  | 1,767 |  |
+|  | 1,767 | 1,701 |
+
+
+## Table 67 (Page 73)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 18. Deferred Tax Liabilities (Net) The movement on the deferred tax account is as follows: A t the start of the year Charge to Statement of Profit and Loss Charge / (Credit) to Other Comprehensive Income A t the end of year |  | 33,968 2,309 (18) |
+|  |  |  |
+|  | 36,259 |  |
+|  | 1,467 |  |
+|  | (336) |  |
+|  | 37,390 | 36,259 |
+
+
+## Table 68 (Page 73)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 21. Trade Payables Due To Micro and Small Enterprises Other than Micro and Small Enterprises Total |  | 492 1,29,367 |
+|  | 1,301 |  |
+|  | 1,21,078 |  |
+|  | 1,22,379 | 1,29,859 |
+
+
+## Table 69 (Page 73)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 19. Other Non-Current Liabilities Contract Liabilities* Total |  | 2,822 |
+|  | 3,173 |  |
+|  | 3,173 | 2,822 |
+
+
+## Table 70 (Page 73)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 20. Borrowings – Current Secured - At Amortised Cost W orking Capital Loans From Banks Rupee Loans From Others Rupee Loans U nsecured - At Amortised Cost Other Loans From Banks Rupee Loans From Others Commercial paper* C urrent maturities of Non-Current Borrowings (Refer Note 15) Total |  | 5,798 8,500 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | 7,371 |  |
+|  |  |  |
+|  | - |  |
+|  | 7,371 | 14,298 |
+|  |  | 3,000 - |
+|  |  |  |
+|  |  |  |
+|  | 6,500 |  |
+|  |  |  |
+|  | - |  |
+|  | 6500 | 3000 |
+|  | 12,917 | 33,433 |
+|  | 26,788 | 50,731 |
+
+
+## Table 71 (Page 73)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 22. Other Financial Liabilities – Current Interest accrued but not due on Borrowings Unclaimed Dividends# Other Payables* Total |  | 1,852 172 25,469 |
+|  | 1,661 |  |
+|  | 171 |  |
+|  | 33,432 |  |
+|  | 35,264 | 27,493 |
+
+
+## Table 72 (Page 74)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 23. Other Current Liabilities Contract Liabilities * Other Payables ^ Total |  | 22,855 8,011 |
+|  | 66,226 |  |
+|  | 6,057 |  |
+|  | 72,283 | 30,866 |
+
+
+## Table 73 (Page 74)
+
+| Col_0 | 2024-25 | Col_2 | 2023-24 |
+| --- | --- | --- | --- |
+| Dividend Income Other Non-operating Income Gain / (Loss) on Financial Assets Realised Gain / (Loss) Unrealised Gain Total |  | 1,763 | 59 2,349 18 353 |
+|  |  | 2,718 |  |
+|  |  |  |  |
+|  | 637 |  |  |
+|  | (204) |  |  |
+|  |  | 433 | 371 |
+|  |  | 16,094 | 12,128 |
+
+
+## Table 74 (Page 74)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 24. Provisions – Current Provisions for Employee Benefits (Refer Note 28.1)** Provisions for Income Tax (Net of advance tax) Other Provisions# Total |  | 334 13 625 |
+|  | 375 |  |
+|  | 253 |  |
+|  | 528 |  |
+|  | 1,156 | 972 |
+
+
+## Table 75 (Page 74)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 26.1 O ther Comprehensive Income - Items that will not be Reclassified to Profit or Loss Remeasurement loss of Defined Benefit Plan Tax effect on above Equity instruments through OCI Tax effect on above Total |  | (78) 20 40 (9) |
+|  | (68) |  |
+|  | 17 |  |
+|  | 323 |  |
+|  | (46) |  |
+|  | 226 | (27) |
+
+
+## Table 76 (Page 74)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 26.2 O ther Comprehensive Income - Items that will be Reclassified to Profit or Loss Debt instruments through OCI Tax effect on above Cash flow Hedge Tax effect on above Total |  | 1,014 (232) (951) 239 |
+|  | 737 |  |
+|  | (105) |  |
+|  | (1,869) |  |
+|  | 470 |  |
+|  | (767) | 70 |
+
+
+## Table 77 (Page 74)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 25. Revenue from Operations Disaggregated Revenue Oil to Chemicals Oil & Gas Retail Others |  | 4,87,451 24,425 17 1,420 |
+|  |  |  |
+|  | 4,91,622 |  |
+|  | 24,783 |  |
+|  | 10 |  |
+|  | 1,013 |  |
+| Value of Sales | 5,17,428 | 5,13,313 |
+| Income from Services | 15,364 | 34,629 |
+| Value of Services | 15,364 | 34,629 |
+| Total ^^ | 5,32,792 | 5,47,942 |
+
+
+## Table 78 (Page 74)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 27. Changes In Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade A) Inventories (At Close) Finished Goods / Stock-in-Trade Work-in-Progress* B) Inventories (At Commencement) Finished Goods / Stock-in-Trade Work-in-Progress* C) Capitalised during the year Total (B-A-C) |  | 15,647 39,036 |
+|  |  |  |
+|  | 15,822 |  |
+|  | 49,481 |  |
+|  | 65,303 | 54,683 |
+|  |  | 19,811 37,599 |
+|  | 15,647 |  |
+|  | 39,036 |  |
+|  | 54,683 | 57,410 |
+|  | 59 | 27 |
+|  | (10,679) | 2,700 |
+
+
+## Table 79 (Page 74)
+
+| Col_0 | 2024-25 | Col_2 | 2023-24 |
+| --- | --- | --- | --- |
+| 26. Other Income Interest Bank deposits Debt instruments Other Financial Assets measured At Amortised Cost Others |  |  | 4,129 5,052 90 78 |
+|  |  |  |  |
+|  | 5,468 |  |  |
+|  | 3,946 |  |  |
+|  | 1,570 |  |  |
+|  | 196 |  |  |
+|  |  | 11,180 | 9,349 |
+
+
+## Table 80 (Page 75)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 28. Employee Benefits Expense Salaries and Wages Contribution to Provident Fund and Other Funds Staff Welfare Expenses Total |  | 6,408 384 1,015 |
+|  | 6,683 |  |
+|  | 468 |  |
+|  | 1,539 |  |
+|  | 8,690 | 7,807 |
+
+
+## Table 81 (Page 75)
+
+| Particulars | Gratuity (Funded) | Col_2 |
+| --- | --- | --- |
+|  | 2024-25 | 2023-24 |
+| In Income Statement Current Service Cost Interest Cost Return on Plan Assets |  | 47 77 (86) |
+|  | 80 |  |
+|  | 94 |  |
+|  | (102) |  |
+| Net Cost | 72 | 38 |
+| In Other Comprehensive Income (OCI) Actuarial Loss Return on Plan Assets Net Expense for the year recognised in OCI |  | 95 (17) |
+|  | 77 |  |
+|  | (9) |  |
+|  | 68 | 78 |
+
+
+## Table 82 (Page 75)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Employer’s Contribution to Provident Fund Employer’s Contribution to Superannuation Fund Employer’s Contribution to Pension Scheme | 242 | 213 27 99 |
+|  | 30 |  |
+|  | 114 |  |
+
+
+## Table 83 (Page 75)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | K in crore | % Invested | K in crore | % Invested |
+| GOI Securities Insurance Policies | - | - | -* 0.01 1,378 99.99 |  |
+|  | 1,519 | 100.00 |  |  |
+|  | 1,519 | 100.00 | 1,378 100.00 |  |
+
+
+## Table 84 (Page 75)
+
+| Particulars | Gratuity (Funded) | Col_2 |
+| --- | --- | --- |
+|  | 2024-25 | 2023-24 |
+| Defined Benefit Obligation at beginning of the period Current Service Cost Interest Cost Actuarial Loss Benefits Paid* Liability Transferred In/(Out) (Net) Defined Benefit Obligation at end of the period | 1,269 | 1,015 47 77 95 (114) 149 |
+|  | 80 |  |
+|  | 94 |  |
+|  | 77 |  |
+|  | (148) |  |
+|  | 37 |  |
+|  | 1,409 | 1,269 |
+
+
+## Table 85 (Page 75)
+
+| Mortality Table (IALM) | Gratuity (Funded) | Col_2 |
+| --- | --- | --- |
+|  | 2024-25 2012-14 (Urban) | 2023-24 2012-14 (Urban) |
+| Discount Rate (per annum) Expected rate of return on Plan Assets (per annum) Rate of escalation in Salary (per annum) Rate of employee turnover (per annum) | 6.90% | 7.23% 7.23% 6% 7% |
+|  | 6.90% |  |
+|  | 6% |  |
+|  | 5% |  |
+
+
+## Table 86 (Page 75)
+
+| Particulars | Gratuity (Funded) | Col_2 |
+| --- | --- | --- |
+|  | 2024-25 | 2023-24 |
+| Fair value of Plan Assets at beginning of the year Return on Plan Assets Benefits Paid Assets Transferred In /(Out) (Net) Fair value of Plan Assets at end of the year | 1,378 | 1,129 102 (2) 149 |
+|  | 111 |  |
+|  | (3) |  |
+|  | 33 |  |
+|  | 1,519 | 1,378 |
+
+
+## Table 87 (Page 75)
+
+| Particulars | Gratuity (Funded) | Col_2 |
+| --- | --- | --- |
+|  | 2024-25 | 2023-24 |
+| Fair value of Plan Assets Present value of Obligation Amount recognised in Balance Sheet [Surplus] | 1,519 | 1,378 1,269 109 |
+|  | 1,409 |  |
+|  | 110 |  |
+
+
+## Table 88 (Page 76)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Decrease | Increase | Decrease | Increase |
+| Change in rate of discounting (delta effect of +/- 0.5%) Change in rate of salary increase (delta effect of -/+ 0.5%) Change in rate of employee turnover (delta effect of -/+ 0.5%) | 30 | 32 | 23 24 23 24 2 2 |  |
+|  | 30 | 32 |  |  |
+|  | 2 | 2 |  |  |
+
+
+## Table 89 (Page 76)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Number of share options | Weighted average exercise price | Number of share options | Weighted average exercise price |
+| Balance at the beginning of the period Granted during the period Exercised during the period Bonus Issue (Refer Note 13.8) Balance at the end of the period | 3,02,912 | 10.00 | 2,90,000 10.00 27,912 10.00 (15,000) 10.00 - - |  |
+|  | - | - |  |  |
+|  | (2,20,000) | 10.00 |  |  |
+|  | 82,912 | 10.00 |  |  |
+|  | 1,65,824 | 10.00 | 3,02,912 10.00 |  |
+
+
+## Table 90 (Page 76)
+
+| Financial Year (Year of Grant) | Number of Options Outstanding | Col_2 | Col_3 | Financial Year of Vesting | Exercise Price (K) | Range of Fair value adjusted for bonus at Grant Date (K)* |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  | As at 31st March, 2024 |  |  |  |
+|  | Post Bonus* | Pre Bonus |  |  |  |  |
+| ESOS - 2017 Details of Employee Stock Options granted from 1st April, 2020 to 31st March, 2025 2020-21 - - 2,00,000 2021-22 to 10.00 1,066.70 2024-25 -1,075.95 2021-22 1,10,000 55,000 75,000 2022-23 to 10.00 1,297.60- 2025-26 1,306.65 2023-24 55,824 27,912 27,912 2024-25 to 10.00 1,418.30- 2025-26 1,420.35 Total 1,65,824 82,912 3,02,912 |  |  |  |  |  |  |
+
+
+## Table 91 (Page 76)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 29. Finance Costs Interest Expenses* Interest on Lease Liabilities Applicable loss on foreign currency transactions and translation Total |  | 12,152 225 1,053 |
+|  | 8,820 |  |
+|  | 217 |  |
+|  | 1,017 |  |
+|  | 10,054 | 13,430 |
+
+
+## Table 92 (Page 76)
+
+| - | - | 2,00,000 |
+| --- | --- | --- |
+| 1,10,000 | 55,000 | 75,000 |
+| 55,824 | 27,912 | 27,912 |
+| 1,65,824 | 82,912 | 3,02,912 |
+
+
+## Table 93 (Page 77)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 30. Other Expenses Manufacturing Expenses Stores, Chemicals and Packing Materials Electric Power, Fuel and Water Labour Processing, Production Royalty and Machinery Hire Charges Repairs to Building Repairs to Machinery Exchange Difference (Net) Excise Duty# Lease Rent Selling and Distribution Expenses Warehousing and Distribution Expenses Sales Tax / VAT Other Selling and Distribution Expenses Establishment Expenses Professional Fees General Expenses Rent Insurance Rates & Taxes Other Repairs Travelling Expenses Payment to Auditors Loss on Sale / Discard of Property, Plant and Equipment and Intangible Assets Charity and Donations Less: Transferred to Project Development Expenditure Total |  | 7,480 20,358 9,563 207 1,719 32 603 65 |
+|  |  |  |
+|  | 6,684 |  |
+|  | 21,956 |  |
+|  | 12,679 |  |
+|  | 130 |  |
+|  | 1,505 |  |
+|  | (47) |  |
+|  | 51 |  |
+|  | 45 |  |
+|  | 43,003 | 40,027 |
+|  |  | 8,185 2,023 1,313 |
+|  | 8,129 |  |
+|  | 1,873 |  |
+|  | 1,482 |  |
+|  | 11,484 | 11,521 |
+|  |  | 1,666 3,760 183 732 798 752 310 41 155 1,605 |
+|  | 1,686 |  |
+|  | 3,600 |  |
+|  | 124 |  |
+|  | 760 |  |
+|  | 794 |  |
+|  | 824 |  |
+|  | 422 |  |
+|  | 45 |  |
+|  | 64 |  |
+|  | 1,425 |  |
+|  | 9,744 | 10,002 |
+|  | 2,847 | 1,659 |
+|  | 61,384 | 59,891 |
+
+
+## Table 94 (Page 77)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Rural Transformation Healthcare Education and Skill Development Sports for Development Environment, Ecology and Animal Welfare Others including Disaster Management, Women Empowerment, Arts and Culture Total | 92 | 107 186 531 24 40 12 |
+|  | 92 |  |
+|  | 427 |  |
+|  | 290 |  |
+|  | 387 |  |
+|  | 21 |  |
+|  | 1,309 | 900 |
+
+
+## Table 95 (Page 77)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 31. Earnings Per Share (EPS)** Face Value Per Equity Share (K) Basic earnings per share (C) Diluted earnings per share (C) Net Profit after Tax as per Statement of Profit and Loss attributable to Equity Shareholders (C in crore) W eighted Average number of Equity Shares used as denominator Basic EPS Diluted EPS R econciliation of weighted average number of shares outstanding Weighted Average number of Equity Shares used as denominator for calculating Basic EPS ^ Total Weighted Average Potential Equity Shares# Weighted Average number of Equity Shares used as denominator for calculating Diluted EPS |  | 10 31.07 31.07 42,042 13,53,16,21,632 13,53,24,81,373 13,53,16,21,632 8,59,741 13,53,24,81,373 |
+|  | 10 |  |
+|  | 26.06 |  |
+|  | 26.06 |  |
+|  | 35,262 |  |
+|  |  |  |
+|  | 13,53,20,92,187 |  |
+|  | 13,53,24,10,577 |  |
+|  |  |  |
+|  | 13,53,20,92,187 |  |
+|  | 3,18,390 |  |
+|  | 13,53,24,10,577 |  |
+
+
+## Table 96 (Page 77)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 30.1 Payment to Auditors as:* (a) Fees as Auditors (b) Tax Audit Fees (c) Fees for Other Services (d) Cost Audit Fees Total |  | 34 2 4 1 |
+|  | 37 |  |
+|  | 2 |  |
+|  | 5 |  |
+|  | 1 |  |
+|  | 45 | 41 |
+
+
+## Table 97 (Page 80)
+
+| Sr. No. | Nature of Transactions (Excluding Reimbursements) | Subsidiaries/ Beneficiary | Associates / Joint Ventures | Key Managerial Personnel/ Relative | Others | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 Purchase of Property, Plant and 7,347 6 - - 7,353 Equipment and Intangible Assets 9,747 13 - 1 9,761 2 Purchase / Subscription of Investments 63,582 - - - 63,582 36,786 3,718 - - 40,504 3 Sale / Redemption of Investments 38,427 - - - 38,427 3,352 - - - 3,352 4 Loans and Advances, Deposits Given 16,972 2 - - 16,974 41,292 - - - 41,292 5 Loans and Advances, Deposits Returned 22,018 - - - 22,018 44,246 15 - - 44,261 6 Revenue from Operations 3,01,670 2,114 - 12 3,03,796 3,29,718 3,975 - 3 3,33,696 7 Other Income 3,700 60 - 4 3,764 1,150 132 - 6 1,288 8 Purchase of Goods / Services 1,62,687 3,363 - 1,502 1,67,552 1,30,160 1,647 - 1,484 1,33,291 9 Electric Power, Fuel and Water 129 5,012 - - 5,141 124 4,552 - - 4,676 10 Labour Processing and Hire Charges 7,361 - - - 7,361 6,063 8 - - 6,071 11 Employee Benefits Expenses 476 3 - 805 1,284 362 1 - 659 1,022 12 Payment to Key Managerial Personnel/ - - 97 - 97 Relative - - 99 - 99 13 Selling and Distribution Expenses 287 87 - 2,823 3,197 332 76 - 2,574 2,982 14 Rent 5 22 - - 27 4 14 - - 18 15 Professional Fees 207 26 - 1 234 223 23 - - 246 16 General Expenses# 1,108 24 - 10 1,142 896 9 - 11 916 17 Travelling Expenses 194 - - - 194 168 - - - 168 18 Donations - - - 772 772 |  | 7,347 | 6 | - | - | 7,353 |
+|  |  | - | - | - | 772 | 772 |
+
+
+## Table 98 (Page 81)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Reliance Brands Luxury Fashion Private Limited Reliance Chemicals and Materials Limited Reliance Corporate IT Park Limited Reliance Ethane Pipeline Limited Reliance Lifestyle Products Private Limited Reliance New Energy Battery Storage Limited Reliance New Solar Energy Limited Reliance Power Electronics Limited Reliance Projects & Property Management Services Limited Reliance Retail Limited Reliance Sibur Elastomers Private Limited Reliance Syngas Limited Associate Sterling and Wilson Renewable Energy Limited Joint Venture Sintex Industries Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Sikka Ports & Terminals Limited 2 Purchase / Subscription of Investments Subsidiary Lakadia B Power Transmission Limited MSKVY Nineteenth Solar SPV Limited MSKVY Twenty Second Solar SPV Limited Reliance 4IR Realty Development Limited Reliance Chemicals and Materials Limited Reliance Digital Health Limited Reliance Ethane Holding Pte. Ltd. Reliance Marcellus LLC Reliance New Energy Limited Reliance Projects & Property Management Services Limited Reliance Retail Ventures Limited Reliance SOU Limited Reliance Strategic Business Ventures Limited Star India Private Limited Studio 18 Media Private Limited (Formerly known as Viacom 18 Media Private Limited) Joint Venture Alok Industries Limited BAM DLR Chennai Private Limited BAM DLR Data Centre Services Private Limited BAM DLR Mumbai Private Limited BAM DLR Network Services Private Limited 3 Sale / Redemption of Investments Subsidiary Reliance Gas Pipelines Limited Reliance Projects & Property Management Services Limited Reliance Retail Limited Reliance Strategic Business Ventures Limited Studio 18 Media Private Limited (Formerly known as Viacom 18 Media Private Limited) | 1 | - - 1,763 1 1 - 5,669 - 61 87 12 1 10 3 1 - - - 700 - 9 852 366 9,542 1,545 2,500 - 21,272 - - 3,300 273 9 134 2 - - - 3,352 - |
+|  | 3 |  |
+|  | 1,038 |  |
+|  | - |  |
+|  | 1 |  |
+|  | 66 |  |
+|  | 284 |  |
+|  | 24 |  |
+|  | 102 |  |
+|  | 132 |  |
+|  | 28 |  |
+|  | 8 |  |
+|  |  |  |
+|  | 5 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 7 |  |
+|  | 20 |  |
+|  | 4 |  |
+|  | 18,516 |  |
+|  | 723 |  |
+|  | 43 |  |
+|  | - |  |
+|  | 237 |  |
+|  | 3,431 |  |
+|  | 4,722 |  |
+|  | - |  |
+|  | 1 |  |
+|  | 5,448 |  |
+|  | 11,500 |  |
+|  | 18,930 |  |
+|  |  |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 49 |  |
+|  | 16,407 |  |
+|  | 100 |  |
+|  | 2,872 |  |
+|  | 18,999 |  |
+
+
+## Table 99 (Page 81)
+
+| Sr. No. | Nature of Balances | Subsidiaries/ Beneficiary | Associates / Joint Ventures | Key Managerial Personnel/ Relative | Others | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 Investments 2,47,400 5,845 - - 2,53,245 2,15,952 5,980 - - 2,21,932 2 Trade Receivables 7,879 117 - - 7,996 5,930 171 - - 6,101 3 Loans and Advances 4,941 - - - 4,941 10,051 - - - 10,051 4 Deposits 161 155 - 353 669 96 153 - 353 602 5 Other Financial Assets- Current 1,750 1 - - 1,751 1,540 1 - - 1,541 6 Other Current Assets 835 - - - 835 - - - - - 7 Other Financial Assets- Non Current 13,011 - - - 13,011 15,465 - - - 15,465 8 Others Non-current assets 4,613 - - - 4,613 1 - - 1 9 Trade and Other Payables 72,399 314 - 76 72,789 56,674 511 - 92 57,277 10 Other Financial Liabilities - Current 5,471 - - - 5,471 13,158 - - - 13,158 11 Other Current Liabilities 59,002 - - - 59,002 17,993 - - - 17,993 12 Financial Guarantees 4,482 5,400 - - 9,882 7,256 5,350 - - 12,606 13 Performance Guarantees 1,392 - - - 1,392 |  | 2,47,400 | 5,845 | - | - | 2,53,245 |
+|  |  | 1,392 | - | - | - | 1,392 |
+
+
+## Table 100 (Page 81)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 1 Purchase of Property Plant & Equipment and Intangible Assets Subsidiary Addverb Technologies Limited Jio Platforms Limited Jio Things Limited Lithium Werks China Manufacturing Co., Ltd. REC Americas LLC REC Solar EMEA GmbH REC Solar Pte. Ltd. REC Trading (Shanghai) Co., Ltd. Reliance Bio Energy Limited Reliance Brands Limited |  | - 2,103 8 - - - 37 - - 4 |
+|  |  |  |
+|  | 19 |  |
+|  | 2,254 |  |
+|  | 4 |  |
+|  | 10 |  |
+|  | 6 |  |
+|  | 3 |  |
+|  | 1,261 |  |
+|  | 9 |  |
+|  | 2,087 |  |
+|  | 5 |  |
+
+
+## Table 101 (Page 82)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 4 Loans and Advances, Deposits Given Subsidiary Reliance 4IR Realty Development Limited Reliance Chemicals and Materials Limited Reliance Corporate IT Park Limited Reliance Green Hydrogen and Green Chemicals Limited Reliance New Energy Limited Reliance Projects & Property Management Services Limited Reliance Sibur Elastomers Private Limited Reliance Strategic Business Ventures Limited Surela Investment and Trading Limited Associate Gujarat Chemical Port Limited 5 Loans and Advances, Deposits Returned Subsidiary Reliance 4IR Realty Development Limited Reliance Chemicals and Materials Limited Reliance Corporate IT Park Limited Reliance Ethane Pipeline Limited Reliance New Energy Limited Reliance Projects & Property Management Services Limited Reliance Sibur Elastomers Private Limited Reliance Strategic Business Ventures Limited Surela Investment and Trading Limited Associate Gujarat Chemical Port Limited 6 Revenue from Operations Subsidiary Football Sports Development Limited Genesis La Mode Private Limited GLF Lifestyle Brands Private Limited Indiawin Sports Private Limited Jio Infrastructure Management Services Limited Jio Platforms Limited Model Economic Township Limited Network18 Media & Investments Limited RBML Solutions India Limited Recron (Malaysia) Sdn. Bhd. Reliance Abu Sandeep Private Limited Reliance Bio Energy Limited Reliance BP Mobility Limited Reliance Brands Limited Reliance Brands Luxury Fashion Private Limited |  | 4,358 - 2,604 - 6,229 17,388 621 10,071 21 - 280 - 3,213 235 6,655 17,252 - 16,611 - 15 9 1 - 5 4 1,102 2 1 564 1 - 1 31,191 10 - |
+|  |  |  |
+|  | 8,629 |  |
+|  | 20 |  |
+|  | 2,397 |  |
+|  | 69 |  |
+|  | - |  |
+|  | 431 |  |
+|  | - |  |
+|  | 5,426 |  |
+|  | - |  |
+|  |  |  |
+|  | 2 |  |
+|  |  |  |
+|  |  |  |
+|  | 12,931 |  |
+|  | 20 |  |
+|  | 4,081 |  |
+|  | 168 |  |
+|  | - |  |
+|  | 567 |  |
+|  | 305 |  |
+|  | 3,941 |  |
+|  | 5 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 13 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 5 |  |
+|  | 4 |  |
+|  | 1,094 |  |
+|  | 4 |  |
+|  | 3 |  |
+|  | 772 |  |
+|  | 1,318 |  |
+|  | 1 |  |
+|  | 6 |  |
+|  | 40,928 |  |
+|  | 13 |  |
+|  | 2 |  |
+
+
+## Table 102 (Page 82)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Reliance Chemicals and Materials Limited Reliance Commercial Dealers Limited Reliance Consumer Products Limited Reliance Corporate IT Park Limited Reliance Ethane Pipeline Limited Reliance Gas Pipelines Limited Reliance Global Energy Services (Singapore) Pte. Limited Reliance Industries (Middle East) DMCC Reliance International Limited Reliance Jio Infocomm Limited Reliance Jio Infocomm Pte. Ltd. Reliance Lifestyle Products Private Limited Reliance New Energy Limited Reliance New Solar Energy Limited Reliance Petro Marketing Limited Reliance Polyester Limited Reliance Projects & Property Management Services Limited Reliance Rahul Mishra Fashion Private Limited Reliance Retail Limited Reliance Sibur Elastomers Private Limited Reliance Syngas Limited Reverie Language Technologies Limited RIL USA, Inc. RISE Worldwide Limited RP Chemicals (Malaysia) Sdn. Bhd. Star India Private Limited Studio 18 Media Private Limited (Formerly known as Viacom 18 Media Private Limited) The Indian Film Combine Private Limited Associate Big Tree Entertainment Private Limited BookmyShow Live Private Limited Gujarat Chemical Port Limited Jamnagar Utilities & Power Private Limited MM Styles Private Limited Omnia Toys India Private Limited Reliance Industrial Infrastructure Limited Joint Venture Alok Industries Limited Burberry India Private Limited Canali India Private Limited India Gas Solutions Private Limited Reliance Bally India Private Limited Reliance Paul & Shark Fashions Private Limited Ryohin-Keikaku Reliance India Private Limited Sintex Industries Limited TCO Reliance India Private Limited Zegna South Asia Private Limited | 12 | 4 49 - 500 5,127 29 15,932 6 2,56,880 10,273 2 - - 795 1,722 1,750 44 - 426 1,196 120 2 385 4 1,026 - 558 - 2 1 4 280 - - - 1,926 - - 1,631 - - 1 118 - - |
+|  | 47 |  |
+|  | 5 |  |
+|  | 10 |  |
+|  | 5,256 |  |
+|  | 23 |  |
+|  | 25,040 |  |
+|  | - |  |
+|  | 1,96,887 |  |
+|  | 7,981 |  |
+|  | 2 |  |
+|  | 1 |  |
+|  | 54 |  |
+|  | 11 |  |
+|  | 471 |  |
+|  | 1,757 |  |
+|  | 185 |  |
+|  | 2 |  |
+|  | 491 |  |
+|  | 1,361 |  |
+|  | 127 |  |
+|  | 2 |  |
+|  | 17,174 |  |
+|  | - |  |
+|  | 564 |  |
+|  | 34 |  |
+|  | 5 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 2 |  |
+|  | - |  |
+|  | 4 |  |
+|  | 256 |  |
+|  | 3 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 258 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1,429 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 3 |  |
+|  | 151 |  |
+|  | 1 |  |
+|  | 1 |  |
+
+
+## Table 103 (Page 83)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Samarjit Enterprises LLP Sikka Ports & Terminals Limited Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Company under Common Control## Jio Financial Services Limited 7 Other Income Subsidiary E-Eighteen.Com Limited Ethane Coral LLC Ethane Diamond LLC Ethane Jade LLC Genesis La Mode Private Limited GLF Lifestyle Brands Private Limited Network18 Media & Investments Limited Recron (Malaysia) Sdn. Bhd. Reliance 4IR Realty Development Limited Reliance Bio Energy Limited Reliance BP Mobility Limited Reliance Brands Limited Reliance Brands Luxury Fashion Private Limited Reliance Chemicals and Materials Limited Reliance Corporate IT Park Limited Reliance Ethane Pipeline Limited Reliance Global Energy Services (Singapore) Pte. Limited Reliance Industries (Middle East) DMCC Reliance International Limited Reliance Jio Infocomm Limited Reliance New Energy Limited Reliance New Solar Energy Limited Reliance Projects & Property Management Services Limited Reliance Retail Limited Reliance Sibur Elastomers Private Limited Reliance Strategic Business Ventures Limited Reliance Syngas Limited Reliance Ventures Limited RISE Worldwide Limited RP Chemicals (Malaysia) Sdn. Bhd. Skytran Inc. TV18 Broadcast Limited Associate BookmyShow Live Private Limited Gujarat Chemical Port Limited Reliance Industrial Infrastructure Limited Joint Venture Alok Industries Limited |  | - 1 - 1 7 - - - - - 1 1 350 - 29 2 1 4 189 27 1 1 17 13 167 4 26 2 81 186 9 7 4 1 12 8 1 46 2 66 |
+|  | 10 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 16 |  |
+|  | 2 |  |
+|  | 127 |  |
+|  | 1 |  |
+|  | 376 |  |
+|  | 6 |  |
+|  | 1 |  |
+|  | 5 |  |
+|  | 178 |  |
+|  | 8 |  |
+|  | 1 |  |
+|  | (6) |  |
+|  | 8 |  |
+|  | 4 |  |
+|  | - |  |
+|  | 4 |  |
+|  | 1,264 |  |
+|  | - |  |
+|  | 115 |  |
+|  | 93 |  |
+|  | 9 |  |
+|  | 3 |  |
+|  | 4 |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  |  |  |
+|  | - |  |
+|  | 46 |  |
+|  | 2 |  |
+|  |  |  |
+|  | 2 |  |
+
+
+## Table 104 (Page 83)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Burberry India Private Limited Canali India Private Limited IBN Lokmat News Private Limited India Gas Solutions Private Limited Ryohin-Keikaku Reliance India Private Limited Sintex Industries Limited Zegna South Asia Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Jamnaben Hirachand Ambani Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) 8 Purchase of Goods / Services Subsidiary Jio Platforms Limited Jio Things Limited Metro Cash and Carry India Limited (Formerly known as Metro Cash and Carry India Private Limited) Radisys India Limited Recron (Malaysia) Sdn. Bhd. Reliance Bio Energy Limited Reliance BP Mobility Limited Reliance Brands Luxury Fashion Private Limited Reliance Chemicals and Materials Limited Reliance Corporate IT Park Limited Reliance Eminent Trading & Commercial Private Limited Reliance Ethane Pipeline Limited Reliance Global Energy Services (Singapore) Pte. Limited Reliance Industries (Middle East) DMCC Reliance International Limited Reliance Jio Global Resources, LLC Reliance Jio Infocomm Limited Reliance Lifestyle Products Private Limited Reliance New Energy Battery Storage Limited Reliance New Solar Energy Limited Reliance Petro Marketing Limited Reliance Polyester Limited Reliance Progressive Traders Private Limited Reliance Projects & Property Management Services Limited Reliance Prolific Commercial Private Limited Reliance Prolific Traders Private Limited Reliance Retail Limited Reliance Sibur Elastomers Private Limited Reliance Syngas Limited RIL USA, Inc. RP Chemicals (Malaysia) Sdn. Bhd. Associate Big Tree Entertainment Private Limited | 2 | 1 - 2 9 1 1 - 5 1 814 - - 3 - - 9 2 - 2 - 8,161 671 1,659 1,11,117 120 228 1 - 12 1,811 94 2 975 2 1 56 1,378 8 3,034 - 2 |
+|  | 1 |  |
+|  | 2 |  |
+|  | - |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 3 |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | 739 |  |
+|  | 5 |  |
+|  | 5 |  |
+|  | 2 |  |
+|  | 81 |  |
+|  | 1 |  |
+|  | 5 |  |
+|  | - |  |
+|  | 4 |  |
+|  | - |  |
+|  | 2 |  |
+|  | 9,137 |  |
+|  | - |  |
+|  | 40 |  |
+|  | 1,48,229 |  |
+|  | 156 |  |
+|  | 153 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 13 |  |
+|  | 1 |  |
+|  | 223 |  |
+|  | 5 |  |
+|  | 1,464 |  |
+|  | 4 |  |
+|  | 1 |  |
+|  | 92 |  |
+|  | 20 |  |
+|  | 5 |  |
+|  | 2,147 |  |
+|  | 150 |  |
+|  |  |  |
+|  | - |  |
+
+
+## Table 105 (Page 84)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Gujarat Chemical Port Limited Jamnagar Utilities & Power Private Limited MM Styles Private Limited Reliance Industrial Infrastructure Limited Sterling and Wilson Renewable Energy Limited Joint Venture Alok Industries Limited India Gas Solutions Private Limited Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) Sintex Industries Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Sikka Ports & Terminals Limited 9 Electric Power, Fuel and Water Subsidiary Reliance Corporate IT Park Limited Reliance Sibur Elastomers Private Limited Associate Jamnagar Utilities & Power Private Limited Reliance Industrial Infrastructure Limited Joint Venture Alok Industries Limited 10 Labour Processing and Hire Charges Subsidiary Reliance Ethane Pipeline Limited Reliance Syngas Limited Associate Reliance Industrial Infrastructure Limited 11 Employee Benefit Expenses Subsidiary Jio Platforms Limited Reliance Corporate IT Park Limited Reliance Projects & Property Management Services Limited Reliance Retail Limited The Indian Film Combine Private Limited Tresara Health Limited Associate Future101 Design Private Limited Post Employment Benefit* IPCL employees Provident fund Trust Reliance Employees Provident Fund Bombay Reliance Industries Limited Staff superannuation scheme Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Jamnaben Hirachand Ambani Foundation | 167 | 167 26 7 20 1 176 1,239 - 9 1,484 115 9 4,539 13 - 339 5,724 8 94 64 150 53 - 1 1 119 433 26 2 |
+|  | 57 |  |
+|  | - |  |
+|  | 21 |  |
+|  | - |  |
+|  |  |  |
+|  | 444 |  |
+|  | 1,180 |  |
+|  | 1,484 |  |
+|  | 9 |  |
+|  |  |  |
+|  | 1,502 |  |
+|  |  |  |
+|  |  |  |
+|  | 120 |  |
+|  | 9 |  |
+|  |  |  |
+|  | 4,447 |  |
+|  | 13 |  |
+|  |  |  |
+|  | 552 |  |
+|  |  |  |
+|  |  |  |
+|  | 326 |  |
+|  | 6,200 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 103 |  |
+|  | 14 |  |
+|  | 138 |  |
+|  | 218 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 3 |  |
+|  |  |  |
+|  | 114 |  |
+|  | 534 |  |
+|  | 30 |  |
+|  |  |  |
+|  | 2 |  |
+
+
+## Table 106 (Page 84)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) 12 Payment to Key Managerial Personnel / Relative Key Managerial Personnel Shri Mukesh D. Ambani Shri Nikhil R. Meswani Shri Hital R. Meswani Shri P.M.S. Prasad Shri Alok Agarwal$ Shri Srikanth Venkatachari Smt. Savithri Parekh Relative of Key Managerial Personnel Smt. Nita M. Ambani** Smt. Isha M Ambani Shri Akash M Ambani Shri Anant M Ambani 13 Selling and Distribution Expenses Subsidiary Jio Things Limited Reliance BP Mobility Limited Reliance Brands Limited Reliance Industries (Middle East) DMCC Reliance International Limited RISE Worldwide Limited Studio 18 Media Private Limited (Formerly known as Viacom 18 Media Private Limited) Associate Big Tree Entertainment Private Limited Gujarat Chemical Port Limited Reliance Industrial Infrastructure Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Jamnaben Hirachand Ambani Foundation Sikka Ports & Terminals Limited Company under Common Control## Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited) 14 Rent Subsidiary Reliance BP Mobility Limited Reliance Progressive Traders Private Limited Surela Investment and Trading Limited Associate Reliance Industrial Infrastructure Limited Joint Venture Alok Industries Limited | 125 | 79 - 25 25 18 5 19 3 1 1 1 1 1 115 1 8 206 - 1 - 74 2 - 2,574 - 1 3 13 1 |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 25 |  |
+|  | 25 |  |
+|  | 20 |  |
+|  | - |  |
+|  | 17 |  |
+|  | 4 |  |
+|  |  |  |
+|  | - |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 144 |  |
+|  | 1 |  |
+|  | 71 |  |
+|  | 69 |  |
+|  | 1 |  |
+|  | - |  |
+|  |  |  |
+|  | 5 |  |
+|  | 79 |  |
+|  | 2 |  |
+|  |  |  |
+|  | 6 |  |
+|  | 2,816 |  |
+|  |  |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 3 |  |
+|  |  |  |
+|  | 13 |  |
+|  |  |  |
+|  | 9 |  |
+
+
+## Table 107 (Page 85)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 15 Professional Fees Subsidiary Crystalline Silica and Mining Limited Jio Platforms Limited REC Solar Pte. Ltd. REC Trading (Shanghai) Co., Ltd. Reliance Brands Limited Reliance Corporate IT Park Limited Reliance Digital Health USA Inc. Reliance Lithium Werks USA LLC Reliance Marcellus LLC Reliance Projects & Property Management Services Limited RIL USA, Inc. Associate Big Tree Entertainment Private Limited Reliance Europe Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) 16 General Expenses Subsidiary Addverb Technologies Limited Jio Things Limited Metro Cash and Carry India Limited (Formerly known as Metro Cash and Carry India Private Limited) REC Solar Pte. Ltd. Reliance BP Mobility Limited Reliance Brands Eyewear Private Limited Reliance Brands Limited Reliance Commercial Dealers Limited Reliance Jio Infocomm Limited Reliance Lifestyle Products Private Limited Reliance Retail Limited RISE Worldwide Limited The Indian Film Combine Private Limited Associate Big Tree Entertainment Private Limited MM Styles Private Limited Vadodara Enviro Channel Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Sikka Ports & Terminals Limited Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Company under Common Control## Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited) 17 Travelling Expenses Subsidiary IW Columbus Centre LLC Stoke Park Limited |  | - 53 - - 1 142 2 - - 20 5 4 19 - - - - - 12 - - 685 158 - 39 - 2 3 1 5 10 - 1 - 168 |
+|  |  |  |
+|  | 3 |  |
+|  | 53 |  |
+|  | 12 |  |
+|  | 7 |  |
+|  | - |  |
+|  | 98 |  |
+|  | 3 |  |
+|  | 20 |  |
+|  | 2 |  |
+|  | 4 |  |
+|  | 5 |  |
+|  |  |  |
+|  | - |  |
+|  | 26 |  |
+|  |  |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 26 |  |
+|  | 13 |  |
+|  | 1 |  |
+|  | 3 |  |
+|  | 834 |  |
+|  | 164 |  |
+|  | 2 |  |
+|  | 59 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 21 |  |
+|  | - |  |
+|  | 2 |  |
+|  |  |  |
+|  | 8 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | 14 |  |
+|  | 180 |  |
+
+
+## Table 108 (Page 85)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 18 Donations Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Dhirubhai Ambani Foundation Hirachand Govardhandas Ambani Public Charitable Trust Jamnaben Hirachand Ambani Foundation Reliance Foundation Reliance Foundation Institution of Education and Research Reliance Foundation Youth Sports Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Sir Hurkisondas Nurrotumdas Hospital and Research Centre Vividh Hunarvikas Foundation Vividh Kridakhel Foundation |  | 11 3 180 223 105 20 126 6 - - |
+|  |  |  |
+|  | 6 |  |
+|  | 6 |  |
+|  | 195 |  |
+|  | 180 |  |
+|  | 2 |  |
+|  | 17 |  |
+|  | 18 |  |
+|  | 12 |  |
+|  | 64 |  |
+|  | 272 |  |
+
+
+## Table 109 (Page 85)
+
+| Particulars | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| 1 Loans and Advances Non-Current Subsidiary Reliance 4IR Realty Development Limited Reliance Corporate IT Park Limited Reliance Ethane Pipeline Limited Reliance Projects & Property Management Services Limited Reliance Sibur Elastomers Private Limited Reliance Strategic Business Ventures Limited 2 Deposits Non-Current Subsidiary Reliance Commercial Dealers Limited* Reliance Ethane Pipeline Limited Reliance Green Hydrogen and Green Chemicals Limited Associate Gujarat Chemical Port Limited* Jamnagar Utilities & Power Private Limited* Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives are able to exercise significant influence Sikka Ports & Terminals Limited* Current Subsidiary Reliance Jio Infocomm Limited Surela Investment and Trading Limited Associate Gaurav Overseas Private Limited |  | 6,162 2,114 168 136 1,216 255 44 30 - 18 118 353 1 21 17 |
+|  |  |  |
+|  |  |  |
+|  | 1,860 |  |
+|  | 431 |  |
+|  | - |  |
+|  | - |  |
+|  | 911 |  |
+|  | 1,739 |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  | 44 |  |
+|  | 30 |  |
+|  | 69 |  |
+|  |  |  |
+|  | 20 |  |
+|  | 118 |  |
+|  |  |  |
+|  | 353 |  |
+|  |  |  |
+|  |  |  |
+|  | 1 |  |
+|  | 17 |  |
+|  |  |  |
+|  | 17 |  |
+
+
+## Table 110 (Page 86)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| i Short-term benefits ii Post employment benefits |  | 95 | 93 2 |
+|  |  | 2 |  |
+|  |  | 97 | 95 |
+
+
+## Table 111 (Page 86)
+
+| Sr. No. | Name of the Fields in the Joint Ventures | Company’s % Interest | Col_3 | Partners and their Participating Interest (PI) | Country |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 2024-25 | 2023-24 |  |  |
+| 1 Mid and South Tapti 2 NEC - OSN - 97/2 3 KG - DWN - 98/3 4 KG-UDWHP-2018/1 5 KG-UDWHP-2022/1 |  | 30% | 30% BG Exploration & Production India Limited - 30%; India Oil and Natural Gas Corporation Limited - 40% India 66.67% BP Exploration (Alpha) Limited - 33.33% India 66.67% BP Exploration (Alpha) Limited - 33.33% India 60% BP Exploration (Alpha) Limited - 40% India 60% BP Exploration (Alpha) Limited - 40% India |  |  |
+|  |  |  |  |  |  |
+|  |  | 66.67% |  |  |  |
+|  |  | 66.67% |  |  |  |
+|  |  | 60% |  |  |  |
+|  |  | 60% |  |  |  |
+
+
+## Table 112 (Page 86)
+
+| Particulars | Proved Reserves in India (Million MT*) | Col_2 | Proved Developed Reserves in India (Million MT*) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| Oil: Opening Balance Addition to Reserves Revision of estimates Production Closing balance |  | 3.29 - 0.03 (0.59) |  | 0.04 3.25 0.03 (0.59) |
+|  | 2.73 |  | 2.73 |  |
+|  | - |  | - |  |
+|  | (0.01) |  | (0.01) |  |
+|  | (0.67) |  | (0.67) |  |
+|  | 2.05 | 2.73 | 2.05 | 2.73 |
+
+
+## Table 113 (Page 86)
+
+| Particulars | Proved Reserves in India (Million M3*) | Col_2 | Proved Developed Reserves in India (Million M3*) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| Gas: Opening Balance Addition to Reserves Revision of estimates Production Closing balance |  | 49,145 - 150 (6,852) |  | 23,329 16,727 150 (6,852) |
+|  | 42,443 |  | 33,354 |  |
+|  | - |  | - |  |
+|  | 311 |  | 311 |  |
+|  | (7,102) |  | (7,102) |  |
+|  | 35,652 | 42,443 | 26,563 | 33,354 |
+
+
+## Table 114 (Page 86)
+
+| Particulars | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| Exploration & Evaluation (E&E) Cost Other Exploration Cost Exploration Cost for the year |  | 308 |
+|  | 52 |  |
+|  | 52 | 308 |
+
+
+## Table 115 (Page 87)
+
+| Col_0 | Col_1 | Col_2 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| 34. Contingent Liabilities and Commitments (I) Contingent Liabilities (A) Claims against the Company / disputed liabilities not acknowledged as debts (i) In respect of Joint Arrangements (ii) In respect of Others (B) Guarantees (i) On behalf of Joint Arrangements (ii) On behalf of Subsidiaries / Associates / Joint Ventures / Others (II) Commitments (A) Estimated amount of contracts remaining to be executed on capital account and not provided for: (i) In respect of Joint Arrangements (ii) In respect of Others (B) Other Commitments (i) Investments |  |  |  | 1,373 1,070 817 15,841 436 11,127 354 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 1,458 |  |
+|  |  |  | 1,045 |  |
+|  |  |  |  |  |
+|  |  |  | 1,078 |  |
+|  |  |  | 11,755 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 1,624 |  |
+|  |  |  | 22,418 |  |
+|  |  |  |  |  |
+|  |  |  | 290 |  |
+
+
+## Table 116 (Page 87)
+
+| Particulars | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| Gross Debt Cash and Marketable Securities* Net debt (A) Total Equity (As per Balance Sheet) (B) Net Gearing (A/B) | 1,98,813 | 2,11,790 1,37,945 |
+|  | 1,39,573 |  |
+|  | 59,240 | 73,845 |
+|  | 5,43,087 | 5,15,096 |
+|  | 0.11 | 0.14 |
+
+
+## Table 117 (Page 87)
+
+| Particulars | As at 31st March, 2025 | Col_2 | Col_3 | Col_4 | As at 31st March, 2024 | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Carrying Amount | Level of input used in |  |  | Carrying Amount | Level of input used in |  |  |
+|  |  | Level 1 | Level 2 | Level 3 |  | Level 1 | Level 2 | Level 3 |
+| Financial Assets At Amortised Cost Investments* Trade Receivables Cash and Cash Equivalents Loans Other Financial Assets At FVTPL Investments Other Financial Assets At FVTOCI Investments Other Financial Assets Financial Liabilities At Amortised Cost Borrowings Trade Payables Lease Liabilities Other Financial Liabilities At FVTPL Other Financial Liabilities |  |  |  |  | 4,378 - - - 14,740 - - - 69,248 - - - 10,051 - - - 27,510 - - - 32,295 24,414 7,631 250 1,139 - 1,139 - 1,14,821 20,068 15,737 79,016 - - - - 2,11,790 - - - 1,29,859 - - - 2,785 25,068 - - - 2,425 - 2,425 - |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 5,179 | - | - | - |  |  |  |  |
+|  | 15,591 | - | - | - |  |  |  |  |
+|  | 82,471 | - | - | - |  |  |  |  |
+|  | 4,941 | - | - | - |  |  |  |  |
+|  | 26,998 | - | - | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 37,730 | 27,836 | 9,644 | 250 |  |  |  |  |
+|  | 3,474 | - | 3,474 | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 97,569 | 11,605 | 6,471 | 79,493 |  |  |  |  |
+|  | 2 | - | 2 | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 1,98,813 | - | - | - |  |  |  |  |
+|  | 1,22,379 | - | - | - |  |  |  |  |
+|  | 2,692 |  |  |  |  |  |  |  |
+|  | 36,564 | - | - | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 3,097 | - | 3,097 | - |  |  |  |  |
+
+
+## Table 118 (Page 88)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | At FVTPL | At FVTOCI | At FVTPL | At FVTOCI |
+| Opening Balance Addition during the year Sale/Reduction during the year Total (Loss)/Gain Closing Balance Line item in which gain/(loss) recognised | 250 | 79,016 | 250 88,137 - 76 - (9,145) - (52) |  |
+|  | - | 120 |  |  |
+|  | - | - |  |  |
+|  | - | 357 |  |  |
+|  | 250 | 79,493 | 250 79,016 |  |
+|  |  | Other Comprehensive Income- Items that will not be reclassified to Profit or Loss | Other Comprehensive Income-Items that will not be reclassified to Profit or Loss |  |
+
+
+## Table 119 (Page 88)
+
+| Particulars | Valuation Technique | Significant Unobservable Input | Change in % | Sensitivity of the fair value to change in input | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 31st March, 2025 | 31st March, 2024 |
+| Investment in OCPS Discounting Discounting rate - 11.54% +0.10% (FVTOCI) Cash Flow (Previous Year - 14.49%) -0.10% |  |  |  | (1,448) | (1,611) 1,635 |
+|  |  |  |  | 1,465 |  |
+
+
+## Table 120 (Page 88)
+
+| Particulars | Foreign Currency Exposure | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  |  | As at 31st March, 2024 |  |  |
+|  | USD | EUR | JPY | USD | EUR | JPY |
+| Borrowings Trade and Other Payables Trade and Other Receivables Derivatives - Forwards & Futures - Options Exposure | 1,26,341 | 11,426 | 18,414 | 1,34,909 11,461 15,858 98,497 267 33 (10,981) (87) (9) (35,952) (11,434) (16,092) (47) (47) 168 |  |  |
+|  | 1,00,902 | 175 | 23 |  |  |  |
+|  | (11,957) | (23) | (31) |  |  |  |
+|  |  |  |  |  |  |  |
+|  | (71,365) | (12,604) | (19,491) |  |  |  |
+|  | (13,465) | (391) | (26) |  |  |  |
+|  | 1,30,456 | (1,417) | (1,111) | 1,86,426 160 (42) |  |  |
+
+
+## Table 121 (Page 88)
+
+| Particulars | Level | 31st March, 2025 | 31st March, 2024 |
+| --- | --- | --- | --- |
+| Non-current borrowings (including current maturities) Level 1 Level 2 Level 3 |  | 74,894 | 86,766 99,437 2,016 |
+|  |  | 1,02,276 |  |
+|  |  | 830 |  |
+
+
+## Table 122 (Page 88)
+
+| Particulars | Foreign Currency Sensitivity | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  |  | As at 31st March, 2024 |  |  |
+|  | USD | EUR | JPY | USD | EUR | JPY |
+| 1% Depreciation in INR Impact on Equity Impact on P&L |  |  |  | (167) - - 57 (2) - |  |  |
+|  | (104) | 14 | 9 |  |  |  |
+|  | 552 | - | 2 |  |  |  |
+| Total | 448 | 14 | 11 | (110) (2) - |  |  |
+| 1% Appreciation in INR Impact on Equity Impact on P&L Total |  |  |  | 167 - - (57) 2 - |  |  |
+|  | 104 | (14) | (9) |  |  |  |
+|  | (552) | - | (2) |  |  |  |
+|  | (448) | (14) | (11) | 110 2 - |  |  |
+
+
+## Table 123 (Page 89)
+
+| Particulars | Interest Rate Exposure | Col_2 |
+| --- | --- | --- |
+|  | As at 31st March, 2025 | As at 31st March, 2024 |
+| Borrowings Non-Current - Floating (includes Current Maturities)* Non-Current - Fixed (includes Current Maturities)* Current |  | 99,340 96,311 17,298 |
+|  | 1,02,276 |  |
+|  | 83,944 |  |
+|  | 13,871 |  |
+| Total | 2,00,091 | 2,12,949 |
+| Derivatives Foreign Currency Interest Rate Swaps - Receive Fix - Pay Fix Rupees Interest Rate Swaps - Receive Fix - Pay Fix |  | 10,376 8,090 32,195 25,515 |
+|  |  |  |
+|  | 21,270 |  |
+|  | 20,317 |  |
+|  |  |  |
+|  | 33,495 |  |
+|  | 31,915 |  |
+
+
+## Table 124 (Page 89)
+
+| Particulars ^ | Maturity Profile as at 31st March, 2025 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Below 3 Months | 3-6 Months | 6-12 Months | 1-3 Years | 3-5 Years | Above 5 Years | Total |
+| Borrowings Non-Current*@ Current$ |  |  |  |  |  |  |  |
+|  | 7,847 | 1,685 | 3,666 | 40,840 | 53,619 | 78,563 | 1,86,220 |
+|  | 13,871 | - | - | - | - | - | 13,871 |
+| Total | 21,718 | 1,685 | 3,666 | 40,840 | 53,619 | 78,563 | 2,00,091 |
+| Lease Liabilities (Gross) Derivative Liabilities Forwards Options Interest Rate Swaps Total | 69 | 69 | 138 | 552 | 552 | 3,748 | 5,128 |
+|  |  |  |  |  |  |  |  |
+|  | 791 | 638 | 404 | 222 | 31 | - | 2,086 |
+|  | 332 | 28 | 13 | 259 | 50 | - | 682 |
+|  | 1 | 4 | 5 | 63 | 244 | 12 | 329 |
+|  | 1,124 | 670 | 422 | 544 | 325 | 12 | 3,097 |
+
+
+## Table 125 (Page 89)
+
+| Particulars | Interest rate Sensitivity | Col_2 | Col_3 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  | As at 31st March, 2024 |  |
+|  | Up Move | Down Move | Up Move | Down Move |
+| Impact on Equity Impact on P&L Total Impact | (331) | 305 | (407) 330 (509) 449 |  |
+|  | (764) | 721 |  |  |
+|  | (1,095) | 1,026 | (916) 779 |  |
+
+
+## Table 126 (Page 89)
+
+| Particulars ^ | Maturity Profile as at 31st March, 2024 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Below 3 Months | 3-6 Months | 6-12 Months | 1-3 Years | 3-5 Years | Above 5 Years | Total |
+
+
+## Table 127 (Page 90)
+
+| Particulars | Nominal Value | Carrying amount | Col_3 | Changes in Fair Value | Hedge Maturity | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Assets | Liabilities |  |  |  |
+| As at 31st March, 2025 Foreign Currency Risk Foreign Currency Risk Component - Trade Payables Foreign Currency Risk Component - Borrowings Interest Rate Risk Interest Rate Swaps |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | 24,702 | - | 25,643 | (561) | 30thJune 2025 to 31st March 2028 | Trade Payables |
+|  | 1,39,650 | - | 1,51,747 | (2,886) | 30th June 2025 to 31st March 2062 | Borrowings |
+|  |  |  |  |  |  |  |
+|  | 2,522 | - | 55 | 16 | 30th Sep 2028 to 31st Jul 2029 | Other Financial Liabilities |
+
+
+## Table 128 (Page 90)
+
+| Particulars | Nominal Value | Quantity (Kbbl) | Carrying Amount | Col_4 | Changes in Fair Value | Hedge Maturity | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Assets | Liabilities |  |  |  |
+
+
+## Table 129 (Page 90)
+
+| Particulars | Nominal Value | Changes in Fair Value | Hedge Reserve | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- |
+| As at 31st March, 2025 Foreign Currency Risk Highly Probable Forecasted Exports Interest Rate Risk Borrowings |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,64,352 | 3,447 | (17,260) | Other Equity |
+|  |  |  |  |  |
+|  | 2,522 | (16) | (82) | Other Equity |
+
+
+## Table 130 (Page 90)
+
+| Particulars | Carrying Amount | Col_2 | Changes in Fair Value | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- |
+|  | Assets | Liabilities |  |  |
+| As at 31st March, 2025 Foreign Currency Risk Import Firm Commitments Interest Rate Risk Borrowings Borrowings Commodity Price Risk Firm Commitments for purchase of feedstock and freight Firm Commitments for sale of products Inventories |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,247 | - | 1,257 | Other Financial Asset |
+|  |  |  |  |  |
+|  | - | 2,332 | (38) | Non-Current Borrowings |
+|  | - | 10,942 | 131 | Non-Current Borrowings |
+|  |  |  |  |  |
+|  | - | 167 | (167) | Other Financial Assets / Liabilities |
+|  | 125 | - | 125 | Other Financial Assets |
+|  | 4,253 | - | (66) | Inventories |
+
+
+## Table 131 (Page 90)
+
+| Sr. No. | Particulars | 2024-25 | 2023-24 | Line Item in Balance Sheet / Statement of Profit and Loss |
+| --- | --- | --- | --- | --- |
+| 1 At the beginning of the year 2 Loss recognised in other comprehensive income during the year 3 Amount reclassified to Profit or Loss during the year 4 At the end of the year |  | (15,472) | (14,371) (2,646) Items that will be reclassified to Profit & Loss 1,545 Value of Sale and Finance Cost (15,472) Other Comprehensive Income |  |
+|  |  | (4,099) |  |  |
+|  |  | 2,229 |  |  |
+|  |  | (17,342) |  |  |
+
+
+## Table 132 (Page 91)
+
+| Sr. No. | Particulars | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 1 Reliance Industries (Middle East) DMCC 2 Reliance Sibur Elastomers Private Limited 3 Sintex Industries Limited 4 Alok Industries Limited 5 Model Economic Township Limited 6 C2 Alpha Crystal LLC 7 C2 Alpha Opal LLC 8 C2 Alpha Emerald LLC 9 C2 Alpha Pearl LLC 10 C2 Alpha Topaz LLC 11 C2 Alpha Sapphire LLC 12 Ethane Jade LLC 13 Ethane Coral LLC 14 Ethane Diamond LLC |  | 689 | 1,344 1,620 1,900 3,450 250 - - - - - - - - - |
+|  |  | 1,600 |  |
+|  |  | 1,900 |  |
+|  |  | 3,500 |  |
+|  |  | 250 |  |
+|  |  | 85 |  |
+|  |  | 85 |  |
+|  |  | 85 |  |
+|  |  | 85 |  |
+|  |  | 85 |  |
+|  |  | 85 |  |
+|  |  | 133 |  |
+|  |  | 133 |  |
+|  |  | 133 |  |
+
+
+## Table 133 (Page 91)
+
+| Sr. No. | Particulars | 2024-25 | 2023-24 | % Changes |
+| --- | --- | --- | --- | --- |
+| 1 Current Ratio 2 Debt-Equity Ratio 3 Debt Service Coverage Ratio 4 Return on Equity (%) 5 Inventory Turnover Ratio 6 Trade Receivables Turnover Ratio 7 Trade Payables Turnover Ratio 8 Net Capital Turnover Ratio* 9 Net Profit Margin (%) 10 Return on Capital Employed (%) 11 Return on Investment (%) |  | 1.05 | 1.09 (3.7) 0.41 (9.8) 1.84 12.0 9.3% (21.5) 7.31 (6.3) 29.57 24.2 3.64 0.8 25.43 88.4 7.3% (13.7) 18.0% (19.0) 8.5% 21.2 |  |
+|  |  | 0.37 |  |  |
+|  |  | 2.06 |  |  |
+|  |  | 7.3% |  |  |
+|  |  | 6.85 |  |  |
+|  |  | 36.74 |  |  |
+|  |  | 3.61 |  |  |
+|  |  | 47.92 |  |  |
+|  |  | 6.3% |  |  |
+|  |  | 14.6% |  |  |
+|  |  | 10.3% |  |  |
+
+
+## Table 134 (Page 99)
+
+| Col_0 | Notes | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| Assets Non-Current Assets Property, Plant and Equipment 1 Spectrum 1 Other Intangible Assets 1 Goodwill 1 Capital Work-in-Progress 1 Spectrum Under Development 1 Other Intangible Assets Under Development 1 Financial Assets Investments 2 Loans 3 Other Financial Assets 4 Deferred Tax Assets (Net) 5 Other Non-Current Assets 6 |  |  | 6,06,084 69,852 89,060 14,989 1,52,382 1,29,602 56,871 1,19,502 899 2,622 938 43,085 |
+|  |  |  |  |
+|  |  | 6,83,102 |  |
+|  |  | 1,47,122 |  |
+|  |  | 1,44,639 |  |
+|  |  | 24,530 |  |
+|  |  | 1,69,710 |  |
+|  |  | 54,176 |  |
+|  |  | 38,472 |  |
+|  |  |  |  |
+|  |  | 1,23,672 |  |
+|  |  | 742 |  |
+|  |  | 6,088 |  |
+|  |  | 408 |  |
+|  |  | 58,190 |  |
+| Total Non-Current Assets |  | 14,50,851 | 12,85,886 |
+| Current Assets Inventories 7 Financial Assets Investments 8 Trade Receivables 9 Cash and Cash Equivalents 10 Loans Other Financial Assets 11 Other Current Assets 12 |  |  | 1,52,770 1,06,170 31,628 97,225 2,517 23,965 55,825 |
+|  |  | 1,46,062 |  |
+|  |  |  |  |
+|  |  | 1,18,709 |  |
+|  |  | 42,121 |  |
+|  |  | 1,06,502 |  |
+|  |  | 5,182 |  |
+|  |  | 23,546 |  |
+|  |  | 57,148 |  |
+| Total Current Assets |  | 4,99,270 | 4,70,100 |
+| Total Assets |  | 19,50,121 | 17,55,986 |
+
+
+## Table 135 (Page 99)
+
+| Col_0 | Notes | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| Equity and Liabilities Equity Equity Share Capital 14 Other Equity 15 Non-Controlling Interest |  |  | 6,766 7,86,715 1,32,307 |
+|  |  |  |  |
+|  |  | 13,532 |  |
+|  |  | 8,29,668 |  |
+|  |  | 1,66,426 |  |
+| Total Equity |  | 10,09,626 | 9,25,788 |
+| Liabilities Non-Current Liabilities Financial Liabilities Borrowings 16 Lease Liabilities Deferred Payment Liabilities 17 Other Financial Liabilities 18 Provisions 19 Deferred Tax Liabilities (Net) 5 Other Non-Current Liabilities |  |  | 2,22,712 17,415 1,08,272 5,667 2,044 72,241 4,480 |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | 2,36,899 |  |
+|  |  | 17,142 |  |
+|  |  | 1,04,410 |  |
+|  |  | 10,909 |  |
+|  |  | 28,304 |  |
+|  |  | 83,453 |  |
+|  |  | 5,641 |  |
+| Total Non-Current Liabilities |  | 4,86,758 | 4,32,831 |
+| Current Liabilities Financial Liabilities Borrowings 20 Lease Liabilities Trade Payables 21 Other Financial Liabilities 22 Other Current Liabilities 23 Provisions 24 |  |  | 1,01,910 4,105 1,78,377 55,602 55,198 2,175 |
+|  |  |  |  |
+|  |  | 1,10,631 |  |
+|  |  | 4,903 |  |
+|  |  | 1,86,789 |  |
+|  |  | 57,143 |  |
+|  |  | 90,124 |  |
+|  |  | 4,147 |  |
+| Total Current Liabilities |  | 4,53,737 | 3,97,367 |
+| Total Liabilities |  | 9,40,495 | 8,30,198 |
+| Total Equity and Liabilities |  | 19,50,121 | 17,55,986 |
+| Material Accounting Policies A-C See accompanying Notes to the Financial Statements 1 to 45 |  |  |  |
+|  |  |  |  |
+
+
+## Table 136 (Page 100)
+
+| Col_0 | Col_1 | Notes | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| Income Value of Sales Income from Services Value of Sales & Services (Revenue) Less: GST Recovered Revenue from Operations 25 Other Income 26 |  |  |  | 8,83,646 1,16,476 |
+|  |  |  | 9,60,355 |  |
+|  |  |  | 1,10,819 |  |
+|  |  |  | 10,71,174 | 10,00,122 85,650 |
+|  |  |  | 91,038 |  |
+|  |  |  | 9,80,136 | 9,14,472 16,057 |
+|  |  |  | 17,978 |  |
+| Total Income |  |  | 9,98,114 | 9,30,529 |
+| Expenses Cost of Materials Consumed Purchase of Stock-in-Trade Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade 27 Excise Duty Employee Benefits Expense 28 Finance Costs 29 Depreciation / Amortisation and Depletion Expense 1 Other Expenses 30 |  |  |  | 4,00,345 1,89,881 (4,883) 13,408 25,679 23,118 50,832 1,27,809 |
+|  |  |  | 4,22,127 |  |
+|  |  |  | 2,22,686 |  |
+|  |  |  | (15,124) |  |
+|  |  |  | 15,443 |  |
+|  |  |  | 28,559 |  |
+|  |  |  | 24,269 |  |
+|  |  |  | 53,136 |  |
+|  |  |  | 1,41,001 |  |
+| Total Expenses |  |  | 8,92,097 | 8,26,189 |
+| Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax Tax Expenses Current Tax 13 Deferred Tax 13 Profit After Tax Share of Profit / (Loss) of Associates and Joint Ventures Profit for the year Other Comprehensive Income: i. Items that will not be reclassified to Profit or Loss 26.1 ii. Income Tax relating to items that will not be reclassified to Profit or Loss 26.1 iii. Items that will be reclassified to Profit or Loss 26.2 iv. Income Tax relating to items that will be reclassified to Profit or Loss 26.2 |  |  | 1,06,017 | 1,04,340 13,590 12,117 78,633 387 79,020 3,852 (433) 244 6 |
+|  |  |  |  |  |
+|  |  |  | 12,758 |  |
+|  |  |  | 12,472 |  |
+|  |  |  | 80,787 |  |
+|  |  |  | 522 |  |
+|  |  |  | 81,309 |  |
+|  |  |  |  |  |
+|  |  |  | (2,904) |  |
+|  |  |  | 438 |  |
+|  |  |  | (214) |  |
+|  |  |  | 244 |  |
+| Total Other Comprehensive Income / (Loss) for the Year (Net of Tax) |  |  | (2,436) | 3,669 |
+| Total Comprehensive Income for the year |  |  | 78,873 | 82,689 |
+
+
+## Table 137 (Page 100)
+
+| Col_0 | Col_1 | Notes | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| Net Profit Attributable to: a) Owners of the Company b) Non-Controlling Interest Other Comprehensive Income Attributable to: a) Owners of the Company b) Non-Controlling Interest Total Comprehensive Income attributable to: a) Owners of the Company b) Non-Controlling Interest Earnings Per Equity Share of Face Value of K 10 each Basic (in C) 31 Diluted (in C) 31 Material Accounting Policies A-C See accompanying Notes to the Financial Statements 1 to 45 |  |  |  | 69,621 9,399 3,567 102 73,188 9,501 51.45 51.45 |
+|  |  |  | 69,648 |  |
+|  |  |  | 11,661 |  |
+|  |  |  |  |  |
+|  |  |  | (2,433) |  |
+|  |  |  | (3) |  |
+|  |  |  |  |  |
+|  |  |  | 67,215 |  |
+|  |  |  | 11,658 |  |
+|  |  |  |  |  |
+|  |  |  | 51.47 |  |
+|  |  |  | 51.47 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+
+## Table 138 (Page 101)
+
+| Col_0 | Balance as at 1st April, 2023 | Change during the year 2023-24 | Balance as at 31st March, 2024 | Change during the year 2024-25 ** | Balance as at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- |
+| 6,766 - * 6,766 |  |  |  | 6,766 | 13,532 |
+
+
+## Table 139 (Page 101)
+
+| Col_0 | Col_1 | Balance as at 1st April, 2024 | Total Comprehensive Income for the Year | Dividend | Transfer (to)/from Retained Earnings | Transfer (to)/from General Reserve | On Rights Issue * | On Employee Stock Options | Issue of Bonus shares ** | Others | Balance as at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| As at 31st March, 2025 Reserves and Surplus Capital Reserve Capital Redemption Reserve Debenture Redemption Reserve Share Based Payments Reserve Statutory Reserve Special Economic Zone Reinvestment Reserve$ Securities Premium General Reserve Retained Earnings Other Comprehensive Income Remeasurement of Defined Benefit Plan Equity Instruments through OCI Debt Instruments through OCI Cash Flow Hedge Foreign Currency Translation Reserve Total |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | 280 | - | - | - | - | - @ | - | - | - | 280 |
+|  |  | 44 | - | - | - | - | - | - | - | - | 44 |
+|  |  | 2,314 | - | - | (245) | - | - | - | - | - | 2,069 |
+|  |  | 780 | - | - | - | - | - | 10 | - | - | 790 |
+|  |  | 445 | - | - | 158 | - | - | - | - | - | 603 |
+|  |  | - | - | - | - | - | - | - | - | - | - |
+|  |  | 99,802 | - | - | - | - | 22 | 46 | (6,766) | - | 93,104 |
+|  |  | 2,92,704 | - | - | - | - | - | - | - | - | 2,92,704 |
+|  |  | 3,39,787 | 69,648 | (6,766) | 87 | - | - | - | - | (10,813) # | 3,91,943 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | (152) | (181) | - | - | - | - | - | - | - | (333) |
+|  |  | 63,182 | (2,285) | - | - | - | - | - | - | - | 60,897 |
+|  |  | 1,505 | 723 | - | - | - | - | - | - | - | 2,228 |
+|  |  | (13,003) | (1,096) | - | - | - | - | - | - | - | (14,099) |
+|  |  | (973) | 406 | - | - | - | - | - | - | 5 | (562) |
+|  |  | 7,86,715 | 67,215 | (6,766) | - | - | 22 | 56 | (6,766) | (10,808) | 8,29,668 |
+
+
+## Table 140 (Page 102)
+
+| Col_0 | Col_1 | Col_2 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| A. Cash Flow from Operating Activities Net Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax as per Statement of Profit and Loss Adjusted for: Loss on Sale / Discard of Property, Plant and Equipment and Other Intangible Assets (Net) Depreciation / Amortisation and Depletion Expense Effect of Exchange Rate Change Net Gain on Financial Assets Dividend Income Interest Income Finance Costs Sub-total Operating Profit before Working Capital Changes Adjusted for: Trade and Other Receivables Inventories Trade and Other Payables Sub-total Cash Generated from Operations Taxes Paid (Net) Net Cash Flow from Operating Activities * B. Cash Flow from Investing Activities Expenditure for Property, Plant and Equipment, Spectrum and Other Intangible Assets Proceeds from disposal of Property, Plant and Equipment and Other Intangible Assets Purchase of Investments Proceeds from Sale of Financial Assets Payment of Deferred Payment Liabilities Interest Income Dividend Income from Associates Dividend Income from Others Net Cash Flow used in Investing Activities C. Cash Flow from Financing Activities Proceeds from Issue of Equity Share Capital @ Proceeds from Issue of Share Capital to Non-Controlling Interest (Net of Dividend Paid) Net Proceeds from Rights Issue Payments to Non-Controlling Interest Shareholders towards Capital Reduction Payment of Lease Liabilities Proceeds from Borrowings – Non-current (including Current Maturities) Repayment of Borrowings – Non-current (including Current Maturities) Borrowings – Current (Net) Payment of Dividend to Equity Holders of the Company Payment of Dividend to Non-Controlling Interest Interest Paid Net Cash Flow Used in Financing Activities Net Increase in Cash and Cash Equivalents Opening Balance of Cash and Cash Equivalents Closing Balance of Cash and Cash Equivalents (Refer Note 10) |  |  |  | 1,04,340 178 50,832 (1,330) (1,921) (89) (10,745) 23,118 |
+|  |  |  | 1,06,017 |  |
+|  |  |  |  |  |
+|  |  |  | 135 |  |
+|  |  |  | 53,136 |  |
+|  |  |  | (2,182) |  |
+|  |  |  | (1,557) |  |
+|  |  |  | (504) |  |
+|  |  |  | (12,410) |  |
+|  |  |  | 24,269 |  |
+|  |  |  | 60,887 | 60,043 1,64,383 (15,674) (12,756) 34,796 |
+|  |  |  | 1,66,904 |  |
+|  |  |  |  |  |
+|  |  |  | (17,837) |  |
+|  |  |  | 3,134 |  |
+|  |  |  | 38,427 |  |
+|  |  |  | 23,724 | 6,366 1,70,749 (11,961) |
+|  |  |  | 1,90,628 |  |
+|  |  |  | (11,925) |  |
+|  |  |  | 1,78,703 | 1,58,788 |
+|  |  |  |  | (1,52,883) 15,307 (5,13,660) 5,31,355 (4,423) 10,648 59 16 |
+|  |  |  | (1,39,967) |  |
+|  |  |  | 2,343 |  |
+|  |  |  | (6,84,340) |  |
+|  |  |  | 6,72,558 |  |
+|  |  |  | (4,574) |  |
+|  |  |  | 15,833 |  |
+|  |  |  | 49 |  |
+|  |  |  | 563 |  |
+|  |  |  | (1,37,535) | (1,13,581) |
+|  |  |  |  | - 20,915 7 (1,085) (2,483) 69,610 (35,055) (25,293) (6,089) - (37,173) |
+|  |  |  | - |  |
+|  |  |  | - |  |
+|  |  |  | 22 |  |
+|  |  |  | - |  |
+|  |  |  | (2,956) |  |
+|  |  |  | 26,378 |  |
+|  |  |  | (31,755) |  |
+|  |  |  | 24,624 |  |
+|  |  |  | (6,766) |  |
+|  |  |  | (414) |  |
+|  |  |  | (41,024) |  |
+|  |  |  | (31,891) | (16,646) |
+|  |  |  | 9,277 | 28,561 68,664 |
+|  |  |  | 97,225 |  |
+|  |  |  | 1,06,502 | 97,225 |
+
+
+## Table 141 (Page 102)
+
+| Particulars | 1st April, 2024 | Cash flow | Foreign exchange movement / Others | 31st March, 2025 |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  | 2,67,980 | (5,377) | 3,619 | 2,66,222 |
+|  | 56,642 | 24,624 | 42 | 81,308 |
+|  | 3,24,622 | 19,247 | 3,661 | 3,47,530 |
+
+
+## Table 142 (Page 106)
+
+| Net Block | As at 31-03-2024 | 53,694 55,153 3,70,349 18,774 46,029 10,626 366 127 1,380 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Col_11 | Col_12 | 5,56,498 29,625 6,411 13,525 25 - | Col_14 | Col_15 | Col_16 | Col_17 | Col_18 | Col_19 | 49,586 | 6,06,084 | 69,852 1,684 8,303 39,311 9,314 30,448 | Col_23 | Col_24 | Col_25 | Col_26 | Col_27 | Col_28 | 89,060 | 14,989 | 7,79,985 | 7,24,805 1,52,382 1,29,602 56,871 | Col_33 | Col_34 | Col_35 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31-03-2025 |  |  | 54,523 | 75,851 | 4,11,612 | 19,058 | 45,619 | 10,975 | 473 | 120 | 1,254 | 6,19,485 |  | 42,961 | 6,805 | 13,810 | 41 | - | 63,617 | 6,83,102 | 1,47,122 |  | 1,625 | 9,087 | 42,468 | 41,291 | 50,168 | 1,44,639 | 24,530 | 9,99,393 | 7,79,985 | 1,69,710 | 54,176 | 38,472 |
+| Depreciation / Amortisation and Depletion | As at 31-03-2025 |  |  | - | 19,889 | 2,01,259 | 12,261 | 18,345 | 5,346 | 1,011 | 397 | 1,328 | 2,59,836 |  | 4,604 | 3,806 | 13,830 | 71 | 10 | 22,321 | 2,82,157 | 25,373 |  | 4,878 | 7,752 | 45,727 | 137 | 10,401 | 68,895 | - | 3,76,425 | 3,34,597 |  |  |  |
+|  | Deductions/ Adjustments | - - - - 17,680 197 2,045 33 1,84,309 444 21,067 4,561 10,050 1 2,250 40 13,907 249 4,663 474 4,008 31 1,331 24 852 1 160 2 385 - 12 - 1,067 - 261 - |  |  |  |  |  |  |  |  |  |  | 2,32,258 923 31,789 5,134 3,968 9 647 20 2,818 351 962 325 10,884 229 3,323 606 55 - 16 - 10 - - - |  |  |  |  |  |  | 17,735 589 4,948 951 | 2,49,993 1,512 36,737 6,085 | 23,325 - 5,974 3,926 4,708 - 170 - 7,553 234 1,008 1,043 42,761 - 7,174 4,208 106 - 31 - 6,151 1,899 2,351 - |  |  |  |  |  |  | 61,279 2,133 10,734 5,251 | - - - - | 3,34,597 3,645 53,445 15,262 | 2,93,197 2,122 50,974 11,696 |  |  |  |
+|  | For the # Year |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Acquisitions through Business Combinations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | As at 01-04-2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Gross Block | As at 31-03- 2025 |  |  | 54,523 | 95,740 | 6,12,871 | 31,319 | 63,964 | 16,321 | 1,484 | 517 | 2,582 | 8,79,321 |  | 47,565 | 10,611 | 27,640 | 112 | 10 | 85,938 | 9,65,259 | 1,72,495 |  | 6,503 | 16,839 | 88,195 | 41,428 | 60,569 | 2,13,534 | 24,530 | 13,75,818 | 11,14,582 |  |  |  |
+|  | Deductions/ Adjustments | Property, Plant & Equipment Own Assets: Land 53,694 4 827 2 Buildings 72,833 358 22,621 72 Plant & Machinery 5,54,658 777 62,305 4,869 Electrical Installations 28,824 2 2,548 55 $ Equipments 59,936 362 4,292 629 Furniture & Fixtures 14,634 38 1,699 50 Vehicles 1,218 1 270 5 Ships 512 - 5 - Aircrafts and Helicopters 2,447 - 135 - Sub-Total 7,88,756 1,542 94,702 5,679 Right-of-Use Assets: Land 33,593 111 13,898 37 Buildings 9,229 1,407 1,002 1,027 Plant & Machinery 24,409 571 3,563 903 Vehicles 80 - 32 - Ships 10 - - - Sub-Total 67,321 2,089 18,495 1,967 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Total (A) 8,56,077 3,631 1,13,197 7,646 | Spectrum Cost (B) 93,177 - 83,244 3,926 Other Intangible Assets Technical Knowhow Fees 6,392 - 111 - Software 15,856 247 1,804 1,068 Development Rights 82,072 - 10,331 4,208 Brands, Trademarks and Licences 9,420 31,879 129 - Others ^ 36,599 2,293 21,686 9 Total (C) 1,50,339 34,419 * 34,061 * 5,285 Goodwill (D) 14,989 9,527 14 - |  |  |  |  |  |  |  |  | Total (A+B+C+D) 11,14,582 47,577 2,30,516 16,857 | Previous Year 10,18,002 5,730 1,26,824 35,974 Capital Work-in-Progress Spectrum Under Development Intangible Assets Under Development |  |  |  |
+|  | Additions/ Adjustments |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Acquisitions through Business Combinations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | As at 01-04- 2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Description |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 143 (Page 106)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Units | Amount | Units | Amount |
+| 2. Investments – Non-Current A. Investment in Associates Investment measured at Cost In Equity Shares – Quoted, Fully Paid Up # GTPL Hathway Limited of H 10 each Reliance Industrial Infrastructure Limited of H 10 each Sterling and Wilson Renewable Energy Limited of H 1 each |  |  | 4,26,97,825 548 68,60,064 242 7,58,77,334 2,283 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 4,26,97,825 | 549 |  |  |
+|  | 68,60,064 | 239 |  |  |
+|  | 7,58,77,334 | 2,302 |  |  |
+|  |  | 3,090 | 3,073 |  |
+
+
+## Table 144 (Page 107)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| In Equity Shares - Unquoted, Fully Paid Up # Big Tree Entertainment Private Limited of H 10 each Circle E Retail Private Limited of H 10 each Clayfin Technologies Private Limited of H 10 each DEN ADN Network Private Limited of H 10 each Den Satellite Network Private Limited of H 10 each Eenadu Television Private Limited of H 10 each Future101 Design Private Limited of H 10 each Gaurav Overseas Private Limited of H 10 each Gujarat Chemical Port Limited of H 1 each Health Alliance Group Inc. of USD 0.001 each Indian Vaccines Corporation Limited of H 10 each $ Jamnagar Utilities & Power Private Limited - Class A Shares of H 1 each MM Styles Private Limited of H 10 each Neolync Solutions Private Limited of H 10 each NexWafe GmbH - Common Stock of EUR 1 each NW18 HSN Holdings PLC of USD 0.2 each Omnia Toys India Private Limited of H 10 each Pan Cable Services Private Limited of H 10 each Reliance Europe Limited of GBP 1 each Reliance Logistics and Warehouse Holdings Limited - Class B Shares of H 10 each Reliance Logistics and Warehouse Holdings Limited of H 10 each Ritu Kumar Fashion (LLC) of AED 1,000 each SRC Ecotex (India) Private Limited of H 10 each Vadodara Enviro Channel Limited of H 10 each [H 1,43,020; (Previous Year H 1,43,020)] Wavetech Helium, Inc. In Preference Shares - Unquoted, Fully Paid Up Big Tree Entertainment Private Limited - Compulsorily Convertible Preference Shares Series B of H 1,000 each Big Tree Entertainment Private Limited – Compulsorily Convertible Preference Shares Series B1 of H 10 each Big Tree Entertainment Private Limited - Compulsorily Convertible Preference Shares Series C of H 1,000 each Big Tree Entertainment Private Limited – Compulsorily Convertible Preference Shares Series C1 of H 10 each Big Tree Entertainment Private Limited - Compulsorily Convertible Preference Shares Series D of H 10 each Dunzo Digital Private Limited - Compulsorily Convertible Preference Shares Series F of H 55 each Dunzo Digital Private Limited - Optionally Convertible Preference Shares Series F3 of H 55 each |  |  |  | 17,04,279 - 35,140 28 35,93,552 17 19,38,000 3 50,295 61 60,94,190 601 5,658 39 14,23,000 - 64,29,20,000 926 - - 62,63,125 1 54,52,000 3 4,03,596 288 6,667 60 7,433 - 92,62,233 - 1,20,00,000 18 10 - 11,08,500 47 2,93,98,112 216 2,60,00,000 19 147 - - - 14,302 - - - |  |
+|  |  | 17,04,279 | - |  |  |
+|  |  | 36,986 | 32 |  |  |
+|  |  | 35,93,552 | 17 |  |  |
+|  |  | 19,38,000 | 3 |  |  |
+|  |  | 50,295 | 62 |  |  |
+|  |  | 60,94,190 | 652 |  |  |
+|  |  | 5,658 | 43 |  |  |
+|  |  | 14,23,000 | - |  |  |
+|  |  | 64,29,20,000 | 1,077 |  |  |
+|  |  | 4,50,000 | 85 |  |  |
+|  |  | 62,63,125 | 1 |  |  |
+|  |  | 54,52,000 | 3 |  |  |
+|  |  | 4,03,596 | 265 |  |  |
+|  |  | 6,667 | 60 |  |  |
+|  |  | 7,433 | - |  |  |
+|  |  | - | - |  |  |
+|  |  | 1,80,00,000 | 16 |  |  |
+|  |  | 10 | - |  |  |
+|  |  | 11,08,500 | 49 |  |  |
+|  |  | 3,93,98,112 | 290 |  |  |
+|  |  | 2,60,00,000 | - |  |  |
+|  |  | 147 | - |  |  |
+|  |  | 1,80,96,000 | 16 |  |  |
+|  |  | 14,302 | - |  |  |
+|  |  | - | 103 |  |  |
+|  |  |  | 2,774 | 2,327 1,156 - 2,31,200 - 1,807 - 3,61,400 - 3,41,857 269 69,527 1,445 9,396 200 |  |
+|  |  |  |  |  |  |
+|  |  | 1,156 | - |  |  |
+|  |  | 2,31,200 | - |  |  |
+|  |  | 1,807 | 69 |  |  |
+|  |  | 3,61,400 | - |  |  |
+|  |  | 3,41,857 | 278 |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+
+
+## Table 145 (Page 107)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| Reliance Realty Limited - 7.5% Redeemable Non Cumulative Non Convertible Preference share of H 10 each Two Platforms Inc. of USD 4 each In Preference shares - Unquoted, Partly Paid Up NW18 HSN Holdings PLC – Class O Preference Shares of USD 0.2 each, Paid Up USD 0.05 each In Preferred Shares- Unquoted, Fully Paid Up Caelux Corporation - Series A-1 Preferred Stock of USD 0.0001 each Caelux Corporation - Series A-3 Preferred Stock of USD 0.0001 each Caelux Corporation - Series B Preferred Stock of USD 0.0001 each Caelux Corporation - Series B-1 Preferred Stock of USD 0.0001 each NexWafe GmbH - Series B1 Preferred Shares of EUR 1 each NexWafe GmbH - Series B2 Preferred Shares of EUR 1 each NexWafe GmbH - Series C Preferred Shares of EUR 1 each In Share Warrant - Unquoted, Partly Paid Up NW18 HSN Holdings PLC – Share Warrant of USD 10 each, Paid Up USD 0.01 each In Limited Liability Partnership GenNext Ventures Investment Advisers LLP [H Nil; (Previous Year H 22,78,391)] |  | - | - | 50,00,000 200 37,50,000 96 |  |
+|  |  | 37,50,000 | 85 |  |  |
+|  |  |  | 432 | 2,210 12,75,367 - |  |
+|  |  |  |  |  |  |
+|  |  | - | - |  |  |
+|  |  |  | - | - 1,76,83,466 98 10,65,189 8 - - - - 1,518 2 660 1 86,887 213 |  |
+|  |  |  |  |  |  |
+|  |  | 1,76,83,466 | 85 |  |  |
+|  |  | 10,65,189 | 8 |  |  |
+|  |  | 31,03,534 | 31 |  |  |
+|  |  | 27,15,647 | 22 |  |  |
+|  |  | 1,518 | 2 |  |  |
+|  |  | 660 | 1 |  |  |
+|  |  | 86,887 | 171 |  |  |
+|  |  |  | 320 | 322 24,18,393 - |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  | - | - |  |  |
+|  |  |  | - | - - - |  |
+|  |  |  |  |  |  |
+|  |  | - | - |  |  |
+|  |  |  | - | - |  |
+| Total Investments in Associates |  |  | 6,616 | 7,932 |  |
+| B. Investment in Joint Ventures Investment measured at Cost In Equity Shares - Quoted, Fully Paid Up # Alok Industries Limited of H1 each In Equity Shares - Unquoted, Fully Paid Up # BAM DLR Chennai Private Limited of H 10 each BAM DLR Data Centre Services Private Limited of H 10 each BAM DLR Kolkata Private Limited of H 10 each [H 34,00,950; (Previous Year H 34,00,950)] BAM DLR Mumbai Private Limited of H 10 each BAM DLR Network Services Private Limited of H 10 each Brooks Brothers India Private Limited of H 10 each Burberry India Private Limited of H 10 each CAA Brands Reliance Private Limited of H 10 each [H Nil; (Previous Year H Nil)] Canali India Private Limited of H 10 each Clarks Footwear Private Limited of H 10 each D.E. Shaw India Securities Private Limited of H 10 each Diesel Fashion India Reliance Private Limited of H 10 each |  |  |  | 1,98,65,33,333 - |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  | 1,98,65,33,333 | - |  |  |
+|  |  |  | - | - 1,52,58,850 207 24,70,000 10 2,05,000 - 12,02,86,182 133 19,84,000 3 2,45,00,000 32 2,23,22,952 65 3,75,000 - 1,22,50,000 25 5,31,00,000 48 1,07,00,000 1 6,05,15,000 28 |  |
+|  |  |  |  |  |  |
+|  |  | 1,52,58,850 | 196 |  |  |
+|  |  | 24,70,000 | 11 |  |  |
+|  |  | 2,05,000 | - |  |  |
+|  |  | 12,02,86,182 | 130 |  |  |
+|  |  | 19,84,000 | 3 |  |  |
+|  |  | 2,45,00,000 | 37 |  |  |
+|  |  | 2,23,22,952 | 71 |  |  |
+|  |  | - | - |  |  |
+|  |  | 1,22,50,000 | 29 |  |  |
+|  |  | - | - |  |  |
+|  |  | 1,07,00,000 | 1 |  |  |
+|  |  | 6,05,15,000 | 28 |  |  |
+
+
+## Table 146 (Page 108)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| Ethane Crystal LLC Class A Shares of USD 1 each Ethane Crystal LLC Class C Shares of USD 1 each Ethane Emerald LLC Class A Shares of USD 1 each Ethane Emerald LLC Class C Shares of USD 1 each Ethane Opal LLC Class A Shares of USD 1 each Ethane Opal LLC Class C Shares of USD 1 each Ethane Pearl LLC Class A Shares of USD 1 each Ethane Pearl LLC Class C Shares of USD 1 each Ethane Sapphire LLC Class A Shares of USD 1 each Ethane Sapphire LLC Class C Shares of USD 1 each Ethane Topaz LLC Class A Shares of USD 1 each Ethane Topaz LLC Class C Shares of USD 1 each Football Sports Development Limited of H 10 each Hathway Bhawani NDS Network Limited of H 500 each [H 10,43,693; (Previous Year H 18,57,815)] Hathway Cable MCN Nanded Private Limited of H 10 each Hathway Channel 5 Cable and Datacom Private Limited of H 10 each Hathway Dattatray Cable Network Private Limited of H 10 each Hathway Ice Television Private Limited of H 10 each Hathway Latur MCN Cable & Datacom Private Limited of H 10 each (Previous Year H 25,87,816) Hathway MCN Private Limited of H 10 each Hathway Prime Cable & Datacom Private Limited of H 10 each Hathway Sai Star Cable & Datacom Private Limited of H 10 each Hathway Sonali OM Crystal Cable Private Limited of H 10 each IBN Lokmat News Private Limited of H 10 each Iconix Lifestyle India Private Limited of H 10 each India Gas Solutions Private Limited of H 10 each IndoSpace MET Logistics Park Farukhnagar Private Limited of H 10 each Jio Space Technology Limited of H 10 each Marks and Spencer Reliance India Private Limited - Class A Shares of H 10 each Marks and Spencer Reliance India Private Limited - Class C Shares of H 5 each Media Pro Enterprise India Private Limited of H 10 each Pipeline Management Services Private Limited of H 10 each Reldel Apparel Private Limited of H 10 each Reliance Bally India Private Limited of H 10 each Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) of H 10 each Reliance Paul & Shark Fashions Private Limited of H 10 each Reliance Sideways Private Limited of H 10 each [H Nil; (Previous Year H 3,48,575)] Reliance-Vision Express Private Limited of H 10 each Ryohin-Keikaku Reliance India Private Limited of H 10 each Sanmina-SCI India Private Limited of H 10 each Sintex Industries Limited of H 1 each Sodium-ion Batteries Pty Limited of AUD $ 1.00 each |  | - | - | 86,666 1 2,76,70,066 231 81,680 1 2,65,58,954 224 81,545 1 2,48,80,086 211 87,021 1 2,64,80,720 222 81,545 1 2,46,38,086 210 81,545 1 2,48,93,086 211 14,85,711 89 15,810 - 13,05,717 1 2,49,000 - 20,400 - 1,02,000 - 51,000 - 9,63,000 7 2,29,500 - 68,850 - 68,000 - 86,25,000 - 52,86,250 158 2,25,00,000 376 2,43,43,661 21 38,25,000 4 81,42,722 35 9,51,16,546 136 - - 5,00,000 12 - - 48,50,000 9 24,99,997 2 1,54,00,000 8 5,000 - 13,54,95,500 17 3,53,78,000 17 9,81,37,159 1,998 6,00,00,00,000 586 27,88,822 9 |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | 15,810 | - |  |  |
+|  |  | 13,05,717 | - |  |  |
+|  |  | 2,49,000 | - |  |  |
+|  |  | 20,400 | - |  |  |
+|  |  | 1,02,000 | - |  |  |
+|  |  | 51,000 | 1 |  |  |
+|  |  | 9,63,000 | 6 |  |  |
+|  |  | 2,29,500 | - |  |  |
+|  |  | 68,850 | - |  |  |
+|  |  | 68,000 | - |  |  |
+|  |  | 86,25,000 | - |  |  |
+|  |  | 52,86,250 | 164 |  |  |
+|  |  | 2,25,00,000 | 442 |  |  |
+|  |  | 2,43,43,661 | 19 |  |  |
+|  |  | 38,25,000 | 4 |  |  |
+|  |  | 81,42,722 | 25 |  |  |
+|  |  | 9,51,16,546 | 99 |  |  |
+|  |  | 25,00,000 | 10 |  |  |
+|  |  | 5,00,000 | 14 |  |  |
+|  |  | 1,00,10,000 | 8 |  |  |
+|  |  | 48,50,000 | 10 |  |  |
+|  |  | 25,00,000 | 9 |  |  |
+|  |  | 1,54,00,000 | 7 |  |  |
+|  |  | - | - |  |  |
+|  |  | 13,94,95,500 | 16 |  |  |
+|  |  | 4,41,98,000 | 27 |  |  |
+|  |  | 9,81,37,159 | 2,195 |  |  |
+|  |  | 6,00,00,00,000 | 602 |  |  |
+|  |  | 27,88,822 | - |  |  |
+
+
+## Table 147 (Page 108)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| Sosyo Hajoori Beverages Private Limited of H 10 each TCO Reliance India Private Limited of H 10 each Ubona Technologies Private Limited of H 10 each Zegna South Asia Private Limited of H 10 each In Preference Shares - Unquoted, Fully Paid Up Alok Industries Limited - 9% Non Convertible Redeemable Preference Shares of H 1 each Alok Industries Limited - 9% Optionally Convertible Preference Shares of H 1 each IBN Lokmat News Private Limited – 0.01% Optionally Convertible Non- Cumulative Redeemable Preference Share Series "II" of H 100 each IBN Lokmat News Private Limited – 0.10% Non-Cumulative Redeemable Preference Shares Series "I" of H 100 each IBN Lokmat News Private Limited – 0.10% Non-Cumulative Redeemable Preference Shares Series "II" of H 100 each IBN Lokmat News Private Limited – 0.10% Non-Cumulative Redeemable Preference Shares Series "III" of H 100 each Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) - 8.1% Cumulative Optionally Convertible Preference Shares of H 10 each In Debentures or Bonds- Unquoted, Fully Paid Up BAM DLR Chennai Private Limited - 11.5% Non Convertible Debentures of H 100 each IndoSpace MET Logistics Park Farukhnagar Private Limited - Non- Convertible Bonds of H 1,000 each Sintex Industries Limited - 6% Unsecured Optionally Fully Convertible Debentures of H 1 each In Limited Liability Partnership Hathway SS Cable & Datacom LLP [H Nil; (Previous Year H 13,815)] |  | 12,50,000 | 206 | 12,50,000 204 2,84,20,000 32 10,821 11 2,98,44,272 12 |  |
+|  |  | 3,13,60,000 | 36 |  |  |
+|  |  | 10,821 | 11 |  |  |
+|  |  | 2,98,44,272 | 17 |  |  |
+|  |  |  | 4,434 | 5,611 33,00,00,00,000 3,300 2,50,00,00,000 250 1 - 2,20,000 - 2,49,999 5 20,35,250 2 - - |  |
+|  |  |  |  |  |  |
+|  |  | 33,00,00,00,000 | 3,300 |  |  |
+|  |  | 2,50,00,00,000 | 250 |  |  |
+|  |  | 1 | - |  |  |
+|  |  | 2,20,000 | - |  |  |
+|  |  | 2,49,999 | 5 |  |  |
+|  |  | 20,35,250 | 3 |  |  |
+|  |  | 8,75,00,000 | 88 |  |  |
+|  |  |  | 3,646 | 3,557 63,00,000 63 96,200 10 9,00,00,00,000 900 |  |
+|  |  |  |  |  |  |
+|  |  | 63,00,000 | 63 |  |  |
+|  |  | 236,600 | 24 |  |  |
+|  |  | 9,00,00,00,000 | 900 |  |  |
+|  |  |  | 987 | 973 - - |  |
+|  |  |  |  |  |  |
+|  |  | - | - |  |  |
+|  |  |  | - | - |  |
+|  |  |  | 4,633 | 4,530 |  |
+| Total Investments in Joint Ventures |  |  | 9,067 | 10,141 |  |
+| C. Other Investments Investment measured at Amortised Cost In Government Securities - Unquoted 6 Years National Savings Certificates (Deposited with Sales Tax Department and Other Government Authorities) [H 41,09,248; (Previous Year H 41,84,250)] In Preference Shares - Unquoted, Fully Paid Up Reliance Realty Limited - 7.5% Redeemable Non Cumulative Non Convertible Preference share of H 10 each Summit Digitel Infrastructure Limited - 0% Redeemable, Non- Participating, Non-Cumulative and Non-Convertible Preference Shares of H 10 each In Debentures or Bonds - Unquoted, Fully Paid Up Mahan Energen Limited - 12% Optionally Convertible Debentures of H 10 each |  |  |  | - - |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  | - | - |  |  |
+|  |  |  | - | - - - 5,00,00,000 16 |  |
+|  |  |  |  |  |  |
+|  |  | 50,00,000 | 200 |  |  |
+|  |  | 5,00,00,000 | 17 |  |  |
+|  |  |  | 217 | 16 - - |  |
+|  |  |  |  |  |  |
+|  |  | 10,00,00,000 | 100 |  |  |
+|  |  |  | 100 | - |  |
+
+
+## Table 148 (Page 109)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| Investment measured at Fair Value through Other Comprehensive Income (FVTOCI) In Membership Interest of LLP - Unquoted Breakthrough Energy Ventures II L.P. First Close Partners I, LLP [H 50,23,380 (Previous Year H Nil)] Labs 02 Limited Partnership Sak Global Investor L.P. Smash Capital Advisors LP & Smash Capital GP I LLC Thrive Capital Holdings LP In Membership Interest of LLC - Unquoted BreakThrough Energy Ventures LLC In Preferred Shares - Unquoted, Fully Paid Up American Cricket Enterprises LLC - Series A Crown Affairs Inc. - Series A Exyn Technologies Inc. - Series B Glance Inmobi PTE Limited - Series D Homodeus Inc. - Series B Krikey Inc. - Series A Krikey Inc. - Series B Netradyne Inc. - Series A Netradyne Inc. - Series B Proto Axiom Pty Ltd. - Series A Syncron Inc. - Series C In Preference Shares - Unquoted, Fully Paid Up Aeon Learning Private Limited - Series B Compulsorily Convertible Preference Shares of H 1 each Altigreen Propulsion Labs Private Limited - Series A Compulsorily Convertible Preference Shares of H 100 each Eliph Nutrition Private Limited - Compulsory Convertible Preference Share of H 10 each Elite Depot Limited - Series ‘D’ of USD 0.0001 each Jio Digital Fibre Private Limited - 0.01% Cumulative Redeemable and Non - Convertible Preference Shares of H 10 each Jio Digital Fibre Private Limited - 0.01% Redeemable, Cumulative and Optionally Convertible Preference Shares of H 10 each KaiOS Technologies PTE Limited - Non-convertible Preference Share of USD 0.01 each Karexpert Technologies Private Limited - Series A Preference Shares of H 20 each Karexpert Technologies Private Limited - Series B Preference Shares of H 20 each Pipeline Infrastructure Limited - Zero Coupon Compulsorily Convertible Preference Shares of H 10 each Pipeline Infrastructure Limited - Zero Coupon Redeemable Preference Shares of H 10 each Siddhant Commercial Private Limited - 6% Non-Cumulative Optionally Convertible Preference Shares of H 10 each |  |  |  | - 398 - - - 43 - - - 239 - 141 |  |
+|  |  |  |  |  |  |
+|  |  | - | 519 |  |  |
+|  |  | - | - |  |  |
+|  |  | - | 36 |  |  |
+|  |  | - | 213 |  |  |
+|  |  | - | 246 |  |  |
+|  |  | - | 433 |  |  |
+|  |  |  | 1,447 | 821 - 718 |  |
+|  |  |  |  |  |  |
+|  |  | - | 785 |  |  |
+|  |  |  | 785 | 718 - - 1,08,784 1 2,43,11,395 205 1,93,79,845 1,720 2,94,118 2 - - - - 3,01,51,416 604 81,17,294 162 58,336 8 3,22,616 74 |  |
+|  |  |  |  |  |  |
+|  |  | 3,01,448 | 90 |  |  |
+|  |  | 1,08,784 | - |  |  |
+|  |  | 2,88,54,280 | 247 |  |  |
+|  |  | 1,93,79,845 | 1,724 |  |  |
+|  |  | 2,94,118 | 2 |  |  |
+|  |  | 27,16,948 | 117 |  |  |
+|  |  | 3,94,321 | 17 |  |  |
+|  |  | 3,01,51,416 | 825 |  |  |
+|  |  | 81,17,294 | 222 |  |  |
+|  |  | 58,336 | 8 |  |  |
+|  |  | 3,22,616 | 74 |  |  |
+|  |  |  | 3,326 | 2,776 2 - 34,000 50 9,269 3 1,33,151 822 12,50,000 1 77,70,11,98,375 77,842 6,25,000 - 22,222 10 44,443 20 4,00,00,00,000 4,000 5,00,00,000 50 2,025 466 |  |
+|  |  |  |  |  |  |
+|  |  | 2 | - |  |  |
+|  |  | - | - |  |  |
+|  |  | - | - |  |  |
+|  |  | 1,33,151 | 822 |  |  |
+|  |  | 12,50,000 | 1 |  |  |
+|  |  | 77,70,11,98,375 | 78,088 |  |  |
+|  |  | 6,25,000 | - |  |  |
+|  |  | 22,222 | 10 |  |  |
+|  |  | 44,443 | 20 |  |  |
+|  |  | 4,00,00,00,000 | 4,000 |  |  |
+|  |  | 5,00,00,000 | 50 |  |  |
+|  |  | 2,025 | 466 |  |  |
+|  |  |  | 83,457 | 83,264 |  |
+
+
+## Table 149 (Page 109)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| In Equity Shares - Quoted, Fully Paid Up Airspan Networks Holdings Inc. - Shares in lieu of 10,000 Series D Preference Shares Balaji Telefilms Limited of H 2 each EIH Limited of H 2 each Eros STX Global Corporation of GBP 0.30 each [H 26,592; (Previous Year H 6,487)] HFCL Limited of H 1 each KSL and Industries Limited of H 4 each Refex Industries Limited of H 10 each SMC Global Securities Limited of H 2 each Yatra Online Inc. of USD 0.0001 each Yatra Online Limited of H 1 each In Equity Shares - Unquoted, Fully Paid Up 24x7 Learning Private Limited of H 10 each Aeon Learning Private Limited of H 1 each [H 1,00,000; (Previous Year H 1,00,000)] Ahmedabad Mega Clean Association of H 10 each [H 1,00,000; (Previous Year H 1,00,000)] Ambri Inc. of USD 0.00001 each Amstrad Consumer India Private Ltd of H 10 each C2 Alpha Crystal LLC Class A shares of USD 1 each [H 18,37,833] C2 Alpha Crystal LLC Class C shares of USD 1 each C2 Alpha Emerald l LLC Class A shares of USD 1 each [H 18,37,833] C2 Alpha Emerald l LLC Class C shares of USD 1 each C2 Alpha Opal LLC Class A shares of USD 1 each [H 18,37,833] C2 Alpha Opal LLC Class C shares of USD 1 each C2 Alpha Pearl LLC Class A shares of USD 1 each [ H 18,37,833 ] C2 Alpha Pearl LLC Class C shares of USD 1 each C2 Alpha Sapphire LLC Class A shares of USD 1 each [H 18,37,833] C2 Alpha Sapphire LLC Class C shares of USD 1 each C2 Alpha Topaz LLC Class A shares of USD 1 each [H 18,37,833] C2 Alpha Topaz LLC Class C shares of USD 1 each Clarks Reliance Footwear Private Limited of H 10 each DSE Estates Limited of H 1 each Eliph Nutrition Private Limited of H 10 each [H Nil; (Previous Year H 3,20,000)] Eshwar Land Private Limited of H 10 each Hathway Patiala Cable Private Limited of H 10 each Ishvahah Enterprises Private Limited of H 10 each [H 36,000; (Previous Year H Nil)] KaiOS Technologies PTE. Limited of USD 0.01 each Karkinos Healthcare Private Limited of H 10 each |  |  |  | 14,68,385 1 2,52,00,000 185 11,77,60,869 5,293 31,11,088 - 4,85,32,764 446 4,74,308 - 2,75,000 18 11,35,670 14 19,26,397 22 11,88,870 16 |  |
+|  |  | 14,68,385 | - |  |  |
+|  |  | 2,52,00,000 | 152 |  |  |
+|  |  | 11,77,60,869 | 4,163 |  |  |
+|  |  | 31,11,088 | - |  |  |
+|  |  | 4,85,32,764 | 384 |  |  |
+|  |  | 4,74,308 | - |  |  |
+|  |  | 13,75,000 | 52 |  |  |
+|  |  | 11,35,670 | 12 |  |  |
+|  |  | 19,26,397 | 13 |  |  |
+|  |  | 11,88,870 | 9 |  |  |
+|  |  |  | 4,785 | 5,995 6,45,558 - 1,00,000 - 10,000 - 4,23,44,173 372 10,00,000 - - - - - - - - - - - - - - - - - - - - - - - - - - - 8,98,500 - 100 - 400 - 71,175 - - - 19,04,781 - 1,111 25 |  |
+|  |  |  |  |  |  |
+|  |  | 6,45,558 | - |  |  |
+|  |  | 1,00,000 | - |  |  |
+|  |  | 10,000 | - |  |  |
+|  |  | 4,23,44,173 | - |  |  |
+|  |  | 10,00,000 | - |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 21,465 | - |  |  |
+|  |  | 2,20,78,535 | 189 |  |  |
+|  |  | 5,31,00,000 | - |  |  |
+|  |  | 8,98,500 | - |  |  |
+|  |  | - | - |  |  |
+|  |  | 400 | - |  |  |
+|  |  | 71,175 | - |  |  |
+|  |  | 450 | - |  |  |
+|  |  | 19,04,781 | - |  |  |
+|  |  | - | - |  |  |
+
+
+## Table 150 (Page 110)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Units | Amount | Units | Amount |
+| Leichhardt Industrials Group PTY Limited of AUD 1 each Mahan Energen Limited of H 10 each NW18 HSN Holdings PLC of USD 0.2 each Neolync Telecommunication Private Limited of H 10 each Petronet India Limited of H 0.10 each [H 10,00,000; (Previous Year H 10,00,000)] Petronet VK Limited of H 10 each [H 20,000; (Previous Year H 20,000)] $ Roptonal Limited of GBP 0.85 each Ushodaya Enterprises Private Limited of H 100 each [H 28,00,000; (Previous Year H 27,50,000)] VAKT Holdings Ltd of USD 0.001 each In Other Units - Quoted, Fully Paid Up Intelligent Supply Chain Infrastructure Trust of H 100 each In Other Units - Unquoted, Fully Paid Up ICICI Prudential Savings Fund- Direct Plan- Growth Kotak Low Duration Fund Direct Growth In Debentures or Bonds - Unquoted, Fully Paid Up Ashwani Commercials Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 1,000 each Ashwani Commercials Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 10 each Carin Commercial Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 1,000 each Netravati Commercials Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 1,000 each Rakshita Commercial Private Limited - Zero Coupon Unsecured Optionally Fully Convertible Debentures of H 1,000 each Investments measured at Fair Value Through Profit & Loss (FVTPL) In Membership Interest of LLP - Unquoted In Equity Shares - Quoted, Fully Paid Up In Equity Shares - Unquoted, Fully Paid Up In Preferred Shares - Unquoted, Fully Paid Up [H 85; (Previous Year H 83)] In Debentures or Bonds - Unquoted, Fully Paid Up In Corpus of Trust, Unquoted [H 30,000; (Previous Year H 30,000)] In Others |  | 3,095 | 82 | - - - - - - 10,000 - 1,00,00,000 - 1,49,99,990 - - - 27,500 - 81,810 15 |  |
+|  |  | 5,00,00,000 | 50 |  |  |
+|  |  | 92,62,233 | - |  |  |
+|  |  | 10,000 | - |  |  |
+|  |  | 1,00,00,000 | - |  |  |
+|  |  | 1,49,99,990 | - |  |  |
+|  |  | 5,768 | 17 |  |  |
+|  |  | 27,500 | - |  |  |
+|  |  | 81,810 | 15 |  |  |
+|  |  |  | 1,298 | 412 15,54,48,000 1,554 |  |
+|  |  |  |  |  |  |
+|  |  | 15,54,48,000 | 1,554 |  |  |
+|  |  |  | 1,554 | 1,554 - - - - |  |
+|  |  |  |  |  |  |
+|  |  | 18,79,316 | 101 |  |  |
+|  |  | 3,26,698 | 117 |  |  |
+|  |  |  | 218 | - 30,507 50 13,55,90,000 136 25,202 50 23,508 50 24,415 50 |  |
+|  |  |  |  |  |  |
+|  |  | 30,507 | 50 |  |  |
+|  |  | - | - |  |  |
+|  |  | 25,202 | 50 |  |  |
+|  |  | 23,508 | 50 |  |  |
+|  |  | 24,415 | 50 |  |  |
+|  |  |  | 200 | 336 43 539 299 - - - 4,656 |  |
+|  |  |  |  |  |  |
+|  |  |  | 62 |  |  |
+|  |  |  | 411 |  |  |
+|  |  |  | 1,764 |  |  |
+|  |  |  | - |  |  |
+|  |  |  | 3,268 |  |  |
+|  |  |  | - |  |  |
+|  |  |  | 5,097 |  |  |
+| Total Other Investments |  |  | 1,07,989 | 1,01,429 |  |
+| Total Non-Current Investments (A+B+C) |  |  | 1,23,672 | 1,19,502 |  |
+
+
+## Table 151 (Page 110)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| 2.1 Category-wise Investments – Non-Current Financial Assets measured at Cost Financial Assets measured at Amortised Cost Financial Assets measured at Fair Value through Other Comprehensive Income (FVTOCI) Financial Assets measured at Fair value through Profit & Loss (FVTPL) |  |  |  | 18,073 16 95,876 5,537 |
+|  |  |  | 15,683 |  |
+|  |  |  | 317 |  |
+|  |  |  | 97,070 |  |
+|  |  |  | 10,602 |  |
+| Total Investments – Non-Current |  |  | 1,23,672 | 1,19,502 |
+
+
+## Table 152 (Page 110)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 3. Loans – Non-Current (Unsecured and Considered Good) Loans and Advances with Related Parties [Refer Note 32 (iv)] Loans and Advances - to Others Total |  |  | 559 340 |
+|  |  | 109 |  |
+|  |  | 633 |  |
+|  |  | 742 | 899 |
+
+
+## Table 153 (Page 110)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 4. Other Financial Assets – Non-Current Deposits with Related Parties [Refer Note 32 (iv)] Others * Total |  |  | 490 2,132 |
+|  |  | 491 |  |
+|  |  | 5,597 |  |
+|  |  | 6,088 | 2,622 |
+
+
+## Table 154 (Page 110)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 5. Deferred Tax Component of Deferred Tax Deferred Tax Assets (Net) Less: Deferred Tax Liabilities (Net) Net Deferred Tax Assets / (Liabilities) |  |  | 938 72,241 |
+|  |  |  |  |
+|  |  | 408 |  |
+|  |  | 83,453 |  |
+|  |  | (83,045) | (71,303) |
+
+
+## Table 155 (Page 110)
+
+| Col_0 | As at 1st April, 2024 | (Charge)/Credit to Statement of Profit and Loss^ | (Charge)/ Credit to Other Comprehensive Income | Others (Including Exchange Difference) | As at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Deferred Tax Assets (Net) in Relation to: Property, Plant and Equipment and (4,040) (907) - (212) Intangible Asset Financial Assets 94 5 (16) 24 Loans and Advances 251 13 - 17 Provisions 300 (49) - 12 Disallowances 201 (44) 24 7 Carried Forward Loss 4,330 170 (8) 110 Others (198) 253 17 54 |  |  |  |  |  |
+|  |  |  |  |  | (5,159) |
+|  |  |  |  |  | 107 |
+|  |  |  |  |  | 281 |
+|  |  |  |  |  | 263 |
+|  |  |  |  |  | 188 |
+|  |  |  |  |  | 4,602 |
+|  |  |  |  |  | 126 |
+| Deferred Tax Assets (Net) 938 (559) 17 12 |  |  |  |  | 408 |
+
+
+## Table 156 (Page 111)
+
+| Col_0 | As at 1st April, 2024 | (Charge)/Credit to Statement of Profit and Loss^ | (Charge)/ Credit to Other Comprehensive Income | Others (Including Exchange Difference) | As at 31st March, 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Deferred Tax Liabilities (Net) in Relation to: Property, Plant and Equipment and 91,249 11,514 - 445 Intangible Asset Financial Assets and Others 3,727 (112) (510) (49) Loans and Advances 282 51 - (309) Provisions (562) (30) - 35 Disallowances 203 387 (226) (56) Carried Forward Losses (22,503) (102) 1 (470) Others (155) 205 70 368 |  |  |  |  |  |
+|  |  |  |  |  | 1,03,208 |
+|  |  |  |  |  | 3,056 |
+|  |  |  |  |  | 24 |
+|  |  |  |  |  | (557) |
+|  |  |  |  |  | 308 |
+|  |  |  |  |  | (23,074) |
+|  |  |  |  |  | 488 |
+| Deferred Tax Liabilities (Net) 72,241 11,913 (665) (36) |  |  |  |  | 83,453 |
+| Net Deferred Tax Assets / (Liabilities) (71,303) (12,472) 682 48 |  |  |  |  | (83,045) |
+
+
+## Table 157 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| Investment Measured at Fair Value Through Other Comprehensive Income (FVTOCI) In Government Securities - Quoted, Fully Paid Up * In Mutual Fund - Quoted In Mutual Fund - Unquoted In Debentures or Bonds - Quoted, Fully Paid Up In Debentures or Bonds - Unquoted, Fully Paid Up |  |  | 8,195 5,625 12,038 18,107 15,395 |
+|  |  | 12,116 |  |
+|  |  | 772 |  |
+|  |  | 7,289 |  |
+|  |  | 5,088 |  |
+|  |  | 15,395 |  |
+| Total of Investment measured at Fair Value Through Other Comprehensive Income (FVTOCI) |  | 40,660 | 59,360 |
+| Investment Measured at Fair Value Through Profit and Loss (FVTPL) In Government Securities - Quoted, Fully Paid Up * In Debentures or Bonds - Quoted, Fully Paid Up In Treasury Bills - Quoted In Mutual Fund - Quoted In Mutual Fund - Unquoted In Certificate of Deposits - Quoted In Commercial Paper - Quoted In Commercial Paper - Unquoted |  |  | 23,655 2,278 3,471 271 8,411 2,910 1,831 2,984 |
+|  |  | 25,323 |  |
+|  |  | 1,440 |  |
+|  |  | 10,234 |  |
+|  |  | 1,544 |  |
+|  |  | 23,542 |  |
+|  |  | 467 |  |
+|  |  | - |  |
+|  |  | - |  |
+| Total of Investment measured at Fair Value Through Profit and Loss (FVTPL) |  | 62,550 | 45,811 |
+| Total Investments - Current |  | 1,18,709 | 1,06,170 |
+
+
+## Table 158 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 6. Other Non-Current Assets (Unsecured and Considered Good) Capital Advances Security Deposits @ Advance Income Tax (Net of Provision) # Upfront Fibre Payment Others * Total |  |  | 9,027 5,105 2,169 13,890 12,894 |
+|  |  | 9,130 |  |
+|  |  | 6,957 |  |
+|  |  | 4,906 |  |
+|  |  | 13,345 |  |
+|  |  | 23,852 |  |
+|  |  | 58,190 | 43,085 |
+
+
+## Table 159 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 8.1 Category-Wise Investments – Current Financial Assets measured at Amortised Cost Financial Assets measured at Fair Value Through Other Comprehensive Income Financial Assets measured at Fair Value Through Profit and Loss Total Investments – Current |  |  | 999 59,360 45,811 |
+|  |  | 15,499 |  |
+|  |  | 40,660 |  |
+|  |  | 62,550 |  |
+|  |  | 1,18,709 | 1,06,170 |
+
+
+## Table 160 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 7. Inventories Raw Materials (Including Material in Transit) Work-in-Progress * Finished Goods Stores and Spares Stock-in-Trade Programming and Other Rights Total |  |  | 18,770 58,936 20,274 12,054 32,526 10,210 |
+|  |  | 12,921 |  |
+|  |  | 60,189 |  |
+|  |  | 20,326 |  |
+|  |  | 10,919 |  |
+|  |  | 29,979 |  |
+|  |  | 11,728 |  |
+|  |  | 1,46,062 | 1,52,770 |
+
+
+## Table 161 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 9. Trade Receivables (Unsecured and Considered Good) Trade Receivables Total |  |  | 31,628 |
+|  |  | 42,121 |  |
+|  |  | 42,121 | 31,628 |
+
+
+## Table 162 (Page 111)
+
+| Particulars | Outstanding for following periods from due date of payment * | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Not Due | Less than 6 months | 6 months - 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+| As at 31st March, 2025 Undisputed Trade Receivables – considered good Undisputed Trade Receivables – which have significant increase in credit risk Undisputed Trade Receivables – credit impaired Disputed Trade Receivables – considered good Disputed Trade Receivables – which have significant increase in credit risk Disputed Trade Receivables – credit impaired Total |  |  |  |  |  |  |  |
+|  | 34,982 | 5,789 | 1,017 | 216 | 37 | 80 | 42,121 |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | - | - | - | - | - | - | - |
+|  | 34,982 | 5,789 | 1,017 | 216 | 37 | 80 | 42,121 |
+
+
+## Table 163 (Page 111)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 8. Investments – Current Investment Measured at Amortised Cost In Collateral Borrowing & Lending Obligation – Unquoted In Other Corporate Deposit - Callable |  |  | 999 - |
+|  |  |  |  |
+|  |  | 1,699 |  |
+|  |  | 13,800 |  |
+| Total of Investment measured at Amortised Cost |  | 15,499 | 999 |
+
+
+## Table 164 (Page 112)
+
+| Col_0 | Col_1 | Year ended 31st March, 2025 | Year ended 31st March, 2024 |
+| --- | --- | --- | --- |
+| 13. Taxation Tax Recognised in Statement of Profit and Loss Current Tax Deferred Tax Total Tax Expenses |  |  | 13,590 12,117 |
+|  |  |  |  |
+|  |  | 12,758 |  |
+|  |  | 12,472 |  |
+|  |  | 25,230 | 25,707 |
+
+
+## Table 165 (Page 112)
+
+| Particulars | Outstanding for following periods from due date of payment * | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Not Due | Less than 6 months | 6 months - 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+
+
+## Table 166 (Page 112)
+
+| Col_0 | Year ended 31st March, 2025 | Year ended 31st March, 2024 |
+| --- | --- | --- |
+| Profit Before Share of Profit / (Loss) of Associates / Joint Ventures and Tax Applicable Tax Rate Computed Tax Expense Tax Effect of: Exempted Income Expenses Disallowed Additional Allowances / Deductions Non-Taxable Subsidiaries and effect of Differential Tax Rate under various jurisdiction Carried Forward Losses Utilised Others Current Tax Provision (A) Incremental Deferred Tax Liability / (Asset) on account of Property, Plant and Equipment and Other Intangible Assets Impact on account of change in Tax Laws Incremental Deferred Tax Liability / (Asset) on account of Financial Assets and Other Items Deferred Tax Provision (B) Tax Expenses recognised in Statement of Profit and Loss (A+B) Effective Tax Rate | 1,06,017 | 1,04,340 25.168% 26,260 210 4,815 (10,446) 13 (7,615) 353 |
+|  | 25.168% |  |
+|  | 26,682 |  |
+|  |  |  |
+|  | (470) |  |
+|  | 6,349 |  |
+|  | (11,655) |  |
+|  | (20) |  |
+|  | (7,451) |  |
+|  | (677) |  |
+|  | 12,758 | 13,590 14,502 - (2,385) |
+|  | 14,620 |  |
+|  | (1,572) |  |
+|  | (576) |  |
+|  | 12,472 | 12,117 |
+|  | 25,230 | 25,707 |
+|  | 23.80% | 24.55% |
+
+
+## Table 167 (Page 112)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 10. Cash and Cash Equivalents Cash on Hand Balances with Banks * Others – Deposits / Advances |  |  | 229 93,514 3,482 |
+|  |  | 318 |  |
+|  |  | 1,06,184 |  |
+|  |  | - |  |
+| Cash and Cash Equivalents as per Balance Sheet |  | 1,06,502 | 97,225 |
+| Cash and Cash Equivalents as per Statement of Cash Flows |  | 1,06,502 | 97,225 |
+
+
+## Table 168 (Page 112)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 11. Other Financial Assets – Current Deposits # Others^ Total |  |  | 12,365 11,600 |
+|  |  | 4,108 |  |
+|  |  | 19,438 |  |
+|  |  | 23,546 | 23,965 |
+
+
+## Table 169 (Page 112)
+
+| Col_0 | Year ended 31st March, 2025 | Year ended 31st March, 2024 |
+| --- | --- | --- |
+| Advance Income Tax (Net of Provision) At start of the year Charge for the year Others * Tax paid during the year At end of the year # |  | 3,632 (13,590) 88 11,961 |
+|  | 2,091 |  |
+|  | (12,758) |  |
+|  | 3,314 |  |
+|  | 11,925 |  |
+|  | 4,572 | 2,091 |
+
+
+## Table 170 (Page 112)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 12. Other Current Assets (Unsecured and Considered Good) Balance with Customs, Central Excise, GST and State Authorities Others ** Total |  |  | 41,174 14,651 |
+|  |  | 37,079 |  |
+|  |  | 20,069 |  |
+|  |  | 57,148 | 55,825 |
+
+
+## Table 171 (Page 112)
+
+| Col_0 | Col_1 | Col_2 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| 14. Share Capital Authorised Share Capital: 49,00,00,00,000 Equity Shares of C 10 each (14,00,00,00,000) 1,00,00,00,000 Preference Shares of C 10 each (1,00,00,00,000) |  |  |  | 14,000 1,000 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 49,000 |  |
+|  |  |  |  |  |
+|  |  |  | 1,000 |  |
+|  |  |  |  |  |
+| Total |  |  | 50,000 | 15,000 |
+
+
+## Table 172 (Page 113)
+
+| Col_0 | Col_1 | Col_2 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| Issued and Subscribed Capital: 13,53,23,72,898 Equity Shares of C 10 each (6,76,61,09,014) |  |  |  | 6,766 |
+|  |  |  | 13,532 |  |
+|  |  |  |  |  |
+| Total |  |  | 13,532 | 6,766 |
+| Paid Up Capital: 13,53,23,72,898 Equity Shares of C 10 each, Fully Paid Up (6,76,61,09,014) Less: Calls Unpaid [C NIL (Previous Year C 27,21,523)] (Refer Note 14.7) |  |  |  | 6,766 - |
+|  |  |  | 13,532 |  |
+|  |  |  | - |  |
+| Total |  |  | 13,532 | 6,766 |
+
+
+## Table 173 (Page 113)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+|  | No. of Shares | No. of Shares |
+| Equity Shares at the beginning of the year Add: Shares issued on exercise of employee stock options (Refer Note 28.2) Less: Forfeiture and Cancellation of Shares (Refer Note 14.7) Add: Allotment of Bonus Shares (Refer Note 14.8) Equity Shares at the end of the year | 6,76,61,09,014 | 6,76,60,94,014 15,000 - |
+|  | 2,20,000 |  |
+|  | 1,42,565 |  |
+|  | 6,76,61,86,449 | 6,76,61,09,014 - |
+|  | 6,76,61,86,449 |  |
+|  | 13,53,23,72,898 | 6,76,61,09,014 |
+
+
+## Table 174 (Page 113)
+
+| Col_0 | Col_1 | Col_2 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| 14.1 6,76,61,86,449 Equity Shares were allotted as Bonus Shares in the current year by capitalisation of securities premium (Nil) 1,42,565 Forfeiture and cancellation of partly paid-up equity shares (Refer Note 14.7) (Nil) 7,33,866 Shares held by Associates (3,66,933) |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+
+## Table 175 (Page 113)
+
+| Name of the Shareholder | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | No. of Shares | % held | No. of Shares | % held |
+| Srichakra Commercials LLP Devarshi Commercials LLP Karuna Commercials LLP Tattvam Enterprises LLP Life Insurance Corporation of India | 1,47,91,99,658 | 10.93 | 73,95,99,829 10.93 54,55,69,460 8.06 54,55,69,460 8.06 54,55,69,460 8.06 41,54,11,317 6.14 |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 1,09,11,38,920 | 8.06 |  |  |
+|  | 89,38,39,330 | 6.61 |  |  |
+
+
+## Table 176 (Page 113)
+
+| Sr. No. | Class of Equity Share | Promoter’s Name | No. of shares at the beginning of the year | Change during the year | No. of shares at the end of the year | % of total shares | % change during the year |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| As at 31st March, 2025 1. Fully paid-up equity shares Mukesh D Ambani of C 10 each Total |  |  |  |  |  |  |  |
+|  |  |  | 80,52,020 | 80,52,020 | 1,61,04,040 | 0.12 | - |
+|  |  |  | 80,52,020 | 80,52,020 | 1,61,04,040 | 0.12 | - |
+
+
+## Table 177 (Page 113)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| 15. Other Equity Reserves and Surplus Capital Reserve As per last Balance Sheet Movement during the year Capital Redemption Reserve As per last Balance Sheet Debenture Redemption Reserve As per last Balance Sheet Transferred from / (to) Retained Earnings Share Based Payments Reserve As per last Balance Sheet On Employee Stock Options |  |  |  | 280 - |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  | 280 |  |  |
+|  |  | -* |  |  |
+|  |  |  | 280 | 280 44 |
+|  |  |  |  |  |
+|  |  | 44 |  |  |
+|  |  |  | 44 | - 44 2,314 - |
+|  |  |  |  |  |
+|  |  | 2,314 |  |  |
+|  |  | (245) |  |  |
+|  |  |  | 2,069 | 2,314 646 134 |
+|  |  |  |  |  |
+|  |  | 780 |  |  |
+|  |  | 10 |  |  |
+|  |  |  | 790 | 780 |
+
+
+## Table 178 (Page 114)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | Col_3 | As at 31st March, 2024 |
+| --- | --- | --- | --- | --- |
+| Statutory Reserve As per last Balance Sheet Transferred from Retained Earnings Special Economic Zone Reinvestment Reserve As per last Balance Sheet Transferred from / (to) Retained Earnings $ Securities Premium As per last Balance Sheet Calls Received - Rights Issue (Refer Note 14.7) On Exercise of Employee Stock Options Less: On Issue of Bonus Shares (Refer Note 14.8) General Reserve As per last Balance Sheet Transferred from / (to) Retained Earnings Retained Earnings As per last Balance Sheet Profit for the year Proceeds from fresh issue of equity by subsidiary Others Appropriations Transferred from / (to) General Reserve Transferred from / (to) Statutory Reserve Transferred from / (to) Debentures Redemption Reserve Transferred from / (to) Special Economic Zone Reinvestment Reserve Dividend on Equity Shares Other Comprehensive Income Remeasurement of Defined Benefit Plan As per last Balance Sheet Movement during the year Equity Instruments through OCI As per last Balance Sheet Movement during the year Debt Instruments through OCI As per last Balance Sheet Movement during the year Cash Flow Hedge As per last Balance Sheet Movement during the year Foreign Currency Translation Reserve As per last Balance Sheet Movement during the year Others |  |  |  | 445 - |
+|  |  | 445 |  |  |
+|  |  | 158 |  |  |
+|  |  |  | 603 | 445 150 (150) |
+|  |  |  |  |  |
+|  |  | - |  |  |
+|  |  | - |  |  |
+|  |  |  | - | - 99,792 6 4 - |
+|  |  |  |  |  |
+|  |  | 99,802 |  |  |
+|  |  | 22 |  |  |
+|  |  | 46 |  |  |
+|  |  | (6,766) |  |  |
+|  |  |  | 93,104 | 99,802 2,62,704 30,000 |
+|  |  |  |  |  |
+|  |  | 2,92,704 |  |  |
+|  |  | - |  |  |
+|  |  |  | 2,92,704 | 2,92,704 2,95,739 69,621 11,184 (818) |
+|  |  |  |  |  |
+|  |  | 3,39,787 |  |  |
+|  |  | 69,648 |  |  |
+|  |  | - |  |  |
+|  |  | (10,813) |  |  |
+|  |  | 3,98,622 |  | 3,75,726 (30,000) - - 150 (6,089) |
+|  |  |  |  |  |
+|  |  | - |  |  |
+|  |  | (158) |  |  |
+|  |  | 245 |  |  |
+|  |  | - |  |  |
+|  |  | (6,766) |  |  |
+|  |  | (6,679) |  | (35,939) |
+|  |  |  | 3,91,943 | 3,39,787 (376) 224 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  | (152) |  |  |
+|  |  | (181) |  |  |
+|  |  |  | (333) | (152) 60,083 3,099 |
+|  |  |  |  |  |
+|  |  | 63,182 |  |  |
+|  |  | (2,285) |  |  |
+|  |  |  | 60,897 | 63,182 642 863 |
+|  |  |  |  |  |
+|  |  | 1,505 |  |  |
+|  |  | 723 |  |  |
+|  |  |  | 2,228 | 1,505 (12,193) (810) |
+|  |  |  |  |  |
+|  |  | (13,003) |  |  |
+|  |  | (1,096) |  |  |
+|  |  |  | (14,099) | (13,003) (1,164) 191 - |
+|  |  |  |  |  |
+|  |  | (973) |  |  |
+|  |  | 406 |  |  |
+|  |  | 5 |  |  |
+|  |  |  | (562) | (973) |
+|  |  |  | 8,29,668 | 7,86,715 |
+
+
+## Table 179 (Page 114)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Non-Current | Current | Non-Current | Current |
+| 16. Borrowings - Non-Current Secured – At Amortised Cost Non-Convertible Debentures Term Loans - from Banks Unsecured – At Amortised Cost Non-Convertible Debentures Bonds Term Loans - from Banks Term Loans - from Others Total |  |  | 21,184 1,000 1,188 424 |  |
+|  |  |  |  |  |
+|  | 20,415 | 1,000 |  |  |
+|  | 1,089 | 609 |  |  |
+|  | 21,504 | 1,609 | 22,372 1,424 13,930 2,281 51,407 9,006 1,33,621 32,260 1,382 297 |  |
+|  |  |  |  |  |
+|  | 7,367 | 1,645 |  |  |
+|  | 52,048 | 683 |  |  |
+|  | 1,54,683 | 23,893 |  |  |
+|  | 1,297 | 1,493 |  |  |
+|  | 2,15,395 | 27,714 | 2,00,340 43,844 |  |
+|  | 2,36,899 | 29,323 | 2,22,712 45,268 |  |
+
+
+## Table 180 (Page 114)
+
+| Rate of Interest | Non-Current * | Col_2 | Col_3 | Current |
+| --- | --- | --- | --- | --- |
+|  | 2033-34 | 2032-33 | Total | 2025-26 |
+| 8.25% - - - 7.79% 15,000 5,000 20,000 15,000 5,000 20,000 |  |  |  | 1,000 |
+|  |  |  |  | - |
+|  |  |  |  | 1,000 |
+
+
+## Table 181 (Page 114)
+
+| Rate of Interest | Non-Current * | Col_2 | Current * |
+| --- | --- | --- | --- |
+|  | Year of Maturity |  |  |
+|  | 2028-29 | Total | 2025-26 |
+| 7.40% - - 8.65% 2,190 2,190 8.70% 800 800 8.95% 1,990 1,990 9.05% 2,409 2,409 7,389 7,389 |  |  | 1,650 |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | - |
+|  |  |  | 1,650 |
+
+
+## Table 182 (Page 115)
+
+| Rate of Interest | Non-Current * | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Current * |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Year of Maturity |  |  |  |  |  |  |  |  |  |  |
+|  | 2096-97 | 2061-62 | 2051-52 | 2046-47 | 2044-45 | 2040-41 | 2031-32 | 2027-28 | 2026-27 | Total | 2025-26 |
+| 1.87% - - - - - - - - - - 2.06% - - - - - - - - - - 2.44% - - - - - - - - - - 2.51% - - - - - - - - - - 2.88% - - - - - - 12,821 - - 12,821 3.63% - - 14,958 - - - - - - 14,958 3.67% - - - - - - - 6,838 - 6,838 3.75% - 6,411 - - - - - - - 6,411 4.88% - - - - 6,411 - - - - 6,411 6.25% - - - - - 4,274 - - - 4,274 7.63% - - - - - - - 26 - 26 8.25% - - - - - - - - 290 290 9.38% - - - - - - - - 189 189 10.25% 106 - - - - - - - - 106 10.50% - - - 82 - - - - - 82 106 6,411 14,958 82 6,411 4,274 12,821 6,864 479 52,406 |  |  |  |  |  |  |  |  |  |  | 166 |
+|  |  |  |  |  |  |  |  |  |  |  | 163 |
+|  |  |  |  |  |  |  |  |  |  |  | 185 |
+|  |  |  |  |  |  |  |  |  |  |  | 192 |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | - |
+|  |  |  |  |  |  |  |  |  |  |  | 706 |
+
+
+## Table 183 (Page 115)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 18. Other Financial Liabilities – Non-Current Other Payables ^ Total |  |  | 5,667 |
+|  |  | 10,909 |  |
+|  |  | 10,909 | 5,667 |
+
+
+## Table 184 (Page 115)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 19. Provisions – Non-Current Provision for Annuities Provision for Decommissioning of Assets # Others * Total |  |  | 76 1,828 140 |
+|  |  | 82 |  |
+|  |  | 1,899 |  |
+|  |  | 26,323 |  |
+|  |  | 28,304 | 2,044 |
+
+
+## Table 185 (Page 115)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 20. Borrowings – Current Secured – At Amortised Cost Working Capital Loans From Banks Foreign Currency Loans Rupee Loans From Others Rupee Loans Unsecured – At Amortised Cost Other Loans and Advances From Banks Foreign Currency Loans Rupee Loans From Others Foreign Currency Loans Rupee Loans Commercial Paper ^ Loans from Related Parties [Refer Note 32 (iv)] Current maturities of Non-Current Borrowings (Refer Note 16) Total |  |  | 71 11,236 |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | 72 |  |  |
+|  | 15,522 |  |  |
+|  |  | 15,594 | 11,307 8,500 1,583 15,572 |
+|  |  |  |  |
+|  |  | - |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  | 1,594 |  |  |
+|  | 31,530 |  |  |
+|  |  | 33,124 | 17,155 - - |
+|  |  |  |  |
+|  | 2,870 |  |  |
+|  | 496 |  |  |
+|  |  | 3,366 | - 19,595 85 45,268 |
+|  |  | 29,162 |  |
+|  |  | 62 |  |
+|  |  | 29,323 |  |
+|  |  | 1,10,631 | 1,01,910 |
+
+
+## Table 186 (Page 115)
+
+| Col_0 | Non-Current | Col_2 | Col_3 | Current |
+| --- | --- | --- | --- | --- |
+|  | 1-5 years | Above 5 years | Total | 1 year |
+| Term Loans – from Banks * 1,094 - 1,094 1,094 - 1,094 |  |  |  | 609 |
+|  |  |  |  | 609 |
+
+
+## Table 187 (Page 115)
+
+| Col_0 | Non-Current | Col_2 | Col_3 | Current |
+| --- | --- | --- | --- | --- |
+|  | 1-5 years | Above 5 years | Total | 1 year |
+| Term Loans – from Banks * 1,38,319 17,995 1,56,314 Term Loans – from Others 992 305 1,297 1,39,311 18,300 1,57,611 |  |  |  | 24,226 |
+|  |  |  |  | 1,493 |
+|  |  |  |  | 25,719 |
+
+
+## Table 188 (Page 115)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Non-Current | Current | Non-Current | Current |
+| 17. Deferred Payment Liabilities Unsecured Payable to Department of Telecommunication ("DoT") ^ Others Total |  |  | 1,08,270 4,574 2 3 |  |
+|  |  |  |  |  |
+|  | 1,04,410 | 4,736 |  |  |
+|  | - | 2 |  |  |
+|  | 1,04,410 | 4,738 | 1,08,272 4,577 |  |
+
+
+## Table 189 (Page 116)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 22. Other Financial Liabilities – Current Current maturities of Deferred Payment Liabilities (Refer Note 17) Interest accrued but not due on Borrowings Unclaimed Dividend * Other Payables # Total |  |  | 4,577 2,180 172 48,673 |
+|  |  | 4,738 |  |
+|  |  | 2,046 |  |
+|  |  | 171 |  |
+|  |  | 50,188 |  |
+|  |  | 57,143 | 55,602 |
+
+
+## Table 190 (Page 116)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 23. Other Current Liabilities Contract Liabilities * Other Payables ^ Total |  |  | 27,866 27,332 |
+|  |  | 63,005 |  |
+|  |  | 27,119 |  |
+|  |  | 90,124 | 55,198 |
+
+
+## Table 191 (Page 116)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 21. Trade Payables Due to Micro and Small Enterprises Other than Micro and Small Enterprises Total |  |  | 1,450 1,76,927 |
+|  |  | 2,067 |  |
+|  |  | 1,84,722 |  |
+|  |  | 1,86,789 | 1,78,377 |
+
+
+## Table 192 (Page 116)
+
+| Col_0 | Col_1 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- | --- |
+| 24. Provisions – Current Provision for Employee Benefits (Refer Note 28.1) * Provision for Income Tax (Net of Advance Tax) ^ Other Provisions @ Total |  |  | 1,313 78 784 |
+|  |  | 1,433 |  |
+|  |  | 334 |  |
+|  |  | 2,380 |  |
+|  |  | 4,147 | 2,175 |
+
+
+## Table 193 (Page 116)
+
+| Particulars | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Not Due | Less than 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+| As at 31st March, 2025 MSME Others Disputed – MSME Disputed – Others Total |  |  |  |  |  |  |
+|  | 2,067 | - | - | - | - | 2,067 |
+|  | 1,78,390 | 5,031 | 620 | 114 | 567 | 1,84,722 |
+|  | - | - | - | - | - | - |
+|  | - | - | - | - | - | - |
+|  | 1,80,457 | 5,031 | 620 | 114 | 567 | 1,86,789 |
+
+
+## Table 194 (Page 116)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 25. Revenue from Operations Disaggregated Revenue Oil to Chemicals Oil and Gas Retail Digital Services Others Total * ^ |  |  | 5,42,766 18,233 2,69,118 21,900 62,455 |
+|  |  |  |  |
+|  |  | 6,04,013 |  |
+|  |  | 19,627 |  |
+|  |  | 2,86,972 |  |
+|  |  | 27,535 |  |
+|  |  | 41,989 |  |
+|  |  | 9,80,136 | 9,14,472 |
+
+
+## Table 195 (Page 116)
+
+| Particulars | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Not Due | Less than 1 year | 1-2 years | 2-3 years | More than 3 years |  |
+
+
+## Table 196 (Page 117)
+
+| Col_0 | 2024-25 | Col_2 | 2023-24 |
+| --- | --- | --- | --- |
+| 26. Other Income Interest Bank Deposits Debt Instruments Other Financial Assets measured at Amortised Cost Others Dividend Income Other Non-Operating Income Gain / (Loss) on Financial Assets Realised Gain / (Loss) Unrealised Gain / (Loss) Total |  |  | 4,679 4,905 741 420 |
+|  |  |  |  |
+|  | 6,189 |  |  |
+|  | 4,043 |  |  |
+|  | 1,402 |  |  |
+|  | 776 |  |  |
+|  |  | 12,410 | 10,745 89 3,302 1,385 536 |
+|  |  | 504 |  |
+|  |  | 3,507 |  |
+|  |  |  |  |
+|  | 837 |  |  |
+|  | 720 |  |  |
+|  |  | 1,557 | 1,921 |
+|  |  | 17,978 | 16,057 |
+
+
+## Table 197 (Page 117)
+
+| Col_0 | 2024-25 | Col_2 | 2023-24 |
+| --- | --- | --- | --- |
+| 27. Changes in Inventories of Finished Goods, Work-in-Progress and Stock-in-Trade Inventories (At Close) Finished Goods / Stock-in-Trade Work-in-Progress * Inventories (At Commencement) Finished Goods / Stock-in-Trade Work-in-Progress * Capitalised during the year Opening Stock of Subsidiaries acquired during the year Others Total |  |  | 52,800 55,548 |
+|  |  |  |  |
+|  | 50,305 |  |  |
+|  | 57,011 |  |  |
+|  |  | 1,07,316 | 1,08,348 54,539 48,183 |
+|  |  |  |  |
+|  | 52,800 |  |  |
+|  | 55,548 |  |  |
+|  | 1,08,348 |  | 1,02,722 (27) 703 67 |
+|  | (16,684) |  |  |
+|  | 97 |  |  |
+|  | 431 |  |  |
+|  |  | 92,192 | 1,03,465 |
+|  |  | (15,124) | (4,883) |
+
+
+## Table 198 (Page 117)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 28. Employee Benefits Expense Salaries and Wages Contribution to Provident and Other Funds Staff Welfare Expenses Total |  |  | 22,089 1,425 2,165 |
+|  |  | 24,420 |  |
+|  |  | 1,590 |  |
+|  |  | 2,549 |  |
+|  |  | 28,559 | 25,679 |
+
+
+## Table 199 (Page 117)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 26.1 Other Comprehensive Income – Items that will not be reclassified to Profit and Loss Remeasurement of Defined Benefit Plan Tax effect on above Equity Instruments through OCI Tax effect on above Total |  |  | 288 (64) 3,564 (369) |
+|  |  | (222) |  |
+|  |  | 41 |  |
+|  |  | (2,682) |  |
+|  |  | 397 |  |
+|  |  | (2,466) | 3,419 |
+
+
+## Table 200 (Page 117)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Employer’s Contribution to Provident Fund Employer’s Contribution to Superannuation Fund Employer’s Contribution to Pension Scheme | 757 | 653 56 397 |
+|  | 39 |  |
+|  | 427 |  |
+
+
+## Table 201 (Page 117)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 26.2 Other Comprehensive Income – Items that will be reclassified to Profit and Loss Debt Instruments through OCI Tax effect on above Cash Flow Hedge Tax effect on above Foreign Currency Translation Tax effect on above Total |  |  | 1,111 (248) (1,058) 254 191 - |
+|  |  | 860 |  |
+|  |  | (140) |  |
+|  |  | (1,480) |  |
+|  |  | 384 |  |
+|  |  | 406 |  |
+|  |  | - |  |
+|  |  | 30 | 250 |
+
+
+## Table 202 (Page 117)
+
+| Col_0 | Gratuity (Funded) | Col_2 | Gratuity (Unfunded) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| Defined Benefit Obligation at beginning of the year On Acquisition / Transfers / Others Current Service Cost Interest Cost Actuarial (Gain) / Loss Benefits Paid * Liability Transferred Out Defined Benefit Obligation at end of the year | 2,167 | 1,878 (125) 195 128 114 (175) 152 | 275 | 264 103 53 24 (27) (36) (106) |
+|  | 296 |  | 129 |  |
+|  | 267 |  | 42 |  |
+|  | 169 |  | 21 |  |
+|  | 81 |  | 67 |  |
+|  | (241) |  | (40) |  |
+|  | (22) |  | (19) |  |
+|  | 2,717 | 2,167 | 476 | 275 |
+
+
+## Table 203 (Page 118)
+
+| Col_0 | Gratuity (Funded) | Col_2 | Gratuity (Unfunded) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 | As at 31st March, 2024 | As at 31st March, 2025 | As at 31st March, 2024 |
+| Fair Value of Plan Assets Present Value of Obligation Amount recognised in Balance Sheet Surplus / (Deficit) | 2,460 | 2,152 2,167 (15) | - | - 275 (275) |
+|  | 2,717 |  | 476 |  |
+|  | (257) |  | (476) |  |
+
+
+## Table 204 (Page 118)
+
+| Financial Year (Year of Grant) | Number of Options Outstanding | Col_2 | Col_3 | Financial Year of Vesting | Exercise Price (K) | Range of Fair Value Adjusted for Bonus at Grant Date (K) * |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  | As at 31st March, 2024 |  |  |  |
+|  | Post Bonus * | Pre Bonus |  |  |  |  |
+| ESOS – 2017 Details of Employee Stock Options granted from 1st April, 2020 to 31st March, 2025 2020-21 - - 2,00,000 2021-22 to 10.00 1,066.70 2024-25 -1,075.95 2021-22 1,10,000 55,000 75,000 2022-23 to 10.00 1,297.60 2025-26 -1,306.65 2023-24 55,824 27,912 27,912 2024-25 to 10.00 1,418.30 2025-26 -1,420.35 Total 1,65,824 82,912 3,02,912 |  |  |  |  |  |  |
+|  | - | - |  |  |  |  |
+|  | 1,10,000 | 55,000 |  |  |  |  |
+|  | 55,824 | 27,912 |  |  |  |  |
+|  | 1,65,824 | 82,912 | 3,02,912 |  |  |  |
+
+
+## Table 205 (Page 118)
+
+| Col_0 | Gratuity (Funded) | Col_2 | Gratuity (Unfunded) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| In Income Statement Current Service Cost Interest Cost Return on Plan Assets Net Cost In Other Comprehensive Income Actuarial (Gain) / Loss Return on Plan Assets Net (Income) / Expense for the year recognised in Other Comprehensive Income |  | 195 128 (116) |  | 53 24 - |
+|  | 267 |  | 42 |  |
+|  | 169 |  | 21 |  |
+|  | (155) |  | - |  |
+|  | 281 | 207 | 63 | 77 |
+|  |  | 114 (50) |  | (27) - |
+|  | 85 |  | 67 |  |
+|  | (10) |  | - |  |
+|  | 75 | 64 | 67 | (27) |
+
+
+## Table 206 (Page 118)
+
+| Col_0 | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | (K in crore) | % Invested | (K in crore) | % Invested |
+| Government of India Securities Insurance Policies Total | - | - 100.00 | - | - 100.00 |
+|  | 2,460 |  | 2,152 |  |
+|  | 2,460 | 100.00 | 2,152 | 100.00 |
+
+
+## Table 207 (Page 118)
+
+| Mortality Table (IALM) | Gratuity (Funded) | Col_2 | Gratuity (Unfunded) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 2012-14 (Urban) | 2023-24 2012-14 (Urban) | 2024-25 2012-14 (Urban) | 2023-24 2012-14 (Urban) |
+| Discount Rate (per annum) Expected Rate of Return on Plan Assets (per annum) Rate of Escalation in Salary (per annum) | 6.90% | 7.23% 7.23% 6.00% | 6.90% | 7.23% 7.23% 6.00% |
+|  | 6.90% |  | 6.90% |  |
+|  | 6.00% |  | 6.00% |  |
+
+
+## Table 208 (Page 119)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Number of share options | Weighted average exercise price (K) | Number of share options | Weighted average exercise price (K) |
+| Balance at the beginning of the year Exercised during the year Granted during the year Lapsed during the year Balance at the end of the year | 1,31,20,000 | 10.00 | 1,33,60,000 10.00 - - - - (2,40,000) - |  |
+|  | - | - |  |  |
+|  | - | - |  |  |
+|  | (2,40,000) | - |  |  |
+|  | 1,28,80,000 | 10.00 | 1,31,20,000 10.00 |  |
+
+
+## Table 209 (Page 119)
+
+| Col_0 | Col_1 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 29. Finance Costs Interest Expenses * Interest on Lease Liabilities Other Borrowing Costs Applicable loss on foreign currency transactions and translation Total |  |  | 20,121 1,651 163 1,183 |
+|  |  | 20,414 |  |
+|  |  | 1,707 |  |
+|  |  | 290 |  |
+|  |  | 1,858 |  |
+|  |  | 24,269 | 23,118 |
+
+
+## Table 210 (Page 119)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Number of share options | Weighted average exercise price (K) | Number of share options | Weighted average exercise price (K) |
+| Balance at the beginning of the year Granted during the year Exercised during the year Bonus Issue (Refer Note 14.8) Balance at the end of the year | 3,02,912 | 10.00 | 2,90,000 10.00 27,912 10.00 (15,000) 10.00 - - |  |
+|  | - | - |  |  |
+|  | (2,20,000) | 10.00 |  |  |
+|  | 82,912 | 10.00 |  |  |
+|  | 1,65,824 | 10.00 | 3,02,912 10.00 |  |
+
+
+## Table 211 (Page 119)
+
+| Col_0 | 2024-25 | Col_2 | 2023-24 |
+| --- | --- | --- | --- |
+| 30. Other Expenses Manufacturing Expenses Stores, Chemicals and Packing Materials Electric Power, Fuel and Water Labour Processing, Production Royalty and Machinery Hire Charges Repairs to Building Repairs to Machinery Exchange Difference (Net) Excise Duty * Lease Rent Land Development and Construction Expenditure Selling and Distribution Expenses Warehousing and Distribution Expenses Sales Tax / VAT Other Selling and Distribution Expenses Establishment Expenses Professional Fees Network Operating Expenses Access Charges (Net) Regulatory Charges General Expenses Programming and Telecast Related Expenses Rent Insurance Rates and Taxes Other Repairs Travelling Expenses Payment to Auditors Loss on Sale / Discard of Property, Plant and Equipment and Other Intangible Assets Charity and Donations Less: Transferred to Project Development Expenditure Total |  |  | 9,011 22,137 3,547 456 2,447 109 603 114 |
+|  |  |  |  |
+|  | 8,057 |  |  |
+|  | 23,823 |  |  |
+|  | 5,382 |  |  |
+|  | 340 |  |  |
+|  | 2,242 |  |  |
+|  | (189) |  |  |
+|  | 51 |  |  |
+|  | 156 |  |  |
+|  |  | 39,862 | 38,424 398 11,992 2,023 8,997 |
+|  |  | 378 |  |
+|  |  |  |  |
+|  | 12,922 |  |  |
+|  | 1,873 |  |  |
+|  | 8,679 |  |  |
+|  |  | 23,474 | 23,012 3,286 28,261 1,066 9,213 11,252 6,325 601 1,521 1,223 1,591 651 94 265 2,294 |
+|  |  |  |  |
+|  | 3,459 |  |  |
+|  | 31,323 |  |  |
+|  | 1,281 |  |  |
+|  | 10,495 |  |  |
+|  | 11,415 |  |  |
+|  | 11,489 |  |  |
+|  | 2,623 |  |  |
+|  | 1,451 |  |  |
+|  | 1,273 |  |  |
+|  | 1,941 |  |  |
+|  | 872 |  |  |
+|  | 100 |  |  |
+|  | 154 |  |  |
+|  | 2,267 |  |  |
+|  |  | 80,143 | 67,643 1,668 |
+|  |  | 2,856 |  |
+|  |  | 1,41,001 | 1,27,809 |
+
+
+## Table 212 (Page 119)
+
+| Financial Year (Year of Grant) | Number of Options Outstanding | Col_2 | Financial Year of Vesting | Exercise Price (K) | Range of Fair Value at Grant Date (K) |
+| --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 | As at 31st March, 2024 |  |  |  |
+| ESOS - 2020 2020-21 2021-22 Sub total |  | 1,31,20,000 2021-22 to 2025-26 10.00 541.20 - 542.30 - 2022-23 to 2028-29 10.00 541.20 - 542.30 |  |  |  |
+|  | 1,28,80,000 |  |  |  |  |
+|  | - |  |  |  |  |
+|  | 1,28,80,000 | 1,31,20,000 |  |  |  |
+
+
+## Table 213 (Page 120)
+
+| Sr. No. | Nature of Transactions (Excluding Reimbursements) | Associate / Joint Venture | Key Managerial Personnel / Relative | Others | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 Purchase of Property, Plant and Equipment and Other 527 - - 527 Intangible Assets 190 - 1 191 2 Purchase / Subscription of Investments 278 - - 278 3,797 - 3 3,800 3 Sale / Redemption of Investments 955 - - 955 1 - - 1 4 Loans and Advances, Deposits Given 3 - - 3 122 - - 122 5 Loans and Advances, Deposits Returned 21 - - 21 31 - - 31 6 Revenue from Operations 3,310 - 621 3,931 4,868 - 338 5,206 7 Other Income 87 - 5 92 230 - 6 236 8 Purchase of Goods / Services 7,070 - 1,504 8,574 3,239 - 1,489 4,728 9 Electric Power, Fuel and Water 5,095 - - 5,095 4,639 - - 4,639 10 Labour Processing and Hire Charges - - - - 8 - 2 10 11 Employee Benefits Expense 5 - 1,159 1,164 1 - 1,039 1,040 12 Payment to Key Managerial Personnel / Relative - 97 - 97 - 99 - 99 13 Selling and Distribution Expenses 1,221 - 2,823 4,044 343 - 2,575 2,918 14 Rent 96 - - 96 18 - - 18 15 Professional Fees 58 - 2 60 26 - - 26 16 Programming and Telecast Related Expenses 381 - - 381 41 - - 41 17 General Expenses * 73 - 58 131 52 - 58 110 18 Donations - - 1,609 1,609 - - 1,360 1,360 19 Finance Costs 4 - - 4 4 - - 4 20 Sale of Property, Plant and Equipment 872 - - 872 |  | 527 | - | - | 527 |
+|  |  | 872 | - | - | 872 |
+
+
+## Table 214 (Page 120)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Rural Transformation Healthcare Education and Skill Development Sports for Development Environment, Ecology and Animal Welfare Others including Disaster Management, Women Empowerment, Arts and Culture Total | 135 | 136 404 792 80 103 77 |
+|  | 295 |  |
+|  | 772 |  |
+|  | 395 |  |
+|  | 493 |  |
+|  | 66 |  |
+|  | 2,156 | 1,592 |
+
+
+## Table 215 (Page 120)
+
+| Col_0 | Col_1 | 2024-25 ** | 2023-24 |
+| --- | --- | --- | --- |
+| 31. Earnings Per Share (EPS) ** Face Value per Equity Share (H) Basic Earnings Per Share (H) Diluted Earnings Per Share (H) Net Profit after Tax as per Statement of Profit and Loss attributable to Equity Shareholders (After adjusting Non-Controlling Interest) (H in crore) Weighted Average number of Equity Shares used as denominator Basic EPS Diluted EPS Reconciliation of Weighted Average Number of Shares Outstanding Weighted Average number of Equity Shares used as denominator for calculating Basic EPS ^ Total Weighted Average Potential Equity Shares # Weighted Average number of Equity Shares used as denominator for calculating Diluted EPS |  |  | 10 51.45 51.45 69,621 13,53,16,21,632 13,53,24,81,373 13,53,16,21,632 8,59,741 13,53,24,81,373 |
+|  |  | 10 |  |
+|  |  | 51.47 |  |
+|  |  | 51.47 |  |
+|  |  | 69,648 |  |
+|  |  |  |  |
+|  |  | 13,53,20,92,187 |  |
+|  |  | 13,53,24,10,577 |  |
+|  |  |  |  |
+|  |  | 13,53,20,92,187 |  |
+|  |  | 3,18,390 |  |
+|  |  | 13,53,24,10,577 |  |
+
+
+## Table 216 (Page 121)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| BAM DLR Mumbai Private Limited BAM DLR Network Services Private Limited Reldel Apparel Private Limited @ Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) Reliance-Vision Express Private Limited Ryohin-Keikaku Reliance India Private Limited TCO Reliance India Private Limited Company under Common Control # Jio Financial Services Limited 3 Sale / Redemption of Investments Joint Ventures Ethane Crystal LLC * Ethane Emerald LLC * Ethane Opal LLC * Ethane Pearl LLC * Ethane Sapphire LLC * Ethane Topaz LLC * Sodium-ion Batteries Pty Limited * 4 Loans and Advances, Deposits Given Associates DEN ADN Network Private Limited Dunzo Digital Private Limited * Gujarat Chemical Port Limited Nexwafe GmbH Joint Ventures Alok Industries Limited Diesel Fashion India Reliance Private Limited 5 Loans and Advances, Deposits Returned Associates Caelux Corporation DEN ADN Network Private Limited Gujarat Chemical Port Limited Honeywell Properties Private Limited Prakhar Commercials Private Limited Reliance Realty Limited * 6 Revenue from Operations Associates Big Tree Entertainment Private Limited BookmyShow Live Private Limited DEN ADN Network Private Limited DEN New Broad Communication Private Limited Den Satellite Network Private Limited DL GTPL Cabnet Private Limited Dunzo Digital Private Limited * Dyulok Technologies Private Limited | - | 134 2 - 3 10 4 15 3 - - - - - - 1 - 26 - 87 8 1 - 1 15 1 10 4 3 3 1 1 23 10 - 2 |
+|  | - |  |
+|  | 10 |  |
+|  | 88 |  |
+|  | 4 |  |
+|  | 9 |  |
+|  | 3 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 165 |  |
+|  | 156 |  |
+|  | 156 |  |
+|  | 166 |  |
+|  | 156 |  |
+|  | 156 |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 1 |  |
+|  | - |  |
+|  | 2 |  |
+|  | - |  |
+|  |  |  |
+|  | - |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 21 |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 13 |  |
+|  | - |  |
+|  | 2 |  |
+|  | 1 |  |
+|  | 28 |  |
+|  | 16 |  |
+|  | 1 |  |
+|  | 4 |  |
+
+
+## Table 217 (Page 121)
+
+| Sr. No. | Nature of Balances | Associates / Joint Ventures | Key Managerial Personnel / Relative | Others | Total |
+| --- | --- | --- | --- | --- | --- |
+| 1 Loans and Advances 109 - - 109 559 - - 559 2 Deposits 593 - 353 946 194 - 353 547 3 Unsecured Loans 62 - - 62 85 - - 85 4 Financial Guarantees 5,400 - - 5,400 5,350 - - 5,350 5 Investments 15,683 - - 15,683 18,073 - - 18,073 6 Trade Receivables 657 - 48 705 1,017 - 58 1,075 7 Trade and Other Payables 593 - 77 670 744 - 92 836 8 Other Financial Assets 1 - - 1 214 - - 214 9 Other Current Assets 783 - 3 786 15 - - 15 10 Other Current Liabilities 5 - - 5 |  | 109 | - | - | 109 |
+|  |  | 5 | - | - | 5 |
+
+
+## Table 218 (Page 121)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 1 Purchase of Property, Plant and Equipment and Other Intangible Assets Associates Dunzo Digital Private Limited * Sterling and Wilson Renewable Energy Limited Joint Ventures Sanmina-SCI India Private Limited Sintex Industries Limited Sosyo Hajoory Beverages Private Limited Enterprise / Parent of the Enterprise over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Sikka Ports & Terminals Limited 2 Purchase / Subscription of Investments Associates Caelux Corporation Circle E Retail Private Limited Neolync Solutions Private Limited Omnia Toys India Private Limited Reliance Logistics and Warehouse Holdings Limited SRC Ecotex (India) Private Limited @ Joint Ventures Alok Industries Limited BAM DLR Chennai Private Limited BAM DLR Data Centre Services Private Limited |  | 64 12 111 3 - 1 - 27 20 - - - 3,300 273 9 |
+|  |  |  |
+|  | - |  |
+|  | 6 |  |
+|  |  |  |
+|  | 519 |  |
+|  | - |  |
+|  | 2 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 53 |  |
+|  | 3 |  |
+|  | - |  |
+|  | 6 |  |
+|  | 101 |  |
+|  | 1 |  |
+|  |  |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+
+
+## Table 219 (Page 122)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Eenadu Television Private Limited GTPL Broadband Private Limited GTPL Hathway Limited GTPL KCBPL Broad Band Private Limited GTPL Kolkata Cable & Broad Band Pariseva Limited Gujarat Chemical Port Limited Jamnagar Utilities & Power Private Limited Konark IP Dossiers Private Limited Metro Cast Network India Private Limited MM Styles Private Limited Omnia Toys India Private Limited Reliance Industrial Infrastructure Limited Reliance Logistics and Warehouse Holdings Limited Joint Ventures Alok Industries Limited Brooks Brothers India Private Limited Burberry India Private Limited BVM Overseas Limited Canali India Private Limited Clarks Footwear Private Limited * Diesel Fashion India Reliance Private Limited Football Sports Development Limited $ Hathway Bhawani NDS Network Limited Hathway Cable MCN Nanded Private Limited * Hathway Dattatray Cable Network Private Limited Hathway Latur MCN Cable & Datacom Private Limited Hathway MCN Private Limited Hathway Sai Star Cable & Datacom Private Limited IBN Lokmat News Private Limited Iconix Lifestyle India Private Limited India Gas Solutions Private Limited Indospace MET Logistics Park Farukhnagar Private Limited Marks and Spencer Reliance India Private Limited Reldel Apparel Private Limited @ Reliance Bally India Private Limited Reliance Paul & Shark Fashions Private Limited Reliance-Vision Express Private Limited Ryohin-Keikaku Reliance India Private Limited Sintex Industries Limited Sosyo Hajoori Beverages Private Limited TCO Reliance India Private Limited Ubona Technologies Private Limited Zegna South Asia Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Jamnaben Hirachand Ambani Foundation Reliance Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) | 23 | 29 14 208 - 63 15 280 1 9 - 4 - - 1,978 23 2 102 13 15 23 40 1 5 1 4 15 6 4 9 1,745 1 46 - 13 8 4 9 119 6 3 4 3 2 10 2 |
+|  | 17 |  |
+|  | 412 |  |
+|  | 2 |  |
+|  | 149 |  |
+|  | 10 |  |
+|  | 257 |  |
+|  | - |  |
+|  | 30 |  |
+|  | 8 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 194 |  |
+|  |  |  |
+|  | 262 |  |
+|  | 19 |  |
+|  | 4 |  |
+|  | - |  |
+|  | 7 |  |
+|  | 3 |  |
+|  | 16 |  |
+|  | 9 |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | 3 |  |
+|  | 14 |  |
+|  | 6 |  |
+|  | 3 |  |
+|  | 10 |  |
+|  | 1,439 |  |
+|  | - |  |
+|  | 31 |  |
+|  | 1 |  |
+|  | 8 |  |
+|  | 6 |  |
+|  | 4 |  |
+|  | 11 |  |
+|  | 151 |  |
+|  | 120 |  |
+|  | 5 |  |
+|  | 5 |  |
+|  | 4 |  |
+|  |  |  |
+|  | 5 |  |
+|  | 14 |  |
+|  | 5 |  |
+
+
+## Table 220 (Page 122)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Reliance Foundation Institution of Education and Research Reliance Foundation Youth Sports Samarjit Enterprises LLP Sikka Ports & Terminals Limited Companies Under Common Control # Jio Finance Limited (Subsidiary of Jio Financial Services Limited Group) Jio Finance Platform and Service Limited (Subsidiary of Jio Financial Services Limited Group) @ Jio Financial Services Limited Jio Insurance Broking Limited (Subsidiary of Jio Financial Services Limited Group) Jio Leasing Services Limited (Subsidiary of Jio Financial Services Limited Group) Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited Group) 7 Other Income Associates BookmyShow Live Private Limited Caelux Corporation DEN ADN Network Private Limited GTPL Hathway Limited Gujarat Chemical Port Limited Nexwafe GmbH Reliance Industrial Infrastructure Limited Reliance Realty Limited * Joint Ventures Alok Industries Limited Burberry India Private Limited Canali India Private Limited Ethane Crystal LLC * Ethane Emerald LLC * Ethane Opal LLC * Ethane Pearl LLC * Ethane Sapphire LLC * Ethane Topaz LLC * IBN Lokmat News Private Limited India Gas Solutions Private Limited Pipeline Management Services Private Limited Ryohin-Keikaku Reliance India Private Limited Sintex Industries Limited Zegna South Asia Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Jamnaben Hirachand Ambani Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Company under Common Control # Jio Finance Limited (Subsidiary of Jio Financial Services Limited Group) 8 Purchase of Goods / Services Associates Ashwani Commercials Private Limited Big Tree Entertainment Private Limited | 29 | 3 - - 316 - - 1 3 - 1 1 - 1 17 46 8 2 48 66 1 - 4 3 3 4 3 3 2 9 7 1 1 - 5 1 - 2 3 |
+|  | 1 |  |
+|  | 10 |  |
+|  | 500 |  |
+|  |  |  |
+|  | 4 |  |
+|  | 17 |  |
+|  | 4 |  |
+|  | 1 |  |
+|  | 2 |  |
+|  | 29 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | - |  |
+|  | 46 |  |
+|  | 8 |  |
+|  | 2 |  |
+|  | - |  |
+|  |  |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 1 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | - |  |
+|  | 7 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 3 |  |
+|  | 1 |  |
+|  |  |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 1 |  |
+
+
+## Table 221 (Page 123)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Circle E Retail Private Limited Gujarat Chemical Port Limited Jamnagar Utilities & Power Private Limited MM Styles Private Limited Neolync Solutions Private Limited Omnia Toys India Private Limited Reliance Industrial Infrastructure Limited Reliance Logistics and Warehouse Holdings Limited Sterling and Wilson Renewable Energy Limited Joint Ventures Alok Industries Limited Brooks Brothers India Private Limited Canali India Private Limited Clarks Footwear Private Limited * Diesel Fashion India Reliance Private Limited Football Sports Development Limited $ Iconix Lifestyle India Private Limited India Gas Solutions Private Limited Marks and Spencer Reliance India Private Limited Reliance Bally India Private Limited Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) Reliance Paul & Shark Fashions Private Limited Ryohin-Keikaku Reliance India Private Limited Sanmina-SCI India Private Limited Sintex Industries Limited Sosyo Hajoori Beverages Private Limited Zegna South Asia Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Reliance Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Sikka Ports & Terminals Limited Companies under Common Control # Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited Group) 9 Electric Power, Fuel and Water Associates Jamnagar Utilities & Power Private Limited Reliance Industrial Infrastructure Limited Joint Venture Alok Industries Limited 10 Labour Processing and Hire Charges Associate Reliance Industrial Infrastructure Limited Company under Common Control # Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited Group) 11 Employee Benefits Expense Associate Future101 Design Private Limited | 17 | 6 167 26 7 865 1 20 - 1 329 22 8 26 15 234 14 1,240 66 13 - 6 6 - 157 4 1 - - 1,484 5 4,626 13 - 8 2 1 |
+|  | 167 |  |
+|  | 57 |  |
+|  | - |  |
+|  | 655 |  |
+|  | 3 |  |
+|  | 21 |  |
+|  | 362 |  |
+|  | - |  |
+|  |  |  |
+|  | 589 |  |
+|  | 20 |  |
+|  | 4 |  |
+|  | 30 |  |
+|  | 13 |  |
+|  | - |  |
+|  | 4 |  |
+|  | 1,180 |  |
+|  | 34 |  |
+|  | 6 |  |
+|  | 1,484 |  |
+|  | 5 |  |
+|  | 5 |  |
+|  | 2,270 |  |
+|  | 9 |  |
+|  | 134 |  |
+|  | - |  |
+|  |  |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 1,502 |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 4,530 |  |
+|  | 13 |  |
+|  |  |  |
+|  | 552 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  |  |  |
+|  | 3 |  |
+
+
+## Table 222 (Page 123)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Joint Venture IBN Lokmat News Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Jamnaben Hirachand Ambani Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Post Employment Benefit @@ IPCL Employees Provident Fund Trust Jio Platforms Limited Employees Gratuity Fund Reliance Employees Provident Fund Bombay Reliance Industries Limited Staff Superannuation Scheme Reliance Jio Infocomm Limited Employees Gratuity Fund Reliance Retail Limited Employees Gratuity Fund Reliance Retail Limited Employees Provident Fund Reliance Syngas Limited Employees Gratuity Fund 12 Payment to Key Managerial Personnel / Relatives Key Managerial Personnel Shri Mukesh D. Ambani Shri Nikhil R. Meswani Shri Hital R. Meswani Shri P. M. S. Prasad Shri Alok Agarwal ** Shri Srikanth Venkatachari Smt. Savithri Parekh Relatives of Key Managerial Personnel Smt. Nita M. Ambani ## Ms. Isha M Ambani Shri Akash M Ambani Shri Anant M Ambani 13 Selling and Distribution Expenses Associates Big Tree Entertainment Private Limited BookmyShow Live Private Limited DEN ADN Network Private Limited Den Satellite Network Private Limited DL GTPL Cabnet Private Limited GTPL Hathway Limited GTPL Kolkata Cable & Broad Band Pariseva Limited Gujarat Chemical Port Limited Metro Cast Network India Private Limited Reliance Industrial Infrastructure Limited Reliance Logistics and Warehouse Holdings Limited Joint Ventures Hathway Sai Star Cable & Datacom Private Limited IBN Lokmat News Private Limited |  | - 2 81 119 41 433 26 19 30 288 - - 25 25 18 5 19 3 1 1 1 1 - 1 2 5 8 182 49 74 7 3 11 1 - |
+|  | 2 |  |
+|  |  |  |
+|  | 2 |  |
+|  | 127 |  |
+|  |  |  |
+|  | 114 |  |
+|  | 39 |  |
+|  | 534 |  |
+|  | 30 |  |
+|  | - |  |
+|  | 30 |  |
+|  | 281 |  |
+|  | 2 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | 25 |  |
+|  | 25 |  |
+|  | 20 |  |
+|  | - |  |
+|  | 17 |  |
+|  | 4 |  |
+|  |  |  |
+|  | - |  |
+|  | 2 |  |
+|  | 2 |  |
+|  | 2 |  |
+|  |  |  |
+|  |  |  |
+|  | 5 |  |
+|  | - |  |
+|  | 1 |  |
+|  | 3 |  |
+|  | 4 |  |
+|  | 106 |  |
+|  | 32 |  |
+|  | 79 |  |
+|  | 6 |  |
+|  | 2 |  |
+|  | 981 |  |
+|  |  |  |
+|  | - |  |
+|  | 2 |  |
+
+
+## Table 223 (Page 124)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Jamnaben Hirachand Ambani Foundation Sikka Ports & Terminals Limited Company under Common Control # Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited Group) 14 Rent Associates Reliance Europe Limited Reliance Industrial Infrastructure Limited Joint Ventures Alok Industries Limited Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) 15 Professional Fees Associates Big Tree Entertainment Private Limited Clayfin Technologies Private Limited Neolync Solutions Private Limited Reliance Europe Limited Two Platforms Inc. Enterprise / Parent of the Enterprise over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) 16 Programming and Telecast Related Expenses Associates Big Tree Entertainment Private Limited DEN ADN Network Private Limited Den Satellite Network Private Limited DL GTPL Cabnet Private Limited Eenadu Television Private Limited GTPL Hathway Limited GTPL Kolkata Cable & Broad Band Pariseva Limited Metro Cast Network India Private Limited Joint Ventures Hathway Cable MCN Nanded Private Limited * Hathway Dattatray Cable Network Private Limited Hathway Latur MCN Cable & Datacom Private Limited Hathway MCN Private Limited Hathway Sai Star Cable & Datacom Private Limited Hathway Sonali OM Crystal Cable Private Limited IBN Lokmat News Private Limited 17 General Expenses Associates Big Tree Entertainment Private Limited DEN ADN Network Private Limited Den Satellite Network Private Limited Dunzo Digital Private Limited * Eenadu Television Private Limited MM Styles Private Limited Vadodara Enviro Channel Limited |  | - 2,574 1 4 13 1 - 4 1 1 20 - - - - - - 26 - - - 1 1 1 8 1 - 3 3 1 6 - 7 1 5 |
+|  | 6 |  |
+|  | 2,816 |  |
+|  |  |  |
+|  | 1 |  |
+|  |  |  |
+|  |  |  |
+|  | 5 |  |
+|  | 13 |  |
+|  |  |  |
+|  | 9 |  |
+|  | 69 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  | - |  |
+|  | 2 |  |
+|  | 34 |  |
+|  | 22 |  |
+|  |  |  |
+|  | 2 |  |
+|  |  |  |
+|  |  |  |
+|  | 1 |  |
+|  | 1 |  |
+|  | 6 |  |
+|  | 7 |  |
+|  | 26 |  |
+|  | 210 |  |
+|  | 88 |  |
+|  | 20 |  |
+|  |  |  |
+|  | - |  |
+|  | 1 |  |
+|  | 2 |  |
+|  | 8 |  |
+|  | 4 |  |
+|  | 2 |  |
+|  | 5 |  |
+|  |  |  |
+|  |  |  |
+|  | 21 |  |
+|  | 1 |  |
+|  | 7 |  |
+|  | - |  |
+|  | 10 |  |
+|  | - |  |
+|  | 2 |  |
+
+
+## Table 224 (Page 124)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| Joint Ventures Alok Industries Limited Diesel Fashion India Reliance Private Limited Iconix Lifestyle India Private Limited Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Reliance Foundation Institution of Education and Research Sikka Ports & Terminals Limited Company under Common Control # Jio Payment Solutions Limited (Subsidiary of Jio Financial Services Limited Group) 18 Donations Enterprises / Parent of the Enterprises over which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Dhirubhai Ambani Foundation Hirachand Govardhandas Ambani Public Charitable Trust Jamnaben Hirachand Ambani Foundation Reliance Foundation Reliance Foundation Hospital Trust (Formerly known as Sir HN Hospital Trust) Reliance Foundation Institution of Education and Research Reliance Foundation Youth Sports Sir Hurkisondas Nurrotumdas Hospital and Research Centre Vividh Hunarvikas Foundation @ Vividh Kridakhel Foundation @ 19 Finance Costs Associate Reliance Europe Limited 20 Sale of Property, Plant and Equipment Associate Reliance Logistics and Warehouse Holdings Limited Joint Venture Reliance International Leasing IFSC Private Limited (Formerly known as Reliance International Leasing IFSC Limited) |  | - 1 28 - - 10 48 21 3 180 691 271 105 58 31 - - 4 10,901 - |
+|  | 1 |  |
+|  | - |  |
+|  | 31 |  |
+|  |  |  |
+|  | 2 |  |
+|  | 1 |  |
+|  | 8 |  |
+|  |  |  |
+|  | 47 |  |
+|  |  |  |
+|  |  |  |
+|  | 19 |  |
+|  | 6 |  |
+|  | 195 |  |
+|  | 855 |  |
+|  | 85 |  |
+|  | 2 |  |
+|  | 89 |  |
+|  | 22 |  |
+|  | 64 |  |
+|  | 272 |  |
+|  |  |  |
+|  |  |  |
+|  | 4 |  |
+|  |  |  |
+|  |  |  |
+|  | - |  |
+|  |  |  |
+|  | 872 |  |
+
+
+## Table 225 (Page 124)
+
+| Col_0 | Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| 1 Loans and Advances Associates Nexwafe Gmbh Reliance Realty Limited * Joint Ventures Diesel Fashion India Reliance Private Limited Marks and Spencer Reliance India Private Limited Reliance Bally India Private Limited 2 Deposits Associates Dunzo Digital Private Limited * Gaurav Overseas Private Limited Gujarat Chemical Port Limited # Jamnagar Utilities & Power Private Limited # Neolync Solutions Private Limited |  |  | 95 464 - - - 26 17 19 118 - |
+|  |  |  |  |
+|  |  | 105 |  |
+|  |  | - |  |
+|  |  |  |  |
+|  |  | 1 |  |
+|  |  | 1 |  |
+|  |  | 2 |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | - |  |
+|  |  | 17 |  |
+|  |  | 20 |  |
+|  |  | 118 |  |
+|  |  | 435 |  |
+
+
+## Table 226 (Page 125)
+
+| Particulars | Proved Reserves in India (Million M3 *) | Col_2 | Proved Developed Reserves in India (Million M3 *) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| Gas: Opening Balance Addition to Reserves Revision of estimates Production Closing Balance |  | 49,145 - 150 (6,852) |  | 23,329 16,727 150 (6,852) |
+|  | 42,443 |  | 33,354 |  |
+|  | - |  | - |  |
+|  | 311 |  | 311 |  |
+|  | (7,102) |  | (7,102) |  |
+|  | 35,652 | 42,443 | 26,563 | 33,354 |
+
+
+## Table 227 (Page 125)
+
+| Col_0 | Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- | --- |
+| Joint Ventures Alok Industries Limited Brooks Brothers India Private Limited Diesel Fashion India Reliance Private Limited Marks and Spencer Reliance India Private Limited Zegna South Asia Private Limited Enterprise / Parent of the Enterprise Over Which Key Managerial Personnel / Relatives Are Able To Exercise Significant Influence Sikka Ports & Terminals Limited # 3 Unsecured Loans Associate Reliance Europe Limited 4 Financial Guarantees Joint Ventures Alok Industries Limited Sintex Industries Limited |  |  | 8 - 1 5 - 353 85 3,450 1,900 |
+|  |  | - |  |
+|  |  | 1 |  |
+|  |  | 1 |  |
+|  |  | - |  |
+|  |  | 1 |  |
+|  |  |  |  |
+|  |  | 353 |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | 62 |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | 3,500 |  |
+|  |  | 1,900 |  |
+
+
+## Table 228 (Page 125)
+
+| Particulars | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| i Short-term benefits ii Post employment benefits Total | 95 | 93 2 |
+|  | 2 |  |
+|  | 97 | 95 |
+
+
+## Table 229 (Page 125)
+
+| Sr. No. | Name of the Fields in the Joint Ventures | Company’s % Interest | Col_3 | Partners and their Participating Interest (PI) | Country |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 2024-25 | 2023-24 |  |  |
+| 1 Mid and South Tapti 2 NEC - OSN - 97/2 3 KG - DWN - 98/3 4 KG-UDWHP-2018/1 5 KG-UDWHP-2022/1 |  | 30.00% | 30.00% BG Exploration & Production India Limited - 30% India Oil and Natural Gas Corporation Limited - 40% India 66.67% BP Exploration (Alpha) Limited - 33.33% India 66.67% BP Exploration (Alpha) Limited - 33.33% India 60.00% BP Exploration (Alpha) Limited - 40% India 60.00% BP Exploration (Alpha) Limited - 40% India |  |  |
+|  |  | 66.67% |  |  |  |
+|  |  | 66.67% |  |  |  |
+|  |  | 60.00% |  |  |  |
+|  |  | 60.00% |  |  |  |
+
+
+## Table 230 (Page 125)
+
+| Particulars | Proved Reserves in India (Million MT *) | Col_2 | Proved Developed Reserves in India (Million MT *) | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | 2024-25 | 2023-24 | 2024-25 | 2023-24 |
+| Oil: Opening Balance Addition to Reserves Revision of estimates Production Closing Balance |  | 3.29 - 0.03 (0.59) |  | 0.04 3.25 0.03 (0.59) |
+|  | 2.73 |  | 2.73 |  |
+|  | - |  | - |  |
+|  | (0.01) |  | (0.01) |  |
+|  | (0.67) |  | (0.67) |  |
+|  | 2.05 | 2.73 | 2.05 | 2.73 |
+
+
+## Table 231 (Page 126)
+
+| Col_0 | Col_1 | Col_2 | 2024-25 | 2023-24 |
+| --- | --- | --- | --- | --- |
+| 34. Contingent Liabilities and Commitments (I) Contingent Liabilities (A) Claims against the Group / disputed liabilities not acknowledged as debts (i) In respect of Joint Arrangements (ii) In respect of Others (B) Guarantees (i) On behalf of Joint Arrangements (ii) On behalf of Associates / Joint Ventures / Others (II) Commitments (A) Estimated amount of contracts remaining to be executed on capital account and not provided for: (i) In respect of Joint Arrangements (ii) In respect of Others (B) Other Commitments (i) Investments |  |  |  | 1,373 4,953 817 5,350 436 24,611 4,466 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 1,458 |  |
+|  |  |  | 5,512 |  |
+|  |  |  |  |  |
+|  |  |  | 1,078 |  |
+|  |  |  | 5,880 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  | 1,624 |  |
+|  |  |  | 30,005 |  |
+|  |  |  |  |  |
+|  |  |  | 3,895 |  |
+
+
+## Table 232 (Page 126)
+
+| Col_0 | As at 31st March, 2025 | As at 31st March, 2024 |
+| --- | --- | --- |
+| Gross Debt Cash and Marketable Securities * Net Debt (A) Total Equity (As per Balance Sheet) (B) Net Gearing Ratio (A/B) | 3,47,530 | 3,24,622 2,08,341 |
+|  | 2,30,447 |  |
+|  | 1,17,083 | 1,16,281 |
+|  | 8,43,200 | 7,93,481 |
+|  | 0.14 | 0.15 |
+
+
+## Table 233 (Page 126)
+
+| Particulars | As at 31st March, 2025 | Col_2 | Col_3 | Col_4 | As at 31st March, 2024 | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Carrying Amount | Level of input used in |  |  | Carrying Amount | Level of input used in |  |  |
+|  |  | Level 1 | Level 2 | Level 3 |  | Level 1 | Level 2 | Level 3 |
+| Financial Assets At Amortised Cost Investments # Trade Receivables Cash and Cash Equivalents Loans Other Financial Assets At FVTPL Investments Other Financial Assets At FVTOCI Investments Other Financial Assets Financial Liabilities At Amortised Cost Borrowings Deferred Payment Liabilities Trade Payables Other Financial Liabilities Lease Liabilities At FVTPL Other Financial Liabilities At FVTOCI Other Financial Liabilities |  |  |  |  | 1,015 - - - 31,628 - - - 97,225 - - - 3,416 - - - 24,537 - - - 51,348 38,635 12,371 342 2,050 911 1,139 - 1,55,236 36,138 31,153 87,945 - - - - 3,24,622 - - - 1,12,849 - - - 1,78,377 - - - 52,381 - - - 21,520 - - - 4,311 25 4,286 - - - - - |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 15,816 | - | - | - |  |  |  |  |
+|  | 42,121 | - | - | - |  |  |  |  |
+|  | 1,06,502 | - | - | - |  |  |  |  |
+|  | 5,924 | - | - | - |  |  |  |  |
+|  | 25,944 | - | - | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 73,152 | 45,372 | 22,614 | 5,166 |  |  |  |  |
+|  | 3,688 | 2 | 3,686 | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 1,37,730 | 25,371 | 22,544 | 89,815 |  |  |  |  |
+|  | 2 | - | 2 | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 3,47,530 | - | - | - |  |  |  |  |
+|  | 1,09,148 | - | - | - |  |  |  |  |
+|  | 1,86,789 | - | - | - |  |  |  |  |
+|  | 59,501 | - | - | - |  |  |  |  |
+|  | 22,045 | - | - | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 3,813 | 40 | 3,773 | - |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | - | - | - | - |  |  |  |  |
+
+
+## Table 234 (Page 127)
+
+| Particulars | As at 31st March, 2025 | Col_2 | As at 31st March, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | At FVTPL | At FVTOCI | At FVTPL | At FVTOCI |
+| Opening Balance Addition during the year Sale/Reduction during the year Total Gain/(Loss) Closing Balance | 342 | 87,945 | 345 95,679 19 1,233 (2) (9,243) (20) 276 |  |
+|  | 4,812 | 1,816 |  |  |
+|  | - | (164) |  |  |
+|  | 12 | 218 |  |  |
+|  | 5,166 | 89,815 | 342 87,945 |  |
+| Line item in which gain/loss recognised | Other Income | Other Comprehensive Income-Items that will not be reclassified to Profit or Loss | Other Other Income Comprehensive - C 1 crore Income-Items unrealised that will not be reclassified to Profit or Loss |  |
+
+
+## Table 235 (Page 127)
+
+| Particulars | Foreign Currency Exposure | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | As at 31st March, 2025 |  |  | As at 31st March, 2024 |  |  |
+|  | USD | EUR | JPY | USD | EUR | JPY |
+| Borrowings Trade and Other Payables Trade and Other Receivables Derivatives - Forwards and Futures - Options Exposure | 1,59,930 | 15,543 | 23,977 | 1,61,130 12,275 21,476 1,03,383 435 107 (12,353) (116) (14) (64,040) (12,190) (21,710) (47) (47) 168 |  |  |
+|  | 1,05,489 | 572 | 98 |  |  |  |
+|  | (14,315) | (211) | (31) |  |  |  |
+|  |  |  |  |  |  |  |
+|  | (1,08,451) | (17,175) | (25,054) |  |  |  |
+|  | (13,465) | (391) | (26) |  |  |  |
+|  | 1,29,188 | (1,662) | (1,036) | 1,88,073 357 27 |  |  |
+
+
+## Table 236 (Page 127)
+
+| Particulars | Valuation Technique | Significant Unobservable Input | Change in % | Sensitivity of the fair value to change in input | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | 31st March 2025 | 31st March 2024 |
+| Investment in Discounting Discounting rate - 11.54% +0.10% OCPS (FVTOCI) Cash Flow (Previous Year - 14.49%) -0.10% |  |  |  | (1,448) | (1,611) 1,635 |
+|  |  |  |  | 1,465 |  |
+
+
+## Table 237 (Page 127)
+
+| Particulars | Interest Rate Exposure | Col_2 |
+| --- | --- | --- |
+|  | As at 31st March, 2025 | As at 31st March, 2024 |
+| Borrowings Non-Current - Floating (Includes Current Maturities) * Non-Current - Fixed (Includes Current Maturities) * Current # |  | 1,47,418 1,22,254 56,868 |
+|  | 1,66,879 |  |
+|  | 1,01,334 |  |
+|  | 81,624 |  |
+| Total | 3,49,837 | 3,26,540 |
+| Derivatives Foreign Currency Interest Rate Swaps Rupees Interest Rate Swaps |  | 18,466 66,420 |
+|  | 61,381 |  |
+|  | 67,785 |  |
+
+
+## Table 238 (Page 128)
+
+| Particulars | Maturity Profile as at 31st March, 2024 * | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Below 3 Months | 3-6 Months | 6-12 Months | 1-3 Years | 3-5 Years | Above 5 Years | Total |
+
+
+## Table 239 (Page 128)
+
+| Particulars | Maturity Profile as at 31st March, 2025 * | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Below 3 Months | 3-6 Months | 6-12 Months | 1-3 Years | 3-5 Years | Above 5 Years | Total |
+| Borrowings Non-Current #@ Current^ |  |  |  |  |  |  |  |
+|  | 13,894 | 5,321 | 11,778 | 66,241 | 87,611 | 83,367 | 2,68,212 |
+|  | 76,252 | 886 | 4,474 | 10 | - | 3 | 81,625 |
+| Total | 90,146 | 6,207 | 16,252 | 66,251 | 87,611 | 83,370 | 3,49,837 |
+| Lease Liabilities (Gross) Derivative Liabilities Forwards Options Currency Swaps Interest Rate Swaps Total | 1,637 | 1,630 | 3,254 | 9,582 | 5,049 | 19,221 | 40,373 |
+|  |  |  |  |  |  |  |  |
+|  | 949 | 909 | 500 | 381 | 31 | - | 2,770 |
+|  | 332 | 28 | 13 | 259 | 50 | - | 682 |
+|  | 1 | 4 | 5 | 63 | 244 | 12 | 329 |
+|  | 15 | - | - | 17 | - | - | 32 |
+|  | 1,297 | 941 | 518 | 720 | 325 | 12 | 3,813 |
+
+
+## Table 240 (Page 129)
+
+| Particulars | Nominal Value | Carrying Amount | Col_3 | Changes in Fair Value | Hedge Maturity | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Assets | Liabilities |  |  |  |
+| As at 31st March, 2025 Foreign Currency Risk Foreign Currency Risk Components - Trade Payable Foreign Currency Risk Components - Borrowings Forward Contracts Interest Rate Risk Interest Rate Swaps |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  | 24,702 | - | 25,643 | (561) | 30th June 2025 to 31st March 2028 | Trade Payables |
+|  | 1,40,786 | - | 1,52,938 | (2,942) | 30th April 2025 to 31st March 2062 | Borrowings |
+|  | 43,710 | 136 | 303 | 503 | 30th April 2025 to 30th June 2028 | Other Financial Assets / Liabilities |
+|  |  |  |  |  |  |  |
+|  | 22,316 | 5 | 71 | 5 | 30th September 2027 to 31st July 2029 | Other Financial Liabilities |
+
+
+## Table 241 (Page 129)
+
+| Particulars | Nominal Value | Quantity | Col_3 | Carrying Amount | Col_5 | Changes in Fair Value | Hedge Maturity | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | (Kbbl) | (Kgs) | Assets | Liabilities |  |  |  |
+| As at 31st March, 2025 Foreign Currency Risk Derivative Contracts Interest Rate Risk Derivative Contracts Investments Commodity Price Risk Derivative Contracts |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  | 72,166 | - | - | - | 1,247 | (1,257) | April 2025 to February 2026 | Other Financial Liabilities |
+|  |  |  |  |  |  |  |  |  |
+|  | 4,683 | - | - | 24 | 2 | 69 | April 2025 to August 2029 | Other Financial Liabilities |
+|  | 10,893 | - | - | 10,937 | - | (136) | August 2033 to March 2035 | Investments |
+|  |  |  |  |  |  |  |  |  |
+|  | 33,651 | 58,424 | 4,437 | 234 | 322 | (89) | April 2025 to September 2026 | Other Financial Assets / Liabilities |
+
+
+## Table 242 (Page 129)
+
+| Particulars | Nominal Value | Changes in Fair Value | Hedge Reserve | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- |
+| As at 31st March, 2025 Foreign Currency Risk Highly Probable Forecasted Exports Foreign Currency Borrowings Interest accrued but not due on Foreign Currency Borrowings Future Interest liability on Foreign Currency Borrowings Interest Rate Risk Borrowings Borrowings |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,65,488 | 3,503 | (17,313) | Other Equity |
+|  | 40,757 | 878 | - | Non-Current Borrowings |
+|  | 43 | - | - | Other Financial Liabilities |
+|  | 2,909 | - | (53) | Other Financial Liabilities |
+|  |  |  |  |  |
+|  | 2,522 | 16 | (82) | Other Equity |
+|  | 19,794 | 11 | 72 | Non-Current Borrowings |
+
+
+## Table 243 (Page 129)
+
+| Particulars | Carrying Amount | Col_2 | Changes in Fair Value | Line Item in Balance Sheet |
+| --- | --- | --- | --- | --- |
+|  | Assets | Liabilities |  |  |
+| As at 31st March, 2025 Foreign Currency Risk Import Firm Commitments Interest Rate Risk Borrowings Commodity Price Risk Firm Commitments for purchase of feedstock and freight Firm Commitments for sale of products Inventories Trade Receivables |  |  |  |  |
+|  |  |  |  |  |
+|  | 1,247 | - | 1,257 | Other Financial Assets |
+|  |  |  |  |  |
+|  | - | 15,647 | 64 | Non-Current Borrowings |
+|  |  |  |  |  |
+|  | - | 167 | (167) | Other Current Assets / Liabilities |
+|  | 125 | 1 | 124 | Other Current Assets / Liabilities |
+|  | 7,527 | - | 64 | Inventories |
+|  | 7,910 | - | 82 | Financial Assets |
+
+
+## Table 244 (Page 130)
+
+| Sr. No. | Particulars | 2024-25 | 2023-24 | Line Item in Balance Sheet / Statement of Profit and Loss |
+| --- | --- | --- | --- | --- |
+| 1 At the beginning of the year 2 Gain / (loss) recognised in Other Comprehensive Income during the year 3 Amount reclassified to Profit and Loss during the year 4 At the end of the year |  | (15,559) | (14,501) (2,971) Items that will be reclassified to Profit & Loss 1,913 Value of Sale and Finance Cost (15,559) Other Comprehensive Income |  |
+|  |  | (3,595) |  |  |
+|  |  | 2,115 |  |  |
+|  |  | (17,039) |  |  |
+
+
+## Table 245 (Page 130)
+
+| Col_0 | 2024-25 | O2C ** | Oil and Gas | Retail ** | Digital Services | Others | Unallocable | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 Segment Revenue External Turnover Inter Segment Turnover Value of Sales and Services (Revenue) * Less: GST Recovered Revenue from Operations (Net of GST) 2 Segment Result before Interest and Taxes Finance Cost Interest Income Profit before Tax and Share of Profit / (Loss) of Associate and Joint Ventures Current Tax Deferred Tax Profit after Tax (before adjustment for Non-Controlling Interest) Share of Profit / (loss) of associate and joint ventures Share of (Profit) / Loss transferred to Non-Controlling Interest Profit after Tax (after adjustment for Non-Controlling Interest) 3 Other Information Segment Assets Segment Liabilities Capital Expenditure Depreciation / Amortisation and Depletion Expense |  |  |  |  |  |  |  |  |
+|  |  | 6,25,928 | 19,957 | 3,26,872 | 50,318 | 48,099 | - | 10,71,174 |
+|  |  | 993 | 5,254 | 4,071 | 1,03,801 | 7,760 | - | - |
+|  |  | 6,26,921 | 25,211 | 3,30,943 | 1,54,119 | 55,859 | - | 10,71,174 |
+|  |  | 21,915 | 330 | 39,900 | 22,783 | 6,110 | - | 91,038 |
+|  |  | 6,05,006 | 24,881 | 2,91,043 | 1,31,336 | 49,749 | - | 9,80,136 |
+|  |  | 47,257 | 15,840 | 19,070 | 39,717 | 530 | (3,024) | 1,19,390 |
+|  |  |  |  |  |  |  |  | (24,269) |
+|  |  |  |  |  |  |  |  | 10,896 |
+|  |  |  |  |  |  |  |  | 1,06,017 |
+|  |  |  |  |  |  |  |  | (12,758) |
+|  |  |  |  |  |  |  |  | (12,472) |
+|  |  |  |  |  |  |  |  | 80,787 |
+|  |  |  |  |  |  |  |  | 522 |
+|  |  |  |  |  |  |  |  | (11,661) |
+|  |  |  |  |  |  |  |  | 69,648 |
+|  |  |  |  |  |  |  |  |  |
+|  |  | 4,40,859 | 35,863 | 2,18,219 | 5,98,015 | 3,44,853 | 3,12,312 | 19,50,121 |
+|  |  | 1,95,845 | 13,806 | 87,554 | 2,43,664 | 72,263 | 13,36,989 | 19,50,121 |
+|  |  | 26,573 | 1,154 | 33,696 | 38,438 | 25,104 | 6,142 | 1,31,107 |
+|  |  | 7,731 | 5,348 | 6,024 | 25,284 | 7,996 | 753 | 53,136 |
+
+
+## Table 246 (Page 131)
+
+| Col_0 | 2024-25 | 2023-24 |
+| --- | --- | --- |
+| 1 Segment Revenue – External Turnover Within India Outside India |  | 6,49,864 3,50,258 |
+|  | 6,86,534 |  |
+|  | 3,84,640 |  |
+| Total | 10,71,174 | 10,00,122 |
+| 2 Non-Current Assets Within India Outside India Total |  | 12,57,375 28,511 |
+|  | 14,16,943 |  |
+|  | 33,908 |  |
+|  | 14,50,851 | 12,85,886 |
+
+
+## Table 247 (Page 134)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 248 (Page 134)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 249 (Page 135)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 250 (Page 135)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 251 (Page 136)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 252 (Page 136)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 253 (Page 137)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 254 (Page 137)
+
+| Sr. No. | Name of the Enterprise | Net Assets i.e. Total Assets minus Total Liabilities | Col_3 | Share in Profit or Loss | Col_5 | Share in Other Comprehensive Income | Col_7 | Share in Total Comprehensive Income | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | As % of Consolidated Net Assets | Amount (K in crore) | As % of Consolidated Profit or Loss | Amount (K in crore) | As % of Consolidated Other Comprehensive Income | Amount (K in crore) | As % of Consolidated Total Comprehensive Income | Amount (K in crore) |
+
+
+## Table 255 (Page 144)
+
+| Sr. No. | Name of Associate / Joint Venture | Latest Audited Balance Sheet Date | The date on which the Associate or Joint Venture was associated or acquired | Share of Associate / Joint Venture held by the Company on the year end | Col_5 | Col_6 | Net worth attributable to shareholding as per latest Audited Balance Sheet # (K in crore) | Profit / Loss for the year | Col_9 | Description of how there is Significant Influence | Reason why Associate / Joint Venture is not consolidated |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | No. | Amount of Investment in Associate / Joint Venture (K in crore) | Extent of Holding % * |  | Considered in consolidation (K in crore) | Not Considered in Consolidation |  |  |

@@ -7,6 +7,15 @@ WHAT THIS DOES:
 Orchestrates the FULL pipeline:
 
     PDF → Extract Text → Clean → Chunk → Save to Disk
+    (Optional) → Extract Tables → Save Tables
+
+TWO MODES:
+- Batch mode (all PDFs):  text only by default (fast, ~35s)
+- Single PDF mode:        text + tables (for dynamic uploads)
+
+WHY SEPARATE MODES?
+Table extraction is slow on large batches (5,350+ pages).
+But for a single user upload, it's fast enough (seconds per PDF).
 
 This processes ALL 21 PDFs and saves structured output.
 
@@ -49,6 +58,7 @@ from backend.core.config import settings
 from backend.core.logging import get_logger
 from backend.pipelines.chunker import ChunkedDocument, chunk_text
 from backend.pipelines.pdf_extractor import ExtractedDocument, extract_all_pdfs
+from backend.pipelines.table_extractor import extract_tables_from_pdf, save_tables
 from backend.pipelines.text_cleaner import CleaningStats, clean_document_text
 
 logger = get_logger(__name__)
@@ -132,11 +142,16 @@ def save_processed_output(
     return output_dir
 
 
-def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
+def run_ingestion_pipeline(
+    data_dir: Path | None = None,
+    with_tables: bool = False,
+) -> dict:
     """
     Run the complete ingestion pipeline on all PDFs.
 
-    This is the MAIN ENTRY POINT for Phase 1.
+    Args:
+        data_dir:     Directory containing PDFs
+        with_tables:  If True, also extract tables (slower)
 
     Returns:
         Summary dict with counts and statistics.
@@ -156,10 +171,12 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
         logger.error("No documents extracted. Aborting.")
         return {"success": False, "error": "No documents found"}
 
-    # ── Step 2 & 3: Clean and Chunk each document ──
-    logger.info("\n🧹 STEP 2 & 3: Cleaning and chunking...")
+    # ── Step 2 & 3: Clean and Chunk (+ optional table extraction) ──
+    step_label = "Cleaning, chunking" + (", and extracting tables" if with_tables else "")
+    logger.info(f"\n🧹 STEP 2+: {step_label}...")
 
     total_chunks = 0
+    total_tables = 0
     successful = 0
     failed = 0
     results_summary = []
@@ -187,8 +204,21 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
                 report_type=doc.report_type,
             )
 
-            # Save
-            save_processed_output(doc, cleaned_text, cleaning_stats, chunked_doc)
+            # Save text + chunks
+            output_dir = save_processed_output(doc, cleaned_text, cleaning_stats, chunked_doc)
+
+            # Extract tables (if enabled)
+            tables_found = 0
+            if with_tables:
+                doc_tables = extract_tables_from_pdf(
+                    doc.file_path,
+                    company=doc.company,
+                    year=doc.year,
+                )
+                if doc_tables.tables:
+                    save_tables(doc_tables, output_dir)
+                    tables_found = doc_tables.total_tables
+                    total_tables += tables_found
 
             total_chunks += len(chunked_doc.chunks)
             successful += 1
@@ -199,6 +229,7 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
                 "year": doc.year,
                 "pages": doc.total_pages,
                 "chunks": len(chunked_doc.chunks),
+                "tables": tables_found,
                 "chars_original": cleaning_stats.original_chars,
                 "chars_cleaned": cleaning_stats.cleaned_chars,
             })
@@ -216,6 +247,7 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
     logger.info(f"   ✅ Successful:   {successful}/{len(documents)}")
     logger.info(f"   ❌ Failed:       {failed}/{len(documents)}")
     logger.info(f"   📦 Total chunks: {total_chunks:,}")
+    logger.info(f"   📊 Total tables: {total_tables:,}")
     logger.info(f"   ⏱️  Time:        {elapsed:.1f} seconds")
     logger.info(f"   💾 Output:       {settings.processed_dir}")
 
@@ -227,6 +259,7 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
             "successful": successful,
             "failed": failed,
             "total_chunks": total_chunks,
+            "total_tables": total_tables,
             "elapsed_seconds": round(elapsed, 1),
         },
         "documents": results_summary,
@@ -246,18 +279,27 @@ def run_ingestion_pipeline(data_dir: Path | None = None) -> dict:
 # 🚀 RUN THE PIPELINE
 # ──────────────────────────────────────────────
 if __name__ == "__main__":
-    summary = run_ingestion_pipeline()
+    import sys
+
+    # Use --tables flag to enable table extraction
+    with_tables = "--tables" in sys.argv
+
+    if with_tables:
+        print("\n⚠️  Table extraction enabled (this will be slower)")
+
+    summary = run_ingestion_pipeline(with_tables=with_tables)
 
     # Print per-document results table
     if "documents" in summary:
-        print(f"\n{'─' * 70}")
-        print(f"{'File':<35} {'Pages':>6} {'Chunks':>7} {'Chars':>10}")
-        print(f"{'─' * 70}")
+        print(f"\n{'─' * 80}")
+        print(f"{'File':<35} {'Pages':>6} {'Chunks':>7} {'Tables':>7} {'Chars':>10}")
+        print(f"{'─' * 80}")
         for doc in summary["documents"]:
             print(
                 f"{doc['file']:<35} "
                 f"{doc['pages']:>6} "
                 f"{doc['chunks']:>7} "
+                f"{doc.get('tables', 0):>7} "
                 f"{doc['chars_cleaned']:>10,}"
             )
-        print(f"{'─' * 70}")
+        print(f"{'─' * 80}")

@@ -1,0 +1,1610 @@
+{
+  "metadata": {
+    "company": "nvidia",
+    "year": "2023",
+    "total_tables": 25,
+    "source_file": "nvidia_2023_annual.pdf"
+  },
+  "tables": [
+    {
+      "table_index": 0,
+      "page_number": 22,
+      "headers": [
+        "2007 Plan",
+        "NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan"
+      ],
+      "rows": [
+        [
+          "AI Artificial intelligence",
+          ""
+        ],
+        [
+          "AC Audit Committee of the Board",
+          ""
+        ],
+        [
+          "ASC 718 FASB Accounting Standards Codification Topic 718: Compensation - Stock Compensation",
+          ""
+        ],
+        [
+          "Performance goal necessary to earn the target award under the Variable Cash Plan and for the target number Base Operating Plan of SY PSUs to become eligible to vest",
+          ""
+        ],
+        [
+          "Board The Company’s Board of Directors",
+          ""
+        ],
+        [
+          "CAP “Compensation actually paid,” as defined under Item 402(v) of Regulation S-K",
+          ""
+        ],
+        [
+          "CC Compensation Committee of the Board",
+          ""
+        ],
+        [
+          "CD&A Compensation Discussion and Analysis",
+          ""
+        ],
+        [
+          "CEO Chief Executive Officer",
+          ""
+        ],
+        [
+          "CFO Chief Financial Officer",
+          ""
+        ],
+        [
+          "Charter The Company’s Restated Certificate of Incorporation",
+          ""
+        ],
+        [
+          "Control Number Identification number for each stockholder included in Notice or proxy card",
+          ""
+        ],
+        [
+          "CR Corporate responsibility",
+          ""
+        ],
+        [
+          "ERM Enterprise risk management",
+          ""
+        ],
+        [
+          "ESPP NVIDIA Corporation Amended and Restated 2012 Employee Stock Purchase Plan",
+          ""
+        ],
+        [
+          "Exchange Act Securities Exchange Act of 1934, as amended",
+          ""
+        ],
+        [
+          "FASB Financial Accounting Standards Board",
+          ""
+        ],
+        [
+          "Fiscal 20 The Company’s fiscal year ended on the last Sunday in January of the stated year __",
+          ""
+        ],
+        [
+          "Form 10-K The Company’s Annual Report on Form 10-K for Fiscal 2023 filed with the SEC on February 24, 2023",
+          ""
+        ],
+        [
+          "GAAP Generally accepted accounting principles in the United States",
+          ""
+        ],
+        [
+          "Internal Revenue Code U.S. Internal Revenue Code of 1986, as amended",
+          ""
+        ],
+        [
+          "Lead Director Lead independent director",
+          ""
+        ],
+        [
+          "Meeting Annual Meeting of Stockholders",
+          ""
+        ],
+        [
+          "MY PSUs Multi-year PSUs with a three-year performance metric, vesting after three years",
+          ""
+        ],
+        [
+          "Nasdaq The Nasdaq Stock Market LLC",
+          ""
+        ],
+        [
+          "NCGC Nominating and Corporate Governance Committee of the Board",
+          ""
+        ],
+        [
+          "Named Executive Officers consisting of our CEO, our CFO, and our other three most highly compensated NEOs executive officers as of the end of Fiscal 2023",
+          ""
+        ],
+        [
+          "GAAP operating income, as the Company reports in its SEC filings, excluding stock-based compensation expense, acquisition termination cost, acquisition-related costs, restructuring costs, IP-related costs, legal Non-GAAP Operating settlement costs, contributions and other costs. Please see Reconciliation of Non-GAAP Financial Measures in Income our CD&A for a reconciliation between the non-GAAP financial measures and GAAP results",
+          ""
+        ],
+        [
+          "Notice Notice of Internet Availability of Proxy Materials",
+          ""
+        ],
+        [
+          "NVIDIA, Company, we, us, our NVIDIA Corporation, a Delaware corporation",
+          ""
+        ],
+        [
+          "NYSE New York Stock Exchange",
+          ""
+        ],
+        [
+          "PACs Political action committees",
+          ""
+        ],
+        [
+          "PSU Performance stock unit",
+          ""
+        ],
+        [
+          "PwC PricewaterhouseCoopers LLP",
+          ""
+        ],
+        [
+          "RBA Responsible Business Alliance",
+          ""
+        ],
+        [
+          "RSU Restricted stock unit",
+          ""
+        ],
+        [
+          "S&P 500 Standard & Poor’s 500 Composite Index",
+          ""
+        ],
+        [
+          "SEC U.S. Securities and Exchange Commission",
+          ""
+        ],
+        [
+          "Section 162(m) Section 162(m) of the Internal Revenue Code",
+          ""
+        ],
+        [
+          "Securities Act Securities Act of 1933, as amended",
+          ""
+        ],
+        [
+          "Stretch Performance goal necessary for the maximum number of MY PSUs to become eligible to vest",
+          ""
+        ],
+        [
+          "Stretch Operating Performance goal necessary to earn the maximum award under the Variable Cash Plan and for the maximum Plan number of SY PSUs to become eligible to vest",
+          ""
+        ],
+        [
+          "SY PSUs PSUs with a single-year performance metric, vesting over four years",
+          ""
+        ],
+        [
+          "Target Performance goal necessary for the target number of MY PSUs to become eligible to vest",
+          ""
+        ],
+        [
+          "Minimum performance goal necessary to earn an award under the Variable Cash Plan and for SY PSUs and MY Threshold PSUs to become eligible to vest",
+          ""
+        ],
+        [
+          "TSR Total shareholder return",
+          ""
+        ],
+        [
+          "Variable Cash Plan The Company’s variable cash compensation plan",
+          ""
+        ]
+      ],
+      "row_count": 47,
+      "col_count": 2
+    },
+    {
+      "table_index": 1,
+      "page_number": 25,
+      "headers": [
+        "1",
+        "Election of thirteen directors",
+        "FOR each director More FOR than 15 nominee AGAINST votes None None",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "2",
+          "Advisory approval of our executive compensation",
+          "",
+          "43",
+          "",
+          "FOR",
+          "",
+          "Majority of shares present, in person or represented by proxy, and entitled to vote on this matter",
+          "",
+          "Against",
+          "",
+          "None"
+        ],
+        [
+          "3",
+          "Advisory approval of the frequency of holding an advisory vote on our executive compensation",
+          "",
+          "66",
+          "",
+          "1 YEAR",
+          "",
+          "Majority of shares present, in person or represented by proxy, and entitled to vote on this matter (1)",
+          "",
+          "Against",
+          "",
+          "None"
+        ],
+        [
+          "4",
+          "Ratification of the selection of PwC as our independent registered public accounting firm for Fiscal 2024",
+          "",
+          "67",
+          "",
+          "FOR",
+          "",
+          "Majority of shares present, in person or represented by proxy, and entitled to vote on this matter",
+          "",
+          "Against",
+          "",
+          "N/A (2)"
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 12
+    },
+    {
+      "table_index": 2,
+      "page_number": 26,
+      "headers": [
+        "Aarti Shah 58 2020",
+        "",
+        "",
+        "ü",
+        "AC"
+      ],
+      "rows": [
+        [
+          "Mark A. Stevens 63 2008",
+          "(6)",
+          "",
+          "ü",
+          "AC, NCGC"
+        ]
+      ],
+      "row_count": 1,
+      "col_count": 5
+    },
+    {
+      "table_index": 3,
+      "page_number": 27,
+      "headers": [
+        "Coxe",
+        "",
+        "",
+        "ü ü ü",
+        "",
+        "",
+        "",
+        "",
+        "ü",
+        ""
+      ],
+      "rows": [
+        [
+          "Dabiri ü",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Drell",
+          "ü",
+          "ü",
+          "",
+          "ü ü",
+          "",
+          "",
+          "",
+          "ü",
+          "ü"
+        ],
+        [
+          "Huang ü ü ü",
+          "",
+          "",
+          "",
+          "ü",
+          "ü ü",
+          "",
+          "ü",
+          "ü",
+          "ü"
+        ],
+        [
+          "Hudson ü ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          "ü"
+        ],
+        [
+          "Jones ü ü ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          "",
+          "ü",
+          ""
+        ],
+        [
+          "McCaffery ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          ""
+        ],
+        [
+          "Neal ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          "ü",
+          "ü",
+          ""
+        ],
+        [
+          "Perry ü ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          ""
+        ],
+        [
+          "Seawell ü ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "ü",
+          ""
+        ],
+        [
+          "Shah ü ü",
+          "",
+          "",
+          "",
+          "ü",
+          "ü",
+          "ü ü",
+          "",
+          "ü",
+          "ü"
+        ],
+        [
+          "Stevens ü ü ü ü",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 11,
+      "col_count": 10
+    },
+    {
+      "table_index": 4,
+      "page_number": 32,
+      "headers": [
+        "1",
+        "Election of thirteen directors",
+        "Directors are elected if they receive None None more FOR votes than AGAINST votes"
+      ],
+      "rows": [
+        [
+          "FOR votes from the holders of a Advisory approval of our executive majority of shares present, in person or 2 Against None compensation represented by proxy, and entitled to vote on this matter",
+          "",
+          ""
+        ],
+        [
+          "The frequency receiving votes from the Advisory approval of the frequency of holders of a majority of shares present, 3 holding a vote on our executive Against None in person or represented by proxy, and compensation entitled to vote on this matter (1)",
+          "",
+          ""
+        ],
+        [
+          "FOR votes from the holders of a Ratification of the selection of PwC as 4 our independent registered public majority of shares present, in person or Against N/A (2) represented by proxy, and entitled to accounting firm for Fiscal 2024 vote on this matter",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 3
+    },
+    {
+      "table_index": 5,
+      "page_number": 37,
+      "headers": [
+        "Burgess",
+        "ü",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Coxe",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Dabiri",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Drell",
+          "",
+          "ü",
+          "",
+          ""
+        ],
+        [
+          "Huang",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Hudson",
+          "",
+          "ü",
+          "",
+          ""
+        ],
+        [
+          "Jones",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "McCaffery",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Neal",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Perry",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Seawell",
+          "ü",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Shah",
+          "",
+          "ü",
+          "",
+          ""
+        ],
+        [
+          "Stevens",
+          "ü",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 12,
+      "col_count": 5
+    },
+    {
+      "table_index": 6,
+      "page_number": 58,
+      "headers": [
+        "Stephen C. Neal",
+        "",
+        "719"
+      ],
+      "rows": [
+        [
+          "Mark L. Perry",
+          "719",
+          ""
+        ],
+        [
+          "A. Brooke Seawell 719",
+          "",
+          ""
+        ],
+        [
+          "Aarti Shah",
+          "1,287",
+          ""
+        ],
+        [
+          "Mark A. Stevens 719",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 4,
+      "col_count": 3
+    },
+    {
+      "table_index": 7,
+      "page_number": 60,
+      "headers": [
+        "Jen-Hsun Huang",
+        "",
+        "86,403,193",
+        "(1)",
+        "475,000 86,878,193",
+        "",
+        "",
+        "",
+        "",
+        "3.51%"
+      ],
+      "rows": [
+        [
+          "Colette M. Kress",
+          "",
+          "478,297 (2)",
+          "",
+          "—",
+          "",
+          "",
+          "478,297",
+          "*",
+          ""
+        ],
+        [
+          "Ajay K. Puri",
+          "",
+          "363,780",
+          "(3) — 363,780 *",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Debora Shoquist",
+          "",
+          "278,224",
+          "(4) —",
+          "",
+          "",
+          "",
+          "278,224",
+          "*",
+          ""
+        ],
+        [
+          "Timothy S. Teter",
+          "",
+          "200,050",
+          "(5) — 200,050 *",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Directors, not including Mr. Huang:",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Robert K. Burgess",
+          "",
+          "28,859",
+          "719 29,578 *",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Tench Coxe",
+          "",
+          "4,185,524",
+          "(6) —",
+          "",
+          "",
+          "",
+          "4,185,524",
+          "*",
+          ""
+        ],
+        [
+          "John O. Dabiri",
+          "",
+          "1,282",
+          "719",
+          "",
+          "",
+          "",
+          "2,001",
+          "*",
+          ""
+        ],
+        [
+          "Persis S. Drell",
+          "",
+          "42,559",
+          "719 43,278 *",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Dawn Hudson",
+          "",
+          "81,783",
+          "(7) 719 82,502 *",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Harvey C. Jones",
+          "",
+          "998,328",
+          "(8) —",
+          "",
+          "",
+          "",
+          "998,328",
+          "*",
+          ""
+        ],
+        [
+          "Michael G. McCaffery",
+          "",
+          "21,451",
+          "(9)",
+          "719",
+          "",
+          "",
+          "22,170",
+          "*",
+          ""
+        ],
+        [
+          "Stephen C. Neal",
+          "",
+          "9,435",
+          "(10) 719",
+          "",
+          "",
+          "",
+          "10,154",
+          "*",
+          ""
+        ],
+        [
+          "Mark L. Perry",
+          "",
+          "152,243",
+          "(11)",
+          "719",
+          "",
+          "",
+          "152,962",
+          "*",
+          ""
+        ],
+        [
+          "A. Brooke Seawell",
+          "",
+          "501,579",
+          "(12)",
+          "719",
+          "",
+          "",
+          "502,298",
+          "*",
+          ""
+        ],
+        [
+          "Aarti Shah",
+          "",
+          "—",
+          "(13)",
+          "—",
+          "",
+          "",
+          "—",
+          "*",
+          ""
+        ],
+        [
+          "Mark A. Stevens",
+          "",
+          "4,442,067 (14)",
+          "",
+          "719",
+          "",
+          "",
+          "4,442,786",
+          "*",
+          ""
+        ],
+        [
+          "Directors and executive officers as a group (17 persons) 98,188,654 (15)",
+          "",
+          "",
+          "",
+          "",
+          "481,471",
+          "98,670,125",
+          "",
+          "",
+          "3.99%"
+        ]
+      ],
+      "row_count": 18,
+      "col_count": 10
+    },
+    {
+      "table_index": 8,
+      "page_number": 60,
+      "headers": [
+        "The Vanguard Group, Inc. 204,600,119 (16) — 204,600,119",
+        "8.27%"
+      ],
+      "rows": [
+        [
+          "BlackRock, Inc. 179,816,144 (17) — 179,816,144",
+          "7.27%"
+        ],
+        [
+          "FMR LLC 138,693,959 (18) — 138,693,959",
+          "5.61%"
+        ]
+      ],
+      "row_count": 2,
+      "col_count": 2
+    },
+    {
+      "table_index": 9,
+      "page_number": 65,
+      "headers": [
+        "Adobe Inc. (ADBE)",
+        "International Business Machines Corporation (IBM)",
+        "Oracle Corporation (ORCL)",
+        "SAP SE (SAP)"
+      ],
+      "rows": [
+        [
+          "Advanced Micro Devices, Inc. (AMD)",
+          "Intel Corporation (INTC)",
+          "PayPal Holdings, Inc. (PYPL)",
+          "Texas Instruments Incorporated (TXN)"
+        ],
+        [
+          "Broadcom Limited (AVGO)",
+          "Intuit Inc. (INTU)",
+          "Qualcomm Incorporated (QCOM)",
+          "Visa Inc. (V)"
+        ],
+        [
+          "Cisco Systems, Inc. (CSCO)",
+          "Netflix, Inc. (NFLX)",
+          "Salesforce, Inc. (CRM)",
+          "VMware, Inc. (VMW)"
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 4
+    },
+    {
+      "table_index": 10,
+      "page_number": 74,
+      "headers": [
+        "our NEOs in March.",
+        "On occasion, the CC may grant equity awards outside of our annual grant cycle for new hires,"
+      ],
+      "rows": [
+        [
+          "promotions, recognition, retention or other purposes. While the CC has discretionary authority to approve equity awards",
+          ""
+        ],
+        [
+          "to our NEOs outside of the cycle described above,",
+          ""
+        ]
+      ],
+      "row_count": 2,
+      "col_count": 2
+    },
+    {
+      "table_index": 11,
+      "page_number": 76,
+      "headers": [
+        "Colette M. Kress",
+        "",
+        "2023 2022 2021",
+        "897,149 10,004,677 896,595 8,269,020",
+        "",
+        "— 600,000",
+        "15,402 10,312",
+        "(4)",
+        "10,917,228"
+      ],
+      "rows": [
+        [
+          "Executive Vice President and CFO",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "9,775,927"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "915,620 6,595,691 600,000 9,731",
+          "",
+          "",
+          "",
+          "8,121,042"
+        ]
+      ],
+      "row_count": 2,
+      "col_count": 9
+    },
+    {
+      "table_index": 12,
+      "page_number": 76,
+      "headers": [
+        "Debora Shoquist",
+        "",
+        "2023 2022 2021",
+        "847,307 8,244,465 846,784 6,483,557",
+        "",
+        "— 500,000",
+        "23,478 21,478",
+        "(4)",
+        "9,115,250"
+      ],
+      "rows": [
+        [
+          "Executive Vice President, Operations",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "7,851,819"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "864,752 5,722,904 500,000 21,581",
+          "",
+          "",
+          "",
+          "7,109,237"
+        ]
+      ],
+      "row_count": 2,
+      "col_count": 9
+    },
+    {
+      "table_index": 13,
+      "page_number": 77,
+      "headers": [
+        "Colette M. Kress",
+        "SY PSU MY PSU RSU",
+        "3/10/22",
+        "3/3/22",
+        "",
+        "— — — 300,000",
+        "",
+        "12,062 548",
+        "24,124 2,193 — —",
+        "48,248 4,386",
+        "— — 17,545 —",
+        "5,451,059 589,149 3,964,468 —",
+        "(5)"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "3/10/22 3/10/22",
+          "3/3/22 3/3/22 3/3/22",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Variable Cash Plan",
+          "3/3/22",
+          "",
+          "150,000",
+          "",
+          "600,000",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 13
+    },
+    {
+      "table_index": 14,
+      "page_number": 77,
+      "headers": [
+        "Debora Shoquist",
+        "SY PSU MY PSU RSU Variable Cash Plan",
+        "3/10/22 3/10/22 3/10/22 3/3/22",
+        "3/3/22 3/3/22 3/3/22 3/3/22",
+        "",
+        "— — — 250,000",
+        "",
+        "9,940 452",
+        "19,880 1,807 — —",
+        "39,760 3,614",
+        "— — 14,458 —",
+        "4,492,085 485,451 3,266,930 —",
+        "(5)"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "125,000",
+          "",
+          "500,000",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 13
+    },
+    {
+      "table_index": 15,
+      "page_number": 78,
+      "headers": [
+        "Colette M. Kress",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "1,976 3,156 13,168 36,216 10,536 13,868 38,144 14,256 — —",
+        "(9) (3) (10) (4) (5) (11) (6) (12)",
+        "",
+        "402,412",
+        "",
+        "— — — — — — — — 6,160 4,386",
+        "",
+        "",
+        "— — — — — — — —"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "642,719 2,681,663 7,375,388 2,145,656 2,824,218 7,768,026 2,903,234 — —",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(7) (8)",
+          "",
+          "1,254,484"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "893,209"
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 19
+    },
+    {
+      "table_index": 16,
+      "page_number": 78,
+      "headers": [
+        "Debora Shoquist",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "— — — — — — — — — —",
+        "",
+        "1,376 2,344 11,428 31,424 9,144 10,872 29,904 11,748 — —",
+        "(9) (3) (10) (4) (5) (11) (6) (12)",
+        "",
+        "280,222 477,356 2,327,312 6,399,498 1,862,176 2,214,083 6,089,950 2,392,480 — —",
+        "",
+        "— — — — — — — — 4,832 3,614",
+        "",
+        "",
+        "— — — — — — — —"
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "(7) (8)",
+          "",
+          "984,037 735,991"
+        ]
+      ],
+      "row_count": 2,
+      "col_count": 20
+    },
+    {
+      "table_index": 17,
+      "page_number": 79,
+      "headers": [
+        "Jen-Hsun Huang",
+        "2,917,340",
+        "442,805,513",
+        "286,412 (3) 61,847,146",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Colette M. Kress",
+          "—",
+          "—",
+          "114,089",
+          "(4)",
+          "22,135,573"
+        ],
+        [
+          "Ajay K. Puri",
+          "—",
+          "—",
+          "110,859",
+          "(5)",
+          "21,524,023"
+        ],
+        [
+          "Debora Shoquist",
+          "—",
+          "—",
+          "91,214",
+          "(6)",
+          "17,650,436"
+        ],
+        [
+          "Timothy S. Teter — — 75,510 (7) 14,800,031",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 4,
+      "col_count": 6
+    },
+    {
+      "table_index": 18,
+      "page_number": 80,
+      "headers": [
+        "Colette M. Kress",
+        "",
+        "155,449",
+        "31,657,189"
+      ],
+      "rows": [
+        [
+          "Ajay K. Puri",
+          "148,402",
+          "",
+          "30,222,067"
+        ],
+        [
+          "Debora Shoquist",
+          "",
+          "127,771",
+          "26,020,564"
+        ],
+        [
+          "Timothy S. Teter",
+          "110,879",
+          "",
+          "22,580,508"
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 4
+    },
+    {
+      "table_index": 19,
+      "page_number": 81,
+      "headers": [
+        "2022",
+        "",
+        "23,737,661",
+        "(18,660,407) 45,314,829 43,741,239 11,410,446 100,466,514 105,543,768"
+      ],
+      "rows": [
+        [
+          "2021",
+          "19,316,401",
+          "",
+          "(15,279,780) 44,912,609 28,796,208 1,886,437 75,595,254 79,631,875"
+        ]
+      ],
+      "row_count": 1,
+      "col_count": 4
+    },
+    {
+      "table_index": 20,
+      "page_number": 82,
+      "headers": [
+        "2022",
+        "",
+        "8,910,802",
+        "(7,282,238) 18,734,157 11,713,153 976,553 5,400,644 36,824,507 38,453,071"
+      ],
+      "rows": [
+        [
+          "2021",
+          "",
+          "",
+          "(5,577,460) 18,437,076 5,723,898 — 2,071,805 26,232,779 27,879,337"
+        ]
+      ],
+      "row_count": 1,
+      "col_count": 4
+    },
+    {
+      "table_index": 21,
+      "page_number": 136,
+      "headers": [
+        "Net income",
+        "$ 4,368",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Other comprehensive income (loss), net of tax",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Available-for-sale debt securities:",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Net unrealized gain (loss) (31) (16) 2",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Reclassification adjustments for net realized gain (loss) included in net income",
+          "1 — (2)",
+          "",
+          ""
+        ],
+        [
+          "Net change in unrealized loss (30) (16) —",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Cash flow hedges:",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Net unrealized gain (loss) 47 (43) 9",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Reclassification adjustments for net realized gain (loss) included in net income",
+          "(49) 29 9",
+          "",
+          ""
+        ],
+        [
+          "Net change in unrealized gain (loss) (2) (14) 18",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Other comprehensive income (loss), net of tax (32) (30) 18",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Total comprehensive income $ 4,336 $ 9,722 $ 4,350",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 11,
+      "col_count": 4
+    },
+    {
+      "table_index": 22,
+      "page_number": 148,
+      "headers": [
+        "Weighted average expected life (in years)",
+        "0.1-2.0",
+        "",
+        "0.1-2.0 0.1-2.0"
+      ],
+      "rows": [
+        [
+          "Risk-free interest rate",
+          "—%-4.6%",
+          "",
+          "—%-0.5% 0.1%-1.6%"
+        ],
+        [
+          "Volatility",
+          "43%-72%",
+          "",
+          "20%-58% 26%-89%"
+        ],
+        [
+          "Dividend yield",
+          "0.1%",
+          "",
+          "0.1% 0.1%-0.3%"
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 4
+    },
+    {
+      "table_index": 23,
+      "page_number": 149,
+      "headers": [
+        "",
+        "(In millions, exce",
+        "pt per share data)"
+      ],
+      "rows": [
+        [
+          "Balances, January 30, 2022 46 $ 114.19",
+          "",
+          ""
+        ],
+        [
+          "Granted 25 $ 183.72",
+          "",
+          ""
+        ],
+        [
+          "Vested restricted stock (24) $ 100.06",
+          "",
+          ""
+        ],
+        [
+          "Canceled and forfeited (2) $ 141.17",
+          "",
+          ""
+        ],
+        [
+          "Balances, January 29, 2023 45 $ 158.45",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 5,
+      "col_count": 3
+    },
+    {
+      "table_index": 24,
+      "page_number": 156,
+      "headers": [
+        "Balance at beginning of period",
+        "",
+        "$ 46",
+        "",
+        "$ 22",
+        "$ 15"
+      ],
+      "rows": [
+        [
+          "Additions",
+          "",
+          "145",
+          "40",
+          "",
+          "28"
+        ],
+        [
+          "Utilization",
+          "",
+          "(109) (16)",
+          "",
+          "",
+          "(21)"
+        ],
+        [
+          "Balance at end of period",
+          "",
+          "$ 82",
+          "",
+          "$ 46 $ 22",
+          ""
+        ]
+      ],
+      "row_count": 3,
+      "col_count": 6
+    }
+  ]
+}

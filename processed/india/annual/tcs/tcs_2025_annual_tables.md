@@ -1,0 +1,3805 @@
+# Tables from tcs_2025_annual.pdf
+
+
+## Table 1 (Page 42)
+
+| Dividend declaration date | Rate of dividend ` per share |
+| --- | --- |
+| June 15, 2018 | 29 |
+| July 10, 2018 October 11, 2018 | 4 |
+|  | 4 |
+| Janurary 10, 2019 | 4 |
+
+
+## Table 2 (Page 42)
+
+| S/N | Particulars | Details |
+| --- | --- | --- |
+| 1 | Date and time of AGM | Thursday, June 19, 2025, at 3:00 p.m. (IST) |
+| 2 | Record date for Final Dividend | Wednesday, June 4, 2025 |
+| 3 | Date of payment of Final Dividend (if approved at the AGM) | Tuesday, June 24, 2025 |
+| 4 | E-voting start date and time | Sunday, June 15, 2025 from 9:00 a.m. (IST) |
+| 5 | E-voting end date and time | Wednesday, June 18, 2025 till 5:00 p.m. (IST) |
+
+
+## Table 3 (Page 48)
+
+| Category of Shareholder | Document(s) to be submitet d/ uploaded |
+| --- | --- |
+| Resident individual shareholders with PAN* and whose income does not exceed maximum amount not chargeable to tax or who is not liable to pay income tax | i. Form No. 15G or ii. Form No. 15H |
+| Non-resident shareholders [including Foreign Portof lio Investors (FPIs)] who can avail beneficial rates under tax treaty between India and their country of tax residence | i. No Permanent Establishment Declaration ii. Beneficial Ownership Declaration iii. Tax Residency Certificate iv. Copy of electronically filed Form 10F v. Any other document which may be required |
+
+
+## Table 4 (Page 58)
+
+| Type of Transactions | During Financial Year | Promoter Company | Subsidiaries of Promoter Company | Associates/ Joint Ventures of Promoter company | Non-wholly owned subsidiaries of the Company |
+| --- | --- | --- | --- | --- | --- |
+| IT/ITE services rendered | 2025 | 69 | 1,184 | 5,076 | 1,506 |
+|  | 2024 | 50 | 1,006 | 3,875 | 1,155 |
+|  | 2023 | 38 | 1,152 | 2,506 | 1,063 |
+
+
+## Table 5 (Page 58)
+
+| Procurement of goods and services* | 2025 | 2 | 8,639 | 299 | 101 |
+| --- | --- | --- | --- | --- | --- |
+|  | 2024 | 2 | 1,470 | 419 | 63 |
+|  | 2023 | 1 | 600 | 422 | 59 |
+
+
+## Table 6 (Page 58)
+
+| Brand equity contribution | 2025 | 200 | - | - | - |
+| --- | --- | --- | --- | --- | --- |
+|  | 2024 | 200 | - | - | - |
+|  | 2023 | 99 | - | - | - |
+
+
+## Table 7 (Page 58)
+
+| Lease rental | 2025 | - | 49 | 60 | - |
+| --- | --- | --- | --- | --- | --- |
+|  | 2024 | - | 49 | 46 | - |
+|  | 2023 | - | 56 | 47 | - |
+
+
+## Table 8 (Page 58)
+
+| Investment in financial instruments & properties | 2025 | - | 2,091 | - | - |
+| --- | --- | --- | --- | --- | --- |
+|  | 2024 | - | - | - | - |
+|  | 2023 | - | - | - | - |
+
+
+## Table 9 (Page 58)
+
+| Interest income/Other income | 2025 | - | 19 | - | 1 |
+| --- | --- | --- | --- | --- | --- |
+|  | 2024 | - | - | - | 1 |
+|  | 2023 | - | - | - | - |
+
+
+## Table 10 (Page 59)
+
+| Description | Particulars | Col_2 |
+| --- | --- | --- |
+| Name of related party | Tata Capital Limited (TCL) | Tata Capital Housing Finance Limited (TCHFL) |
+| Nature of relationship [including nature of its interest (financial or otherwise)] | TCL is a subsidiary of Tata Sons Private Limited (Promoter Company). Accordingly, TCL is a related party of TCS pursuant to Section 2(76) of the Act and Regulation 2(1)(zb) of the SEBI Listing Regulations. | TCHFL is a step-down subsidiary of Promoter Company and wholly-owned subsidiary of TCL. Accordingly, TCHFL is a related party of TCS pursuant to Section 2(76) of the Act and Regulation 2(1)(zb) of the SEBI Listing Regulations. |
+| Type and particulars of proposed transactions | a) Rendering of IT/ITE Services including IT, Infrastructure, Cloud, IoT and Digital Engineering, Digital Transformation, Analytics, Cyber Security, and such related areas b) Supply of hardware and software c) Reimbursement of expenses d) Procurement of goods, services, etc. e) Leasing of property f) Investment through Inter Corporate Deposits/Non-convertible Debentures/Term Loan or any other financial instrument ofef red g) Any transfer of resources, services, or obligations to meet its objectives/requirements |  |
+| Material terms of the proposed transactions | Transactions in the ordinary course of business with terms and conditions that are generall prevalent in the industry segments that the Company operates in. For tenure, value and applicable terms, refer S/N 4, 5 and 11C respectively. |  |
+| Tenure of the proposed transactions | Contracts and instruments for a tenure up to 5 years | Contracts and instruments for a tenure up to 5 years |
+| Value of the proposed transactions during FY 2025-26 | Not exceeding `5,300 crore | Not exceeding `5,000 crore |
+| Total transactions for past three years | FY 25: `661 crore FY 24: `96 crore FY 23: `79 crore | FY 25: `28 crore FY 24: `14 crore FY 23: `9 crore |
+| Percentage of TCS’s annual consolidated turnover, for the immediately preceding financial year, that is represented by the value of the proposed transaction | 2.08 | 1.96 |
+
+
+## Table 11 (Page 60)
+
+| S/N De | scription | Col_2 |
+| --- | --- | --- |
+| Na | me of related party | Tata Capital Limited (TCL) |
+| 8. Ju tr | stification of the proposed ansactions |  |
+| 9. A va re th th be th of | statement that the luation or other external port, if any, relied upon by e listed entity in relation to e proposed transaction will made available through e registered email address the shareholders |  |
+| 10. Na w na | me of the Director or KMP ho is related, if any, and the ture of their relationship |  |
+| 11. Fo gi |  |  |
+| A. So | urce of funds |  |
+| B. In in to in ad • • • | case any financial debtedness is incurred make or give loans, tercorporate deposits, vances or investment: Nature of indebtedness. Cost of funds; and Tenure of the indebtedness |  |
+| C. Ap co ra sc or na | plicable terms, including venants, tenure, interest te and repayment hedule, whether secured unsecured; if secured, the ture of security |  |
+
+
+## Table 12 (Page 61)
+
+| Description | Particulars | Col_2 |
+| --- | --- | --- |
+| Name of related party | Tata Capital Limited (TCL) | Tata Capital Housing Finance Limited (TCHFL) |
+| Purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the RPT | The funds collected will be deployed in furtherance of their business and operational activities. |  |
+| Any other relevant information | All important information forms part of the statement setting out material facts, pursuant t Section 102(1) of the Act, forming part of this Notice. |  |
+
+
+## Table 13 (Page 61)
+
+| Description | Particulars | Col_2 | Col_3 |
+| --- | --- | --- | --- |
+| Name of related party | Tejas Networks Limited (TNL) | Jaguar Land Rover Limited (JLRL) | Tata Consultancy Services Japan, Ltd. (TCS Japan) |
+| Nature of relationship [including nature of its interest (financial or otherwise)] | TNL is a subsidiary of Promoter Company. Accordingly, TNL is a related party of TCS pursuant to Section 2(76) of the Act and Regulation 2(1)(zb) of the SEBI Listing Regulations. | JLRL is a step-down subsidiary of Tata Motors Limited (TML) and TML is an associate of Promoter Company. Accordingly, JLRL is a related party of TCS as per Regulation 2(1)(zb) of the SEBI Listing Regulations. | TCS Japan is a non-wholly owned subsidiary of TCS. Accordingly, TCS Japan is a related party of TCS pursuant to Section 2(76) of the Act and Regulation 2(1)(zb) of the SEBI Listing Regulations. |
+| Type and particulars of the proposed transactions | (a) Rendering of IT/ITE Services including IT, Infrastructure, Cloud, IoT and Digital Engineering, Digital Transformation, Analytics, Cyber Security, and such related areas (b) Supply of hardware and software (c) Reimbursement of expenses (d) Procurement of goods, services, etc. (e) Assignment of the technology or license or Intellectual Property (f) Any transfer of resources, services or obligations to meet its objectives/ requirements | (a) Rendering of IT/ITE Services including IT, Infrastructure, Cloud, IoT and Digital Engineering, Digital Transformation, Analytics, Cyber Security, and such related areas (b) Supply of hardware and software (c) Reimbursement of expenses (d) Procurement of goods, services, etc. (e) Any transfer of resources, services or obligations to meet its objectives/requirements |  |
+| Material terms of the proposed transactions | Transactions in the ordinary course of business with terms and conditions that are generally prevalent in the industry segments and the market that the Company operates in. For tenure and value, refer S/N 4 and 5 respectively. |  |  |
+| Tenure of the proposed transactions | Contractual commitments expected for a tenure up to 12 years | Contracts/arrangements for a tenure up to 5 years, extendable by another 5 years. | Contracts/instruments for tenure up to 5 years. |
+| Value of the proposed transactions during FY 2025-26 | Not exceeding `5,000 crore | Not exceeding `4,400 crore | Not exceeding `2,500 crore |
+| Total transactions for past three years | FY 25: `7,517 crore FY 24: `762 crore FY 23: `2 crore | FY 25: `3,722 crore FY 24: `2,965 crore FY 23: `1,768 crore | FY 25: `1,145 crore FY 24: `999 crore FY 23: `961 crore |
+
+
+## Table 14 (Page 62)
+
+| S/N D | escription | Particulars | Col_3 |
+| --- | --- | --- | --- |
+| N | ame of related party | Tejas Networks Limited (TNL) | Jaguar Land Rover Limited (JLRL) |
+| 7. P co fo pr is va tr A in p su tu b | ercentage of TCS’s annual nsolidated turnover r the immediately eceding financial year represented by the lue of the proposed ansaction. dditionally, for RPT volving subsidiary, ercentage of the bsidiary’s annual rnover on a standalone asis is also provided. | 1.96 | 1.72 |
+| 8. Ju pr | stification of the oposed transaction | The domain expertise and competencies available within the group and the collaboration with the Company will help in delivering world class technology to one of the high-priority and prestigious projects of the Government of India and further establish Tata group’s commitment to atat in Atmanirbhar Bharat. | The Company, being a globally recognized provider of IT services participates in the digitization initiatives of entities within Tata group and partners in respective entities’ growth and transformation journeys. During the course of rendering such services, the Company also leverages niche skills, capabilities and resources of entities within the group. These transactions aim at providing enhanced level of user experience to the end-consumers of Tata group and provide the entities within the group cutting edge technologies to sustain and grow their business. |
+| 9. A va re b re tr av re of | statement that the luation or other external port, if any, relied upon y the listed entity in lation to the proposed ansaction will be made ailable through the gistered email address the shareholders |  |  |
+| 10. N K an re | ame of the Director or MP who is related, if any, d the nature of their lationship | None | Hanne Sorensen is a Director on the Board of JLRL. |
+
+
+## Table 15 (Page 63)
+
+| Description | Particulars | Col_2 | Col_3 |
+| --- | --- | --- | --- |
+| Name of related party | Tejas Networks Limited (TNL) | Jaguar Land Rover Limited (JLRL) | Tata Consultancy Services Japan, Ltd. (TCS Japan) |
+| Following additional disclosures to be made in case of loans, inter-corporate deposits, advances or investments made o given |  |  |  |
+| Source of funds | Internal accruals | Not Applicable | Not Applicable |
+| In case any financial indebtedness is incurred to make or give loans, intercorporate deposits, advances or investment: • Nature of indebtedness. • Cost of funds; and • Tenure of the indebtedness | Not Applicable | Not Applicable | Not Applicable |
+| Applicable terms, including covenants, tenure, interest rate and repayment schedule, whether secured or unsecured; if secured, the nature of security | Unsecured Interest-free mobilization advance to be given to facilitate execution of contract. Adjustment of advance/s against progressive delivery of milestones. | Not Applicable | Not Applicable |
+| Purpose for which the funds will be utilized by the ultimate beneficiary of such funds pursuant to the RPT | Same as S/N 11 C | Not Applicable | Not Applicable |
+| Any other relevant information | All important information forms part of the statement setting out material facts, pursuant to Section 102(1) of the Act, forming part of this Notice. |  |  |
+
+
+## Table 16 (Page 67)
+
+| Shares held in CDSL | helpdesk.evoting@cdslindia.com | +1800 21 09911 |
+| --- | --- | --- |
+| Shares held in NSDL | evoting@nsdl.com | +91 22 48867000 |
+| k | pdes | Hel |
+|  |  |  |
+
+
+## Table 17 (Page 68)
+
+| S/N | Particulars |
+| --- | --- |
+| 1 | Date and Time of AGM |
+| 2 | Mode of conduct |
+| 3 | Link to participate in the AGM through VC/OAVM |
+| 4 | Contact details of NSDL for assistance before or during the AGM |
+| 5 | Record date for Final Dividend |
+| 6 | Payment date for Final Dividend |
+| 7 | Cut-off date to determine entitlement for e-voting |
+| 8 | E-voting start date and time |
+| 9 | E-voting end date and time |
+| 10 | E-voting event number (EVEN) |
+| 11 | Chart along with detailed procedure for e-voting and joining virtual AGM |
+| 12 | Registration of e-mail ID for receiving Notice of the AGM and Integrated Annual Report |
+| 13 | Email ID and link to submit the form for TDS exemption |
+| 14 | Registration as speaker shareholder |
+| 15 | Link to eTDS Portal for obtaining TDS certificate |
+| 16 | Name, address and contact details of Registrar and Transfer Agent |
+| 17 | Live webcast of AGM |
+
+
+## Table 18 (Page 69)
+
+| Col_0 | Standalone | Col_2 | Consolidated | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Financial Year 2024-25 (FY 2025) | Financial Year 2023-24 (FY 2024) | Financial Year 2024-25 (FY 2025) | Financial Year 2023-24 (FY 2024) |
+|  | 2,14,853 | 2,02,359 | 2,55,324 | 2,40,893 |
+|  | 9,642 | 7,273 | 3,962 | 4,422 |
+|  | 2,24,495 | 2,09,632 | 2,59,286 | 2,45,315 |
+|  |  |  |  |  |
+|  | 1,56,924 | 1,46,512 | 1,87,917 | 1,76,597 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Depreciation and amortisation expense | 4,220 | 3,887 | 5,242 | 4,985 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Total expenses | 1,61,144 | 1,50,399 | 1,93,159 | 1,81,582 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 63,351 | 59,233 | 66,127 | 63,733 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 703 | 673 | 796 | 778 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | 62,648 | 58,560 | 65,331 | 62,955 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  | - | 958 | - | 958 |
+|  | 62,648 | 57,602 | 65,331 | 61,997 |
+|  | 14,591 | 14,043 | 16,534 | 15,898 |
+|  | 48,057 | 43,559 | 48,797 | 46,099 |
+|  |  |  |  |  |
+|  | 48,057 | 43,559 | 48,553 | 45,908 |
+|  | NA | NA | 244 | 191 |
+|  | 55,173 | 62,228 | 70,033 | 74,722 |
+|  | 73,380 | 55,173 | 88,777 | 70,033 |
+
+
+## Table 19 (Page 73)
+
+| Name | Ratio to median remuneration | % increase in remuneration in the financial year |
+| --- | --- | --- |
+| Non-Executive Directors: |  |  |
+| N Chandrasekaran@ | - | - |
+| Aarthi Subramanian@@ | - | - |
+| Dr Pradeep Kumar Khosla | 34.0 | 3.8 |
+| Hanne Sorensen | 34.1 | 3.8 |
+| Keki Mistry | 38.0 | 5.5 |
+| Al-Noor Ramji | 34.1 | ^ |
+| Sanjay V Bhandarkar* | $ | $ |
+| O P Bhatt** | $ | $ |
+| Executive Directors: |  |  |
+| K Krithivasan | 329.8 | 4.6 |
+| N G Subramaniam& | $ | $ |
+| Chief Financial Officer: |  |  |
+| Samir Seksaria | 96.7 | 7.8 |
+| Company Secretary: |  |  |
+| Yashaswin Sheth# | $ | $ |
+| Pradeep Manohar Gaitonde## | $ | $ |
+
+
+## Table 20 (Page 76)
+
+| Expenditure on R&D and innovation | Col_1 | Standalone | Col_3 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  |  | FY 2025 | FY 2024 | FY 2025 |
+| a. | Capital | 4 | 8 | 4 |
+| b. | Recurring | 411 | 419 | 416 |
+| c. | Total R&D expenditure (a+b) | 415 | 427 | 420 |
+| d. | Innovation center expenditure | 2,131 | 2,228 | 2,210 |
+| e. | Total R&D and innovation expenditure (c+d) | 2,546 | 2,655 | 2,630 |
+| f. | R&D and innovation expenditure as a percentage of total turnover | 1.2% | 1.3% | 1.0% |
+
+
+## Table 21 (Page 76)
+
+| Foreign exchange earnings and outgo | Col_1 | FY 2025 |
+| --- | --- | --- |
+| a. | Foreign exchange earnings | 2,00,801 |
+| b. | CIF Value of imports | 117 |
+| c. | Expenditure in foreign currency | 79,991 |
+
+
+## Table 22 (Page 77)
+
+| Total Amount Spent for the Financial Year | Amount Unspent | Col_2 | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  | Total Amount transferred to Unspent CSR Account as per Section 135(6) of the Act |  | Amount transferred to any fund specified unde Schedule VII as per second proviso to Section 135(5) of the A |  |  |
+|  | Amount | Date of transfer | Name of the Fund | Amount | Date o transf |
+| 960 | NIL | - | - | NIL | - |
+
+
+## Table 23 (Page 77)
+
+| Name of Director | Designation/Nature of Directorship |
+| --- | --- |
+| N Chandrasekaran | Chairman, Non-Independent Non-Executive Director |
+| K Krithivasan | Member, Non-Independent Executive Director |
+| Sanjay V Bhandarkar | Member, Independent Non-Executive Director |
+
+
+## Table 24 (Page 78)
+
+| Sr. Pr No. Fi | eceding nancial Year | Amount transferred to Unspent CSR Account under Section 135(6) | Balance Amount in Unspent CSR Account under Section 135(6) | Amount spent in the reporting Financial Year | Amount transferred to a Fund as specified under Schedule VII as per second proviso Section 135(5), if any | Col_6 | Amount remaining to be spent in succeeding financial years |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | Amount | Date of transfer |  |
+
+
+## Table 25 (Page 78)
+
+| Sr. S No. a | hort particulars of the property or asset(s) [including complete ddress and location of the property] | Pincode of the property or asset(s) | Date of creation | Amount of CSR amount spent | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | CSR Registration Number, if applicable | Name |
+
+
+## Table 26 (Page 82)
+
+| Opportunity / Threat | Factors causing disruption | TCS Approach |
+| --- | --- | --- |
+| Technology-led disruption | • Cost-efef ctive new and emerging AI models with their innovative capabilities that reduce the amount of programming and related services. • New quantum chips, enabling incredibly fast problem-solving that surpasses classical computing limits, solving complex problems in seconds, efef ctively "breaking time" and promises advancements in areas like drug discovery, materials science, and AI. • Physical AI signals a future where automation and mobility will converge, opening new opportunities in logistics and urban transport. • AI is transitioning from single-purpose solutions to Agentic AI to solve complex business problems. • Traditoi nal ‘Sofwt are-as-a-Service‘ applicatoi ns evolve into more AI-natvi e solutoi ns, necessitatni g a re-evaluatoi n of the role of system integrators to transitoi n to a ‘Service-as-a-Sofwt are’ model. | • Enabling growth opportunities through faster creation of new products, services, business models. • Invest in AI/GenAI by establishing Centres of Excellence, developing industry-specific solutions, and pioneering Service-as-a-Software ofef rings. • Venture into and explore new segments and products such as Digital Public Goods, Autonomous Vehicles, Mobility as a Service, Health and Wellness. • Diversification into emerging technologies like Space Tech, Quantum Computing, Robotics, Physical AI and Biotechnology. • Focus on growth in emerging geographies. • Foster a culture of innovation and build new capabilities on a scale. |
+| Macro Factors | • Strategic shifts towards reshoring, evolving semiconductor and electronics manufacturing ecosystems, and heightened sensitivity to currency fluctuations. • Growing momentum behind sovereign digital stacks and sustained public sector investments in both physical and digital infrastructure. • Accelerated focus on energy transition and circular economy, with the technology sector expected to play a pivotal role in advancing sustainability goals. | • Capitalize regional manufacturing growth to strengthen supply chains. • Stronger partnerships with emerging industrial sectors, ensuring business continuity and competitive advantage. • Enhanced role in the digital transformation of nations. • Open new green revenue streams and contribute to global sustainability. |
+
+
+## Table 27 (Page 83)
+
+| Factors causing disruption | TCS Approach | Outcomes |
+| --- | --- | --- |
+| • Evolving work permit regulations influencing workforce strategy and cross- border talent deployment. • Increasingly stringent data privacy laws are driving the adoption of sovereign cloud solutions, ensuring localized, compliant, and secure data storage. | • Remain a trusted partner for clients in highly regulated industries. | • Efficiency gains help to fund clients transformation programs in some instances. |
+| • Business stakeholders driving more spend on technology compared to traditional CIO- led spend. | • Aligning strategies to support evolving customer needs and accelerate value creation. • Deepen understanding of sector- specific needs to remain pivotal in delivering tailored solutions and drive difef rentiated growth. • Strengthening partnerships with hyperscalers to co-create solutions and deliver unique value to clients. • Harness AI holistically across advising, selling, solutioning, and skilling, to foster innovation and deliver transformative outcomes to clients. | • Higher visibility within C-Suites. • More deeply embedded in the clients’ business. • Long-term value creation and strong win-win partnership |
+| • Need for frequent reskilling and upskilling • Addressing aspirations of GenZ | • Focus on enhancing productivity by empowering talent to drive growth and innovation. • Foster a purpose-driven workforce by aligning the aspirations of younger talent with the organization’s vision. • Expand the talent ecosystem by tapping into alternate sources such as gig-based marketplaces and non-IT service sectors to ensure agility and future readiness. • Invest in building a strong pipeline of future-ready leaders to harness various opportunity areas. • Build mixed talent models to unlock multiple growth opportunities and drive sustained success. | • Efficiency gains help to fund clients transformation programs in some instances. • Helps with talent retention. • Improved employee satisfaction and overall morale. • Agile workforce to deal with sudden changes in demand • Equipped with a workforce to meet emerging client needs and industry trends. |
+
+
+## Table 28 (Page 84)
+
+| Opportunity / Threat | Factors causing disruption | TCS Approach |
+| --- | --- | --- |
+| Competition | • New players emerging with innovative solutions | • Rapidly refine the portof lio by optimizing ofef rings. • Focus on scalable and impactful solutions. • Transition to outcome and value-based engagement models, ofef ring quantified value delivery and risk-adjusted commercial structures to create greater business impact. • Modernize and integrate legacy infrastructure to simplify operations and enable faster turnaround times to enhance agility and operational excellence. • Expand delivery models through AI-led platof rms, productized SaaS ofef rings, and co-innovation partnerships with enterprises. |
+
+
+## Table 29 (Page 88)
+
+| Currency | Weightage (%) | FY 2025 (₹) | FY 2024 (₹) |
+| --- | --- | --- | --- |
+| USD | 50.0 | 84.59 | 82.83 |
+| GBP | 14.7 | 108.26 | 104.07 |
+| EUR | 10.9 | 90.81 | 89.80 |
+
+
+## Table 30 (Page 88)
+
+| Growth attributable to | FY 2025 (%) |
+| --- | --- |
+| Business growth | 4.2 |
+| Impact of exchange rate | 1.8 |
+| Total Growth | 6.0 |
+
+
+## Table 31 (Page 89)
+
+| Segment Revenue (₹ crore) | Col_1 | YoY Revenue Growth % | Segment Margin (% | Col_4 |
+| --- | --- | --- | --- | --- |
+| FY 2025 | FY 2024 |  | FY 2025 | FY 202 |
+| 94,597 | 90,928 | 4.0 | 26.6 | 25. |
+| 45,893 | 39,391 | 16.5 | 20.9 | 27. |
+| 40,197 | 39,357 | 2.1 | 27.9 | 26. |
+| 26,456 | 26,745 | (1.1) | 28.2 | 28. |
+| 25,170 | 23,491 | 7.1 | 32.7 | 30. |
+| 23,011 | 20,981 | 9.7 | 25.2 | 22. |
+
+
+## Table 32 (Page 89)
+
+| FY 2025 | FY 202 |
+| --- | --- |
+| Total funds invested |  |
+| 30,956 | 31,73 |
+| 12,831 | 12,25 |
+| - | 17 |
+| 3,435 | 2,80 |
+| 47,222 | 46,96 |
+
+
+## Table 33 (Page 95)
+
+| FY 2025 | FY 2024* | FY 2024 | FY 2023 | FY 2022 | FY 2021* | FY 2021 | FY 2020 | FY 2019 | FY 2018 | FY 2017 | FY 201 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 255,324 | 240,893 | 240,893 | 225,458 | 191,754 | 164,177 | 164,177 | 156,949 | 146,463 | 123,104 | 117,966 | 108,64 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 127,870 | 127,939 | 127,939 | 124,336 | 100,072 | 84,278 | 84,278 | 82,000 | 77,562 | 66,145 | 66,091 | 60,01 |
+| 79,487 | 75,624 | 75,624 | 67,436 | 61,142 | 52,346 | 52,346 | 48,037 | 43,456 | 34,155 | 30,038 | 29,09 |
+| 22,060 | 13,562 | 13,562 | 11,271 | 9,805 | 8,449 | 8,449 | 8,964 | 8,393 | 7,921 | 7,415 | 6,72 |
+| 25,907 | 23,768 | 23,768 | 22,415 | 20,735 | 19,104 | 19,104 | 17,948 | 17,052 | 14,883 | 14,422 | 12,81 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 145,788 | 140,131 | 140,131 | 127,522 | 107,554 | 91,814 | 91,814 | 85,952 | 78,246 | 66,396 | 61,621 | 55,34 |
+| 42,129 | 36,466 | 37,424 | 38,677 | 31,143 | 25,817 | 27,035 | 28,888 | 28,711 | 24,192 | 24,034 | 22,62 |
+| 187,917 | 176,597 | 177,555 | 166,199 | 138,697 | 117,631 | 118,849 | 114,840 | 106,957 | 90,588 | 85,655 | 77,96 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 62,165 | 59,311 | 58,353 | 54,237 | 48,453 | 42,481 | 41,263 | 38,580 | 37,450 | 30,502 | 30,324 | 28,78 |
+| 65,331 | 63,038 | 61,997 | 56,907 | 51,687 | 44,978 | 43,760 | 42,248 | 41,563 | 34,092 | 34,513 | 31,84 |
+| 48,553 | 46,585 | 45,908 | 42,147 | 38,327 | 33,388 | 32,430 | 32,340 | 31,472 | 25,826 | 26,289 | 24,27 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 362 | 362 | 362 | 366 | 366 | 370 | 370 | 375 | 375 | 191 | 197 | 19 |
+| 94,394 | 90,805 | 90,127 | 90,058 | 88,773 | 87,014 | 86,063 | 83,751 | 89,071 | 84,937 | 86,017 | 70,87 |
+| 37,277 | 33,853 | 33,853 | 32,344 | 30,300 | 28,658 | 28,658 | 26,444 | 24,522 | 22,720 | 20,891 | 19,30 |
+| 30,964 | 31,762 | 31,762 | 37,163 | 30,485 | 29,373 | 29,373 | 26,356 | 29,330 | 36,008 | 41,980 | 22,82 |
+| 70,010 | 67,558 | 66,880 | 66,712 | 65,959 | 66,076 | 65,125 | 63,177 | 70,047 | 63,396 | 65,804 | 47,64 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 134.19 | 127.74 | 125.88 | 115.19 | 103.62 | 89.27 | 86.71 | 86.19 | 83.05 | 134.19 | 133.41 | 123.1 |
+| 134.19 | 127.74 | 125.88 | 115.19 | 103.62 | 89.27 | 86.71 | 86.19 | 83.05 | 67.10 | 66.71 | 61.5 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+| 607,979 | 601,546 | 601,546 | 614,795 | 592,195 | 488,649 | 488,649 | 448,464 | 424,285 | 394,998 | 387,223 | 353,84 |
+
+
+## Table 34 (Page 96)
+
+| Col_0 | Units | FY 2025 | FY 2024* | FY 2024 | FY 2023 | FY 2022 | FY 2021* | FY 2021 | FY 2020 | FY 2019 | FY 2018 | FY 2017 FY 2016 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ratios - Financial Performance |  |  |  |  |  |  |  |  |  |  |  |  |
+| Employee Cost / Total Revenue | % | 57.1 | 58.2 | 58.2 | 56.6 | 56.1 | 55.9 | 55.9 | 54.8 | 53.4 | 53.9 | 52.2 50.9 |
+| Other Operating Cost / Total Revenue | % | 16.5 | 15.1 | 15.5 | 17.1 | 16.2 | 15.7 | 16.5 | 18.4 | 19.6 | 19.7 | 20.4 20.9 |
+| Total cost (excluding interest & depreciation) / Total Revenue | % | 73.6 | 73.3 | 73.7 | 73.7 | 72.3 | 71.6 | 72.4 | 73.2 | 73.0 | 73.6 | 72.6 71.8 |
+| EBIT / Total Revenue | % | 24.3 | 24.6 | 24.2 | 24.1 | 25.3 | 25.9 | 25.1 | 24.6 | 25.6 | 24.8 | 25.7 26.5 |
+| Profit Before Tax / Total Revenue | % | 25.6 | 26.2 | 25.7 | 25.2 | 27.0 | 27.4 | 26.7 | 26.9 | 28.4 | 27.7 | 29.3 29.3 |
+| Tax / Total Revenue | % | 6.5 | 6.8 | 6.6 | 6.5 | 6.9 | 7.0 | 6.8 | 6.2 | 6.8 | 6.7 | 6.9 6.9 |
+| Efef ctive Tax Rate - Tax / PBT | % | 25.3 | 25.8 | 25.6 | 25.7 | 25.6 | 25.5 | 25.6 | 23.2 | 24.1 | 24.1 | 23.6 23.6 |
+| Profit Afet r Tax / Total Revenue | % | 19.0 | 19.3 | 19.1 | 18.7 | 20.0 | 20.3 | 19.8 | 20.6 | 21.5 | 21.0 | 22.3 22.3 |
+| Ratios - Growth |  |  |  |  |  |  |  |  |  |  |  |  |
+| Total Revenue | % | 6.0 | 6.8 | 6.8 | 17.6 | 16.8 | 4.6 | 4.6 | 7.2 | 19.0 | 4.4 | 8.6 14.8 |
+| EBIT | % | 4.8 | 9.4 | 7.6 | 11.9 | 14.1 | 10.1 | 7.0 | 3.0 | 22.8 | 0.6 | 5.3 13.7 |
+| Profit Afet r Tax | % | 4.2 | 10.5 | 8.9 | 10.0 | 14.8 | 3.2 | 0.3 | 2.8 | 21.9 | (1.8) | 8.3 22.3 |
+| Ratios - Balance Sheet |  |  |  |  |  |  |  |  |  |  |  |  |
+| Debt (excluding lease liabilities) - Equity Ratio | Times | - | - | - | - | - | - | - | - | - | 0.0 | 0.0 0.0 |
+| Current Ratio | Times | 2.3 | 2.5 | 2.5 | 2.5 | 2.6 | 3.0 | 2.9 | 3.3 | 4.2 | 4.6 | 5.5 4.1 |
+| Days Sales Outstanding (DSO) in ₹ terms | Days | 72 | 68 | 68 | 67 | 65 | 67 | 67 | 71 | 68 | 74 | 70 81 |
+| Days Sales Outstanding (DSO) in US$ terms | Days | 71 | 67 | 67 | 65 | 64 | 68 | 68 | 67 | 69 | 74 | 73 80 |
+| Invested Funds / Capital Employed | % | 44.9 | 47.7 | 47.3 | 50.4 | 57.4 | 52.6 | 53.1 | 47.7 | 55.2 | 55.6 | 55.8 45.8 |
+| Capital Expenditure / Total Revenue | % | 1.9 | 1.1 | 1.1 | 1.4 | 1.5 | 1.9 | 1.9 | 2.0 | 1.5 | 1.5 | 1.7 1.8 |
+| Operating Cash Flows / Total Revenue | % | 19.2 | 18.7 | 18.4 | 18.6 | 20.8 | 23.6 | 23.6 | 20.6 | 19.5 | 20.4 | 21.4 17.6 |
+| Free Cash Flow / Operating Cash Flow Ratio | % | 89.8 | 94.1 | 94.0 | 92.7 | 92.6 | 91.9 | 91.9 | 90.5 | 92.5 | 92.8 | 92.3 89.7 |
+| Depreciation of Property, Plant and Equipment / Average Gross Block of Property, Plant and Equipment | % | 7.6 | 8.4 | 8.4 | 9.2 | 9.1 | 8.7 | 8.7 | 8.6 | 8.5 | 9.1 | 9.5 10.0 |
+| Ratios - Per Share |  |  |  |  |  |  |  |  |  |  |  |  |
+| EPS - adjusted for Bonus | ₹ | 134.19 | 127.74 | 125.88 | 115.19 | 103.62 | 89.27 | 86.71 | 86.19 | 83.05 | 67.10 | 66.71 61.59 |
+| Price Earnings Ratio, end of year | Times | 26.9 | 30.3 | 30.8 | 27.8 | 36.1 | 35.6 | 36.6 | 21.2 | 24.1 | 21.2 | 18.2 20.4 |
+| Dividend Per Share | ₹ | 126.00 | 73.00 | 73.00 | 115.00 | 43.00 | 38.00 | 38.00 | 73.00 | 30.00 | 50.00 | 47.00 43.50 |
+| Dividend Per Share - adjusted for Bonus | ₹ | 126.00 | 73.00 | 73.00 | 115.00 | 43.00 | 38.00 | 38.00 | 73.00 | 30.00 | 25.00 | 23.50 21.75 |
+| Market Capitalization / Total Revenue | Times | 5.1 | 5.8 | 5.8 | 5.2 | 7.1 | 7.2 | 7.2 | 4.4 | 5.1 | 4.4 | 4.1 4.6 |
+
+
+## Table 35 (Page 101)
+
+| Category | No. of Board Meetings atet nded (5 meetings held) | Whether atet nded last AGM held on May 31, 2024 | No. of Directorships in other Public Companies* | Col_4 | No. of Commitet e positions held in other Public Companies# | Col_6 | Directorship in other listed entity (Category of Directorship) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Chairman | Member | Chairman | Member |  |
+| NED | 4 | Yes | 7 | - | - | - | 1. Tata Steel Limited (C) (NED) 2. Tata Motors Limited (C) (NED) 3. Tata Consumer Products Limited (C) (NED) 4. The Tata Power Company Limited (C) (NED) 5. The Indian Hotels Company Limited (C) (NED) 6. Tata Chemicals Limited (C) (NED) |
+| ED | 5 | Yes | - | - | - | - | - |
+| NED | 5 | Yes | - | 6 | 1 | 4 | Tata Capital Limited^ (NED) |
+| ID | 5 | Yes | - | - | - | - | - |
+| ID | 5 | Yes | - | 1 | - | 1 | Tata Motors Limited (ID) |
+| ID | 5 | Yes | 2 | 3 | 3 | 4 | 1. HDFC Life Insurance Company Limited (C) (NED) 2. HDFC ERGO General Insurance Company Limite (C) (NED) 3. HDFC Bank Limited (NED) 4. The Great Eastern Shipping Company Limited (ID |
+| ID | 5 | Yes | - | 1 | - | 1 | Tata Motors Limited (ID) |
+| ID | 1 | Not Applicable | - | 5 | 4 | 7 | 1. The Tata Power Company Limited (ID) 2. HDFC Asset Management Company Limited (ID) 3. Chemplast Sanmar Limited (ID) 4. Tata Projects Limited^ (ID) |
+
+
+## Table 36 (Page 102)
+
+| me | Category | Number of equity shares |
+| --- | --- | --- |
+| handrasekaran | NED | 1,77,056 |
+| rithivasan | ED | 11,232 |
+| rthi Subramanian | NED | 5,600 |
+| ki Mistry* | ID | 4,150 |
+
+
+## Table 37 (Page 102)
+
+| Extract of terms of reference | Category, composition and atet ndance | Col_2 |
+| --- | --- | --- |
+| mmitet e is consttiuted in line with the visions of Regulatoi n 18 of the SEBI Listni g ulatoi ns and Sectoi n 177 of the Act. terms of reference of the Commitet e, inter , include: Oversight of financial reportni g process. Reviewing with the management, the annual financial statements and auditor’s report thereon before submission to the Board for approval. Approval or any subsequent modificatoi n of transactoi ns of the Company with related partei s. Evaluatoi n of internal financial controls and risk management systems. Recommendatoi n for appointment, remuneratoi n and terms of appointment of auditors of the Company. Approve policies in relatoi n to the implementatoi n of the Insider Trading Code and to supervise implementation of the same. To consider matet rs with respect to the TCoC, Ant-iBribery and Ant-iCorruptoi n Policy and Gift and Hospitality Policy. | Name & Category | Atet ndance |
+|  | Keki Mistry (C) (ID) | 4 |
+|  | Aarthi Subramanian (NED) | 4 |
+|  | Dr Pradeep Kumar Khosla (ID) | 4 |
+|  | Hanne Sorensen (ID) | 4 |
+|  | Al-Noor Ramji (ID) | 4 |
+|  | Sanjay V Bhandarkar* (ID) | Not applicable |
+|  | *Appointed as member w.e.f. March 11, 2025 |  |
+
+
+## Table 38 (Page 103)
+
+| Extract of terms of reference | Category, composition and atet ndance | Col_2 | Other details |
+| --- | --- | --- | --- |
+| Commitet e is consttiuted in line with the provisions of Regulatoi n 19 of the SEBI Listni g Regulatoi ns and Sectoi n 178 of the Act. The terms of reference, inter alia, include: • Recommend to the Board the setup and compositoi n of the Board and its Commitet es. • Recommend to the Board the appointment/ re-appointment of Directors and Key Managerial Personnel. • Support the Board and Independent Directors in evaluatoi n of the performance of the Board, its Commitet es and individual Directors. • Recommend to the Board the Remuneratoi n Policy for Directors, executive team or Key Managerial Personnel as well as the rest of employees. • Oversee familiarizatoi n programs for Directors. | Name & Category | Atet ndance | • Three NRC meetings were held during the year under review. The said meetni gs were held on April 12, 2024, January 9, 2025 and March 11, 2025. The necessary quorum was present for aforesaid meetni gs. • O P Bhatt, who ceased to be the Chairman during the year, atet nded the meetni g held on April 12, 2024. • The Company does not have any Employee Stock Optoi n Scheme. • Details of Performance Evaluatoi n Criteria an Remuneratoi n Policy are provided at serial no. III (iii) below. • The previous AGM of the Company was atet nded by Chairman of the NRC. |
+|  | Keki Mistry* (C) (ID) | 2 |  |
+|  | N Chandrasekaran (NED) | 3 |  |
+|  | Hanne Sorensen (ID) | 3 |  |
+|  | Sanjay V Bhandarkar# (ID) | Not applicable |  |
+|  | *Appointed as Chairman and member w.e.f. July 30, 2024 #Appointed as member w.e.f. March 11, 2025 |  |  |
+
+
+## Table 39 (Page 103)
+
+| Extract of terms of reference | Category, composition and atet ndance | Col_2 | Other details |
+| --- | --- | --- | --- |
+| Commitet e is consttiuted in line with the provisions of Regulatoi n 20 of the SEBI Listni g Regulatoi ns and Sectoi n 178 of the Act. The terms of reference, inter alia, include: • Consider and resolve the grievances of security holders. • Consider and approve issue of share certfi icates, transfer and transmission of securitei s, etc. • Review activitei s with regard to the Health Safety and Sustainability initai tvi es of the Company. | Name & Category | Atet ndance | • Two meetni gs of the SRC were held during the year under review. The said meetni gs were held on July 19, 2024 and January 13, 2025. The necessary quorum was present for aforesaid meetni gs. • Details of investor complaints and Compliance Officer are provided at serial no. III (ii) below. • The previous AGM of the Company was atet nded by Chairman of the SRC. |
+|  | Dr Pradeep Kumar Khosla (C) (ID) | 2 |  |
+|  | K Krithivasan (ED) | 2 |  |
+|  | Keki Mistry (ID) | 2 |  |
+|  |  |  |  |
+
+
+## Table 40 (Page 103)
+
+| Extract of terms of reference | Category, composition and atet ndance | Col_2 | Other details |
+| --- | --- | --- | --- |
+| Commitet e is consttiuted in line with the provisions of Regulatoi n 21 of the SEBI Listni g Regulatoi ns. The terms of reference, inter alia, include: • Formulate, monitor and review risk management policy and plan, inter alia, covering investment of surplus funds, management of foreign exchange risks, cyber security risks, data privacy risks and intellectual property infringements risks. • Approve additoi n/deletoi n of banks from tmi e to tmi e for carrying out Treasury transactoi ns and delegate the said power to such person as may deem fit. | Name & Category | Atet ndance | • Five meetings of the RMC were held during the year under review. The said meetings were held on April 19, 2024, July 19, 2024, August 29, 2024, October 23, 2024 and January 13, 2025. The necessary quorum was present for aforesaid meetings. • N G Subramaniam, who ceased to be a member during the year, atet nded the meeting held on April 19, 2024. |
+|  | Keki Mistry (C) (ID) | 5 |  |
+|  | K Krithivasan (ED) | 5 |  |
+|  | Al-Noor Ramji (ID) | 5 |  |
+|  | Samir Seksaria (CFO) | 5 |  |
+|  |  |  |  |
+
+
+## Table 41 (Page 104)
+
+| Extract of terms of reference | Category and composition |
+| --- | --- |
+| mitet e is consttiuted in line with the visions of Sectoi n 135 of the Act. terms of reference, inter alia, include: Formulate and recommend to the Board, a CSR Policy indicating the activitei s to be undertaken by the Company as specified in Schedule VII to the Act. Recommend the amount of expenditure to be incurred on the actvi itei s mentioned in the CSR Policy. Monitor the CSR Policy. Insttiute a transparent monitoring mechanism for implementatoi n of the CSR projects or programs or activitei s. | Name & Category |
+|  | N Chandrasekaran (C) (NED) K Krithivasan* (ED) Sanjay V Bhandarkar# (ID) |
+|  | *Appointed as a member w.e.f. May 20, 2024 #Appointed as a member w.e.f. March 11, 2025 |
+
+
+## Table 42 (Page 104)
+
+| Extract of terms of reference | Category and composition |
+| --- | --- |
+| ailed review of the following matet rs which s part of terms of reference, were presented he Board: Business and strategy review; Long-term financial projectoi ns and cash flows; Capital and revenue budgets and capital expenditure programmes; Acquisitoi ns, divestments and business restructuring proposals; Senior management succession planning; Any other item as may be decided by the Board. | Name & Category |
+|  | N Chandrasekaran (C) (NED) K Krithivasan (ED) |
+
+
+## Table 43 (Page 104)
+
+| Opening as on April 1, 2024 | Received during the year | Resolved during the year |
+| --- | --- | --- |
+| 4 | 92 | 88 |
+
+
+## Table 44 (Page 105)
+
+| Name | Commission | Sitting Fee |
+| --- | --- | --- |
+| N Chandrasekaran, Chairman@ | - | 2. |
+| Aarthi Subramanian@@ | - | 2. |
+| Dr Pradeep Kumar Khosla | 270.0 | 3. |
+| Hanne Sorensen | 270.0 | 3. |
+| Keki Mistry | 300.0 | 5. |
+| Al-Noor Ramji | 270.0 | 4. |
+| Sanjay V Bhandarkar* | 25.0 | 0. |
+| O P Bhatt^ | 50.0 | 0. |
+| Total | 1,185.0 | 24. |
+
+
+## Table 45 (Page 105)
+
+| Name of Director | Salary | Benefits, Perquisites and Allowances | Commission | Employee Stoc Purchase Schem |
+| --- | --- | --- | --- | --- |
+| K Krithivasan (CEO & MD) | 139.5 | 212.8 | 2,300.0 |  |
+| N G Subramaniam (ceased to be COO & ED w.e.f. May 20, 2024) | 30.7 | 724.7# | 400.0 |  |
+
+
+## Table 46 (Page 106)
+
+| Date | Time |
+| --- | --- |
+| June 9, 2022 | 3.30 p.m. |
+| June 29, 2023 |  |
+| May 31, 2024 | 3.00 p.m. |
+
+
+## Table 47 (Page 107)
+
+| Statutes | Details | Website link for details/ policy |
+| --- | --- | --- |
+| Regulation 23 of the SEBI Listing Regulations and as defined under the Act | During the year under review, all RPTs entered by the Company were in the ordinary course of business and in respect of transactions with related parties under Section 2(76) of the Act, are at arm’s length basis and were approved by the members of the Audit Commitet e including Independent Directors. The Company had sought the approval of shareholders at the 29th AGM held on May 31, 2024 for material RPT as per Regulation 23 of the SEBI Listing Regulations. Similarly, the Company intends seeking approval of its Members for material related party transactions for FY 2026 at its ensuing AGM to be held on June 19, 2025. The Board’s approved policy for related party transactoi ns is uploaded on the website of the Company. | https://on.tcs.com/ policy-on-related-party- transactions |
+| Schedule V(C) 10(b) to the SEBI Listing Regulations | NIL | - |
+| Regulation 22 of the SEBI Listing Regulations | The Company has this policy and has established the necessary vigil mechanism for employees, Directors and stakeholders to report concerns about unethical behaviour. No person has been denied access to the Chairman of the Audit Commitet e. The said policy has been uploaded on the website of the Company. | https://on.tcs.com/ WhistleBP |
+
+
+## Table 48 (Page 108)
+
+| Particulars | Statutes | Details |
+| --- | --- | --- |
+| Discretionary requirements | Schedule II Part E of the SEBI Listing Regulations | The auditor’s report on financial statements of the Company is unmodified. |
+| Subsidiaries | Regulation 24 of the SEBI Listing Regulations | The Audit Commitet e reviews the consolidated financial statements of the Company and the investments made by its unlisted subsidiaries. The minutes of the Board meetings along with a report on significant developments of the unlisted subsidiaries are periodically placed before the Board of Directors of the Company. The Company does not have any material unlisted subsidiary company. The Company has a policy for determining ‘material subsidiaries’ which is disclosed on its website. |
+| Policy on Determination of Materiality for Disclosures | Regulation 30 of the SEBI Listing Regulations | The Company has adopted this policy. |
+| Policy on Archival and Preservation of Documents | Regulations 30 and 9 of the SEBI Listing Regulations | The Company has adopted this policy. |
+| Reconciliation of Share Capital Audit Report | Regulation 76 of the SEBI (Depositories and Participants) Regulations, 2018 and SEBI Circular No. D&CC/FITTC/ Cir-16/2002 dated December 31, 2002 | A Practising Company Secretary carried out a share capital audit to reconcile the total admitet d equity share capital with the National Securities Depository Limited (“NSDL”) and the Central Depository Services (India) Limited (“CDSL”) and the total issued and listed equity share capital. The audit report confirms that the total issued/paid-up capital is in agreement with the total number of shares in physical form and the total number of dematerialized shares held with NSDL and CDSL. |
+| Code of Conduct | Regulation 17 of the SEBI Listing Regulations | The members of the Board and SMP have affirmed compliance with the Code of Conduct applicable to them during the year ended March 31, 2025. A certificate by the CEO & MD, on the compliance declarations received from the members of the Board and Senior Management which forms part of this report. |
+| Dividend Distribution Policy | Regulation 43A of the SEBI Listing Regulations | A regular annual dividend generally consists of three interim dividends afet r each of the first three quarters of the fiscal year, topped up with a final dividend afet r the fourth quarter. In addition, the accumulated surplus cash has been returned to shareholders through a special dividend. |
+| Terms of Appointment of Independent Directors | Regulation 46 of the SEBI Listing Regulations and Section 149 read with Schedule IV to the Act | Terms and conditions of appointment/re-appointment of Independent Directors are available on the Company’s website. |
+| Familiarization Program | Regulation 25(7) and 46 of the SEBI Listing Regulations | Details of familiarization program imparted to Independent Directors are available on the Company’s website. |
+
+
+## Table 49 (Page 109)
+
+| Statutes | Details | Website link for details/ policy |
+| --- | --- | --- |
+| Section 134 of the Act, read with Rule 8 of the Companies (Accounts) Rules, 2014 | The details have been disclosed in the Business Responsibility and Sustainability Report which forms part of this Integrated Annual Report. | - |
+
+
+## Table 50 (Page 111)
+
+| Number of shares | Holding | Percentage to capital | Number of accounts | Percentage to tota account |
+| --- | --- | --- | --- | --- |
+| 1-100 | 3,76,83,045 | 1.04 | 19,50,273 | 88.06 |
+| 101-500 | 4,50,26,425 | 1.24 | 2,20,805 | 9.97 |
+| 501-1000 | 1,68,38,076 | 0.47 | 23,630 | 1.07 |
+| 1001-5000 | 3,05,61,636 | 0.85 | 15,899 | 0.72 |
+| 5001-10000 | 1,02,16,004 | 0.28 | 1,451 | 0.06 |
+| 10001-20000 | 1,02,66,006 | 0.28 | 727 | 0.03 |
+| 20001-30000 | 79,67,012 | 0.22 | 323 | 0.01 |
+| 30001-40000 | 73,51,140 | 0.20 | 209 | 0.01 |
+| 40001- 50000 | 55,82,071 | 0.15 | 124 | 0.01 |
+| 50001-100000 | 2,69,38,407 | 0.75 | 376 | 0.02 |
+| 100001-above | 3,41,96,57,696 | 94.52 | 885 | 0.04 |
+| Total | 3,61,80,87,518 | 100.00 | 22,14,702 | 100.00 |
+
+
+## Table 51 (Page 111)
+
+| Category | Number of equity shares held | Percentage o Holding |
+| --- | --- | --- |
+| Promoters and promoter Group | 2,59,65,58,628 | 71.77 |
+| Foreign Portof lio Investors | 43,55,39,425 | 12.04 |
+| Insurance Companies | 20,80,60,106 | 5.75 |
+| Mutual Fund | 18,09,58,598 | 5.00 |
+| Resident Individuals | 14,65,21,498 | 4.05 |
+| Others | 5,04,49,263 | 1.39 |
+| Total | 3,61,80,87,518 | 100.00 |
+
+
+## Table 52 (Page 111)
+
+| S/N | Name of the shareholders* | Number of equity shares held | Percentage of holding |
+| --- | --- | --- | --- |
+| 1 | Tata Sons Private Limited | 2,59,54,99,419 | 71.74 |
+| 2 | Life Insurance Corporation of India | 16,76,58,326 | 4.63 |
+| 3 | SBI Mutual Fund | 4,94,86,227 | 1.37 |
+| 4 | National Pension Scheme (NPS) Trust Account | 2,16,76,094 | 0.60 |
+| 5 | ICICI Prudential Mutual Fund | 2,15,92,593 | 0.60 |
+| 6 | HDFC Mutual Fund | 1,77,68,901 | 0.49 |
+| 7 | UTI Mutual Fund | 1,47,03,072 | 0.41 |
+| 8 | Vanguard total International Stock Index Fund | 1,46,36,297 | 0.40 |
+| 9 | Vanguard Emerging Markets Stock Index Fund | 1,32,09,155 | 0.37 |
+| 10 | Nippon Life India Trustee Ltd Mutual Fund | 1,27,02,850 | 0.35 |
+
+
+## Table 53 (Page 112)
+
+| ticulars | Number of shareholders |
+| --- | --- |
+| regate number of shareholders and the outstanding shares in the pense account lying as on April 1, 2024 | 26 |
+| reholders who approached the Company for transfer of shares from pense account during the year | - |
+| reholders to whom shares were transferred from the suspense account ing the year | - |
+| reholders whose shares are transferred to the demat account of the IEPF hority as per Section 124 of the Act | - |
+| regate number of shareholders and the outstanding shares in the pense account lying as on March 31, 2025 | 26 |
+
+
+## Table 54 (Page 112)
+
+| ancial year | Amount of unclaimed dividend transferred |
+| --- | --- |
+| 6-17 | 2,42,68,695 |
+| 7-18 | 2,04,00,905 |
+| al | 4,46,69,600 |
+
+
+## Table 55 (Page 113)
+
+| Financial Year | Date of declaration | Last date for claiming unpaid dividend |
+| --- | --- | --- |
+|  | June 15, 2018 | July 15, 2025 |
+|  | July 10, 2018 | August 9, 2025 |
+|  | October 11, 2018 | November 10, 2025 |
+|  | January 10, 2019 | February 9, 2026 |
+|  | June 13, 2019 | July 13, 2026 |
+|  | July 9, 2019 | August 8, 2026 |
+|  | October 10, 2019 | November 9, 2026 |
+|  | January 17, 2020 | February 16, 2027 |
+|  | March 10, 2020 | April 9, 2027 |
+|  | June 11, 2020 | July 11, 2027 |
+|  | July 9, 2020 | August 8, 2027 |
+|  | October 7, 2020 | November 6, 2027 |
+|  | January 8, 2021 | February 7, 2028 |
+|  | June 10, 2021 | July 10, 2028 |
+
+
+## Table 56 (Page 113)
+
+| Financial Year | Date of declaration | Last date for claiming unpaid dividend |
+| --- | --- | --- |
+|  | July 8, 2021 | August 7, 2028 |
+|  | October 8, 2021 | November 7, 2028 |
+|  | January 12, 2022 | February 11, 2029 |
+|  | June 9, 2022 | July 9, 2029 |
+|  | July 8, 2022 | August 7, 2029 |
+|  | October 10, 2022 | November 9, 2029 |
+|  | January 9, 2023 | February 8, 2030 |
+|  | June 29, 2023 | July 29, 2030 |
+|  | July 12, 2023 | August 11, 2030 |
+|  | October 11, 2023 | November 10, 2030 |
+|  | January 11, 2024 | February 10, 2031 |
+|  | May 31, 2024 | June 30, 2031 |
+|  | July 11, 2024 | August 10, 2031 |
+|  | October 10, 2024 | November 9, 2031 |
+|  | January 9, 2025 | February 8, 2032 |
+
+
+## Table 57 (Page 116)
+
+| Sr. No. | Name of Director | DIN |
+| --- | --- | --- |
+| 1. | N Chandrasekaran | 00121863 |
+| 2. | K Krithivasan | 10106739 |
+| 3. | Aarthi Subramanian | 07121802 |
+| 4. | Dr Pradeep Kumar Khosla | 03611983 |
+| 5. | Hanne Sorensen | 08035439 |
+| 6. | Keki Mistry | 00008886 |
+| 7. | Al-Noor Ramji | 00230865 |
+| 8. | Sanjay V Bhandarkar | 01260274 |
+
+
+## Table 58 (Page 130)
+
+| ation | Number of plants | Number of offices* |
+| --- | --- | --- |
+| ional | 1 | 127 |
+| rnational | Not Applicable (NA) | 183 |
+
+
+## Table 59 (Page 131)
+
+| S/N | Particulars | Col_2 | Male | Col_4 | Female | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Total (A) | No. (B) | % (B/A) | No. (C) | % (C/A) |
+| 1. | Permanent (D) | 6,07,979 | 3,93,940 | 64.8 | 2,14,039 | 35. |
+| 2. | Other than Permanent (E) | 28,854 | 17,788 | 61.6 | 11,066 | 38. |
+| 3. | Total employees (D + E) | 6,36,833 | 4,11,728 | 64.7 | 2,25,105 | 35.3 |
+
+
+## Table 60 (Page 131)
+
+| S/N | Particulars | Col_2 | Male | Col_4 | Female | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Total (A) | No. (B) | % (B/A) | No. (C) | % (C/A) |
+| 1. | Permanent (D) | 1,015 | 748 | 73.7 | 267 | 26. |
+| 2. | Other than Permanent (E) | 18 | 15 | 83.3 | 3 | 16. |
+| 3. | Total difef rently abled employees (D + E) | 1,033 | 763 | 73.9 | 270 | 26. |
+
+
+## Table 61 (Page 131)
+
+| Col_0 | FY 2025 | Col_2 | Col_3 | FY 2024 | Col_5 | Col_6 | FY 2023 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Male% | Female% | Total% | Male% | Female% | Total% | Male% | Female% | Total% |
+| Permanent Employees | 13.2 | 13.6 | 13.3 | 12.5 | 12.5 | 12.5 | 20.2 | 20.1 | 20. |
+
+
+## Table 62 (Page 132)
+
+| keholder oup from whom mplaint is eceived | Grievance Redressal Mechanism in Place (Yes/No) | FY 2025 | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | (If Yes, t hen provide web-link for grievance redress policy)10 | Number of complaints filed during the year | Number of complaints pending resolution at close of the year | Remarks | Number of complaints filed during the year | Number of complaints pending resolution at close of the year |
+| munities | Yes https://on.tcs.com/ Global-CSR-Policy | 0 | 0 | - | 0 | 0 |
+| stors er than eholders) | Yes# | 0 | 0 | - | 0 | 0 |
+| reholders | Yes# | 92 | 8 | Subsequent to the year end, 7 complaints have been resolved. | 128 | 4 |
+| loyees | Yes# | 1,329 | 43 | - | 1,171 | 31 |
+| tomers | Yes# | 31 | 4 | Pending cases are under review | 64 | 13 |
+| e Chain ners | Yes# | 0 | 0 | - | 3 | 0 |
+
+
+## Table 63 (Page 133)
+
+| Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| P1 to P9: Tata Code of Conduct15(TCoC) P1: Whistleblower Policy16 P2: Green Procurement Policy, Sustainable Supply chai Policy17 P3 and P5: Occupational Health & Safety Policy17, Employees related Policies18 P4 and P8: CSR Policy19 P6: Environmental Sustainability Policy20 |  |  |  |  |  |  |  |  |
+| Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Y | Y | Y | Y | Y | Y | Y | Y | Y |
+| Y23 | Y24 | Y25 | NA | Y26 | Y27 | NA | NA | NA |
+| N | N | Y29 | N | N | Y30 | N | N | N |
+| NA | NA | Y29 | NA | NA | Y31 | NA | NA | NA |
+
+
+## Table 64 (Page 134)
+
+| Subject for Review | Indicate whether review was undertaken by Director (D) Commitet e of the Board (C)/Any Other Commitet e (O)/Board of Directors (B) | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Col_11 | Col_12 | Col_13 | Col_14 | Col_15 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P1 | P2 | P3 | P4 | P5 | P6 |
+| Performance against above policies and follow up action | C | C | B | C | B | C | C | C | B | Q | H | Q | H | Q | H |
+| Compliance with statutory requirements of relevance to the principles, and rectification of any non-compliances | Statutory Compliance Certificate on applicable laws is provided by the CEO & MD to the Board of Directors. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 |  |  |  |  |  |  |
+| 11. Has the entity carried out independent assessment/evaluation of the working of its policies by an external agency? (Yes/No). If yes, provide name of the agency.35 | N | Y | Y36 | N | N | Y37 | N | N | N |  |  |  |  |  |  |
+
+
+## Table 65 (Page 134)
+
+| Segment | Total number of training and awareness programs held | Topics/principles covered under the training and its impact |
+| --- | --- | --- |
+| Board of Directors (BoD) | 21 | All |
+| Key Managerial Personnel (KMP) | 20 | All |
+| Employees other than BoD and KMP | 26,881 | All |
+
+
+## Table 66 (Page 135)
+
+| FY 2025 | FY 2024 |
+| --- | --- |
+| NIL | N |
+| NIL | N |
+| NIL | N |
+
+
+## Table 67 (Page 135)
+
+| FY 2025 | Col_1 | FY 2024 | Col_3 |
+| --- | --- | --- | --- |
+| Number | Remarks | Number | Remarks |
+| NIL | NA | NIL | N |
+
+
+## Table 68 (Page 135)
+
+| FY 2025 | FY 2024 |
+| --- | --- |
+| 69 | 42 |
+
+
+## Table 69 (Page 136)
+
+| Parameter | Metrics | FY 2025 (%) |
+| --- | --- | --- |
+| Concentrat of Purchase | ion a. Purchases from trading houses as % of total purchases s b. Number of trading houses where purchases are made from c. Purchases from top 10 trading houses as % of total purchases from trading houses | NIL |
+|  |  | NIL |
+|  |  | NIL |
+| Concentrat of Sales | ion a. Sales to dealers/distributors as % of total sales b. Number of dealers/distributors to whom sales are made c. Sales to top 10 dealers/distributors as % of total sales to dealers/distributors | NIL |
+|  |  | NIL |
+|  |  | NIL |
+| Share of RP | Ts in a. Purchases (Purchases with related parties/Total Purchases) b. Sales (Sales to related parties/Total Sales) c. Loans & advances (Loans & advances given to related parties/ Total loans & advances) d. Investments (Investments in related parties/Total Investments made) | 19.5 |
+|  |  | 2.9 |
+|  |  | 56.1 |
+|  |  | 1.6 |
+
+
+## Table 70 (Page 136)
+
+| Total numb of Awarene programs held | er Topics/Principles covered under the training ss |
+| --- | --- |
+| 2,108 | Principle 3: Awareness on safe work at height, use of personal protective equipment, first-aid and medical emergency, incident reporting, housekeeping awareness, slip, trip, falls, health awareness, electrical safety, ergonomics and manual material handling, chemical safety, food safety, noise and indoor air quality monitoring, HSE legal requirement, lock-out and tag-out, permit to work, road safety, etc,. Principle 6: Environmental Awareness – Overview- noise pollution, energy conservation, waste disposal and air pollution. |
+
+
+## Table 71 (Page 137)
+
+| FY 2025 (` crore) | FY 2024 (` crore) | Details of improvements in environmental and social impacts |
+| --- | --- | --- |
+| 2,630 (1.0% of Turnover) | 2,751 (1.1% of Turnover) | TCS Sofwt are Carbon Foot printni g Framework and Green Performanc Dashboard estmi ate/predict energy consumptoi n of sofwt are applicatoi ns and provide a ‘Green Ratni g’ for the applicatoi ns. TCS Clever Energy is used to monitor and help reduce energy consumptoi n in operatoi ns. TCS DigiFleet solutoi n provides real tmi e actoi nable insights to monitor, optmi ize and transform fel et operatoi ns. TCS Circle4Life mobile app captures TCS associates’ consumptoi n footprint and ofsf ets with details of carbon, water, plastci usage, and trees planted. TCS Sustainathon is a Web applicatoi n to host sustainability ideathons, to promote sustainability awareness, partci ipatoi n and innovatoi n from associates. |
+| 4,977 (1.9% of turnover) | 2,650 (1.1% of Turnover) | Capital investments in infrastructure, including energy efficiency and other environmental initiatives. |
+
+
+## Table 72 (Page 139)
+
+| Category | % of employees covered by | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 | Col_10 | Col_11 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Total (A) | Health Insurance |  | Accident Insurance |  | Maternity benefits |  | Paternity benefits |  | Day care facilities |  |
+|  |  | Number (B) | % (B/A) | Number (C) | % (C/A) | Number (D) | % (D/A) | Number (E) | % (E/A) | Number (F) | % (F/A) |
+| Permanent Employees |  |  |  |  |  |  |  |  |  |  |  |
+| Male | 3,93,940 | 3,87,215 | 98.3 | 3,92,721 | 99.7 | 0 | 0.0 | 91,342 | 23.2 | 0 | 0.0 |
+| Female | 2,14,039 | 2,09,112 | 97.7 | 2,13,513 | 99.8 | 2,13,676 | 99.8 | 0 | 0.0 | 0 | 0.0 |
+| Total | 6,07,979 | 5,96,327 | 98.1 | 6,06,234 | 99.7 | 2,13,676 | 35.1 | 91,342 | 15.0 | 0 | 0.0 |
+| Other than Permanent Employees |  |  |  |  |  |  |  |  |  |  |  |
+| Male | All the value chain partners adhere to the required statutory compliance in the countries in which TCS operates. TCS monitors and tracks the compliance of value chain partners, as per applicable local laws. |  |  |  |  |  |  |  |  |  |  |
+| Female |  |  |  |  |  |  |  |  |  |  |  |
+| Total |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 73 (Page 139)
+
+| Col_0 | FY 2025 (%) | FY 2024 (%) |
+| --- | --- | --- |
+| Cost incurred on well- being measures as a % of total revenue of the Company | 1.7 | 1. |
+
+
+## Table 74 (Page 139)
+
+| FY 2025 | Col_1 | FY 2024 | Col_3 |
+| --- | --- | --- | --- |
+| No. of employees covered as a % of total employees | Deducted and deposited with the authority (Y/N/N.A.) | No. of employees covered as a % of total employees | Deducted and deposited with the authority (Y/N/N.A. |
+|  |  |  |  |
+| 100.0 | Y | 100.0 |  |
+| 100.0 | Y | 100.0 |  |
+| 6.0 | Y | 6.0 |  |
+| 6.0 | Y | 6.0 |  |
+| 3.0 | Y | 2.0 |  |
+| 100.0 | Y | 99.0 |  |
+
+
+## Table 75 (Page 140)
+
+| Category | FY 2025 | Col_2 | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  | Total employees in respective category (A) | No. of employees in respective category, who are part of association(s)or Union (B) | % (B/A) | Total employees in respective category (C) | No. of employees in respective category, who are part of association(s) or Union (D) |
+| Total Permanent Employees | 6,07,979 | 6,783 | 1.1 | 6,01,546 | 6,997 |
+| Male | 3,93,940 | 4,414 | 1.1 | 3,87,448 | 4,698 |
+| Female | 2,14,039 | 2,369 | 1.1 | 2,14,098 | 2,299 |
+
+
+## Table 76 (Page 141)
+
+| FY 2025 | Col_1 | Col_2 | Col_3 | Col_4 | FY 2024 | Col_6 | Col_7 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Total (A) | On Health and Safety Measures |  | On Skill Upgradation |  | Total (D) | On Health and Safety Measures |  | On Skill Upgradation |  |
+|  | No. (B) | % (B/A) | No. (C) | % (C/A) |  | No. (E) | % (E/D) | No. (F) | % (F/D |
+|  |  |  |  |  |  |  |  |  |  |
+| 3,93,940 | 3,79,877 | 96.4 | 3,63,134 | 92.2 | 3,87,448 | 3,74,988 | 96.8 | 3,25,397 | 84. |
+| 2,14,039 | 2,02,791 | 94.7 | 1,92,395 | 89.9 | 2,14,098 | 2,06,519 | 96.5 | 1,76,807 | 82. |
+| 6,07,979 | 5,82,668 | 95.8 | 5,55,529 | 91.4 | 6,01,546 | 5,81,507 | 96.7 | 5,02,204 | 83. |
+
+
+## Table 77 (Page 141)
+
+| FY 2025 | Col_1 | Col_2 | FY 2024 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+| Total (A) | No. (B) | % (B/A) | Total (C) | No. (D) | % (D/C) |
+|  |  |  |  |  |  |
+| 3,38,005 | 3,31,413 | 98.0 | 3,42,187 | 3,26,639 | 95. |
+| 1,84,397 | 1,75,186 | 95.0 | 1,86,739 | 1,72,919 | 92. |
+| 5,22,402 | 5,06,599 | 97.0 | 5,28,926 | 4,99,558 | 94. |
+
+
+## Table 78 (Page 142)
+
+| Objectives | Goals | Indicator | Target |
+| --- | --- | --- | --- |
+| Incident reporting and implementation of remedial measures | Reporting of workplace safety observations and near miss cases | Number of cases | Increase in number of reporting |
+| Building a safety culture and inculcating safe work practices among associates and facility management contractors | Providing training for associates and contractors | Hours of training for associates | 1 hour per associate per year |
+|  |  | Hours of training for contract staff | 2 hours per contract staff per year |
+|  | Creating general OHS awareness | Number of awareness communication | 1 awareness communication per quarter |
+|  |  | Number of awareness campaigns | 1 awareness campaign per quarter |
+| Providing safe workplaces | H&S inspections for all the sites | Number of inspections | Annual inspection per site |
+
+
+## Table 79 (Page 143)
+
+| Category | FY 2025 | FY 2024 |
+| --- | --- | --- |
+| Employees | 0.025 | 0.00 |
+| Employees | 53 | 2 |
+| Employees | 0 |  |
+| Employees | 0 |  |
+
+
+## Table 80 (Page 143)
+
+| FY 2025 | Col_1 | Col_2 | FY 2024 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+| Filed during the year | Pending resolution at the end of year | Remarks | Filed during the year | Pending resolution at the end of year | Remarks |
+| 672 | 0 | - | 652 | 0 |  |
+
+
+## Table 81 (Page 145)
+
+| Whether identified as Vulnerable & Marginalized Group (Yes/No) | Channels of Communication (Email, SMS, Newspaper, Pamphlets, Advertisement, Community Meetings, Notice Board, Website), Other | Frequency of Engagement (Annually/Half yearly/ Quarterly/others – please specify) | Purpose and scope of engageme including key topics and concern raised during such engagement |
+| --- | --- | --- | --- |
+| No | As needed: Project-related calls and meetings; project management reviews; relationship meetings and reviews; executive meetings and briefings; customer visits; responses to Request for Information (RFIs) and Request for Proposal (RFPs); sponsored events; mailers; newsletet rs; brochures | • Continuous: TCS website; social media • Half-yearly: Customer satisfaction surveys • Annual: Customer summits; Innovation days; Executive customer surveys; Sponsored Community events | • Understanding client, industr and business challenges • Identifying opportunities to improve TCS’ service and products for cross-selling • Deciding on investments and capabilities required to fulfil demand • Understanding client’s data privacy and security requirements |
+| No | As needed: Press releases and press conferences; email advisories; in- person meetings; investor conferences; non-deal roadshows; conference calls | • Quarterly: Financial statements in IndAS and IFRS; Earnings call; Exchange notifications; Press conferences • Continuous: Investors page on the TCS website • Annual: Annual General Meeting; Annual Report | • Educating the investor community about TCS integrated value creation model and business strategy for long term • Helping investors voice their concerns regarding Company policies, reporting, strategy, etc. • Understanding shareholder expectations |
+
+
+## Table 82 (Page 146)
+
+| Stakehold Group | er Whether identified as Vulnerable & Marginalized Group (Yes/No) | Channels of Communication (Email, SMS, Newspaper, Pamphlets, Advertisement, Community Meetings, Notice Board, Website), Other | Frequency of Engagement (Annually/Half yearly/ Quarterly/others – please specify) |
+| --- | --- | --- | --- |
+| Employees | No | As needed: Town halls; roadshows; project or operations reviews; video conferences; audio conference calls; one-on-one counselling | • Monthly: @TCS (in- house magazine) • Continuous: TCS website; Communication via TCS intranet; dipstick surveys; grievance redressal system; OneTCS Newsroom • Annual: PULSE (employee feedback survey); long-service awards; sales meets; Blitz (business planning meet) |
+| Partners a Collaborat | nd No ors | As needed: Meetings/calls; COINTM meetings; visits; partner events | • Monthly: Conference calls • Quarterly: Business reviews • Annual: Partner events |
+| Academic Institution | No s | As needed: Academic Interface Program; Co- Innovation Network (COIN™) meetings | • Continuous: TCS website; academic portal • Annual: Sangam (high-level academic conference); campus recruitment |
+| Recruiters; staffing firms, othe suppliers | No r | One-time: RFIs/RFPs; empanelment process | • As needed: Transactional meetings; periodic reviews; surveys • Continuous: Tata Code of Conduct; Supplier evaluations |
+| Industry bodies, Regulators | No | As needed (need basis/ usually 1-2 meetings in 3 months’ basis): • Conferences and seminars, • working commitet e meetings, • surveys, other meetings | Annual: Conferences; summits |
+
+
+## Table 83 (Page 147)
+
+| Whether identified as Vulnerable & Marginalized Group (Yes/No) | Channels of Communication (Email, SMS, Newspaper, Pamphlets, Advertisement, Community Meetings, Notice Board, Website), Other | Frequency of Engagement (Annually/Half yearly/ Quarterly/others – please specify) | Purpose and scope of engageme including key topics and concern raised during such engagement |
+| --- | --- | --- | --- |
+| No | As needed: Governance RFIs/RFPs; presentations; project meetings; reviews; calls and meetings; surveys; consultative sessions; field visits; due diligence; calls and meetings; conferences and seminars; surveys; press releases; press conferences; media interviews and quotes; sponsored events, Analyst days | Continuous: Annual General Meeting; Quarterly reports and Annual report; Earnings conference call; Media interaction; Press releases, TCS website | • Understand areas for sustainable development • Communicate TCS’ performance and strategy • Manage TCS’ brand and reputation • Share and contribute to thought leadership and insig into public and business concerns • Discuss TCS’ response to responsible business issues • Work in partnership to devel solutions to global challenge |
+| Yes | As needed: Project meetings; reviews; calls and meetings; surveys; consultative sessions; field visits; due diligence; conferences and seminars | Continuous: Quarterly Reports and Annual Report; TCS website | • Understand community need • Plan and implement CSR projects • Share and contribute to thought leadership • Work in partnership to serve underserved communities |
+
+
+## Table 84 (Page 148)
+
+| Category | FY 2025 | Col_2 | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  | Total (A) | No. of employees/ workers covered (B) | % (B/A) | Total (C) | No. of employees/ workers covered (D) |
+| Permanent | 6,07,979 | 5,87,667 | 96.7 | 6,01,546 | 5,88,699 |
+| Other than permanent | 28,854 | 25,548 | 88.5 | 30,312 | 24,543 |
+| Total Employees | 6,36,833 | 6,13,215 | 96.3 | 6,31,858 | 6,13,242 |
+
+
+## Table 85 (Page 148)
+
+| Category | FY 2025 | Col_2 | Col_3 | Col_4 | Col_5 | Col_6 | Col_7 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Total (A) | Equal to Minimum Wage |  | More than Minimum Wage |  | Total (D) | Equal to Minimum Wage |  |  |
+|  |  | No.(B) | % (B/A) | No.(C) | % (C/A) |  | No.(E) | % (E/D) | No.(F) |
+| Permanent |  |  |  |  |  |  |  |  |  |
+| Male | 3,93,940 | 409 | 0.1 | 3,93,531 | 99.9 | 3,87,448 | 415 | 0.1 | 3,87,033 |
+| Female | 2,14,039 | 471 | 0.2 | 2,13,568 | 99.8 | 2,14,098 | 518 | 0.2 | 2,13,580 |
+| Other than Permanent |  |  |  |  |  |  |  |  |  |
+| Male |  |  |  |  |  |  |  |  |  |
+| Female |  |  |  |  |  |  |  |  |  |
+
+
+## Table 86 (Page 149)
+
+| FY 2025 | Col_1 | Col_2 | FY 2024 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+| Filed during the year | Pending resolution at the end of year | Remarks | Filed during the year | Pending resolution at the end of year | Remarks |
+| 125 | 23 | - | 110 | 17 | - |
+| 3 | 0 | - | 4 | 0 | - |
+| 0 | 0 | - | 0 | 0 | - |
+| 0 | 0 | - | 0 | 0 | - |
+| 0 | 0 | - | 0 | 0 | - |
+| 0 | 0 | - | 0 | 0 | - |
+
+
+## Table 87 (Page 149)
+
+| FY 2025 | FY 2024 |
+| --- | --- |
+| 125 | 11 |
+| 0.06% | 0.05 |
+| 78 | 6 |
+
+
+## Table 88 (Page 151)
+
+| 1,53,74,95,415 | 1,26,61,08,11 |
+| --- | --- |
+| NIL | NI |
+| 1,42,333 | 1,80,18 |
+| 1,53,76,37,748 | 1,26,62,88,29 |
+
+
+## Table 89 (Page 151)
+
+| 27,75,27,478 | 37,58,00,72 |
+| --- | --- |
+| 12,57,61,506 | 6,70,93,95 |
+| NIL | NI |
+| 40,32,88,984 | 44,28,94,67 |
+| 1,94,09,26,732 | 1,70,91,82,97 |
+| 0.000760 | 0.00071 |
+| 0.015705 | 0.01449 |
+| 3,047.8 | 2,715. |
+
+
+## Table 90 (Page 152)
+
+| Parameter | FY 2025 |
+| --- | --- |
+| Water withdrawal by source [in kilolitres (KL)] |  |
+| (i) Surface water | NIL |
+| (ii) Groundwater | 2,79,629 |
+| (iii) Third party water | 31,17,394 |
+| (iv) Seawater/desalinated water | NIL |
+| (v) Others – Rainwater utilized | 91,246 |
+| Total volume of water withdrawal (i + ii + iii + iv + v) | 34,88,269 |
+| Total volume of water consumption (KL) | 28,71,784 |
+| Water intensity Per Rupee of turnover (Total water consumption (KL)/Revenue from operations) | 0.000001 |
+| Water intensity Per Rupee of turnover adjusted for Purchasing Power Parity (PPP)* (Total water consumption (KL)/Revenue from operations adjusted for PPP) | 0.000023 |
+| Water intensity in terms of physical output (Water Consumed in KL/FTE)** | 4.5 |
+
+
+## Table 91 (Page 152)
+
+| (i) To Surface Water | - |
+| --- | --- |
+| - No treatment | - |
+| - With treatment – please specify level of treatment |  |
+| (ii) To Groundwater | - |
+| - No treatment | - |
+| - With treatment – Please specify level of treatment |  |
+| (iii) To Seawater | - |
+| - No treatment | - |
+| - With treatment – Please specify level of treatment |  |
+| (iv) Sent to third parties |  |
+| - No treatment | 4,12,036 |
+| - With treatment – Please specify level of treatment Note - tertiary treatment | 2,04,449 |
+| (v) Others |  |
+| - No treatment | - |
+| - With treatment – Please specify level of treatment | - |
+| Total water discharged (KL) | 6,16,485 |
+
+
+## Table 92 (Page 153)
+
+| Please specify unit | FY 2025 | FY 2024 |
+| --- | --- | --- |
+| NA | - |  |
+| NA | - |  |
+| NA | - |  |
+| NA | - |  |
+| NA | - |  |
+| NA | - |  |
+| NA | - |  |
+
+
+## Table 93 (Page 153)
+
+| Unit | FY 2025 | FY 2024 |
+| --- | --- | --- |
+| Metric tonnes of CO2 equivalent | 20,494.8 | 21,949. |
+| tCO2e | 8,072.0 | 6,600. |
+| tCO2e | 5.6 | 5. |
+| tCO2e | 52.2 | 34. |
+| tCO2e | 12,365.0 | 15,309. |
+| Metric tonnes of CO2 equivalent | 55,599.0 | 73,722. |
+| tCO2e/rupee turnover | 0.00000003 | 0.0000000 |
+| tCO2e/rupee turnover adjusted for PPP | 0.00000062 | 0.0000008 |
+| tCO2e/FTE** | 0.12 | 0.1 |
+
+
+## Table 94 (Page 155)
+
+| 262.0 | 137.3 |
+| --- | --- |
+| 740.9 | 297.5 |
+| 0.3 | 0.8 |
+| 1,589.6 | 1,070.8 |
+| 343.0 | 261.0 |
+| NA | NA |
+
+
+## Table 95 (Page 156)
+
+| Parameter | FY 2025 |
+| --- | --- |
+| Other Hazardous waste. Please specify, if any. (G) (Used oil in DG sets, oil soaked cotot n waste and oil filters) | 48.1 |
+| Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by composition i.e. by materials relevant to the sector) | 6,999.1 |
+| Quantity of office paper waste | 225.1 |
+| Quantity of packaging paper waste (cardboards etc.) | 180.0 |
+| Quantity of other paper waste generated (tissue paper rolls, food packaging) | 446.2 |
+| Quantity of other packaging material (thermocol etc.) | 12.9 |
+| Quantity of Miscellaneous waste (floor waste, toilet rolls, C-fold, cafeteria dry waste etc.) | 2,176.4 |
+| Quantity of other office scrap waste generated | 376.5 |
+| Quantity of garden waste generated | 1,244.4 |
+| Quantity of food waste | 2,230.9 |
+| Quantity of sanitary waste | 62.0 |
+| Quantity of coolant | 1.3 |
+| Quantity of other dry waste generated | 43.4 |
+| Total (A+B + C + D + E + F + G + H) | 9,983.0 |
+| Waste intensity per rupee of turnover (Total waste generated (MT)/Revenue from operations) | 0.0000000039 |
+| Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)* (Total waste generated (MT)/Revenue from operations adjusted for PPP) | 0.0000000808 |
+| Waste intensity in terms of physical output (waste in tonnes/FTE)** | 0.016 |
+
+
+## Table 96 (Page 157)
+
+| Location of operations/offices | Type of operations | Whether the conditions of environmental approval/ clearance are being complied with? (Y/N) If no, the reasons thereof and corrective action taken, if any. |
+| --- | --- | --- |
+| TCS Kalinga Park, Chandaka Industrial Estate, Bhubanewar, Odisha | Software Consultancy Services | Yes, the conditions of Environmental Clearance have bee complied with. |
+
+
+## Table 97 (Page 157)
+
+| EIA Notification No. | Date | Whether conducted by independent external agency (Yes/No) | Results communicated in public domain (Yes/No) | Relevant Web link |
+| --- | --- | --- | --- | --- |
+| EC24B3813UP5882017N | September 6, 2024 | Yes | Yes | https://www.tcs.com/ investor-relations/ environmental-impac assessments-details |
+
+
+## Table 98 (Page 158)
+
+| Ambattur (1 TCS location) | 13 |
+| --- | --- |
+| Bengaluru (North) (1 TCS location) | 14 |
+| Bisrakh (4 TCS locations) | 15 |
+| Gurugram (4 TCS locations) | 16 |
+| Karol Bagh (1 TCS location) | 17 |
+| Serilingampally (5 TCS locations) | 18 |
+| Varanasi (1 TCS location) | 19 |
+| Anekal (1 TCS location) | 20 |
+| Bengaluru (East) (8 TCS locations) | 21 |
+| Gandhinagar (2 TCS locations) | 22 |
+| Indore (1 TCS location) | 23 |
+| Lucknow (1 TCS location) |  |
+
+
+## Table 99 (Page 158)
+
+| Surface water | - |
+| --- | --- |
+| Groundwater | 74,465 |
+| ) Third party water | 11,26,779 |
+| ) Seawater/desalinated water | - |
+| Others (rainwater utilized) | 585 |
+| tal volume of water withdrawal (in kilolitres) | 12,01,829 |
+| tal volume of water consumption (in kilolitres) | 8,78,270 |
+| ater intensity per rupee of turnover (Water consumed in KL/turnover in INR) | 0.00000034 |
+
+
+## Table 100 (Page 159)
+
+| Unit | FY 2025 | FY 2024 |
+| --- | --- | --- |
+| Metric tonnes of CO2 Equivalent | 5,23,810 | 4,94,72 |
+| tCO2e | 76,719 | 70,64 |
+| tCO2e | 36,796 | 20,29 |
+| tCO2e | 30,056 | 35,49 |
+| tCO2e | 4,276 | 3,14 |
+| tCO2e | 1,303 | 1,17 |
+| tCO2e | 1,10,405 | 1,20,62 |
+| tCO2e | 2,64,255 | 2,43,32 |
+| tCO2e/rupee turnover | 0.00000021 | 0.0000002 |
+| (tCO2e/FTE)* | 0.82 | 0.7 |
+
+
+## Table 101 (Page 159)
+
+| Initiative undertaken | Details of the initiative (Web-link, if any, may be provided along-with summary) | Outcome of the initiative |
+| --- | --- | --- |
+| Chandaka Wildlife sanctuary authority has developed the trench followed by 5 feet wall with fencing along the border of the sanctuary so that the possibility of elephants crossing the trench is eliminated hence, any impact of TCS operations on wildlife is not expected. However, TCS has undertaken following initiatives: • Minimizing light pollution around the wildlife sanctuary • Internal initiatives within its campus towards biodiversity conservation and enhancement • Internal initiatives towards water and waste management | • Installation of inward facing low intensity peripheral lights • Plantation of native/indigenous plants, medicinal and spice garden, butet rfly garden • Provision of organic waste technologies- Vermicomposting and organic waste converter • Provision of rainwater harvesting structure and sewage treatment plant (STP) | • Inward direction peripheral lights o low intensity to avoid any impact o wildlife movement. High mast light in TCS parking area are switched o afet r 11 pm. • Protection of native/medicinal, plant species as well as butet rfly species. • Garden and food waste vermicomposting and organic waste composting technology has been installed to generate organic manure and it is reused for landscaping. • 100% treatment and recycling of wastewater inside the premises. • Groundwater recharging pits for enriching the water table. |
+
+
+## Table 102 (Page 160)
+
+| S/N Ini | tiative undertaken | Details of the initiative (Web-link, if any, may be provided along-with summary) |
+| --- | --- | --- |
+| 1 HV | AC energy efficiency projects | • Energy efficient AHU’s • VRF systems for 24X7/systems on variable load |
+| 2 UP | S based energy efficiency projects | • UPS consolidation and Modular UPS |
+| 3 En | ergy efficiency due to green buildings | • Roof Underdeck Insulation • Roof tiling to increase Solar Reflective Index (SRI) • CTI Certified Cooling Towers • Renewable Energy use • LED luminaires Note : the above list is indicative only |
+| 4 En En | ergy Monitoring and Analytics (Clever ergy + Resource Optimization Center) | • Set Point modulation • Equipment Schedule Change • Operational Optimization • Alert based Monitoring |
+
+
+## Table 103 (Page 161)
+
+| S/N | Name of the trade and industry chambers/associations | Reach of trade and industry chambers/ associations (State/National) |
+| --- | --- | --- |
+| 1 | National Association of Software and Service Companies (NASSCOM) | National |
+| 2 | Confederation of Indian Industry (CII) | National |
+| 3 | Federation of Indian Chambers of Commerce & Industry (FICCI) | National |
+| 4 | Associated Chambers of Commerce & Industry of India (ASSOCHAM) | National |
+| 5 | Public Afaf irs Forum of India (PAFI) | National |
+| 6 | The Institute of Management Consultants of India (IMCI) | National |
+| 7 | Telecom Equipment and Services Export Promotion Council (TEPC) | National |
+| 8 | Indo American Chamber of Commerce (IACC) | National |
+| 9 | Bombay Chamber of Commerce and Industry (BCCI) | National |
+| 10 | IMC Chamber of Commerce and Industry | National |
+
+
+## Table 104 (Page 161)
+
+| Public policy advocated | Method resorted for such advocacy | Whether information available in public domain? (Yes/No) | Frequency of Review by Board (Annually/ Half yearly/ Quarterly/Others – please specify) | Web Link, if availabl |
+| --- | --- | --- | --- | --- |
+| SEZ notification regarding Rule 43A. | • Industry meetings with Ministry of Electronics and Information & Technology (MeitY), Department of Commerce, Ministry of Finance (MoF) • Participation in round tables discussions and consultations organized by CII, FICCI, NASSCOM • Recommendations submitet d to relevant government departments and trade associations on request | Yes | As and when required | https://www.tcs.com |
+|  |  |  |  | investor-relations/ public-policy- positions-details |
+| MeitY, GOI, launched the NPIT 2012 with a vision to strengthen India’s position as the Global IT hub. As the technology sector evolves rapidly, the GOI is planning to come up with a new IT policy to address the present challenges and accelerate the growth of the Indian IT industry. Recommendations for the same has been submitet d to the Government. | • Industry meetings with MeitY • Participation in round tables discussions and consultations organized by industry associations such as FICCI, NASSCOM, etc | Yes | As and when required |  |
+
+
+## Table 105 (Page 162)
+
+| S/N Pu | blic policy advocated | Method resorted for such advocacy | Whether information available in public domain? (Yes/No) | Frequency of Review by Board (Annually/ Half yearly/ Quarterly/Others – please specify) |
+| --- | --- | --- | --- | --- |
+| 3 EF on tra po | FO Concerns: Discussion Concerns related to PF nsfer policies and EPFO rtal. | • Participation in round tables discussions and consultations organized by NASSCOM • Meeting with Government officials Commissioner | Yes | As and when required |
+| 4 To m Inf ac Go dis cri wi de an | strengthen India’s global omentum in Digital Public rastructure (DPI), TCS is tively collaborating with the vernment. The Company’s cussion centre around tical DPI aspects, aligning th national priorities to liver scalable, innovative d inclusive solutions. | • Meeting with relevant government departments- G20 Division, Ministry of External Afaf irs, Ministry of Electronics and IT | Partially | As and when required |
+| 5 PM Bu a s int 1 c co ye | Internship Scheme Union dget 2024-25 has proposed cheme for providing ernship opportunities to rore youths in 500 top mpanies in a span of 5 ars. | • Industry meetings with Ministry of Corporate Afaf irs • Participation in round tables discussions and consultations organized by NASSCOM and CII | Yes | As and when required |
+| 6 M Pe (D fac of ai fra of pr an Sta sh th | eitY has drafet d the Digital rsonal Data Protection PDP) Rules, 2025 to ilitate the implementation the DPDP Act, 2023. It ms to strengthen the legal mework for the protection digital personal data by oviding necessary details d an actionable framework. keholders are invited to are feedback/comments on e draft rules. | • Meeting with Ministry of Communications and Information Technology • Meeting with National Informatics Centre Services Inc | No | As and when required |
+
+
+## Table 106 (Page 163)
+
+| FY 2025 (%) | FY 2024 (%) |
+| --- | --- |
+| 7.8 | 6. |
+| 46.6 | 33. |
+
+
+## Table 107 (Page 163)
+
+| FY 2025 (%) | FY 2024 (%) |
+| --- | --- |
+| 0.0 | 0. |
+| 0.0 | 0. |
+| 4.9 | 4. |
+| 95.1 | 95. |
+
+
+## Table 108 (Page 164)
+
+| S/N Pr | ogram | State | Aspirational District |
+| --- | --- | --- | --- |
+| 1 Go To | Innovate gether (goIT) | Utat r Pradesh, Andhra Pradesh | Bahraich, Balrampur, Chandauli, Chitrakoot, Fatehpur, Siddharth Nagar, Sonbhadra, Visakhapatanam, Vizianagaram, Y.S.R. |
+| 2 Ig Fu | nite My ture (IMF) | Telangana, Utat r Pradesh, Gujarat, Rajasthan, Utat rakhand, Andhra Pradesh | Adilabad, Bahraich, Balrampur, Bhadradri Kothagudem, Chandauli, Chitrakoot, Fatehpur, Khammam, Narmada, Shravasti, Siddharth Nagar, Sirohi,Sonbhadra, Udham Singh Nagar, Visakhapatanam, Vizianagaram, Warangal, Y.S.R. |
+| 3 Lit Se | eracy as a rvice (LaaS) | Andra Pradesh, Jharkhand, Odisha | East Singhbum, Rayagada, Visakhapatanam, Vizianagaram, Y.S.R. |
+| 4 Br | idgeIT | Rajasthan, Jharkhand, Madhya Pradesh, Odisha, Bihar, Karnataka | Baran, Bokaro, Chhatarpur, Dholpur, Gajapati, Gaya, Hazaribagh, Khunti, Latehar, Lohardaga, Muzafaf rpur, Nawada, Raichur, Ramgarh, Ranchi, Rayagada, West Singhbhum, Yadgir. |
+
+
+## Table 109 (Page 165)
+
+| CSR Project | No. of persons benefited from CSR projects | % of beneficiaries from vulnerable and marginalized groups |
+| --- | --- | --- |
+| goIT | 85,668 | 79. |
+| IMF | 2,72,823 | 81. |
+| LaaS | 4,12,216 | 100. |
+| BridgeIT | 7,46,409 | 88. |
+
+
+## Table 110 (Page 165)
+
+| FY 2025 | Col_1 | Remarks | FY 2024 | Col_4 | Remarks |
+| --- | --- | --- | --- | --- | --- |
+| Received during the year | Pending resolution at end of year |  | Received during the year | Pending resolution at end of year |  |
+| 34 | 0 | - | 24 | 0 | - |
+| NA |  |  |  |  |  |
+| 1 | 0 | - | NIL |  |  |
+| NIL |  |  |  |  |  |
+| NIL |  |  |  |  |  |
+| NIL |  |  |  |  |  |
+
+
+## Table 111 (Page 167)
+
+| Period subject to assurance | Page number in the Integrated Annual Report | Reporting criteria |
+| --- | --- | --- |
+| From 1 April 2024 to 31 March 2025 | 127 to 164 | - Regulation 34(2)(f) of the Securities and Exchange Board o India (SEBI) Listing Obligations and Disclosure Requiremen (SEBI LODR) - Guidance notes for BRSR format issued by SEBI - World Resource Institute (WRI) / World Business Council f Sustainable Development (WBCSD) Greenhouse Gas (GHG Protocol (A Corporate Accounting and Reporting Standard |
+
+
+## Table 112 (Page 170)
+
+| Principle | Attribute/Area | Parameter/Metric |
+| --- | --- | --- |
+| Principle 1 - E8 | Fairness in Engaging with Customers and Suppliers | Number of days of accounts payable |
+| Principle 1 - E9 | Open-ness of business | Concentration of purchases & sales done with trading houses, dealers, and related parties Loans and advances & investments with related parties |
+| Principle 3 - E1 c | Enhancing Employee Wellbeing and Safety | Spending on measures towards well-being of employees and workers |
+| Principle 3 - E11 |  | Details of safety related incidents (LTIFR, Recordable Injuries, Fatalities, High Consequence Injuries) |
+| Principle 5 - E3 b | Enabling Gender Diversity in Business | Gross wages paid to females as % of total wages paid by the entity |
+| Principle 5 - E7 |  | Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 |
+| Principle 6 - E1 | Energy Footprint | Total energy consumption |
+|  |  | Energy intensity (per rupee of turnover, per rupee of turnover adjusted for PPP, per physical output) |
+| Principle 6 - E3 | Water Footprint | Provide details of water withdrawal by source |
+|  |  | Total water consumption |
+|  |  | Water consumption intensity (per rupee of turnover, per rupee of turnover adjusted for PPP, per physical output) |
+| Principle 6 - E4 | Water Footprint | Water Discharge by destination and levels of Treatment |
+| Principle 6- E7 | GHG Footprint | Total Scope 1 emissions (Break-up of the GHG into CO, CH, NO, 2 4 2 HFCs, PFCs, SF, NF, if available) 6 3 |
+|  |  | Total Scope 2 emissions (Break-up of the GHG into CO, CH, NO, 2 4 2 HFCs, PFCs, SF, NF, if available) 6 3 |
+|  |  | GHG Emission Intensity (Scope 1+2) (per rupee of turnover, per rupee of turnover adjusted for PPP, per physical output) |
+| Principle 6 - E9 | Embracing circularity - waste details | Provide details related to waste generated by category of waste |
+|  |  | Waste intensity (per rupee of turnover, per rupee of turnover adjusted for PPP, per physical output) |
+|  |  | Each category of waste generated, total waste recovered through recycling, re-using or other recovery operations |
+|  |  | For each category of waste generated, total waste disposed by nature of disposal method |
+| Principle 8 - E4 | Enabling Inclusive Development | Percentage of input material (inputs to total inputs by value) sourced from suppliers (MSMEs/small suppliers and directly within India) |
+| Principle 8 - E5 |  | Wages paid to persons employed in smaller towns as % of total wage cost |
+| Principle 9 - E7 | Fairness in Engaging with Customers and Suppliers | Instances involving loss / breach of data of customers as a percentage of total data breaches or cyber security events |
+
+
+## Table 113 (Page 180)
+
+| Col_0 | Note | As at March 31, 2025 |
+| --- | --- | --- |
+| ASSETS Non-current assets Property, plant and equipment Capital work-in-progress Right-of-use assets Goodwill Other intangible assets Financial assets Investments Trade receivables Billed Unbilled Loans Other financial assets Deferred tax assets (net) Income tax assets (net) Other assets Total non-current assets Current assets Inventories Financial assets Investments Trade receivables Billed Unbilled Cash and cash equivalents Other balances with banks Loans Other financial assets Income tax assets (net) Other assets Total current assets TOTAL ASSETS EQUITY AND LIABILITIES Equity Share capital Other equity Equity attributable to shareholders of the Company Non-controlling interests Total equity Liabilities Non-current liabilities Financial liabilities Lease liabilities Other financial liabilities Employee benefit obligations Deferred tax liabilities (net) Unearned and deferred revenue Total non-current liabilities Current liabilities Financial liabilities Lease liabilities Trade payables Other financial liabilities Unearned and deferred revenue Other liabilities Provisions Employee benefit obligations Income tax liabilities (net) Total current liabilities TOTAL EQUITY AND LIABILITIES | 10(a) 10(a) 9 10(b) 10(c) 8(a) 8(b) 8(e) 8(f) 17 10(d) 10(e) 8(a) 8(b) 8(c) 8(d) 8(e) 8(f) 10(d) 8(m) 11 8(h) 14 17 8(g) 8(h) 10(f) 10(g) 14 |  |
+|  |  |  |
+|  |  | 10,978 |
+|  |  | 1,546 |
+|  |  | 9,275 |
+|  |  | 1,860 |
+|  |  | 940 |
+|  |  |  |
+|  |  | 275 |
+|  |  |  |
+|  |  | 91 |
+|  |  | 38 |
+|  |  | 25 |
+|  |  | 2,731 |
+|  |  | 3,578 |
+|  |  | 1,569 |
+|  |  | 3,712 |
+|  |  | 36,618 |
+|  |  |  |
+|  |  | 21 |
+|  |  |  |
+|  |  | 30,689 |
+|  |  |  |
+|  |  | 50,142 |
+|  |  | 8,904 |
+|  |  | 8,342 |
+|  |  | 7,121 |
+|  |  | 9 |
+|  |  | 2,742 |
+|  |  | 257 |
+|  |  | 14,784 |
+|  |  | 1,23,011 |
+|  |  | 1,59,629 |
+|  |  |  |
+|  |  |  |
+|  |  | 362 |
+|  |  | 94,394 |
+|  |  | 94,756 |
+|  |  | 1,015 |
+|  |  | 95,771 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  | 7,838 |
+|  |  | 680 |
+|  |  | 841 |
+|  |  | 980 |
+|  |  | 518 |
+|  |  | 10,857 |
+|  |  |  |
+|  |  |  |
+|  |  | 1,554 |
+|  |  | 13,909 |
+|  |  | 8,542 |
+|  |  | 4,028 |
+|  |  | 7,188 |
+|  |  | 180 |
+|  |  | 4,885 |
+|  |  | 12,715 |
+|  |  | 53,001 |
+|  |  | 1,59,629 |
+
+
+## Table 114 (Page 181)
+
+| Note | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| 12 13 14 15(a) 16 15(b) 20 17 17 18 | 2,55,324 | 2,40,893 4,422 2,45,315 1,40,131 3,702 778 4,985 32,764 1,82,360 62,955 958 61,997 15,864 34 15,898 46,099 (2) (6) (11) 237 1 13 44 (39) 237 46,336 45,908 191 46,099 299 (62) 237 46,207 129 46,336 125.88 364,68,51,755 |
+|  | 3,962 |  |
+|  | 2,59,286 |  |
+|  |  |  |
+|  | 1,45,788 |  |
+|  | 11,648 |  |
+|  | 796 |  |
+|  | 5,242 |  |
+|  | 30,481 |  |
+|  | 1,93,955 |  |
+|  | 65,331 |  |
+|  |  |  |
+|  | - |  |
+|  | 65,331 |  |
+|  |  |  |
+|  | 16,910 |  |
+|  | (376) |  |
+|  | 16,534 |  |
+|  | 48,797 |  |
+|  |  |  |
+|  |  |  |
+|  | (106) |  |
+|  | (24) |  |
+|  | 18 |  |
+|  |  |  |
+|  | 593 |  |
+|  | 1 |  |
+|  | (9) |  |
+|  | 262 |  |
+|  | (146) |  |
+|  | 589 |  |
+|  | 49,386 |  |
+|  |  |  |
+|  | 48,553 |  |
+|  | 244 |  |
+|  | 48,797 |  |
+|  |  |  |
+|  | 571 |  |
+|  | 18 |  |
+|  | 589 |  |
+|  |  |  |
+|  | 49,124 |  |
+|  | 262 |  |
+|  | 49,386 |  |
+|  | 134.19 |  |
+|  | 361,80,87,518 |  |
+
+
+## Table 115 (Page 182)
+
+| Balance as at March 31, 2024 | 362 |
+| --- | --- |
+| Changes in equity share capital during the year* | (4) |
+| Restated balance as at April 1, 2023 | 366 |
+| Changes in equity share capital due to prior period errors | - |
+| Balance as at April 1, 2023 | 366 |
+
+
+## Table 116 (Page 182)
+
+| Col_0 | Total equity | Col_2 | 90,957 | 48,797 | 589 | 49,386 | (44,962) | - | - | 28 | 95,409 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Non- controlling interests |  | 830 | 244 | 18 | 262 | (98) | - | - | 21 | 1,015 |
+|  | Equity a t tributable to shareholders of the Company |  | 90,127 | 48,553 | 571 | 49,124 | (44,864) | - | - | 7 | 94,394 |
+| Items of other comprehensive income | Foreign currency transla i ton reserve |  | 2,955 | - | 245 | 245 | - | - | - | - | 3,200 |
+|  | Cash l fow hedging reserve | Time value | (18) | - | (6) | (6) | - | - | - | - | (24) |
+|  |  | Intrinsic value | 9 | - | - | - | - | - | - | - | 9 |
+|  | Investment revalua i ton reserve |  | 235 | - | 420 | 420 | - | - | - | - | 655 |
+| Reserves and surplus | Statutory reserve |  | 160 | - | - | - | - | - | 13 | - | 173 |
+|  | Retained earnings |  | 70,033 | 48,553 | (88) | 48,465 | (44,864) | 15,149 | (13) | 7 | 88,777 |
+|  | Special Economic Zone re-investment reserve |  | 16,234 | - | - | - | - | (15,149) | - | - | 1,085 |
+|  | Capital redemp i ton reserve |  | 444 | - | - | - | - | - | - | - | 444 |
+|  | Capital reserve |  | 75 | - | - | - | - | - | - | - | 75 |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 117 (Page 185)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 3,056 | 2,990 26 - 6,026 (1,614) (699) (25,137) (81) (425) 425 (46) (3,959) (17,000) - (48,536) 1,828 7,123 65 9,016 2,804 6,212 -* -* -* 9,016 |
+| 40 |  |
+| 3 |  |
+| (2,318) |  |
+|  |  |
+| (1,664) |  |
+| (840) |  |
+| (44,864) |  |
+| (98) |  |
+| - |  |
+| - |  |
+| - |  |
+| - |  |
+| - |  |
+| 28 |  |
+| (47,438) |  |
+| (848) |  |
+| 9,016 |  |
+| 174 |  |
+| 8,342 |  |
+|  |  |
+|  |  |
+| 3,421 |  |
+| 4,907 |  |
+| -* |  |
+| -* |  |
+| 14 |  |
+| 8,342 |  |
+
+
+## Table 118 (Page 191)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 186 | 186 91 939 |
+| 93 |  |
+| - |  |
+
+
+## Table 119 (Page 191)
+
+| Currency | Face value per share | Equity instruments designated at fair value through OCI | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- | --- | --- |
+| USD USD INR PHP CLP | 1 5,00,000 10 100 1 | Fully paid equity shares Mozido LLC (unquoted) FCM LLC (unquoted) Taj Air Limited (unquoted) Philippine Dealing System Holdings Corporation (unquoted) LATAM Airlines Group S.A. (quoted) Less: Impairment in value of investments |  | 83 63 19 8 1 (142) 32 |
+|  |  |  | 85 |  |
+|  |  |  | 64 |  |
+|  |  |  | 19 |  |
+|  |  |  | 8 |  |
+|  |  |  | 1 |  |
+|  |  |  | (169) |  |
+|  |  |  | 8 |  |
+
+
+## Table 120 (Page 191)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 235 | 41 (6) 248 (40) (11) 3 235 |
+| (24) |  |
+| 603 |  |
+| (152) |  |
+| (10) |  |
+| 3 |  |
+| 655 |  |
+
+
+## Table 121 (Page 191)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 790 | 765 (638) 127 |
+| (699) |  |
+| 91 |  |
+
+
+## Table 122 (Page 192)
+
+| Particulars | Not due | Outstanding for following periods from due date of payment | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade receivables - Billed Undisputed trade receivables – considered good Disputed trade receivables – considered good Less: Allowance for expected credit losses Trade receivables - Unbilled |  |  |  |  |  |  |
+|  | - | - | - | 3 | 145 | 612 |
+|  | - | - | - | 1 | 2 | 27 |
+|  | - | - | - | 4 | 147 | 639 |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+
+## Table 123 (Page 192)
+
+| Particulars | Not due | Outstanding for following periods from due date of payment | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade receivables - Billed Undisputed trade receivables – considered good Disputed trade receivables – considered good Less: Allowance for expected credit losses Trade receivables - Unbilled | - - - | - - - | - - - | 55 2 57 | 86 - 86 | 590 32 622 |
+
+
+## Table 124 (Page 193)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+|  |  |  |  |  |  |  |
+| 39,659 | 6,932 | 2,779 | 714 | 12 | 198 | 50,294 |
+| - | 7 | 37 | 66 | 74 | 180 | 364 |
+| 13 | 42 | 16 | - | 18 | - | 89 |
+| 39,672 | 6,981 | 2,832 | 780 | 104 | 378 | 50,747 |
+|  |  |  |  |  |  | (605) |
+|  |  |  |  |  |  | 50,142 |
+|  |  |  |  |  |  | 8,904 |
+|  |  |  |  |  |  | 59,046 |
+
+
+## Table 125 (Page 193)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| 38,188 - - 38,188 | 4,952 6 - 4,958 | 889 19 - 908 | 383 62 - 445 | 6 18 - 24 | 279 159 25 463 | 44,697 264 25 44,986 (552) 44,434 9,143 53,577 |
+
+
+## Table 126 (Page 193)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 2,804 6,212 -* -* -* 9,016 |
+| 3,421 |  |
+| 4,907 |  |
+| -* |  |
+| -* |  |
+| 14 |  |
+| 8,342 |  |
+
+
+## Table 127 (Page 195)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 343 | 339 141 764 368 (43) 134 1,703 |
+| 438 |  |
+| 888 |  |
+| 333 |  |
+| (53) |  |
+| 793 |  |
+| 2,742 |  |
+
+
+## Table 128 (Page 195)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+|  |  |  |  |  |  |
+| 157 | - | - | - | - | 157 |
+| 1,404 | 5,597 | 423 | 8 | 36 | 7,468 |
+| 2 | - | - | - | 30 | 32 |
+| 1,563 | 5,597 | 423 | 8 | 66 | 7,657 |
+|  |  |  |  |  | 6,252 |
+|  |  |  |  |  | 13,909 |
+
+
+## Table 129 (Page 195)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| 82 1,001 8 1,091 | - 2,025 11 2,036 | - 29 - 29 | - 7 - 7 | - 43 30 73 | 82 3,105 49 3,236 6,745 9,981 |
+
+
+## Table 130 (Page 196)
+
+| Col_0 | Fair value through profit or loss | Fair value through other comprehensive income | Derivatvi e instruments in hedging relatoi nship | Derivatvi e instruments not in hedging relatoi nship | Amortised cost |
+| --- | --- | --- | --- | --- | --- |
+| Financial assets Cash and cash equivalents Bank deposits Earmarked balances with banks Investments Trade receivables Billed Unbilled Loans Other financial assets Financial liabilities Trade payables Lease liabilities Other financial liabilities |  |  |  |  |  |
+|  | - | - | - | - | 8,342 |
+|  | - | - | - | - | 7,924 |
+|  | - | - | - | - | 1,156 |
+|  | 2,903 | 27,782 | - | - | 279 |
+|  |  |  |  |  |  |
+|  | - | - | - | - | 50,233 |
+|  | - | - | - | - | 8,942 |
+|  | - | - | - | - | 34 |
+|  | - | - | 33 | 405 | 3,076 |
+|  | 2,903 | 27,782 | 33 | 405 | 79,986 |
+|  |  |  |  |  |  |
+|  | - | - | - | - | 13,909 |
+|  | - | - | - | - | 9,392 |
+|  | - | - | - | 157 | 9,065 |
+|  | - | - | - | 157 | 32,366 |
+
+
+## Table 131 (Page 197)
+
+| Fair value through profit or loss | Fair value through other comprehensive income | Derivatvi e instruments in hedging relatoi nship | Derivatvi e instruments not in hedging relatoi nship | Amortised cost | Total carrying value |
+| --- | --- | --- | --- | --- | --- |
+| - - - 2,360 - - - - 2,360 - - - - | - - - 28,184 - - - - 28,184 - - - - | - - - - - - - 46 46 - - - - | - - - - - - - 95 95 - - 114 114 | 9,016 6,047 684 1,218 44,561 9,159 493 2,373 73,551 9,981 8,021 8,613 26,615 | 9,016 6,047 684 31,762 44,561 9,159 493 2,514 1,04,236 9,981 8,021 8,727 26,729 |
+
+
+## Table 132 (Page 198)
+
+| As at March 31, 2025 | Level 1 | Level 2 | Level 3 |
+| --- | --- | --- | --- |
+| Financial assets Mutual fund units Equity shares Government bonds and securities Corporate bonds and debentures Fair value of foreign exchange derivative assets Financial liabilities Fair value of foreign exchange derivative liabilities |  |  |  |
+|  | 2,903 | - | - |
+|  | 1 | - | 7 |
+|  | 24,031 | - | - |
+|  | 4,022 | - | - |
+|  | - | 438 | - |
+|  | 30,957 | 438 | 7 |
+|  |  |  |  |
+|  | - | 157 | - |
+|  | - | 157 | - |
+
+
+## Table 133 (Page 198)
+
+| As at March 31, 2024 | Level 1 | Level 2 | Level 3 |
+| --- | --- | --- | --- |
+| Financial assets Mutual fund units Equity shares Government bonds and securities Corporate bonds and debentures Commercial papers Fair value of foreign exchange derivative assets Financial liabilities Fair value of foreign exchange derivative liabilities | 2,360 1 24,932 3,497 939 - 31,729 - - | - - - - - 141 141 114 114 | - 31 - - - - 31 - - |
+
+
+## Table 134 (Page 198)
+
+| Foreign currency | As at March 31, 2025 | Col_2 | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  | No. of contracts | Notional amount of contracts (In million) | Fair value (` crore) | No. of contracts | Notional amount of contracts (In million) |
+| US Dollar Great Britain Pound Euro | - | - | - | 19 29 28 | 475 230 235 |
+|  | 23 | 220 | 18 |  |  |
+|  | 25 | 235 | 15 |  |  |
+
+
+## Table 135 (Page 199)
+
+| Year ended March 31, 2025 | Col_1 | Year ended March 31, 2024 | Col_3 |
+| --- | --- | --- | --- |
+| Intrinsic value | Time value | Intrinsic value | Time value |
+| 9 | (18) | 8 (139) 31 140 (31) 9 | (28 24 (55 (228 5 (18 |
+| (193) | 234 |  |  |
+| 48 | (60) |  |  |
+| 194 | (243) |  |  |
+| (49) | 63 |  |  |
+| 9 | (24) |  |  |
+
+
+## Table 136 (Page 199)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| - | 91 |
+| 437 |  |
+
+
+## Table 137 (Page 200)
+
+| Col_0 | USD | EUR | GBP |
+| --- | --- | --- | --- |
+| financial assets financial liabilities | 2,572 | 429 | 115 |
+|  | (3,557) | (8) | (337) |
+
+
+## Table 138 (Page 200)
+
+| Col_0 | USD | EUR | GBP |
+| --- | --- | --- | --- |
+| financial assets financial liabilities | 2,753 (7,129) | 518 (253) | 161 (2,185) |
+
+
+## Table 139 (Page 201)
+
+| Col_0 | As at March 31, 2025 | Col_2 | As at March 31, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Gross% | Net% | Gross% | Net% |
+| United States of America India United Kingdom | 35.40 | 35.87 | 42.07 18.68 16.56 | 42.67 17.44 16.86 |
+|  | 22.51 | 21.38 |  |  |
+|  | 14.72 | 14.97 |  |  |
+
+
+## Table 140 (Page 201)
+
+| Col_0 | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| Balance at the beginning of the year Change during the year Bad debts writet n off Translation exchange difef rence Balance at the end of the year | 1,190 | 1,213 98 (118) (3) 1,190 |
+|  | 112 |  |
+|  | (2) |  |
+|  | 4 |  |
+|  | 1,304 |  |
+
+
+## Table 141 (Page 201)
+
+| Due in 1st year | Due in 2nd year | Due in 3rd to 5th year | Due afet r 5th year | Total |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| 13,909 | - | - | - | 13,909 |
+| 2,077 | 1,830 | 3,782 | 4,359 | 12,048 |
+| 8,385 | 231 | 447 | 1 | 9,064 |
+| 24,371 | 2,061 | 4,229 | 4,360 | 35,021 |
+| 157 | - | - | - | 157 |
+| 24,528 | 2,061 | 4,229 | 4,360 | 35,178 |
+
+
+## Table 142 (Page 202)
+
+| March 31, 2024 | Due in 1st year | Due in 2nd year | Due in 3rd to 5th year | Due afet r 5th year |
+| --- | --- | --- | --- | --- |
+| Non-derivative financial liabilities Trade payables Lease liabilities Other financial liabilities Derivative financial liabilities | 9,981 1,959 8,255 20,195 114 20,309 | - 1,709 51 1,760 - 1,760 | - 3,364 73 3,437 - 3,437 | - 3,070 245 3,315 - 3,315 |
+
+
+## Table 143 (Page 203)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Equity shares Holding company 259,54,99,419 equity shares (March 31, 2024: 259,54,99,419 equity shares) are held by Tata Sons Private Limited Subsidiaries and Associates of Holding company 7,220 equity shares (March 31, 2024: 7,220 equity shares) are held by Tata Industries Limited* 10,04,425 equity shares (March 31, 2024: 10,14,172 equity shares) are held by Tata Investment Corporation Limited* 46,798 equity shares (March 31, 2024: 46,798 equity shares) are held by Tata Steel Limited* 766 equity shares (March 31, 2024: 766 equity shares) are held by The Tata Power Company Limited* |  | 26 26 |
+|  |  |  |
+|  | 260 |  |
+|  |  |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | - |  |
+|  | 260 |  |
+
+
+## Table 144 (Page 203)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Equity shares Tata Sons Private Limited, the holding company % of shareholding |  | 259,54,99,419 71.74% |
+|  | 259,54,99,419 |  |
+|  | 71.74% |  |
+
+
+## Table 145 (Page 203)
+
+| Col_0 | Shares held by promoters | Col_2 | Col_3 | Col_4 | % Change during the year |
+| --- | --- | --- | --- | --- | --- |
+| Promoter name | As at March 31, 2025 |  | As at March 31, 2024 |  |  |
+|  | No. of shares | % of total shares | No. of shares | % of total shares |  |
+| Tata Sons Private Limited Total | 259,54,99,419 | 71.74% | 259,54,99,419 259,54,99,419 | 71.74% 71.74% | 0.00 % 0.00 % |
+|  | 259,54,99,419 | 71.74% |  |  |  |
+
+
+## Table 146 (Page 205)
+
+| Additions for the year ended March 31, 2025 | Net carrying amount as at March 31, 2025 |
+| --- | --- |
+| - | 918 |
+| 3,238 | 8,087 |
+| 41 | 52 |
+| - | 144 |
+| - | 31 |
+| 19 | 35 |
+| 6 | 6 |
+| - | 2 |
+| 3,304 | 9,275 |
+
+
+## Table 147 (Page 205)
+
+| Additions for the year ended March 31, 2024 | Net carrying amount as at March 31, 2024 |
+| --- | --- |
+| - 1,928 - 125 - 18 1 2 2,074 | 929 6,631 25 202 60 34 3 2 7,886 |
+
+
+## Table 148 (Page 205)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 12 | 11 1,593 8 47 36 18 3 -* 1,716 |
+| 1,687 |  |
+| 11 |  |
+| 60 |  |
+| 29 |  |
+| 18 |  |
+| 3 |  |
+| -* |  |
+| 1,820 |  |
+
+
+## Table 149 (Page 206)
+
+| Type of asset | Useful lives |
+| --- | --- |
+| Buildings Leasehold improvements Plant and equipment Computer equipment Vehicles Office equipment Electrical installations Furniture and fixtures | 20 years* Lease term 10 years* 4 years* 4 years* 2-5 years* 4-10 years* 5 years* |
+
+
+## Table 150 (Page 207)
+
+| Total | 33,853 | 4,306 | (869) | (13) | 37,277 | (24,477) | (2,695) | 866 | 7 | (26,299) | 10,978 | Col_12 | 1,546 | 12,524 | Col_15 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Furniture and i fxtures | 2,142 | 172 | (22) | 5 | 2,297 | (1,851) | (107) | 22 | (5) | (1,941) | 356 |  |  |  |  |
+| Electrical installa i tons | 2,202 | 152 | (18) | (7) | 2,329 | (1,748) | (131) | 18 | 4 | (1,857) | 472 |  |  |  |  |
+| O if fce equipment | 2,976 | 260 | (70) | (6) | 3,160 | (2,629) | (188) | 70 | 4 | (2,743) | 417 |  |  |  |  |
+| Vehicles | 45 | 11 | (3) | - | 53 | (37) | (5) | 3 | - | (39) | 14 |  |  |  |  |
+| Computer equipment | 14,199 | 1,443 | (703) | 9 | 14,948 | (11,483) | (1,585) | 700 | (12) | (12,380) | 2,568 |  |  |  |  |
+| Plant and equipment | 878 | 118 | (2) | (1) | 993 | (539) | (91) | 2 | - | (628) | 365 |  |  |  |  |
+| Leasehold improvements | 2,777 | 80 | (50) | (17) | 2,790 | (2,036) | (171) | 50 | 18 | (2,139) | 651 |  |  |  |  |
+| Buildings | 8,280 | 470 | (1) | 3 | 8,752 | (4,154) | (417) | 1 | (2) | (4,572) | 4,180 |  |  |  |  |
+| Freehold land | 354 | 1,600 | - | 1 | 1,955 | - | - | - | - | - | 1,955 |  |  |  |  |
+|  | Cost as at April 1, 2024 Addi i tons* Disposals Transla i ton exchange di f ference Cost as at March 31, 2025 Accumulated deprecia i ton as at April 1, 2024 Deprecia i ton Disposals Transla i ton exchange di f ference Accumulated deprecia i ton as at March 31, 2025 Net carrying amount as at March 31, 2025 Capital work-in-progress* Total |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 151 (Page 208)
+
+| Total | 32,344 1,923 (502) 88 33,853 (22,114) (2,790) 492 (65) (24,477) 9,376 1,564 10,940 |
+| --- | --- |
+| Furniture and i fxtures | 1,992 168 (22) 4 2,142 (1,773) (97) 22 (3) (1,851) 291 |
+| Electrical installa i tons | 2,138 96 (39) 7 2,202 (1,646) (134) 37 (5) (1,748) 454 |
+| O if fce equipment | 2,815 215 (53) (1) 2,976 (2,487) (192) 50 - (2,629) 347 |
+| Vehicles | 43 6 (4) - 45 (36) (4) 3 - (37) 8 |
+| Computer equipment | 13,435 970 (279) 73 14,199 (10,025) (1,682) 276 (52) (11,483) 2,716 |
+| Plant and equipment | 828 56 (3) (3) 878 (458) (86) 2 3 (539) 339 |
+| Leasehold improvements | 2,673 195 (98) 7 2,777 (1,945) (182) 98 (7) (2,036) 741 |
+| Buildings | 8,066 217 (4) 1 8,280 (3,744) (413) 4 (1) (4,154) 4,126 |
+| Freehold land | 354 - - - 354 - - - - - 354 |
+|  | Cost as at April 1, 2023 Addi i tons Disposals Transla i ton exchange di f ference Cost as at March 31, 2024 Accumulated deprecia i ton as at April 1, 2023 Deprecia i ton Disposals Transla i ton exchange di f ference Accumulated deprecia i ton as at March 31, 2024 Net carrying amount as at March 31, 2024 Capital work-in-progress Total |
+
+
+## Table 152 (Page 209)
+
+| Col_0 | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| Balance at the beginning of the year Addition during the year* Capitalised during the year Translation exchange difef rence Balance at the end of the year | 1,564 | 1,233 2,25 (1,923 1,564 |
+|  | 2,688 |  |
+|  | (2,706) |  |
+|  | - |  |
+|  | 1,546 |  |
+
+
+## Table 153 (Page 209)
+
+| Capital work-in-progress | Amount in Capital work-in-progress for a period of | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| Projects in progress | 1,075 | 248 | 72 | 151 | 1,546 |
+|  | 1,075 | 248 | 72 | 151 | 1,546 |
+
+
+## Table 154 (Page 209)
+
+| Capital work-in-progress | Amount in Capital work-in-progress for a period of | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| Projects in progress | 1,010 1,010 | 160 160 | 58 58 | 336 336 | 1,564 1,564 |
+
+
+## Table 155 (Page 209)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Balance at the beginning of the year Translation exchange difef rence Balance at the end of the year | 1,832 | 1,858 (26 1,832 |
+|  | 28 |  |
+|  | 1,860 |  |
+
+
+## Table 156 (Page 210)
+
+| Col_0 | Rights under licensing agreement and software licences | Customer-related intangibles |
+| --- | --- | --- |
+| st as at April 1, 2024 ditions posals / Derecognised nslation exchange difef rence st as at March 31, 2025 umulated amortisation as at April 1, 2024 ortisation posals / Derecognised nslation exchange difef rence umulated amortisation as at March 31, 2025 t carrying amount as at March 31, 2025 | 2,004 | 127 |
+|  | 1,156 | - |
+|  | (159) | - |
+|  | 4 | 2 |
+|  | 3,005 | 129 |
+|  | (1,494) | (127) |
+|  | (727) | - |
+|  | 159 | - |
+|  | (3) | (2) |
+|  | (2,065) | (129) |
+|  | 940 | - |
+
+
+## Table 157 (Page 211)
+
+| Col_0 | Rights under licensing agreement and software licences | Customer-related intangibles | Total |
+| --- | --- | --- | --- |
+| Cost as at April 1, 2023 Additions Disposals / Derecognised Translation exchange difef rence Cost as at March 31, 2024 Accumulated amortisation as at April 1, 2023 Amortisation Disposals / Derecognised Translation exchange difef rence Accumulated amortisation as at March 31, 2024 Net carrying amount as at March 31, 2024 | 1,892 131 (18) (1) 2,004 (1,025) (479) 11 (1) (1,494) 510 | 126 - - 1 127 (126) - - (1) (127) - | 2,018 131 (18) - 2,131 (1,151) (479) 11 (2) (1,621) 510 |
+
+
+## Table 158 (Page 211)
+
+| Year ending March 31, | Amortisation expense |
+| --- | --- |
+| 2026 2027 2028 2029 | 749 |
+|  | 124 |
+|  | 52 |
+|  | 15 |
+|  | 940 |
+
+
+## Table 159 (Page 211)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Considered good Capital advances Advances to related parties Contract assets Prepaid expenses Contract fulfillment costs Others Advances to related parties, considered good, comprise: Tata Realty and Infrastructure Limited Tata Projects Limited Titan Engineering and Automation Limited Universal MEP Projects & Engineering Services Limited |  | 88 196 295 2,557 247 213 3,596 -* 191 3 2 |
+|  | 180 |  |
+|  | 226 |  |
+|  | 295 |  |
+|  | 2,456 |  |
+|  | 297 |  |
+|  | 258 |  |
+|  | 3,712 |  |
+|  |  |  |
+|  | -* |  |
+|  | 224 |  |
+|  | 2 |  |
+|  | -* |  |
+
+
+## Table 160 (Page 213)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Provision for foreseeable loss Other provisions | 118 | 97 43 140 |
+|  | 62 |  |
+|  | 180 |  |
+
+
+## Table 161 (Page 213)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 75 | 75 440 4 444 11,809 9,875 (5,450) 16,234 74,722 45,908 (13) (46) (3,959) (16,996) 5,450 - 1,05,066 25,137 4 9,875 17 70,033 143 17 160 41 194 235 |
+|  |  |
+| 444 |  |
+| - |  |
+| 444 |  |
+|  |  |
+| 16,234 |  |
+| - |  |
+| (15,149) |  |
+| 1,085 |  |
+|  |  |
+| 70,033 |  |
+| 48,553 |  |
+| (88) |  |
+| - |  |
+| - |  |
+| - |  |
+| 15,149 |  |
+| 7 |  |
+| 1,33,654 |  |
+|  |  |
+| 44,864 |  |
+| - |  |
+| - |  |
+| 13 |  |
+| 88,777 |  |
+|  |  |
+| 160 |  |
+| 13 |  |
+| 173 |  |
+|  |  |
+| 235 |  |
+| 420 |  |
+| 655 |  |
+
+
+## Table 162 (Page 215)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 2,52,045 | 2,38,1 2,7 2,40,8 |
+| 3,279 |  |
+| 2,55,324 |  |
+
+
+## Table 163 (Page 217)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+|  | 75 39 2,19 43 4 |
+| 888 |  |
+| 224 |  |
+| 2,114 |  |
+| 70 |  |
+|  |  |
+| 43 |  |
+
+
+## Table 164 (Page 217)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 1,30,035 | 1,25,43 10,96 3,73 1,40,13 |
+| 11,753 |  |
+| 4,000 |  |
+| 1,45,788 |  |
+
+
+## Table 165 (Page 218)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Gratuity liability Foreign defined benefit plans Other employee benefit obligations | 17 | 15 502 169 686 |
+|  | 548 |  |
+|  | 276 |  |
+|  | 841 |  |
+
+
+## Table 166 (Page 218)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Compensated absences Other employee benefit obligations | 4,839 | 4,480 39 4,519 |
+|  | 46 |  |
+|  | 4,885 |  |
+
+
+## Table 167 (Page 218)
+
+| Col_0 | Year ended March 31, 2025 | Col_2 | Col_3 | Col_4 | Col_5 | Year ended March 31, 2024 | Col_7 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Domestci plans funded | Domestic plans unfunded | Foreign plans funded | Foreign plans unfunded | Total | Domestci plans funded | Domestic plans unfunded | Foreign plans funded | Foreign Total plans unfunded |
+| Change in benefit obligations Benefit obligations, beginning of the year Translatoi n exchange difef rence Plan partci ipants’ contributoi n Service cost Interest cost Remeasurement of the defined benefit obligatoi ns Past service cost Benefits paid Benefit obligations, end of the year |  |  |  |  |  | 4,667 - - 485 363 168 - (383) 5,300 | 3 - - - - - - - 3 | 1,833 26 20 33 57 (16) 6 (61) 1,898 | 294 6,797 13 39 - 20 82 600 18 438 10 162 6 12 (31) (475) 392 7,593 |
+|  | 5,300 | 3 | 1,898 | 392 | 7,593 |  |  |  |  |
+|  | - | - | 70 | (21) | 49 |  |  |  |  |
+|  | - | - | 21 | - | 21 |  |  |  |  |
+|  | 540 | - | 32 | 64 | 636 |  |  |  |  |
+|  | 395 | - | 61 | 18 | 474 |  |  |  |  |
+|  | 319 | 1 | 48 | 17 | 385 |  |  |  |  |
+|  | - | - | - | - | - |  |  |  |  |
+|  | (364) | - | (68) | (35) | (467) |  |  |  |  |
+|  | 6,190 | 4 | 2,062 | 435 | 8,691 |  |  |  |  |
+
+
+## Table 168 (Page 219)
+
+| Year ended March 31, 2025 | Col_1 | Col_2 | Col_3 | Col_4 | Year ended March 31, 2024 | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestci plans funded | Domestic plans unfunded | Foreign plans funded | Foreign plans unfunded | Total | Domestci plans funded | Domestic plans unfunded | Foreign plans funded | Foreign Tot plans unfunded |
+|  |  |  |  |  | 6,405 - - 501 601 - (383) 110 7,234 | - - - - - - - - - | 1,929 26 - 61 53 20 (61) 50 2,078 | - 8,3 - - - 5 - 6 - - (4 - 1 - 9,3 |
+| 7,234 | - | 2,078 | - | 9,312 |  |  |  |  |
+| - | - | 73 | - | 73 |  |  |  |  |
+| - | - | - | - | - |  |  |  |  |
+| 529 | - | 70 | - | 599 |  |  |  |  |
+| 367 | - | 56 | - | 423 |  |  |  |  |
+| - | - | 21 | - | 21 |  |  |  |  |
+| (364) | - | (68) | - | (432) |  |  |  |  |
+| 140 | - | 138 | - | 278 |  |  |  |  |
+| 7,906 | - | 2,368 | - | 10,274 |  |  |  |  |
+
+
+## Table 169 (Page 219)
+
+| As at March 31, 2025 | Col_1 | Col_2 | Col_3 | Col_4 | As at March 31, 2024 | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign plans unfunded | Total | Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign Tot plans unfunded |
+|  |  |  |  |  | (12) 1,946 1,934 | (3) - (3) | (110) 290 180 | (392) (5 - 2,2 (392) 1,7 |
+| (13) | (4) | (113) | (435) | (565) |  |  |  |  |
+| 1,729 | - | 419 | - | 2,148 |  |  |  |  |
+| 1,716 | (4) | 306 | (435) | 1,583 |  |  |  |  |
+
+
+## Table 170 (Page 219)
+
+| As at March 31, 2025 | Col_1 | Col_2 | Col_3 | Col_4 | As at March 31, 2024 | Col_6 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign plans unfunded | Total | Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign To plans unfunded |
+|  |  |  |  |  | 1,960 201 3,172 1,734 22 145 7,234 | - - - - - - - | 371 375 - 607 78 647 2,078 | - 2,3 - 5 - 3,1 - 2,3 - 1 - 7 - 9,3 |
+| 2,023 | - | 77 | - | 2,100 |  |  |  |  |
+| 267 | - | - | - | 267 |  |  |  |  |
+| 3,559 | - | - | - | 3,559 |  |  |  |  |
+| 1,892 | - | 2,116 | - | 4,008 |  |  |  |  |
+| 5 | - | 3 | - | 8 |  |  |  |  |
+| 160 | - | 172 | - | 332 |  |  |  |  |
+| 7,906 | - | 2,368 | - | 10,274 |  |  |  |  |
+
+
+## Table 171 (Page 220)
+
+| Col_0 | Year ended March 31, 2025 | Col_2 | Col_3 | Col_4 | Col_5 | Year ended March 31, 2024 | Col_7 | Col_8 | Col_9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign plans unfunded | Total | Domestci plans funded | Domestci plans unfunded | Foreign plans funded | Foreign Total plans unfunded |
+| Service cost Net interest on defined benefit (assets) / obligations Past service cost Net periodic gratuity / pension cost Actual return on plan assets | 540 | - | 32 | 64 | 636 | 485 (138) - 347 611 | - - - - - | 33 (4) 6 35 111 | 82 600 18 (124) 6 12 106 488 - 722 |
+|  | (134) | - | (9) | 18 | (125) |  |  |  |  |
+|  | - | - | - | - | - |  |  |  |  |
+|  | 406 | - | 23 | 82 | 511 |  |  |  |  |
+|  | 669 | - | 208 | - | 877 |  |  |  |  |
+
+
+## Table 172 (Page 221)
+
+| As at March 31, 2025 | Col_1 | As at March 31, 2024 | Col_3 |
+| --- | --- | --- | --- |
+| Domestic plans | Foreign plans | Domestic plans | Foreign plans |
+| 6.50% - 6.75% | 1.10% - 9.40% | 7.00% - 7.25% 5.00% - 10.00% 7.00% - 7.25% 2-11 Years | 1.57% - 9.40% 1.75% - 7.00% 1.57% - 9.40% 3-27 Years |
+| 6.00% - 10.00% | 1.25% - 7.00% |  |  |
+| 6.50% - 6.75% | 1.10% - 9.40% |  |  |
+| 6-12 Years | 3-27 Years |  |  |
+
+
+## Table 173 (Page 221)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| (318) | (272) 300 |
+| 350 |  |
+
+
+## Table 174 (Page 221)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 198 | 163 (157) |
+| (190) |  |
+
+
+## Table 175 (Page 223)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 6.50% | 7.25 6 Year 8.25 |
+| 6 Years |  |
+| 8.25% |  |
+
+
+## Table 176 (Page 223)
+
+| Col_0 | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| Raw materials, sub-assemblies and components consumed Equipment and software licences purchased Finished goods and work-in-progress Opening stock Less: Closing stock | 49 | 4 3,65 3,69 - 3,70 |
+|  | 11,600 |  |
+|  | 11,649 |  |
+|  |  |  |
+|  | -* |  |
+|  | 1 |  |
+|  | (1) |  |
+|  | 11,648 |  |
+
+
+## Table 177 (Page 225)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+|  | 16,28 (420 15,86 3 3 15,89 |
+| 18,113 |  |
+| (1,203) |  |
+| 16,910 |  |
+|  |  |
+| (366) |  |
+| (10) |  |
+| (376) |  |
+| 16,534 |  |
+
+
+## Table 178 (Page 226)
+
+| Col_0 | Opening balance | Recognised in profit and loss | Recognised in / reclassified from other comprehensive income | Exchange difef rence |
+| --- | --- | --- | --- | --- |
+| Deferred tax assets / (liabilities) in relation to Property, plant and equipment and intangible assets Provision for employee benefits Cash flow hedges Receivables, financial assets at amortised cost Branch profit tax Undistributed earnings of subsidiaries Unrealised gain on securities carried at fair value through profit or loss / other comprehensive income Lease liabilities and right-of-use assets Others |  |  |  |  |
+|  | 739 | 320 | - | (7) |
+|  | 1,108 | 91 | (27) | 5 |
+|  | 3 | - | 3 | - |
+|  | 422 | 32 | - | (1) |
+|  | (100) | (66) | - | - |
+|  | (680) | 126 | - | - |
+|  | (126) | - | (149) | - |
+|  | 270 | (27) | - | (2) |
+|  | 790 | (100) | - | (26) |
+|  | 2,426 | 376 | (173) | (31) |
+
+
+## Table 179 (Page 227)
+
+| Assets | Liabilities | Net |
+| --- | --- | --- |
+|  |  |  |
+| 1,175 | 123 | 1,052 |
+| 1,180 | 3 | 1,177 |
+| 6 | - | 6 |
+| 454 | 1 | 453 |
+| - | - | - |
+| - | 166 | (166) |
+| - | 554 | (554) |
+| (272) | 3 | (275) |
+| 1,680 | - | 1,680 |
+| (1,439) | - | (1,439) |
+| 794 | 130 | 664 |
+| 3,578 | 980 | 2,598 |
+
+
+## Table 180 (Page 227)
+
+| Opening balance | Recognised in profit and loss | Recognised in / reclassified from other comprehensive income | Exchange difef rence | Closing balance |
+| --- | --- | --- | --- | --- |
+| 686 1,056 6 438 - (135) (534) (84) 250 832 2,515 | 52 84 - (15) - 35 (146) (2) 20 (62) (34) | - (24) (3) - - - - (37) - - (64) | 1 (8) - (1) - - - (3) - 20 9 | 739 1,108 3 422 - (100) (680) (126) 270 790 2,426 |
+
+
+## Table 181 (Page 228)
+
+| As at March 31, 2024 | Assets | Liabilities |
+| --- | --- | --- |
+| Deferred tax assets / (liabilities) in relation to Property, plant and equipment and intangible assets Provision for employee benefits Cash flow hedges Receivables, financial assets at amortised cost Branch profit tax Undistributed earnings of subsidiaries Unrealised gain on securities carried at fair value through profit or loss / other comprehensive income Lease liabilities Right-of-use-assets Others | 862 1,149 3 422 - - (124) 1,314 (1,044) 821 3,403 | 123 41 - - 100 680 2 - 31 977 |
+
+
+## Table 182 (Page 229)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 48,553 | 45,908 364,68,51,755 125.88 1 |
+| 361,80,87,518 |  |
+| 134.19 |  |
+| 1 |  |
+
+
+## Table 183 (Page 229)
+
+| Banking, Financial Services and Insurance | Manufacturing | Consumer Business | Communication, Media and Technology | Life Sciences and Healthcare | Others | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+| 94,597 | 25,170 | 40,197 | 45,893 | 26,456 | 23,011 | 2,55,324 |
+| 25,135 | 8,225 | 11,222 | 9,582 | 7,448 | 5,795 | 67,407 |
+|  |  |  |  |  |  | 6,038 |
+|  |  |  |  |  |  | 61,369 |
+|  |  |  |  |  |  | 3,962 |
+|  |  |  |  |  |  | 65,331 |
+|  |  |  |  |  |  | 16,534 |
+|  |  |  |  |  |  | 48,797 |
+|  |  |  |  |  |  | 5,242 |
+| 7 | (2) | 7 | 37 | (11) | 91 | 128 |
+
+
+## Table 184 (Page 230)
+
+| Col_0 | Banking, Financial Services and Insurance | Manufacturing | Consumer Business | Communication, Media and Technology | Life Sciences and Healthcare | Others |
+| --- | --- | --- | --- | --- | --- | --- |
+| Revenue from operations Segment result Total unallocable expenses* Operating income Other income Profit before tax Tax expense Profit for the year Depreciation and amortisation expense (unallocable) Significant non-cash items (allocable) | 90,928 23,574 (13) | 23,491 7,268 22 | 39,357 10,252 3 | 39,391 10,918 - | 26,745 7,611 9 | 20,981 4,673 92 |
+
+
+## Table 185 (Page 230)
+
+| Geography | As at March 31, 2025 |
+| --- | --- |
+| Americas (3) Europe (4) India Others Total | 2,520 |
+|  | 4,059 |
+|  | 22,186 |
+|  | 1,122 |
+|  | 29,886 |
+
+
+## Table 186 (Page 232)
+
+| Share in total comprehensive income | As % of total Amount comprehensive (` crore) income | 48,361 | Col_3 | Col_4 | 25 | 154 | 31 | 186 | 4 | - | - | 141 | Col_13 | 1,041 | 1,204 | 15 | 29 | 453 | 152 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 85.95 |  |  | 0.04 | 0.27 | 0.06 | 0.33 | 0.01 | - | - | 0.25 |  | 1.84 | 2.13 | 0.03 | 0.05 | 0.81 | 0.27 |
+| Share in other comprehensive income | As % of Amount consolidated (` crore) other comprehensive income | 304 |  |  | - | - | - | (1) | - | - | - | - |  | (24) | - | - | - | (3) | - |
+|  |  | 94.70 |  |  | - | - | - | (0.31) | - | - | - | - |  | (7.48) | - | - | - | (0.93) | - |
+| Share in Pro i ft or loss | As % of Amount consolidated (` crore) pro i ft or loss | 48,057 |  |  | 25 | 154 | 31 | 187 | 4 | - | - | 141 |  | 1,065 | 1,204 | 15 | 29 | 456 | 152 |
+|  |  | 85.90 |  |  | 0.04 | 0.28 | 0.06 | 0.33 | 0.01 | - | - | 0.25 |  | 1.90 | 2.15 | 0.03 | 0.05 | 0.82 | 0.27 |
+| Net assets, i.e. total assets minus total liabili i tes | As % of Amount consolidated (` crore) net assets | 75,617 |  |  | 137 | 515 | 154 | 662 | 83 | 167 | 885 | 1,448 |  | 926 | 1,825 | 14 | 398 | 714 | 451 |
+|  |  | 73.95 |  |  | 0.13 | 0.50 | 0.15 | 0.65 | 0.08 | 0.16 | 0.87 | 1.41 |  | 0.91 | 1.78 | 0.01 | 0.39 | 0.70 | 0.44 |
+| % of vo i tng power as at March 31, 2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of vo i tng power as at March 31, 2025 |  | - |  |  | 89.00 | 51.00 | 89.00 | 100.00 | 74.00 | 100.00 | 100.00 | 100.00 |  | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 |
+| Country of incorpora i ton |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Name of the en i tty |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 187 (Page 233)
+
+| Amount (` crore) | 103 | 52 | 4 | 156 | 10 | 38 | 26 | 54 | 30 | 552 | 265 | 18 | 253 | 54 | 224 | 50 | 163 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| As % of total comprehensive income | 0.18 | 0.09 | 0.01 | 0.28 | 0.02 | 0.07 | 0.05 | 0.10 | 0.05 | 0.98 | 0.47 | 0.03 | 0.46 | 0.10 | 0.40 | 0.09 | 0.29 |
+| Amount (` crore) | (7) | (2) | - | - | - | - | - | (3) | - | - | - | - | - | - | 1 | (3) | (2) |
+| As % of consolidated other comprehensive income | (2.18) | (0.62) | - | - | - | - | - | (0.93) | - | - | - | - | - | - | 0.30 | (0.93) | (0.62) |
+| Amount (` crore) | 110 | 54 | 4 | 156 | 10 | 38 | 26 | 57 | 30 | 552 | 265 | 18 | 253 | 54 | 223 | 53 | 165 |
+| As % of consolidated pro i ft or loss | 0.20 | 0.10 | 0.01 | 0.28 | 0.02 | 0.07 | 0.05 | 0.10 | 0.05 | 0.99 | 0.47 | 0.03 | 0.45 | 0.10 | 0.40 | 0.09 | 0.29 |
+| Amount (` crore) | 271 | 140 | 26 | 224 | 34 | 500 | 160 | 847 | 113 | 3,350 | 1,079 | 74 | 1,863 | 126 | 946 | (232) | 328 |
+| As % of consolidated net assets | 0.27 | 0.14 | 0.03 | 0.22 | 0.03 | 0.49 | 0.16 | 0.83 | 0.11 | 3.28 | 1.06 | 0.07 | 1.82 | 0.12 | 0.91 | (0.23) | 0.32 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 188 (Page 234)
+
+| Share in total comprehensive income | Amount (` crore) | 4 | 22 | 152 | (8) | 12 | - | 381 | 52 | 44 | 78 | 5 | 88 | 2 | 10 | 168 | 479 | 49 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | As % of total comprehensive income | 0.01 | 0.04 | 0.27 | (0.01) | 0.02 | - | 0.68 | 0.09 | 0.07 | 0.14 | 0.01 | 0.16 | - | 0.02 | 0.30 | 0.84 | 0.09 |
+| Share in other comprehensive income | Amount (` crore) | 1 | - | - | 59 | - | - | - | - | - | - | - | - | - | - | 1 | - | - |
+|  | As % of consolidated other comprehensive income | 0.31 | - | - | 18.38 | - | - | - | - | - | - | - | - | - | - | 0.31 | - | - |
+| Share in Pro i ft or loss | Amount (` crore) | 3 | 22 | 152 | (67) | 12 | - | 381 | 52 | 44 | 78 | 5 | 88 | 2 | 10 | 167 | 479 | 49 |
+|  | As % of consolidated pro i ft or loss | 0.01 | 0.04 | 0.27 | (0.12) | 0.02 | - | 0.67 | 0.09 | 0.08 | 0.14 | 0.01 | 0.16 | - | 0.02 | 0.30 | 0.86 | 0.09 |
+| Net assets, i.e. total assets minus total liabili i tes | Amount (` crore) | 103 | 55 | 433 | 880 | 17 | - | 1,117 | 126 | 139 | 87 | 32 | 414 | - | 27 | 228 | 2,086 | 34 |
+|  | As % of consolidated net assets | 0.10 | 0.05 | 0.42 | 0.86 | 0.02 | - | 1.07 | 0.12 | 0.14 | 0.14 | 0.03 | 0.40 | - | 0.03 | 0.22 | 2.04 | 0.03 |
+| % of vo i tng power as at March 31, 2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| % of vo i tng power as at March 31, 2025 |  | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | - | 100.00 | 100.00 | 66.00 | 100.00 |
+| Country of incorpora i ton |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Name of the en i tty |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 189 (Page 235)
+
+| Amount (` crore) | (2) | 6 | 56,264 | (6,878) | Col_5 | Col_6 | (3) | (76) | (3) | (1) | Col_11 | (179) | - | (262) | 49,124 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| As % of total comprehensive income | - | 0.01 | 100.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amount (` crore) | - | - | 321 | 268 |  |  | - | - | - | - |  | (18) | - | (18) | 571 |
+| As % of consolidated other comprehensive income | - | - | 100.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amount (` crore) | (2) | 6 | 55,943 | (7,146) |  |  | (3) | (76) | (3) | (1) |  | (161) | - | (244) | 48,553 |
+| As % of consolidated pro i ft or loss | - | 0.01 | 100.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Amount (` crore) | 51 | 313 | 1,02,260 | (6,489) |  |  | (15) | (252) | (17) | (21) |  | (690) | (20) | (1,015) | 94,756 |
+| As % of consolidated net assets | 0.05 | 0.31 | 100.00 |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 100.00 - |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 100.00 | - |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Qatar India |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Tata Consultancy Services Qatar Trusts TOTAL |  |  | a) Adjustments arising out of consolida i ton b) Non-controlling interests Indian subsidiaries APTOnline Limited C-Edge Technologies Limited MP Online Limited MahaOnline Limited Foreign subsidiaries Tata Consultancy Services Japan, Ltd. Tata Consultancy Services (South Africa) (Proprietary) Limited TOTAL |  |  |  |  |  |  |  |  |  |  |  |
+
+
+## Table 190 (Page 239)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 89 60 96 1,38 |
+| 1,028 |  |
+|  |  |
+| 4,317 |  |
+| 557 |  |
+|  |  |
+| 1,460 |  |
+| 498 |  |
+|  |  |
+| 946 |  |
+
+
+## Table 191 (Page 239)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 45 | 5 6 |
+| 1 |  |
+| 1 |  |
+| 47 |  |
+
+
+## Table 192 (Page 247)
+
+| Particulars | Guarantees | Security | Loans | Advances in nature of loans |
+| --- | --- | --- | --- | --- |
+| Aggregate amount during the year |  |  |  |  |
+| Subsidiaries* | - | - | 36 |  |
+| Joint ventures* | - | - | - |  |
+| Associates* | - | - | - |  |
+| Others | - | - | 7 | 59 |
+| Balance outstanding as at balance sheet date |  |  |  |  |
+| Subsidiaries* | - | - | 36 |  |
+| Joint ventures* | - | - | - |  |
+| Associates* | - | - | - |  |
+| Others | - | - | 8 | 15 |
+
+
+## Table 193 (Page 247)
+
+| Col_0 | All Partei s | Promoters | Relate Partei |
+| --- | --- | --- | --- |
+| Aggregate of loans/ advances in nature of loan - Repayable on demand (A) - Agreement does not specify any terms or period of Repayment (B) | 36 - | - - | 3 |
+| Total (A+B) | 36 | - | 3 |
+| Percentage of loans/advances in nature of loan to the total loans | 81.81 | - | 81.8 |
+
+
+## Table 194 (Page 248)
+
+| Name of the statute | Nature of the dues | Amount (` in crores)** | Period to which the amount relates | Forum where dispute is pending |
+| --- | --- | --- | --- | --- |
+| Income Tax Act, 1 | Income Tax (including interest and penalty) | 1,461 | Assessment years 2011-12, 2016-17, 2018-19 and 2021-22 | Commissioner of Income tax |
+|  |  | 193 | Assessment year 2006-07 | Income Tax Appellate Tribunal |
+| Goods and vices Tax Act, 7 | Goods and Services Tax (including interest and penalty) | 69 | Financial years 2017-18, 2018- 19, 2019-20, 2020-21 and 2021-22 | Commissioner Appeals |
+| Central Sales Act, 1956 and e Added Tax Act | Sales Tax (including interest and penalty) | 2 | Financial years 1995-96, 1997- 98, 2004-05, 2011-12, 2016-17 and 2017-18 | Assistant Commissioner |
+|  |  | 2 | Financial years 2008-09, 2010- 11, 2015-16 and 2016-17 | Deputy Commissioner |
+|  |  | 233 | Financial years 1994-95, 2004- 05, 2007-08, 2008-09, 2009-10, 2010-11, 2011-12, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17 and 2017-18 | High Court |
+|  |  | 17 | Financial years 1997-98, 2005- 06, 2013-14, 2014-15, 2015-16, 2016-17 and 2017-18 | Joint Commissioner |
+|  |  | 9 | Financial years 1990-91, 2002- 03, 2003-04, 2004-05, 2005-06, 2006-07, 2011-12, 2012-13 and 2013-14 | Sales Tax Tribunal of various states |
+| Finance Act, 4 | Service tax (including interest and penalty) | 2 | Financial years 2002-03, 2003- 04, 2004-05 and 2011-12 | Commissioner Appeals |
+|  |  | 269 | Financial years 2006-07, 2007- 08, 2008-09, 2009-10, 2010-11, 2011-12, 2012-13, 2013-14, 2014-15, 2015-16, 2016-17 and 2017-18 | Customs, Excise and Service Tax Appellate Tribunal (CESTAT) |
+| Customs Act, 2 | Customs Duty (including penalty) | 1 | Financial years 2019-20, 2020- 21, 2021-22 and 2022-23 | Customs, Excise and Service Tax Appellate Tribunal (CESTAT) |
+
+
+## Table 195 (Page 252)
+
+| Col_0 | Note | As at March 31, 2025 |
+| --- | --- | --- |
+| ASSETS Non-current assets Property, plant and equipment Capital work-in-progress Right-of-use assets Intangible assets Financial assets Investments Trade receivables Billed Unbilled Loans Other financial assets Deferred tax assets (net) Income tax assets (net) Other assets Total non-current assets Current assets Inventories Financial assets Investments Trade receivables Billed Unbilled Cash and cash equivalents Other balances with banks Loans Other financial assets Income tax assets (net) Other assets Total current assets TOTAL ASSETS EQUITY AND LIABILITIES Equity Share capital Other equity Total equity Liabilities Non-current liabilities Financial liabilities Lease liabilities Other financial liabilities Employee benefit obligations Deferred tax liabilities (net) Unearned and deferred revenue Total non-current liabilities Current liabilities Financial liabilities Lease liabilities Trade payables Dues of small enterprises and micro enterprises Dues of creditors other than small enterprises and micro enterprises Other financial liabilities Unearned and deferred revenue Other liabilities Provisions Employee benefit obligations Income tax liabilities (net) Total current liabilities TOTAL EQUITY AND LIABILITIES | 8(a) 8(a) 7 8(b) 6(a) 6(b) 6(e) 6(f) 15 8(c) 8(d) 6(a) 6(b) 6(c) 6(d) 6(e) 6(f) 8(c) 6(n) 9 6(i) 12 15 6(h) 6(h) 6(i) 8(e) 8(f) 12 |  |
+|  |  |  |
+|  |  | 8,346 |
+|  |  | 1,318 |
+|  |  | 7,601 |
+|  |  | 878 |
+|  |  |  |
+|  |  | 3,999 |
+|  |  |  |
+|  |  | 91 |
+|  |  | 44 |
+|  |  | 2 |
+|  |  | 657 |
+|  |  | 2,658 |
+|  |  | 1,131 |
+|  |  | 2,900 |
+|  |  | 29,625 |
+|  |  |  |
+|  |  | 20 |
+|  |  |  |
+|  |  | 28,803 |
+|  |  |  |
+|  |  | 44,392 |
+|  |  | 7,375 |
+|  |  | 2,610 |
+|  |  | 4,542 |
+|  |  | 42 |
+|  |  | 2,455 |
+|  |  | 226 |
+|  |  | 12,698 |
+|  |  | 1,03,163 |
+|  |  | 1,32,788 |
+|  |  |  |
+|  |  |  |
+|  |  | 362 |
+|  |  | 75,255 |
+|  |  | 75,617 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  | 6,486 |
+|  |  | 626 |
+|  |  | 186 |
+|  |  | 202 |
+|  |  | 489 |
+|  |  | 7,989 |
+|  |  |  |
+|  |  |  |
+|  |  | 1,091 |
+|  |  |  |
+|  |  | 156 |
+|  |  | 17,327 |
+|  |  | 6,551 |
+|  |  | 3,377 |
+|  |  | 5,110 |
+|  |  | 92 |
+|  |  | 3,621 |
+|  |  | 11,857 |
+|  |  | 49,182 |
+|  |  | 1,32,788 |
+
+
+## Table 196 (Page 253)
+
+| Note | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| 10 11 12 13(a) 14 13(b) 19 15 15 16 | 2,14,853 | 2,02,359 7,273 2,09,632 1,03,139 3,347 673 3,887 40,026 1,51,072 58,560 958 57,602 14,178 (135 14,043 43,559 (60 13 237 13 (39 165 43,724 119.44 364,68,51,755 |
+|  | 9,642 |  |
+|  | 2,24,495 |  |
+|  |  |  |
+|  | 1,07,300 |  |
+|  | 11,372 |  |
+|  | 703 |  |
+|  | 4,220 |  |
+|  | 38,252 |  |
+|  | 1,61,847 |  |
+|  | 62,648 |  |
+|  |  |  |
+|  | - |  |
+|  | 62,648 |  |
+|  |  |  |
+|  | 14,823 |  |
+|  | (232) |  |
+|  | 14,591 |  |
+|  | 48,057 |  |
+|  |  |  |
+|  |  |  |
+|  | (180) |  |
+|  | 45 |  |
+|  |  |  |
+|  | 593 |  |
+|  | 1 |  |
+|  | (9) |  |
+|  | (146) |  |
+|  | 304 |  |
+|  | 48,361 |  |
+|  | 132.83 |  |
+|  | 361,80,87,518 |  |
+
+
+## Table 197 (Page 254)
+
+| Balance as at March 31, 2024 | 362 |
+| --- | --- |
+| Changes in equity share capital during the year* | (4) |
+| Restated balance as at April 1, 2023 | 366 |
+| Changes in equity share capital due to prior period errors | - |
+| Balance as at April 1, 2023 | 366 |
+
+
+## Table 198 (Page 254)
+
+| Total equity | Col_1 | Col_2 | 71,758 | 48,057 | 304 | 48,361 | (44,864) | - | 75,255 | Col_10 | 74,172 43,559 165 | 43,724 (25,137) (46) (3,959) (16,996) - - | 71,758 | Col_14 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Items of other comprehensive income | Cash l fow hedging reserve | Time value | (18) | - | (6) | (6) | - | - | (24) |  | (28) - 10 | 10 - - - - - - | (18) |  |
+|  |  | Intrinsic value | 9 | - | - | - | - | - | 9 |  | 8 - 1 | 1 - - - - - - | 9 |  |
+|  | Investment revalua i ton reserve |  | 339 | - | 445 | 445 | - | - | 784 |  | 138 - 201 | 201 - - - - - - | 339 |  |
+| Reserves and surplus | Retained earnings |  | 55,173 | 48,057 | (135) | 47,922 | (44,864) | 15,149 | 73,380 |  | 62,228 43,559 (47) | 43,512 (25,137) (46) (3,959) (17,000) (9,875) 5,450 | 55,173 |  |
+|  | Special Economic Zone re-investment reserve |  | 16,234 | - | - | - | - | (15,149) | 1,085 |  | 11,809 - - | - - - - - 9,875 (5,450) | 16,234 |  |
+|  | Capital redemp i ton reserve |  | 21 | - | - | - | - | - | 21 |  | 17 - - | - - - - 4 - - | 21 |  |
+|  | Capital reserve* |  | - | - | - | - | - | - | - |  | - - - | - - - - - - - | - |  |
+|  |  |  | Balance as at April 1, 2024 Pro i ft for the year Other comprehensive income / (losses) Total comprehensive income Dividend Transfer from Special Economic Zone re-investment reserve Balance as at March 31, 2025 |  |  |  |  |  |  |  | Balance as at April 1, 2023 Pro i ft for the year Other comprehensive income / (losses) Total comprehensive income Dividend Expenses for buy-back of equity shares Tax on buy-back of equity shares Buy-back of equity shares Transfer to Special Economic Zone re-investment reserve Transfer from Special Economic Zone re-investment reserve Balance as at March 31, 2024 |  |  |  |
+
+
+## Table 199 (Page 257)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 2,770 | 2,670 3,534 10,807 (1,061 (590 (25,137 (425 425 (46 (3,959 (17,000 (47,793) 2,156 1,462 26 3,644 1,359 2,285 -* -* -* 3,644 |
+| 6,133 |  |
+| 4,825 |  |
+|  |  |
+|  |  |
+| (1,112) |  |
+| (748) |  |
+| (44,864) |  |
+| - |  |
+| - |  |
+| - |  |
+| - |  |
+| - |  |
+| (46,724) |  |
+| (1,083) |  |
+| 3,644 |  |
+| 49 |  |
+| 2,610 |  |
+|  |  |
+|  |  |
+| 1,890 |  |
+| 712 |  |
+| -* |  |
+| -* |  |
+| 8 |  |
+| 2,610 |  |
+
+
+## Table 200 (Page 261)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 2,405 19 (19 2,405 |
+| 2,423 |  |
+| 1,576 |  |
+|  |  |
+|  |  |
+| 19 |  |
+| (19) |  |
+| 3,999 |  |
+
+
+## Table 201 (Page 261)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 749 24,746 3,406 939 29,840 |
+| 1,030 |  |
+|  |  |
+| 23,844 |  |
+| 3,929 |  |
+|  |  |
+| - |  |
+| 28,803 |  |
+
+
+## Table 202 (Page 261)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 28,803 | 29,840 2,405 29,841 19 |
+| 3,999 |  |
+| 28,803 |  |
+| 19 |  |
+
+
+## Table 203 (Page 262)
+
+| In numbers | Currency | Face value per share | Investment in subsidiaries | As at March 31, 2025 |
+| --- | --- | --- | --- | --- |
+| 212,27,83,424 15,75,300 1,300 66,000 1,000 1 20,000 75,82,820 3,72,58,815 10,00,001 1,000 100 51,00,000 8,90,000 1,40,00,000 18,89,005 - 10,00,000 1,00,500 2,50,00,000 10,00,000 11,41,725 60,67,490 10,71,79,020 56,98,70,925 | UYU INR EUR EUR SEK EUR USD SGD AUD GBP USD CAD INR INR ZAR INR QAR INR GBP EUR INR INR INR INR INR INR INR INR INR | 1 10 - 1,000 100 - 10 1 1 1 - 70,653.61 10 10 1 10 - 100 0.00001 1 10 10 10 10 10 | Fully paid equity shares (unquoted) TCS Iberoamerica S.A. APTOnline Limited Tata Consultancy Services Belgium Tata Consultancy Services Netherlands B.V. Tata Consultancy Services Sverige Aktiebolag Tata Consultancy Services Deutschland GmbH Tata America International Corporation Tata Consultancy Services Asia Pacific Pte. Ltd. TCS FNS Pty Limited Diligenta Limited Tata Consultancy Services Canada Inc. Tata Consultancy Services Canada Inc. C-Edge Technologies Limited MP Online Limited Tata Consultancy Services (Africa) (Proprietary) Limited MahaOnline Limited Tata Consultancy Services Qatar TCS e-Serve International Limited Tata Consultancy Services UK Limited Tata Consultancy Services Ireland Limited TCS Foundation TRIL Bengaluru Real Estate Five Limited1 TRIL Bengaluru Real Estate Five Limited1 TRIL Bengaluru Real Estate Six Limited1 TRIL Bengaluru Real Estate Six Limited1 Optionally redeemable convertible debentures (unquoted) TRIL Bengaluru Real Estate Five Limited1 TRIL Bengaluru Real Estate Five Limited1 TRIL Bengaluru Real Estate Six Limited1 TRIL Bengaluru Real Estate Six Limited1 |  |
+|  |  |  |  | 461 |
+|  |  |  |  | - |
+|  |  |  |  | 1 |
+|  |  |  |  | 403 |
+|  |  |  |  | 19 |
+|  |  |  |  | 2 |
+|  |  |  |  | 453 |
+|  |  |  |  | 19 |
+|  |  |  |  | 212 |
+|  |  |  |  | 429 |
+|  |  |  |  | -* |
+|  |  |  |  | 31 |
+|  |  |  |  | 5 |
+|  |  |  |  | 1 |
+|  |  |  |  | 66 |
+|  |  |  |  | 2 |
+|  |  |  |  | 2 |
+|  |  |  |  | 10 |
+|  |  |  |  | 66 |
+|  |  |  |  | 224 |
+|  |  |  |  | - |
+|  |  |  |  | 2 |
+|  |  |  |  | 1 |
+|  |  |  |  | 9 |
+|  |  |  |  | 5 |
+|  |  |  |  |  |
+|  |  |  |  | 162 |
+|  |  |  |  | 87 |
+|  |  |  |  | 863 |
+|  |  |  |  | 464 |
+|  |  |  |  | 3,999 |
+|  |  |  |  |  |
+
+
+## Table 204 (Page 263)
+
+| Currency | Face value per share | Equity instruments designated at fair value through OCI | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- | --- | --- |
+| INR | 10 | Fully paid equity shares (unquoted) Taj Air Limited Less : Impairment in value of investments |  | 1 (19 |
+|  |  |  | 19 |  |
+|  |  |  | (19) |  |
+|  |  |  | - |  |
+
+
+## Table 205 (Page 263)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 339 | 13 24 (39 (11 33 |
+| 603 |  |
+| (152) |  |
+| (10) |  |
+| 4 |  |
+| 784 |  |
+
+
+## Table 206 (Page 263)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 784 | 76 (633 12 |
+| (693) |  |
+| 91 |  |
+
+
+## Table 207 (Page 264)
+
+| Particulars | Not due | Outstanding for following periods from due date of Total payment | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade receivables - Billed Undisputed trade receivables – considered good Disputed trade receivables – considered good Less: Allowance for expected credit losses Trade receivables - Unbilled |  |  |  |  |  |  |
+|  | - | - | - | 3 | 145 | 606 75 |
+|  | - | - | - | 1 | 2 | 27 3 |
+|  | - | - | - | 4 | 147 | 633 78 |
+|  |  |  |  |  |  | (693 |
+|  |  |  |  |  |  | 9 |
+|  |  |  |  |  |  | 4 |
+|  |  |  |  |  |  | 13 |
+
+
+## Table 208 (Page 264)
+
+| Particulars | Not due | Outstanding for following periods from due date of Total payment | Col_3 | Col_4 | Col_5 | Col_6 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade receivables - Billed Undisputed trade receivables – considered good Disputed trade receivables – considered good Less: Allowance for expected credit losses Trade receivables - Unbilled | - - - | - - - | - - - | 55 2 57 | 86 - 86 | 585 72 32 3 617 76 (633 12 6 19 |
+
+
+## Table 209 (Page 264)
+
+| Col_0 | As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- | --- |
+| Trade receivables - Billed Less: Allowance for expected credit losses Considered good Trade receivables - Billed Less: Allowance for expected credit losses Credit impaired | 44,591 | 38,85 (320 38,53 19 (135 5 38,59 |
+|  | (279) |  |
+|  | 44,312 |  |
+|  |  |  |
+|  | 259 |  |
+|  | (179) |  |
+|  | 80 |  |
+|  | 44,392 |  |
+
+
+## Table 210 (Page 265)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+|  |  |  |  |  |  |  |
+| 31,886 | 9,944 | 2,483 | 181 | 25 | 1 | 44,520 |
+| - | 7 | 20 | 51 | 63 | 118 | 259 |
+| 13 | 42 | 16 | - | - | - | 71 |
+| 31,899 | 9,993 | 2,519 | 232 | 88 | 119 | 44,850 |
+|  |  |  |  |  |  | (458) |
+|  |  |  |  |  |  | 44,392 |
+|  |  |  |  |  |  | 7,375 |
+|  |  |  |  |  |  | 51,767 |
+
+
+## Table 211 (Page 265)
+
+| Not due | Outstanding for following periods from due date of payment | Col_2 | Col_3 | Col_4 | Col_5 | Total |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Less than 6 months | 6 months - 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| 30,928 - - 30,928 | 6,787 6 - 6,793 | 933 15 - 948 | 18 53 - 71 | 52 12 - 64 | 113 104 25 242 | 38,831 190 25 39,046 (455) 38,591 7,477 46,068 |
+
+
+## Table 212 (Page 265)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 1,359 2,285 -* -* -* 3,644 |
+| 1,890 |  |
+| 712 |  |
+| -* |  |
+| -* |  |
+| 8 |  |
+| 2,610 |  |
+
+
+## Table 213 (Page 266)
+
+| Type of borrower | Purpose | As at March 31, 2025 | Col_3 | Col_4 | Maximum amount outstanding during the year ended March 31, 2025 | As at March 31, 2024 | Col_7 | Col_8 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Interest rate | Amount outstanding (` crore) | % of Total |  | Interest rate | Amount outstanding (` crore) | % of Total |
+| Related Parties - Loans repayable on demand TRIL Bengaluru Real Estate Five Limited TRIL Bengaluru Real Estate Six Limited Total | For managing working capital requirements For managing working capital requirements |  |  |  |  | - - | - - - | - - - |
+|  |  |  |  |  |  |  |  |  |
+|  |  | 8.50% | 5 | 11.36 | 5 |  |  |  |
+|  |  | 8.50% | 31 | 70.45 | 31 |  |  |  |
+|  |  |  | 36 | 81.81 |  |  |  |  |
+
+
+## Table 214 (Page 267)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 617 | 600 12 14 626 |
+| 12 |  |
+| 1 |  |
+| 27 |  |
+| 657 |  |
+
+
+## Table 215 (Page 267)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 323 | 32 11 66 26 (41 24 1,55 |
+| 390 |  |
+| 652 |  |
+| 240 |  |
+| (50) |  |
+| 900 |  |
+| 2,455 |  |
+
+
+## Table 216 (Page 267)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 79 - 24 - - - |
+| 160 |  |
+| - |  |
+| 18 |  |
+| - |  |
+| - |  |
+| - |  |
+
+
+## Table 217 (Page 268)
+
+| Particulars | Not due | Outstanding for following periods from due date of payment | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade payables MSME* Others Disputed dues - Others Accrued expenses |  |  |  |  |  |
+|  | 156 | - | - | - | - |
+|  | 3,394 | 8,401 | 430 | 12 | 58 |
+|  | - | - | - | - | 29 |
+|  | 3,550 | 8,401 | 430 | 12 | 87 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+
+## Table 218 (Page 268)
+
+| Particulars | Not due | Outstanding for following periods from due date of payment | Col_3 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |
+| Trade payables MSME* Others Disputed dues - Others Accrued expenses | 79 3,269 2 3,350 | - 5,729 2 5,731 | - 18 - 18 | - 5 - 5 | - 42 30 72 |
+
+
+## Table 219 (Page 269)
+
+| Fair value through profit or loss | Fair value through other comprehensive income | Derivative instruments in hedging relationship | Derivative instruments not in hedging relationship | Amortised cost | Total carrying value |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| - | - | - | - | 2,610 | 2,610 |
+| - | - | - | - | 3,692 | 3,692 |
+| - | - | - | - | 862 | 862 |
+| 1,030 | 27,773 | - | - | - | 28,803 |
+|  |  |  |  |  |  |
+| - | - | - | - | 44,483 | 44,483 |
+| - | - | - | - | 7,419 | 7,419 |
+| - | - | - | - | 44 | 44 |
+| - | - | 33 | 357 | 2,710 | 3,100 |
+| 1,030 | 27,773 | 33 | 357 | 61,820 | 91,013 |
+|  |  |  |  |  |  |
+| - | - | - | - | 17,483 | 17,483 |
+| - | - | - | - | 7,577 | 7,577 |
+| - | - | - | 146 | 7,031 | 7,177 |
+| - | - | - | 146 | 32,091 | 32,237 |
+
+
+## Table 220 (Page 269)
+
+| Fair value through profit or loss | Fair value through other comprehensive income | Derivative instruments in hedging relationship | Derivative instruments not in hedging relationship | Amortised cost | Total carrying value |
+| --- | --- | --- | --- | --- | --- |
+| - - - 749 - - - - 749 - - - - | - - - 28,152 - - - - 28,152 - - - - | - - - - - - - 46 46 - - - - | - - - - - - - 67 67 - - 109 109 | 3,644 2,500 455 939 38,718 7,542 319 2,072 56,189 14,599 6,145 6,492 27,236 | 3,644 2,500 455 29,840 38,718 7,542 319 2,185 85,203 14,599 6,145 6,601 27,345 |
+
+
+## Table 221 (Page 270)
+
+| As at March 31, 2025 | Level 1 | Level 2 | Level 3 |
+| --- | --- | --- | --- |
+| Financial assets Mutual fund units Equity shares Government bonds and securities Corporate bonds and debentures Fair value of foreign exchange derivative assets Financial liabilities Fair value of foreign exchange derivative liabilities |  |  |  |
+|  | 1,030 | - | - |
+|  | - | - | - |
+|  | 23,844 | - | - |
+|  | 3,929 | - | - |
+|  | - | 390 | - |
+|  | 28,803 | 390 | - |
+|  |  |  |  |
+|  | - | 146 | - |
+|  | - | 146 | - |
+
+
+## Table 222 (Page 270)
+
+| As at March 31, 2024 | Level 1 | Level 2 | Level 3 |
+| --- | --- | --- | --- |
+| Financial assets Mutual fund units Equity shares Government bonds and securities Corporate bonds and debentures Commercial papers Fair value of foreign exchange derivative assets Financial liabilities Fair value of foreign exchange derivative liabilities | 749 - 24,746 3,406 940 - 29,841 - - | - - - - - 113 113 109 109 | - - - - - - - - - |
+
+
+## Table 223 (Page 271)
+
+| As at March 31, 2025 | Col_1 | Col_2 | As at March 31, 2024 | Col_4 | Col_5 |
+| --- | --- | --- | --- | --- | --- |
+| No. of contracts | Notional amount of contracts (In million) | Fair value (` crore) | No. of contracts | Notional amount of contracts (In million) | Fair value (` crore) |
+| - | - | - | 19 29 28 | 475 230 235 | 2 1 |
+| 23 | 220 | 18 |  |  |  |
+| 25 | 235 | 15 |  |  |  |
+
+
+## Table 224 (Page 271)
+
+| Year ended March 31, 2025 | Col_1 | Year ended March 31, 2024 | Col_3 |
+| --- | --- | --- | --- |
+| Intrinsic value | Time value | Intrinsic value | Time value |
+| 9 | (18) | 8 (139) 31 140 (31) 9 | (28 24 (55 (228 5 (18 |
+| (193) | 234 |  |  |
+| 48 | (60) |  |  |
+| 194 | (243) |  |  |
+| (49) | 63 |  |  |
+| 9 | (24) |  |  |
+
+
+## Table 225 (Page 272)
+
+| Col_0 | USD | EUR | GBP |
+| --- | --- | --- | --- |
+| financial assets financial liabilities | 7,508 | 533 | 526 |
+|  | (10,726) | (350) | (376) |
+
+
+## Table 226 (Page 273)
+
+| Col_0 | USD | EUR | GBP | Others |
+| --- | --- | --- | --- | --- |
+| Net financial assets Net financial liabilities | 4,243 (11,238) | 507 (760) | 379 (2,215) | 2,14 (1,530 |
+
+
+## Table 227 (Page 273)
+
+| Col_0 | As at March 31, 2025 | Col_2 | As at March 31, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Gross% | Net% | Gross% | Net% |
+| United States of America India United Kingdom | 45.08 | 45.80 | 52.31 13.22 16.47 | 53.2 11.6 16.7 |
+|  | 21.98 | 20.68 |  |  |
+|  | 15.62 | 15.88 |  |  |
+
+
+## Table 228 (Page 274)
+
+| March 31, 2025 | Due in 1st year | Due in 2nd year | Due in 3rd to 5th year | Due afet r 5th year |
+| --- | --- | --- | --- | --- |
+| Non-derivative financial liabilities Trade payables Lease liabilities Other financial liabilities Derivative financial liabilities |  |  |  |  |
+|  | 17,483 | - | - | - |
+|  | 1,602 | 1,401 | 3,255 | 4,019 |
+|  | 6,418 | 217 | 409 | - |
+|  | 25,503 | 1,618 | 3,664 | 4,019 |
+|  | 146 | - | - | - |
+|  | 25,649 | 1,618 | 3,664 | 4,019 |
+
+
+## Table 229 (Page 274)
+
+| March 31, 2024 | Due in 1st year | Due in 2nd year | Due in 3rd to 5th year | Due afet r 5th year |
+| --- | --- | --- | --- | --- |
+| Non-derivative financial liabilities Trade payables Lease liabilities Other financial liabilities Derivative financial liabilities | 14,599 1,421 6,182 22,202 109 22,311 | - 1,264 39 1,303 - 1,303 | - 2,671 262 2,933 - 2,933 | - 2,696 19 2,715 - 2,715 |
+
+
+## Table 230 (Page 275)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 46 10 56 36 36 |
+| 460 |  |
+|  |  |
+| 105 |  |
+|  |  |
+| 565 |  |
+|  |  |
+| 362 |  |
+|  |  |
+| 362 |  |
+
+
+## Table 231 (Page 275)
+
+| Col_0 | Year ended March 31, 2025 | Col_2 | Year ended March 31, 2024 | Col_4 |
+| --- | --- | --- | --- | --- |
+|  | Number of shares | Amount (` crore) | Number of shares | Amount (` crore) |
+| Equity shares Opening balance Shares extinguished on buy-back Closing balance |  |  | 365,90,51,373 (4,09,63,855) 361,80,87,518 | 36 (4 36 |
+|  | 361,80,87,518 | 362 |  |  |
+|  | - | - |  |  |
+|  | 361,80,87,518 | 362 |  |  |
+
+
+## Table 232 (Page 277)
+
+| Col_0 | Shares held by promoters | Col_2 | Col_3 | Col_4 | % Chan durin the ye |
+| --- | --- | --- | --- | --- | --- |
+| Promoter name | As at March 31, 2024 |  | As at March 31, 2023 |  |  |
+|  | No. of shares | % of total shares | No. of shares | % of total shares |  |
+| Tata Sons Private Limited Total | 259,54,99,419 259,54,99,419 | 71.74% 71.74% | 264,43,17,117 264,43,17,117 | 72.27% 72.27% | (0.53 (0.53 |
+
+
+## Table 233 (Page 280)
+
+| Total 29,062 | 2,254 (712) | 30,604 | (20,726) | (2,241) | 709 | (22,258) | 8,346 | 1,318 | 9,664 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Furniture and i fxtures 1,690 | 153 (10) | 1,833 | (1,484) | (86) | 10 | (1,560) | 273 |  |  |
+| Electrical installa i tons 1,968 | 149 (13) | 2,104 | (1,576) | (121) | 13 | (1,684) | 420 |  |  |
+| O if fce equipment 2,611 | 225 (45) | 2,791 | (2,332) | (146) | 45 | (2,433) | 358 |  |  |
+| Vehicles 43 | 11 (3) | 51 | (35) | (5) | 3 | (37) | 14 |  |  |
+| Computer equipment 11,435 | 1,085 (619) | 11,901 | (9,287) | (1,271) | 616 | (9,942) | 1,959 |  |  |
+| Plant and equipment 861 | 118 - | 979 | (526) | (88) | - | (614) | 365 |  |  |
+| Leasehold improvements 1,968 | 46 (21) | 1,993 | (1,408) | (112) | 21 | (1,499) | 494 |  |  |
+| Buildings 8,163 | 467 (1) | 8,629 | (4,078) | (412) | 1 | (4,489) | 4,140 |  |  |
+| Freehold land 323 | - - | 323 | - | - | - | - | 323 |  |  |
+| Cost as at April 1, 2024 | Addi i tons Disposals Cost as at March 31, 2025 Accumulated deprecia i ton as at April 1, 2024 Deprecia i ton Disposals Accumulated deprecia i ton as at March 31, 2025 Net carrying amount as at March 31, 2025 Capital work-in-progress Total |  |  |  |  |  |  |  |  |
+
+
+## Table 234 (Page 280)
+
+| Total | 27,980 1,450 (368) 29,062 (18,794) (2,294) 362 (20,726) 8,336 1,450 | 9,786 |
+| --- | --- | --- |
+| Furniture and i fxtures | 1,553 143 (6) 1,690 (1,417) (73) 6 (1,484) 206 |  |
+| Electrical installa i tons | 1,926 79 (37) 1,968 (1,488) (123) 35 (1,576) 392 |  |
+| O if fce equipment | 2,492 154 (35) 2,611 (2,217) (149) 34 (2,332) 279 |  |
+| Vehicles | 40 6 (3) 43 (34) (4) 3 (35) 8 |  |
+| Computer equipment | 10,947 718 (230) 11,435 (8,179) (1,336) 228 (9,287) 2,148 |  |
+| Plant and equipment | 808 55 (2) 861 (444) (83) 1 (526) 335 |  |
+| Leasehold improvements | 1,925 94 (51) 1,968 (1,340) (119) 51 (1,408) 560 |  |
+| Buildings | 7,966 201 (4) 8,163 (3,675) (407) 4 (4,078) 4,085 |  |
+| Freehold land | 323 - - 323 - - - - 323 |  |
+|  | Cost as at April 1, 2023 Addi i tons Disposals Cost as at March 31, 2024 Accumulated deprecia i ton as at April 1, 2023 Deprecia i ton Disposals Accumulated deprecia i ton as at March 31, 2024 Net carrying amount as at March 31, 2024 Capital work-in-progress Total |  |
+
+
+## Table 235 (Page 281)
+
+| Col_0 | Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- | --- |
+| Balance at the beginning of the year Additions during the year Capitalised during the year Balance at the end of the year | 1,450 | 1,10 1,79 (1,450 1,45 |
+|  | 2,122 |  |
+|  | (2,254) |  |
+|  | 1,318 |  |
+
+
+## Table 236 (Page 281)
+
+| Capital work-in-progress | Amount in Capital work-in-progress for a period of | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| Projects in progress | 878 | 222 | 70 | 148 | 1,318 |
+|  | 878 | 222 | 70 | 148 | 1,318 |
+
+
+## Table 237 (Page 281)
+
+| Capital work-in-progress | Amount in Capital work-in-progress for a period of | Col_2 | Col_3 | Col_4 | Total |
+| --- | --- | --- | --- | --- | --- |
+|  | Less than 1 year | 1 - 2 years | 2 - 3 years | More than 3 years |  |
+| Projects in progress | 919 919 | 145 145 | 53 53 | 333 333 | 1,45 1,45 |
+
+
+## Table 238 (Page 283)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 88 196 206 2,223 129 174 3,016 -* 191 3 2 |
+| 180 |  |
+| 226 |  |
+| 171 |  |
+| 2,013 |  |
+| 132 |  |
+| 178 |  |
+| 2,900 |  |
+|  |  |
+| -* |  |
+| 224 |  |
+| 2 |  |
+| -* |  |
+
+
+## Table 239 (Page 283)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+|  | 109 1,023 4,998 1,839 995 1,152 281 2 2 (4) 10,397 7 - 960 12 3 1 1 1 2 35 1 |
+| 152 |  |
+| 1,560 |  |
+| 5,351 |  |
+| 2,136 |  |
+| 1,557 |  |
+| 1,700 |  |
+| 242 |  |
+|  |  |
+| 2 |  |
+| 2 |  |
+| (4) |  |
+| 12,698 |  |
+|  |  |
+| 1 |  |
+| 1 |  |
+| 1,460 |  |
+| 18 |  |
+| 5 |  |
+| 1 |  |
+| 2 |  |
+| 1 |  |
+| 7 |  |
+| 62 |  |
+| 2 |  |
+
+
+## Table 240 (Page 285)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| - | - 17 4 21 11,809 9,875 (5,450) 16,234 62,228 43,559 (47) (46) (3,959) (16,996) 5,450 90,189 25,137 4 9,875 55,173 138 201 339 (20) 11 (9) 71,758 |
+|  |  |
+| 21 |  |
+| - |  |
+| 21 |  |
+|  |  |
+| 16,234 |  |
+| - |  |
+| (15,149) |  |
+| 1,085 |  |
+|  |  |
+| 55,173 |  |
+| 48,057 |  |
+| (135) |  |
+| - |  |
+| - |  |
+| - |  |
+| 15,149 |  |
+| 1,18,244 |  |
+|  |  |
+| 44,864 |  |
+| - |  |
+| - |  |
+| 73,380 |  |
+|  |  |
+| 339 |  |
+| 445 |  |
+| 784 |  |
+|  |  |
+| (9) |  |
+| (6) |  |
+| (15) |  |
+| 75,255 |  |
+
+
+## Table 241 (Page 287)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 2,12,130 | 2,00,05 2,30 2,02,35 |
+| 2,723 |  |
+| 2,14,853 |  |
+
+
+## Table 242 (Page 287)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 74,290 | 71,34 18,85 34,61 35,06 24,35 18,13 2,02,35 |
+| 20,077 |  |
+| 35,145 |  |
+| 41,641 |  |
+| 23,848 |  |
+| 19,852 |  |
+| 2,14,853 |  |
+
+
+## Table 243 (Page 287)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 1,15,880 | 1,16,065 56,330 13,105 16,859 2,02,359 |
+| 59,339 |  |
+| 21,471 |  |
+| 18,163 |  |
+| 2,14,853 |  |
+
+
+## Table 244 (Page 289)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 2,865 | 3,38 3,29 25 1 24 2 5 7,27 41 34 2,19 42 3,29 |
+| 6,132 |  |
+| 215 |  |
+| 10 |  |
+| 20 |  |
+| 10 |  |
+| 314 |  |
+| 23 |  |
+| 53 |  |
+| 9,642 |  |
+|  |  |
+| 496 |  |
+| 192 |  |
+| 2,114 |  |
+| 63 |  |
+|  |  |
+|  |  |
+| 6,132 |  |
+
+
+## Table 245 (Page 291)
+
+| Year ended March 31, 2025 | Col_1 | Col_2 | Col_3 | Year ended March 31, 2024 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total | Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total |
+|  |  |  |  | 4,643 - 1 481 361 168 (381) 5,273 | 1 - - - - - - 1 | 28 - - 4 1 2 (6) 29 | 4,672 1 485 362 170 (387 5,303 |
+| 5,273 | 1 | 29 | 5,303 |  |  |  |  |
+| - | - | 1 | 1 |  |  |  |  |
+| - | - | - | - |  |  |  |  |
+| 532 | - | 4 | 536 |  |  |  |  |
+| 392 | - | 2 | 394 |  |  |  |  |
+| 318 | - | 3 | 321 |  |  |  |  |
+| (362) | - | (5) | (367) |  |  |  |  |
+| 6,153 | 1 | 34 | 6,188 |  |  |  |  |
+
+
+## Table 246 (Page 291)
+
+| Year ended March 31, 2025 | Col_1 | Col_2 | Col_3 | Year ended March 31, 2024 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total | Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total |
+|  |  |  |  | 6,389 1 500 595 (381) 110 7,214 | 1 - - - - - 1 | - - - - - - - | 6,390 1 500 595 (381) 110 7,215 |
+| 7,214 | 1 | - | 7,215 |  |  |  |  |
+| - | - | - | - |  |  |  |  |
+| 527 | - | - | 527 |  |  |  |  |
+| 361 | - | - | 361 |  |  |  |  |
+| (362) | - | - | (362) |  |  |  |  |
+| 141 | - | - | 141 |  |  |  |  |
+| 7,881 | 1 | - | 7,882 |  |  |  |  |
+
+
+## Table 247 (Page 291)
+
+| As at March 31, 2025 | Col_1 | Col_2 | Col_3 | As at March 31, 2024 | Col_5 | Col_6 | Col_7 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total | Domestic plans funded | Foreign plans funded | Foreign plans unfunded | Total |
+|  |  |  |  | - 1,941 1,941 | - - - | (29) - (29) | (29) 1,941 1,912 |
+| - | - | (34) | (34) |  |  |  |  |
+| 1,728 | - | - | 1,728 |  |  |  |  |
+| 1,728 | - | (34) | 1,694 |  |  |  |  |
+
+
+## Table 248 (Page 293)
+
+| As at March 31, 2025 | Col_1 | As at March 31, 2024 | Col_3 |
+| --- | --- | --- | --- |
+| Domestic plans | Foreign plans | Domestic plans | Foreign plans |
+| 6.50% | 3.30%-4.50% | 7.25% 6.00% 7.25% 6 Years | 3.50%-4.80% 2.68% -3.63% 3.50%-4.80% 3-6 Year |
+| 6.00% | 2.56% -3.87% |  |  |
+| 6.50% | 3.30%-4.50% |  |  |
+| 6 Years | 3-6 Years |  |  |
+
+
+## Table 249 (Page 293)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| (155) | (123 129 |
+| 163 |  |
+
+
+## Table 250 (Page 293)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 163 | 130 (125 |
+| (156) |  |
+
+
+## Table 251 (Page 295)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+|  | 25,83 2,14 3,46 80 (2,747 (167 29,32 |
+| 29,326 |  |
+| 2,387 |  |
+| 3,581 |  |
+| 653 |  |
+| (2,814) |  |
+| (116) |  |
+| 33,017 |  |
+
+
+## Table 252 (Page 295)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 967 | 920 920 |
+| 967 |  |
+
+
+## Table 253 (Page 295)
+
+| As at March 31, 2025 | As at March 31, 2024 |
+| --- | --- |
+| 6.50% | 7.25% 6 Year 8.25% |
+| 6 Years |  |
+| 8.25% |  |
+
+
+## Table 254 (Page 297)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+| 556 | 4 2 6 |
+| - |  |
+| 147 |  |
+| 703 |  |
+
+
+## Table 255 (Page 298)
+
+| Col_0 | Opening balance | Recognised in profit and loss | Recognised in / reclassified from other comprehensive income |
+| --- | --- | --- | --- |
+| Deferred tax assets / (liabilities) in relation to Property, plant and equipment and intangible assets Provision for employee benefit obligations Cash flow hedges Receivables, financial assets at amortised cost Branch profit tax Unrealised gain on securities carried at fair value through profit or loss / other comprehensive income Lease liabilities and right-of-use assets Others |  |  |  |
+|  | 661 | 328 | - |
+|  | 872 | 67 | - |
+|  | 4 | - | 2 |
+|  | 395 | 24 | - |
+|  | (100) | (66) | - |
+|  | (119) | - | (148) |
+|  | 199 | 11 | - |
+|  | 458 | (132) | - |
+|  | 2,370 | 232 | (146) |
+
+
+## Table 256 (Page 299)
+
+| Assets | Liabilities | Net |
+| --- | --- | --- |
+|  |  |  |
+| 1,025 | 36 | 989 |
+| 939 | - | 939 |
+| 6 | - | 6 |
+| 419 | - | 419 |
+| - | 166 | (166) |
+| (267) | - | (267) |
+| 1,558 | - | 1,558 |
+| (1,348) | - | (1,348) |
+| 326 | - | 326 |
+| 2,658 | 202 | 2,456 |
+
+
+## Table 257 (Page 299)
+
+| Opening balance | Recognised in profit and loss | Recognised in / reclassified from other comprehensive income | Closing balance |
+| --- | --- | --- | --- |
+| 597 786 7 403 (135) (83) 188 511 2,274 | 64 86 - (8) 35 - 11 (53) 135 | - - (3) - - (36) - - (39) | 661 872 4 395 (100 (119 199 458 2,370 |
+
+
+## Table 258 (Page 299)
+
+| Assets | Liabilities | Net |
+| --- | --- | --- |
+| 714 872 4 395 - (119) 1,192 (993) 459 2,524 | 53 - - - 100 - - - 1 154 | 661 872 4 395 (100) (119) 1,192 (993) 458 2,370 |
+
+
+## Table 259 (Page 305)
+
+| Year ended March 31, 2025 | Year ended March 31, 2024 |
+| --- | --- |
+|  | 3,593 4,009 3,666 2,902 4,184 3,335 1,938 754 1,158 835 527 265 960 3,485 - |
+| 3,636 |  |
+| 3,875 |  |
+| 3,733 |  |
+| 3,659 |  |
+|  |  |
+| 3,850 |  |
+| 3,541 |  |
+| 2,240 |  |
+| 7,508 |  |
+|  |  |
+| 1,805 |  |
+| 836 |  |
+| 1,242 |  |
+| 699 |  |
+|  |  |
+| 500 |  |
+|  |  |
+| 3,870 |  |
+|  |  |
+| 1,593 |  |
+
+
+## Table 260 (Page 307)
+
+| Ratio | Numerator | Denominator | Current year | Previous yea |
+| --- | --- | --- | --- | --- |
+| Current ratio (in times) Debt-Equity ratio (in times) Debt service coverage ratio (in times) Return on equity ratio (in %) Trade receivables turnover ratio (in times) Trade payables turnover ratio (in times) Net capital turnover ratio (in times) Net profit ratio (in %) Return on capital employed (in %) Return on investment (in %) | Total current assets Debt consists of borrowings and lease liabilities. Earning for Debt Service = Net Profit afet r taxes + Non-cash operating expenses + Interest + Other non-cash adjustments Profit for the year less Preference dividend (if any) Revenue from operations Cost of equipment and software licences + Other expenses Revenue from operations Profit for the year Profit before tax and finance costs Income generated from invested funds | Total current liabilities Total equity Debt service = Interest and lease payments + Principal repayments Average total equity Average trade receivables Average trade payables Average working capital (i.e. Total current assets less Total current liabilities) Revenue from operations Capital employed = Net worth + Lease liabilities + Deferred tax liabilities Average invested funds in treasury investments | 2.1 | 2. 0. 24. 59.4 4. 3. 3. 21.5 74.3 8.3 |
+|  |  |  | 0.1 |  |
+|  |  |  | 23.5 |  |
+|  |  |  | 65.1% |  |
+|  |  |  | 4.4 |  |
+|  |  |  | 3.1 |  |
+|  |  |  | 4.1 |  |
+|  |  |  | 22.4% |  |
+|  |  |  | 76.0% |  |
+|  |  |  | 8.5% |  |
+
+
+## Table 261 (Page 308)
+
+| Col_0 | Col_1 | U.S.A. | Canada | Argen i tna | Chile | Mexico | Brazil | Uruguay | Chile | Uruguay | Ecuador | Mexico | Uruguay | Guatemala | Belgium | Spain | Germany | Italy | Netherlands | Sweden |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Shareholding |  | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% |
+| Dividend | ` crore | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+| a t fer Tax |  | 1,076 | 1,182 | 14 | 29 | 445 | 151 | 834 | 15 | 110 | 55 | 4 | 154 | 10 | 39 | 26 | 58 | 30 | 563 | 283 |
+| for Tax |  | 273 | 422 | - | 8 | 213 | 73 | 27 | - | 36 | 12 | (1) | 8 | 3 | 17 | 9 | 28 | 18 | 118 | 75 |
+| before Tax |  | 1,349 | 1,604 | 14 | 37 | 658 | 224 | 861 | 15 | 146 | 67 | 3 | 162 | 13 | 56 | 35 | 86 | 48 | 681 | 358 |
+|  |  | 5,091 | 12,296 | 65 | 836 | 5,196 | 1,879 | - | 32 | 896 | 335 | 12 | 916 | 70 | 2,707 | 623 | 6,885 | 427 | 8,565 | 4,801 |
+|  |  | 443 | - | - | 50 | - | - | 1,856 | 294 | - | - | - | 72 | - | - | - | 184 | - | 1,901 | - |
+| Liabili i tes |  | 2,876 | 2,226 | 31 | 186 | 1,398 | 413 | - | 19 | 132 | 114 | 13 | 182 | 9 | 446 | 94 | 1,668 | 106 | 1,562 | 768 |
+| Assets |  | 3,802 | 4,051 | 45 | 584 | 2,112 | 864 | 1,858 | 319 | 403 | 254 | 39 | 406 | 43 | 946 | 254 | 2,515 | 219 | 4,912 | 1,847 |
+| and Surplus |  | 924 | 1,783 | 14 | 243 | 713 | 190 | 1,017 | 160 | 198 | 114 | (45) | 224 | 25 | 498 | 159 | 846 | 93 | 2,742 | 1,079 |
+| Capital |  | 2 | 42 | - | 155 | 1 | 261 | 841 | 140 | 73 | 26 | 71 | - | 9 | 2 | 1 | 1 | 20 | 608 | - |
+| Rate |  | 85.436300 | 59.620586 | 0.079732 | 0.091457 | 4.201606 | 14.869607 | 85.436300 | 0.091457 | 2.028161 | 85.436300 | 4.201606 | 2.028161 | 11.073907 | 92.117390 | 92.117390 | 92.117390 | 92.117390 | 92.117390 | 8.527258 |
+| Currency |  | USD | CAD | USD | USD | USD | USD | USD | USD | USD | USD | USD | USD | USD | INR | EUR | INR | EUR | EUR | SEK |
+| Currency |  | USD | CAD | ARS | CLP | MXN | BRL | USD | CLP | UYU | USD | MXN | UYU | GTQ | EUR | EUR | EUR | EUR | EUR | SEK |
+| accoun i tng period of subsidiary |  | March 31, 2025 | March 31, 2025 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | December 31, 2024 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 |
+| accoun i tng period of subsidiary |  | April 1, 2024 | April 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 |
+| subsidiary |  | August 9, 2004 | October 1, 2009 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | December 28, 2006 | January 1, 2010 | January 1, 2010 | September 1, 2021 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 | August 9, 2004 |
+| Company |  | Tata America Interna i tonal Corpora i ton | Tata Consultancy Services Canada Inc. | Tata Consultancy Services Argen i tna S.A. | Tata Consultancy Services Chile S.A. | Tata Consultancy Services De Mexico, S.A. De C.V. | Tata Consultancy Services Do Brasil Ltda. | TCS Iberoamerica S.A. | TCS Inversiones Chile Limitada | TCS Solu i ton Center S.A. | Tatasolu i ton Center S.A. | MGDC S.C. | TCS Uruguay S.A. | Tata Consultancy Services Guatemala, S.A. | Tata Consultancy Services Belgium | Tata Consultancy Services De Espana S.A. | Tata Consultancy Services Deutschland GmbH | Tata Consultancy Services Italia S.R.L. | Tata Consultancy Services Netherlands B.V. | Tata Consultancy Services Sverige Ak i tebolag |
+| No. |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
+
+
+## Table 262 (Page 309)
+
+| Col_0 | U.K. | Capellen (G.D. de Luxembourg) | Switzerland | France | Saudi Arabia | U.K. | Germany | Bulgaria | Ireland | Germany | Austria | Netherlands | Singapore | Malaysia | Australia | Australia | Indonesia | China | China | Thailand | Philippines |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | - | 100% | 100% |
+| ` crore | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+|  | 257 | 55 | 227 | 53 | 165 | 7 | 3 | 22 | 154 | (68) | 12 | - | 384 | 53 | 43 | 77 | 5 | 88 | 2 | 10 | 169 |
+|  | 82 | 21 | 58 | 14 | 42 | 3 | 1 | 2 | 20 | 5 | 4 | - | 50 | 10 | - | 22 | 3 | 35 | - | 4 | 15 |
+|  | 339 | 76 | 285 | 67 | 207 | 10 | 4 | 24 | 174 | (63) | 16 | - | 434 | 63 | 43 | 99 | 8 | 123 | 2 | 14 | 184 |
+|  | 6,898 | 652 | 4,748 | 3,525 | 1,846 | 142 | 126 | 84 | 1,462 | 1,123 | 193 | 18 | 3,158 | 643 | - | 116 | 48 | 1,148 | 18 | 277 | 1,142 |
+|  | 610 | - | - | 77 | - | - | 67 | - | - | - | - | - | 951 | - | 2 | - | - | - | - | - | - |
+|  | 1,378 | 178 | 962 | 1,933 | 1,017 | 124 | 82 | 35 | 128 | 433 | 41 | 17 | 1,086 | 177 | - | 61 | 23 | 162 | - | 195 | 321 |
+|  | 3,241 | 304 | 1,908 | 1,701 | 1,345 | 166 | 185 | 90 | 561 | 1,313 | 58 | 17 | 2,203 | 303 | 139 | 148 | 55 | 576 | - | 222 | 549 |
+|  | 1,852 | 74 | 931 | (236) | 319 | 42 | 103 | 55 | 203 | 850 | 17 | - | 1,079 | 122 | (61) | 87 | 31 | 176 | - | 25 | 269 |
+|  | 11 | 52 | 15 | 4 | 9 | - | - | - | 230 | 30 | - | - | 38 | 4 | 200 | - | 1 | 238 | - | 2 | (41) |
+|  | 110.639976 | 92.117390 | 96.899512 | 92.117390 | 22.776332 | 110.639976 | 92.117390 | 47.095695 | 92.117390 | 92.117390 | 92.117390 | 92.117390 | 85.436300 | 19.274969 | 53.790694 | 53.790694 | 0.005159 | 11.762415 | 11.762415 | 2.514866 | 1.488891 |
+|  | GBP | EUR | EUR | EUR | EUR | GBP | INR | EUR | EUR | EUR | EUR | USD | USD | USD | AUD | AUD | USD | USD | CNY | USD | USD |
+|  | GBP | EUR | CHF | EUR | SAR | GBP | EUR | BGN | EUR | EUR | EUR | EUR | USD | MYR | AUD | AUD | IDR | CNY | CNY | THB | PHP |
+|  | December 31, 2024 | March 31, 2025 | March 31, 2025 | March 31, 2025 | December 31, 2024 | December 31, 2024 | March 31, 2025 | December 31, 2024 | December 31, 2024 | December 31, 2024 | March 31, 2025 | December 31, 2024 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | December 31, 2024 | December 31, 2024 | March 31, 2025 | March 31, 2025 |
+|  | January 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | January 1, 2024 | January 1, 2024 | April 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | April 1, 2024 | January 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | January 1, 2024 | January 1, 2024 | April 1, 2024 | April 1, 2024 |
+|  | August 23, 2005 | October 28, 2005 | October 31, 2006 | June 28, 2013 | July 2, 2015 | October 31, 2018 | March 9, 2020 | August 31, 2021 | December 2, 2020 | January 1, 2021 | March 9, 2012 | September 14, 2023 | August 9, 2004 | August 9, 2004 | October 17, 2005 | October 19, 2005 | October 5, 2006 | November 16, 2006 | December 29, 2006 | May 12, 2008 | September 19, 2008 |
+|  | Diligenta Limited | Tata Consultancy Services Luxembourg S.A. | Tata Consultancy Services Switzerland Ltd | Tata Consultancy Services France | Tata Consultancy Services Saudi Arabia | Tata Consultancy Services UK Limited | TCS Business Services GmbH | Tata Consultancy Services Bulgaria EOOD | Tata Consultancy Services Ireland Limited | TCS Technology Solu i tons GmbH | Tata Consultancy Services Osterreich GmbH | Diligenta (Europe) B.V. | Tata Consultancy Services Asia Paci i fc Pte. Ltd. | Tata Consultancy Services Malaysia Sdn. Bhd. | TCS FNS Pty Limited | TCS Financial Solu i tons Australia Pty Ltd | Tata Consultancy Services Indonesia, PT | Tata Consultancy Services (China) Co., Ltd. | TCS Financial Solu i tons (Beijing) Co., Ltd. | Tata Consultancy Services (Thailand) Limited | Tata Consultancy Services (Philippines) Inc. |
+|  | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 |
+
+
+## Table 263 (Page 310)
+
+| Country | Japan India | India | India | India | India | India | India | South Africa | South Africa | Qatar | India |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| % of Shareholding | 66% 89% | 51% | 89% | 100% | 74% | 65% | 65% | 100% | 70% | 100% | 100% |
+| Share Reserves Total Total Investments Turnover Pro i ft Provision Pro i ft Proposed Capital and Assets Liabili i tes before for Tax a t fer Dividend Surplus Tax Tax ` crore | - - | - | - | - | - | - | - | - | - | - | - |
+|  | 490 25 | 154 | 31 | 187 | 4 | - | - | 48 | 26 | (2) | 141 |
+|  | 180 8 | 53 | 13 | 71 | 2 | - | - | 2 | 11 | - | - |
+|  | 670 33 | 207 | 44 | 258 | 6 | - | - | 50 | 37 | (2) | 141 |
+|  | 5,853 167 | 587 | 101 | 1,346 | - | - | - | - | 881 | 36 | - |
+|  | - 52 | - | 38 | 150 | 82 | - | - | 6 | - | - | 45 |
+|  | 1,366 85 | 173 | 55 | 247 | 62 | 9 | 34 | - | 414 | 55 | 1,542 |
+|  | 3,452 222 | 688 | 209 | 909 | 145 | 176 | 919 | 34 | 483 | 106 | 2,990 |
+|  | 1,840 135 | 505 | 153 | 652 | 80 | - | (1) | 27 | 61 | 46 | 1,447 |
+|  | 246 2 | 10 | 1 | 10 | 3 | 167 | 886 | 7 | 8 | 5 | 1 |
+| Exchange Rate | 0.567853 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 1.000000 | 4.697632 | 4.697632 | 23.461198 | 1.000000 |
+| Parent Currency | USD INR | INR | INR | INR | INR | INR | INR | ZAR | ZAR | QAR | INR |
+| Repor i tng Currency | JPY INR | INR | INR | INR | INR | INR | INR | ZAR | ZAR | QAR | INR |
+| End date of accoun i tng period of subsidiary | March 31, 2025 March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | March 31, 2025 | December 31, 2024 | December 31, 2024 | December 31, 2024 | March 31, 2025 |
+| Start date of accoun i tng period of subsidiary | April 1, 2024 April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | April 1, 2024 | January 1, 2024 | January 1, 2024 | January 1, 2024 | April 1, 2024 |
+| Date of becoming subsidiary | July 1, 2014 August 9, 2004 | January 19, 2006 | September 8, 2006 | December 31, 2008 | September 23, 2010 | January 29, 2025 | January 29, 2025 | October 23, 2007 | October 31, 2007 | December 20, 2011 | March 25, 2015 |
+| Name of the Subsidiary Company | Tata Consultancy Services Japan, Ltd. APTOnline Limited | C-Edge Technologies Limited | MP Online Limited | TCS e-Serve Interna i tonal Limited | MahaOnline Limited | TRIL Bengaluru Real Estate Five Limited | TRIL Bengaluru Real Estate Six Limited | Tata Consultancy Services (Africa) (Proprietary) Limited | Tata Consultancy Services (South Africa) (Proprietary) Limited | Tata Consultancy Services Qatar | TCS Founda i ton |
+| Sr. No. | 42 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 |
+
+
+## Table 264 (Page 311)
+
+| CPG | Consumer-Packaged Goods |
+| --- | --- |
+| CTI | Cooling Technology Institute |
+| DSO | Days’ Sales Outstanding |
+| EACs | Energy Attribute Certificates |
+| EIA | Environmental Impact Assessment |
+| EPS | Earnings Per Share |
+| ERP | Enterprise Resource Planning |
+| ESG | Environment, Social and Governance |
+| ETR | Efef ctive Tax rate |
+| FTE | Full Time Equivalent |
+| GDPR | General Data Protection Regulation |
+| GHGs | Greenhouse Gases |
+| GOs | Guarantees of Origin |
+| HVAC | Heating Ventilation and Air Conditioning System |
+| IoT | Internet of Things |
+| IP | Intellectual Property |
+| ISO | International Organization for Standardization |
+| ISSB | International Sustainability Standards Board |
+| kL | Kilo Liters |
+| KMP | Key Managerial Personnel |
+| kWh | Kilowat-thours |
+
+
+## Table 265 (Page 312)
+
+| LatAm | Latin America |
+| --- | --- |
+| LLM | Large Language Model |
+| MEA | Middle East and Africa |
+| MFDM™ | Machine First Delivery Model |
+| MJ | Mega Joule |
+| MSP | Managed Services Provider |
+| MVP | Minimum Viable Product |
+| MWh | Megawatt hours |
+| OWC | Organic Waste Converter |
+| PaaS | Platof rm as a Service |
+| PPP | Purchasing Power Parity |
+| PUE | Power Usage Efef ctiveness |
+| R&I | Research & Innovation |
+| RECs | Renewable Energy Certificates |
+| RFP | Request for Proposal |
+| ROI | Return on Investment |
+| RPA | Robotic Process Automation |
+| SaaS | Software as a Service |
+| SBTi | Science Based Targets Initiative |
+
+
+## Table 266 (Page 325)
+
+| • BRSR | 127 |
+| --- | --- |
+| • BRSR | 128, 129 |
+| • BRSR | 127 |
+| • BRSR | 128 |
+| • BRSR | 128, 132 |
+
+
+## Table 267 (Page 325)
+
+| • BRSR | 128 |
+| --- | --- |
+| • BRSR | 129 |
+| • BRSR | 129 |
+
+
+## Table 268 (Page 325)
+
+| • CG • BRSR | 95 132 |
+| --- | --- |
+| • CG | 96 |
+| • CG | 96 |
+| • CG | 96, 98 |
+| • CG • BRSR | 102 132, 146 |
+| • CG | 98 |
+| • CG | 96 |
+| • BRSR | 130, 138, 141, 147, 161, 163 |
+| • BRSR | 132 |
+| • Board’s Report • CG | 69 98 |
+| • CG • BRSR | 103 146 |
+| • CG | 98, 101, 103 |
+| • BRSR | 146 |
+
+
+## Table 269 (Page 325)
+
+| • Letet r from the CEO • MD&A • BRSR | 10 80 132 |
+| --- | --- |
+| • BRSR | 131, 133, 147, 164 |
+| • BRSR | 131, 146, 147 |
+| • BRSR | 130, 138, 141, 147, 161, 163 |
+| • BRSR | 130, 138, 141, 147, 161, 163 |
+| • BRSR | 133, 155 |
+| • BRSR | 158, 159 |
+
+
+## Table 270 (Page 326)
+
+| 2-29 Approach to stakeholder engagement | • BRSR |
+| --- | --- |
+| 2-30 Collective bargaining agreements | • BRSR |
+
+
+## Table 271 (Page 326)
+
+| 3-1 Process to determine material topics | • Stakeholder Engagement and Identification of Material Topics |
+| --- | --- |
+| 3-2 List of material topics | • BRSR • TCS ESG Principles, Material Topics and Initiatives |
+| 3-3 Management of material topics | • MD&A • BRSR • TCS ESG Principles, Material Topics and Initiatives |
+
+
+## Table 272 (Page 326)
+
+| 201-1 Direct economic value generated and distributed | • Financial Capital |
+| --- | --- |
+| 201-2 Financial implications and other risks and opportunities due to climate change | • MD&A • BRSR |
+| 201-3 Defined benefit plan obligations and other retirement plans | • BRSR |
+
+
+## Table 273 (Page 326)
+
+| 205-2 Communication and training about anti-corruption policies and procedures | • BRSR |
+| --- | --- |
+| 205-3 Confirmed incidents of corruption and actions taken | • BRSR |
+
+
+## Table 274 (Page 326)
+
+| 207-1 Approach to tax | • CG |
+| --- | --- |
+| 207-2 Tax governance, control, and risk management | • CG |
+| 207-3 Stakeholder engagement and management of concerns related to tax | • CG |
+
+
+## Table 275 (Page 326)
+
+| 302-1 Energy consumption within the organization | • BRSR |
+| --- | --- |
+| 302-3 Energy intensity | • BRSR |
+
+
+## Table 276 (Page 326)
+
+| 303-1 Interactions with water as a shared resource | • BRSR |
+| --- | --- |
+| 303-2 Management of water discharge-related impacts | • BRSR |
+| 303-3 Water withdrawal | • BRSR |
+| 303-4 Water discharge | • BRSR |
+| 303-5 Water consumption | • BRSR |
+
+
+## Table 277 (Page 326)
+
+| 304-1 Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas | • BRSR |
+| --- | --- |
+| 304-2 Signifci ant impacts of activities, products and services on biodiversity | • BRSR |
+| 304-3 Habitats protected or restored | • BRSR |
+
+
+## Table 278 (Page 326)
+
+| 305-1 Direct (Scope 1) GHG emissions | • BRSR |
+| --- | --- |
+| 305-2 Energy indirect (Scope 2) GHG emissions | • BRSR |
+
+
+## Table 279 (Page 327)
+
+| • BRSR | 157 |
+| --- | --- |
+| • BRSR | 151, 157 |
+| • BRSR | 152 |
+
+
+## Table 280 (Page 327)
+
+| • BRSR | 135, 136, 155 |
+| --- | --- |
+| • BRSR | 153 |
+| • BRSR | 153 |
+| • BRSR | 153 |
+
+
+## Table 281 (Page 327)
+
+| • BRSR | 135, 158 |
+| --- | --- |
+| • BRSR | 158 |
+
+
+## Table 282 (Page 327)
+
+| • Human Capital • BRSR | 22 129 |
+| --- | --- |
+| • BRSR | 137 |
+| • BRSR | 138 |
+
+
+## Table 283 (Page 327)
+
+| • BRSR | 139 |
+| --- | --- |
+| • BRSR | 140, 141 |
+| • BRSR | 139 |
+| • BRSR | 140, 141 |
+| • BRSR | 141, 142 |
+| • BRSR | 141, 142 |
+
+
+## Table 284 (Page 327)
+
+| • Human Capital • BRSR | 23 139 |
+| --- | --- |
+| • BRSR | 139 |
+| • BRSR | 139 |
+
+
+## Table 285 (Page 327)
+
+| • MD&A • BRSR | 83 129 |
+| --- | --- |
+| • BRSR | 146 |
+
+
+## Table 286 (Page 328)
+
+| Identified Sustainability Information (ISI) subject to assurance | Period subject to Limited assurance | Page number in the Annual Report |
+| --- | --- | --- |
+| Select GRI and BRSR attributes (which are not part of BRSR Core) (Annexure – I) | 1 April 2024 to 31 March 2025 | 18 to 29, 127 to 164 and 319 to 325 |
+
+
+## Table 287 (Page 331)
+
+| BRSR Linkage | Type of Assurance |
+| --- | --- |
+| No direct Linkage | Limited |
+| No direct Linkage | Limited |
+| P6 L3- Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters) | Limited |
+| P6 L3- Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters) | Limited |
+| P6 L3- Water withdrawal, consumption, and discharge in areas of water stress (in kiloliters) | Limited |
+| P6 E11- If the entity has operations/offices in/around ecologically sensitive areas where environmental approvals / clearances are required, please specify the location and type of operations and if the conditions of environmental approval / clearance are being complied with? | Limited |
+| P6 L5- With respect to the ecologically sensitive areas, provide details of significant direct & indirect impact of the entity on biodiversity in such areas along-with prevention and remediation activities. | Limited |
+| No direct Linkage | Limited |
+| P6 L2 – Provide details of total Scope 3 emissions | Limited |
+| P6 L2 – Provide details of total Scope 3 emissions intensity | Limited |
+| P6 E7 – Projects related to reduction of Green House Gas emissions | Limited |
+| No direct Linkage | Limited |
+| P6 L7- Percentage of value chain partners (by value of business done with such partners) that were assessed for environmental impacts | Limited |
+| Section A 22- Turnover rate for permanent employees and workers | Limited |
+
+
+## Table 288 (Page 332)
+
+| 401-2, 201-3-b-(i-iii), 201-3-c, 201-3-d, 201-3-e Benefits provided to full-time employees that are not provided to temporary or part-time employees | P3 E2- Details of retirement benefits, for Current Financial Year |
+| --- | --- |
+| 401-3 Parental leave | P3 E5-Return to work and Retention rates of permanent employees that took parental leave |
+| 402-1 Minimum notice periods regarding operational changes | No direct Linkage |
+| 403-1 (a), (b) Occupational health and safety management system | P3 E10-Health and safety management system Limited |
+| 403-2 (a), (b), (c), 403-4 (a), 403-6 (a) Hazard identification, risk assessment, and incident investigation |  |
+| 403-5 (a), 404-1 (a-i), 404-2 (a) Worker training on occupational health and safety | P3 E8-Details of training given to employees and workers |
+| 403-6, 3-3-(d-i-iii), 403-2-(a-i-ii), 403-9-(c-iii), 403- 9-(d), 403-10-(c-iii) Promotion of worker health | P3 E12-Describe the measures taken by the entity to ensure a safe and healthy workplace |
+| 404-1, 403-5-(a), 404-1-(a-i), 404-2-(a), 2-24-(a- iv), 205-2-(e), 403-5-(a), 404-1-(a-i-ii), 410-1-a Average hours of training per year per employee | P3 E8-Details of training given to employees and workers P5 E1-Employees and workers who have been provided training on human rights issues and policy(ies) of the entity |
+| 404-3 (a) Details of performance and career development reviews of employees | P3 E9-Details of performance and career development reviews of employees |
+| 405-1 Diversity of governance bodies and employees | Section A 21- Participation/Inclusion/Representation of women |
+| 405-2, 2-19-(a-i-v), 2-21-(a) Ratio of basic salary and remuneration of women to men | P5 E3-Details of remuneration/salary/wages |
+| 2-25-(e), 406-1-(a) Incidents of discrimination and corrective actions taken | P5 E6- Number of Complaints made by employees on sexual harassment, discrimination at the workplace, child and forced labour, wages and other human rights related issues |
+| 304-1-(a-i-v), 413-1-(a-i-iii), 203-1, 3-3, 2-25-(b), 413-1-(a-viii), 2-12-(b), 2-13- (a, b), 2-29-(a), 2-29-(a-i-iii), 3-3-(d-i-ii), 413-1-(a-iv), 203-1 Operations with local community engagement, impact assessments, and development programs | P8 E1- Details of Social Impact Assessments (SIA) of projects undertaken by the entity based on applicable laws, in the current financial year P8 E3-Describe the mechanisms to receive and redress grievances of the community P8 L1-Provide details of actions taken to mitigate any negative social impacts identified in the Social Impact Assessments P4 L1-Provide the processes for consultation between stakeholders and the Board on economic, environmental, and social topics or if consultation is delegated, how is feedback from such consultations provided to the Board. P4 L3-Provide details of instances of engagement with, and actions taken to, address the concerns of vulnerable/ marginalized stakeholder groups. |
+| 414-2 (a) Negative social impacts in the supply chain and actions taken | P3 L5- Details on assessment of value chain partners. |
+| 2-7-(a), 2-7-(b-i & ii), 405-1-(b-iii) Employees | General Disclosures 20 a- Employees and workers (including difef rently abled): |
+| 2-8 (a) Workers who are not employees |  |
