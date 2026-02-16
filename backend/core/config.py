@@ -18,6 +18,7 @@ WHAT YOU'LL LEARN:
 - Pydantic BaseSettings pattern
 - Environment variable management
 - Path handling with pathlib
+- How config grows as a project evolves (Phase 1 → 2 → ...)
 """
 
 from pathlib import Path
@@ -63,6 +64,18 @@ class Settings(BaseSettings):
 
     # ── Logging ──
     log_level: str = "INFO"
+
+    # ── Embeddings (Phase 2) ──
+    # Which sentence-transformer model to use for embeddings
+    # all-MiniLM-L6-v2: 384 dims, 80MB, great speed/quality tradeoff
+    embedding_model: str = "all-MiniLM-L6-v2"
+    # Dimension of the embedding vectors (must match model output)
+    embedding_dim: int = 384
+
+    # ── Database (Phase 2) ──
+    # SQLite for development (zero setup), swap to PostgreSQL for production:
+    #   DATABASE_URL=postgresql://user:pass@localhost:5432/finrag
+    database_url: str = "sqlite:///finrag.db"
 
     model_config = {
         # This tells Pydantic to also read from a .env file

@@ -33,7 +33,7 @@ Financial PDFs → Extract & Clean → Chunk → Embed → Vector Search → RAG
                     │                │
               ┌─────▼────────────────▼──────┐
               │     Data Layer              │
-              │  PostgreSQL + pgvector      │
+              │  SQLite → PostgreSQL+pgvector│
               │  Redis (cache)              │
               └─────────────────────────────┘
 ```
@@ -45,16 +45,20 @@ Financial PDFs → Extract & Clean → Chunk → Embed → Vector Search → RAG
 ### Phase 1: Foundation & PDF Ingestion ✅
 - [x] Project scaffolding (folders, config, logging)
 - [x] PDF text extraction (PyMuPDF)
-- [x] Text cleaning (9-step pipeline)
-- [x] Chunking engine (sliding window)
-- [x] End-to-end ingestion (21 PDFs → 24,948 chunks)
+- [x] Text cleaning (10-step pipeline with ligature resolution, control char removal, auto-dedup)
+- [x] Chunking engine (sliding window with smart boundaries)
+- [x] Table extraction (PyMuPDF `find_tables()` with page-skip heuristic)
+- [x] End-to-end ingestion (21 PDFs → 24,948 chunks + structured tables)
+- [x] Text quality audit (13 checks, 19/21 fully clean)
+- [x] Learning journal for Phase 1
 
-### Phase 2: Embeddings & Vector Search
-- [ ] Embedding generation (sentence-transformers)
-- [ ] PostgreSQL + pgvector setup
-- [ ] Database models (SQLAlchemy)
-- [ ] Vector storage pipeline
-- [ ] Similarity search
+### Phase 2: Embeddings & Vector Search 🔄
+- [ ] Embedding engine (`all-MiniLM-L6-v2`, 384 dims, CPU)
+- [ ] Database layer (SQLAlchemy + SQLite, swappable to PostgreSQL)
+- [ ] Database models (documents, chunks, tables)
+- [ ] Vector storage pipeline (embed + store 24,948 chunks)
+- [ ] Semantic search engine (cosine similarity, filtered search)
+- [ ] Learning journal for Phase 2
 
 ### Phase 3: RAG Pipeline
 - [ ] LLM abstraction (Local + API clients)
@@ -96,15 +100,30 @@ nlp_project/
 ├── backend/
 │   ├── main.py
 │   ├── core/           # Config, logging
-│   ├── pipelines/      # Ingestion pipeline ✅
+│   ├── pipelines/      # Ingestion + embedding storage ✅
+│   │   ├── pdf_extractor.py      # PDF → text
+│   │   ├── text_cleaner.py       # 10-step cleaning
+│   │   ├── chunker.py            # Sliding window chunks
+│   │   ├── table_extractor.py    # PDF → structured tables
+│   │   ├── ingest.py             # Orchestrator (text + tables)
+│   │   └── store_embeddings.py   # Embed + store (Phase 2)
 │   ├── engines/        # Retrieval + analytics
+│   │   ├── embedder.py           # Embedding model (Phase 2)
+│   │   └── search.py             # Semantic search (Phase 2)
 │   ├── services/       # Business logic
 │   ├── api/            # FastAPI routers
 │   ├── workers/        # Async jobs
 │   ├── llm/            # LLM abstraction
 │   └── db/             # Database models
+│       ├── database.py           # Engine + sessions (Phase 2)
+│       └── models.py             # SQLAlchemy models (Phase 2)
 ├── data/               # 21 raw PDFs
-├── processed/          # Pipeline output (txt + json chunks)
+├── processed/          # Pipeline output (4 files per PDF)
+│   └── {region}/annual/{company}/
+│       ├── {name}.txt            # Cleaned text
+│       ├── {name}_chunks.json    # Text chunks + metadata
+│       ├── {name}_tables.json    # Structured table data
+│       └── {name}_tables.md      # Markdown tables for LLM
 ├── learning_journal/   # Phase-by-phase notes
 └── requirements.txt
 ```
@@ -135,3 +154,5 @@ nlp_project/
 4. **Async where IO-heavy** — file reads, DB queries, LLM calls
 5. **Idempotent pipelines** — safe to re-run
 6. **No hardcoded secrets** — everything in `.env`
+7. **Data-driven cleaning** — let frequency analysis find noise, not hardcoded rules
+8. **Pre-check before expensive ops** — skip work that won't produce results

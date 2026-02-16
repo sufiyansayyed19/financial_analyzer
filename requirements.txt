@@ -1,5 +1,5 @@
 # ===========================
-# FinRAG — Phase 1 Dependencies
+# FinRAG — Dependencies
 # ===========================
 
 # --- PDF Processing ---
@@ -16,3 +16,16 @@ pydantic-settings>=2.6.0 # Load config from .env files
 # --- Utilities ---
 python-dotenv>=1.0.0     # Environment variable management
 rich>=13.9.0             # Beautiful terminal output & logging
+
+# ===========================
+# Phase 2: Embeddings & Vector Search
+# ===========================
+
+# --- Embeddings ---
+sentence-transformers>=3.0.0  # Embedding model (all-MiniLM-L6-v2)
+
+# --- Database ---
+sqlalchemy>=2.0.0        # ORM — same code works on SQLite & PostgreSQL
+
+# --- Vector Math ---
+numpy>=1.26.0            # Cosine similarity for vector search
