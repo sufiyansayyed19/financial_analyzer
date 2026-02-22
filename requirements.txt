@@ -35,7 +35,7 @@ numpy>=1.26.0            # Cosine similarity for vector search
 # ===========================
 
 # --- LLM ---
-google-generativeai>=0.8.0   # Google Gemini API client
+google-genai>=0.12.0          # New Google Gemini API client
 
 # ===========================
 # Phase 5: API Layer

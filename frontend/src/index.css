@@ -46,6 +46,11 @@
   .filter-select {
     @apply bg-white/5 border border-white/10 rounded-lg px-3 py-2 text-sm text-gray-300 focus:outline-none focus:border-brand-500 transition-all duration-200 cursor-pointer;
   }
+
+  .filter-select option {
+    @apply bg-slate-900 text-gray-100;
+    /* Fixes white text on white background in dropdowns */
+  }
 }
 
 /* Custom scrollbar */

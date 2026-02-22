@@ -36,7 +36,8 @@ WHAT YOU'LL LEARN:
 import time
 from abc import ABC, abstractmethod
 
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 from backend.core.config import settings
 from backend.core.logging import get_logger
@@ -84,7 +85,7 @@ class GeminiClient(BaseLLMClient):
     """
     Google Gemini API client.
 
-    Uses the google-generativeai SDK.
+    Uses the new google-genai SDK.
     Free tier: 1,500 requests/day — plenty for development.
     """
 
@@ -96,15 +97,15 @@ class GeminiClient(BaseLLMClient):
                 "Then add it to your .env file."
             )
 
-        genai.configure(api_key=settings.gemini_api_key)
-
-        self.model = genai.GenerativeModel(
-            model_name=settings.llm_model,
-            generation_config=genai.GenerationConfig(
-                temperature=settings.llm_temperature,
-                max_output_tokens=settings.llm_max_tokens,
-            ),
+        self.client = genai.Client(api_key=settings.gemini_api_key)
+        self.model_name = settings.llm_model
+        
+        # In the new SDK, configuration is passed during the generate call
+        self.config = types.GenerateContentConfig(
+            temperature=settings.llm_temperature,
+            max_output_tokens=settings.llm_max_tokens,
         )
+
         logger.info(
             f"✅ Gemini client initialized "
             f"(model={settings.llm_model}, temp={settings.llm_temperature})"
@@ -135,7 +136,12 @@ class GeminiClient(BaseLLMClient):
         for attempt in range(max_retries):
             start = time.time()
             try:
-                response = self.model.generate_content(full_prompt)
+                # In the new SDK, we use client.models.generate_content
+                response = self.client.models.generate_content(
+                    model=self.model_name,
+                    contents=full_prompt,
+                    config=self.config
+                )
                 elapsed = time.time() - start
 
                 if response.text:

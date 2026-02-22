@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import { askQuestion, searchDocuments } from '../api/client'
+import { useState, useEffect } from 'react'
+import { askQuestion, searchDocuments, getDocuments } from '../api/client'
 
 function AskSearch() {
     const [query, setQuery] = useState('')
@@ -9,6 +9,24 @@ function AskSearch() {
     const [loading, setLoading] = useState(false)
     const [result, setResult] = useState(null)
     const [error, setError] = useState(null)
+    const [docs, setDocs] = useState([])
+
+    // Fetch documents on mount to populate filters
+    useEffect(() => {
+        getDocuments()
+            .then(data => setDocs(data))
+            .catch(err => console.error("Failed to load documents for filters:", err))
+    }, [])
+
+    // Derive unique companies dynamically
+    const availableCompanies = [...new Set(docs.map(d => d.company))].sort()
+
+    // Derive available years based on selected company
+    const availableYears = [...new Set(
+        docs
+            .filter(d => !company || d.company === company)
+            .map(d => d.year)
+    )].sort((a, b) => b.localeCompare(a)) // Sort descending
 
     async function handleSubmit(e) {
         e.preventDefault()
@@ -59,8 +77,8 @@ function AskSearch() {
                         type="button"
                         onClick={() => { setMode('ask'); setResult(null) }}
                         className={`px-4 py-2 rounded-xl text-sm font-medium transition-all duration-200 ${mode === 'ask'
-                                ? 'bg-brand-600/20 text-brand-300 border border-brand-500/30'
-                                : 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent'
+                            ? 'bg-brand-600/20 text-brand-300 border border-brand-500/30'
+                            : 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent'
                             }`}
                     >
                         🤖 Ask AI
@@ -69,8 +87,8 @@ function AskSearch() {
                         type="button"
                         onClick={() => { setMode('search'); setResult(null) }}
                         className={`px-4 py-2 rounded-xl text-sm font-medium transition-all duration-200 ${mode === 'search'
-                                ? 'bg-brand-600/20 text-brand-300 border border-brand-500/30'
-                                : 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent'
+                            ? 'bg-brand-600/20 text-brand-300 border border-brand-500/30'
+                            : 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent'
                             }`}
                     >
                         🔍 Search
@@ -108,20 +126,16 @@ function AskSearch() {
                 <div className="flex gap-3 flex-wrap">
                     <select
                         value={company}
-                        onChange={(e) => setCompany(e.target.value)}
+                        onChange={(e) => {
+                            setCompany(e.target.value)
+                            setYear('') // Reset year if the new company doesn't have it
+                        }}
                         className="filter-select"
                     >
                         <option value="">All Companies</option>
-                        <option value="nvidia">NVIDIA</option>
-                        <option value="tesla">Tesla</option>
-                        <option value="apple">Apple</option>
-                        <option value="microsoft">Microsoft</option>
-                        <option value="jpmorgan">JPMorgan</option>
-                        <option value="goldmansachs">Goldman Sachs</option>
-                        <option value="reliance">Reliance</option>
-                        <option value="tcs">TCS</option>
-                        <option value="infosys">Infosys</option>
-                        <option value="hdfc">HDFC</option>
+                        {availableCompanies.map(c => (
+                            <option key={c} value={c} className="capitalize">{c}</option>
+                        ))}
                     </select>
                     <select
                         value={year}
@@ -129,9 +143,9 @@ function AskSearch() {
                         className="filter-select"
                     >
                         <option value="">All Years</option>
-                        <option value="2024">2024</option>
-                        <option value="2023">2023</option>
-                        <option value="2022">2022</option>
+                        {availableYears.map(y => (
+                            <option key={y} value={y}>{y}</option>
+                        ))}
                     </select>
                 </div>
             </form>

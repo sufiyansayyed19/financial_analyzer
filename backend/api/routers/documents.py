@@ -87,34 +87,24 @@ async def upload_pdf(file: UploadFile = File(...)):
         # Run the full ingestion pipeline
         from backend.pipelines.pdf_extractor import extract_pdf
         from backend.pipelines.text_cleaner import clean_text
-        from backend.pipelines.chunking_engine import chunk_text
+        from backend.pipelines.chunker import chunk_text
         from backend.engines.embedder import embed_batch
         import numpy as np
 
-        # Step 1: Extract text
-        raw_text = extract_pdf(str(tmp_path))
+        # Step 1: Extract text (returns ExtractedDocument with .full_text)
+        extracted = extract_pdf(tmp_path)
+        raw_text = extracted.full_text if hasattr(extracted, 'full_text') else str(extracted)
         if not raw_text or len(raw_text.strip()) < 50:
             raise HTTPException(
                 status_code=422,
                 detail="Could not extract meaningful text from this PDF"
             )
 
-        # Step 2: Clean text
-        cleaned_text = clean_text(raw_text)
+        # Step 2: Clean text (returns tuple: cleaned_text, stats)
+        cleaned_result = clean_text(raw_text)
+        cleaned_text = cleaned_result[0] if isinstance(cleaned_result, tuple) else cleaned_result
 
-        # Step 3: Chunk text
-        chunks = chunk_text(cleaned_text)
-        if not chunks:
-            raise HTTPException(
-                status_code=422,
-                detail="No chunks could be created from this PDF"
-            )
-
-        # Step 4: Generate embeddings
-        chunk_texts = [c["text"] for c in chunks]
-        embeddings = embed_batch(chunk_texts, show_progress=False)
-
-        # Step 5: Parse metadata from filename
+        # Step 3: Parse metadata from filename (needed for chunking)
         # Expected: company_year_type.pdf (e.g., nvidia_2024_annual.pdf)
         name_parts = file.filename.replace(".pdf", "").split("_")
         company = name_parts[0].lower() if len(name_parts) > 0 else "unknown"
@@ -124,6 +114,19 @@ async def upload_pdf(file: UploadFile = File(...)):
                 year = part
                 break
         region = "unknown"
+
+        # Step 4: Chunk text (returns ChunkedDocument with .chunks list)
+        chunked_doc = chunk_text(cleaned_text, company=company, year=year)
+        chunks = chunked_doc.chunks
+        if not chunks:
+            raise HTTPException(
+                status_code=422,
+                detail="No chunks could be created from this PDF"
+            )
+
+        # Step 5: Generate embeddings
+        chunk_texts = [c.text for c in chunks]
+        embeddings = embed_batch(chunk_texts, show_progress=False)
 
         # Step 6: Store in database
         init_db()
@@ -144,13 +147,13 @@ async def upload_pdf(file: UploadFile = File(...)):
             for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
                 chunk_obj = Chunk(
                     document_id=doc.id,
-                    chunk_index=chunk.get("chunk_index", i),
-                    text=chunk["text"],
+                    chunk_index=chunk.chunk_index,
+                    text=chunk.text,
                     embedding=embedding.astype(np.float32).tobytes(),
                     company=company,
                     year=year,
                     region=region,
-                    char_count=len(chunk["text"]),
+                    char_count=len(chunk.text),
                 )
                 chunk_objects.append(chunk_obj)
 
