@@ -1,0 +1,39 @@
+# ── Environment & Secrets ──
+.env
+.env.local
+.env.production
+
+# ── Python ──
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ── Database ──
+*.db
+*.sqlite3
+
+# ── Node.js ──
+node_modules/
+frontend/node_modules/
+
+# ── IDE ──
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── OS ──
+.DS_Store
+Thumbs.db
+
+# ── Processed data ──
+processed/
+data/
+
+# ── Test outputs ──
+_search_test.txt
+table_test_output.txt

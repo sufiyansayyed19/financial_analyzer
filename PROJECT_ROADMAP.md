@@ -82,11 +82,11 @@ Financial PDFs → Extract & Clean → Chunk → Embed → Vector Search → RAG
 - [ ] Job queue for ingestion
 - [ ] Worker status tracking
 
-### Phase 7: Frontend Dashboard
-- [ ] React setup
-- [ ] Document upload UI
-- [ ] Search & Q&A interface
-- [ ] Analytics charts
+### Phase 7: Frontend Dashboard ✅
+- [x] Vite + React + Tailwind v3
+- [x] Dashboard (stats, document list)
+- [x] Ask & Search (RAG Q&A, semantic search, filters)
+- [x] Upload (drag-and-drop PDF processing)
 
 ### Phase 8: Final Summary
 - [ ] Complete learning journal
