@@ -1,43 +1,142 @@
 """
-🧠 FinRAG — Application Entry Point
-=====================================
+🧠 FinRAG — FastAPI Application
+==================================
 
-This is where FastAPI will live (Phase 5).
-For now, it serves as a quick validation that our project structure works.
+WHAT THIS DOES:
+---------------
+The main entry point for the FinRAG API server.
 
-Run with:
-    cd "d:\\New folder\\nlp_project"
-    venv\\Scripts\\python -m backend.main
+FASTAPI CONCEPTS:
+──────────────────
+- APP: The FastAPI application instance
+- ROUTERS: Groups of related endpoints (like blueprints in Flask)
+- CORS: Allows the React frontend to talk to this API
+- STARTUP: Code that runs when the server starts
+
+RUN THE SERVER:
+  cd "d:\\New folder\\nlp_project"
+  venv\\Scripts\\uvicorn backend.main:app --reload --port 8000
+
+EXPLORE THE API:
+  http://localhost:8000/docs     ← Swagger interactive docs
+  http://localhost:8000/redoc    ← Alternative docs
+
+WHAT YOU'LL LEARN:
+- FastAPI application setup
+- CORS middleware (why and how)
+- Router composition
+- Startup events for initialization
 """
 
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+
+from backend.api.routers import documents, search
+from backend.api.schemas import HealthResponse
 from backend.core.config import settings
 from backend.core.logging import get_logger
+from backend.db.database import get_session, init_db
+from backend.db.models import Chunk, Document
 
 logger = get_logger(__name__)
 
 
-def main() -> None:
-    """Quick health check — validates project structure is working."""
-    logger.info(f"🚀 {settings.app_name} initialized!")
-    logger.info(f"📂 Data directory:      {settings.data_dir}")
-    logger.info(f"📂 Processed directory:  {settings.processed_dir}")
-    logger.info(f"📄 Debug mode:           {settings.debug}")
-    logger.info(f"🔧 Chunk size:           {settings.chunk_size} chars")
-    logger.info(f"🔧 Chunk overlap:        {settings.chunk_overlap} chars")
+# ──────────────────────────────────────────────
+# 🚀 CREATE APP
+# ──────────────────────────────────────────────
 
-    # Validate directories exist
-    if settings.data_dir.exists():
-        pdf_count = len(list(settings.data_dir.rglob("*.pdf")))
-        logger.info(f"✅ Found {pdf_count} PDFs in data directory")
-    else:
-        logger.warning(f"⚠️  Data directory not found: {settings.data_dir}")
-
-    if not settings.processed_dir.exists():
-        settings.processed_dir.mkdir(parents=True, exist_ok=True)
-        logger.info(f"📁 Created processed directory: {settings.processed_dir}")
-
-    logger.info("✅ Project structure validated successfully!")
+app = FastAPI(
+    title="FinRAG API",
+    description=(
+        "Financial Retrieval-Augmented Generation API. "
+        "Upload financial PDFs, search by meaning, and get "
+        "AI-generated answers with source citations."
+    ),
+    version="1.0.0",
+)
 
 
+# ──────────────────────────────────────────────
+# 🔓 CORS MIDDLEWARE
+# ──────────────────────────────────────────────
+# CORS (Cross-Origin Resource Sharing) controls
+# which websites can call this API.
+#
+# Without CORS: React app at localhost:3000
+# CANNOT call API at localhost:8000 (browser blocks it).
+#
+# With CORS: We explicitly allow localhost:3000.
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:3000",    # React dev server
+        "http://localhost:5173",    # Vite dev server
+        "http://127.0.0.1:3000",
+        "http://127.0.0.1:5173",
+    ],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+# ──────────────────────────────────────────────
+# 📦 REGISTER ROUTERS
+# ──────────────────────────────────────────────
+# Routers group related endpoints.
+# This keeps the main file clean.
+
+app.include_router(documents.router)
+app.include_router(search.router)
+
+
+# ──────────────────────────────────────────────
+# ⚡ STARTUP EVENT
+# ──────────────────────────────────────────────
+
+@app.on_event("startup")
+async def startup():
+    """Initialize database on server start."""
+    init_db()
+    logger.info(f"🚀 {settings.app_name} API started!")
+
+
+# ──────────────────────────────────────────────
+# ❤️ HEALTH CHECK
+# ──────────────────────────────────────────────
+
+@app.get(
+    "/api/health",
+    response_model=HealthResponse,
+    summary="Health check",
+    tags=["system"],
+)
+async def health():
+    """Check if the API is running and return database stats."""
+    session = get_session()
+    try:
+        doc_count = session.query(Document).count()
+        chunk_count = session.query(Chunk).count()
+    finally:
+        session.close()
+
+    return HealthResponse(
+        status="healthy",
+        app_name=settings.app_name,
+        total_documents=doc_count,
+        total_chunks=chunk_count,
+    )
+
+
+# ──────────────────────────────────────────────
+# 🧪 CLI ENTRY POINT
+# ──────────────────────────────────────────────
 if __name__ == "__main__":
-    main()
+    import uvicorn
+    uvicorn.run(
+        "backend.main:app",
+        host="0.0.0.0",
+        port=8000,
+        reload=True,
+    )

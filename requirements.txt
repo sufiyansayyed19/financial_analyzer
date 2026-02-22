@@ -29,3 +29,19 @@ sqlalchemy>=2.0.0        # ORM — same code works on SQLite & PostgreSQL
 
 # --- Vector Math ---
 numpy>=1.26.0            # Cosine similarity for vector search
+
+# ===========================
+# Phase 3: RAG Pipeline
+# ===========================
+
+# --- LLM ---
+google-generativeai>=0.8.0   # Google Gemini API client
+
+# ===========================
+# Phase 5: API Layer
+# ===========================
+
+# --- FastAPI ---
+fastapi>=0.115.0             # Web framework for REST API
+uvicorn>=0.34.0              # ASGI server to run FastAPI
+python-multipart>=0.0.9      # File upload handling

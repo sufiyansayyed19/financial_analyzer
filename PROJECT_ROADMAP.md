@@ -52,29 +52,30 @@ Financial PDFs → Extract & Clean → Chunk → Embed → Vector Search → RAG
 - [x] Text quality audit (13 checks, 19/21 fully clean)
 - [x] Learning journal for Phase 1
 
-### Phase 2: Embeddings & Vector Search 🔄
-- [ ] Embedding engine (`all-MiniLM-L6-v2`, 384 dims, CPU)
-- [ ] Database layer (SQLAlchemy + SQLite, swappable to PostgreSQL)
-- [ ] Database models (documents, chunks, tables)
-- [ ] Vector storage pipeline (embed + store 24,948 chunks)
-- [ ] Semantic search engine (cosine similarity, filtered search)
-- [ ] Learning journal for Phase 2
+### Phase 2: Embeddings & Vector Search ✅
+- [x] Embedding engine (`all-MiniLM-L6-v2`, 384 dims, CPU)
+- [x] Database layer (SQLAlchemy + SQLite, swappable to PostgreSQL)
+- [x] Database models (documents, chunks, tables)
+- [x] Vector storage pipeline (23,343 chunks embedded)
+- [x] Semantic search engine (cosine similarity, filtered search)
+- [x] Learning journal for Phase 2
 
-### Phase 3: RAG Pipeline
-- [ ] LLM abstraction (Local + API clients)
-- [ ] Retrieval pipeline (hybrid search)
-- [ ] Prompt builder + context assembly
-- [ ] Q&A endpoint with citations
+### Phase 3: RAG Pipeline ✅
+- [x] LLM abstraction (Gemini client + Strategy pattern)
+- [x] Prompt builder (financial system prompt + citation format)
+- [x] RAG pipeline orchestrator (search → prompt → LLM → cited answer)
+- [x] Testing (NVIDIA revenue, JPMorgan risks — cited answers)
 
 ### Phase 4: Analytics Engine
 - [ ] Sentiment analysis
 - [ ] Risk classification
 - [ ] Theme extraction
 
-### Phase 5: API Layer & Auth
-- [ ] FastAPI routers
-- [ ] JWT authentication
-- [ ] User-scoped operations
+### Phase 5: API Layer ✅
+- [x] FastAPI app (CORS, routers, Swagger docs)
+- [x] Pydantic schemas (auto-validation)
+- [x] Document endpoints (upload, list, delete)
+- [x] Search endpoints (semantic search, RAG Q&A)
 
 ### Phase 6: Caching & Async Workers
 - [ ] Redis caching

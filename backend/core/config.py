@@ -77,6 +77,21 @@ class Settings(BaseSettings):
     #   DATABASE_URL=postgresql://user:pass@localhost:5432/finrag
     database_url: str = "sqlite:///finrag.db"
 
+    # ── LLM (Phase 3) ──
+    # Which LLM provider to use
+    llm_provider: str = "gemini"
+    # Get your free API key at: https://aistudio.google.com/apikey
+    gemini_api_key: str = ""
+    # Which Gemini model to use
+    llm_model: str = "gemini-2.5-flash"
+    # Temperature: 0.0 = deterministic (best for factual Q&A)
+    #              1.0 = creative (not what we want for financial data)
+    llm_temperature: float = 0.1
+    # Max tokens in the response
+    llm_max_tokens: int = 1024
+    # How many chunks to retrieve for context
+    rag_top_k: int = 5
+
     model_config = {
         # This tells Pydantic to also read from a .env file
         "env_file": str(PROJECT_ROOT / ".env"),
