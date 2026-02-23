@@ -53,7 +53,7 @@ function Upload() {
     return (
         <div className="space-y-6">
             {/* Header */}
-            <div>
+            <div className="animate-fade-in-up">
                 <h1 className="text-3xl font-bold gradient-text">Upload Document</h1>
                 <p className="text-gray-400 mt-1">
                     Upload a financial PDF to add it to your knowledge base
@@ -67,7 +67,7 @@ function Upload() {
                 onDrop={handleDrop}
                 onClick={() => !uploading && fileRef.current?.click()}
                 className={`
-          glass-card p-12 text-center cursor-pointer transition-all duration-300
+          glass-card p-12 text-center cursor-pointer transition-all duration-300 animate-fade-in-up stagger-1
           ${dragging
                         ? 'border-brand-500 bg-brand-500/10 scale-[1.02]'
                         : 'hover:border-white/20 hover:bg-white/[0.03]'
@@ -126,7 +126,7 @@ function Upload() {
             </div>
 
             {/* Naming Guide */}
-            <div className="glass-card p-5">
+            <div className="glass-card p-5 animate-fade-in-up stagger-2">
                 <h3 className="text-sm font-medium text-gray-400 mb-3">
                     📝 File Naming Convention
                 </h3>
@@ -144,7 +144,7 @@ function Upload() {
 
             {/* Success */}
             {result && (
-                <div className="glass-card p-6 border-green-500/30">
+                <div className="glass-card p-6 border-green-500/30 animate-scale-in">
                     <div className="flex items-center gap-3 mb-3">
                         <span className="text-2xl">✅</span>
                         <h3 className="text-lg font-semibold text-green-400">Upload Complete!</h3>
@@ -172,7 +172,7 @@ function Upload() {
 
             {/* Error */}
             {error && (
-                <div className="glass-card p-5 border-red-500/30">
+                <div className="glass-card p-5 border-red-500/30 animate-scale-in">
                     <p className="text-red-400">⚠️ {error}</p>
                 </div>
             )}

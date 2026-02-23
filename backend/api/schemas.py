@@ -46,6 +46,22 @@ class AskRequest(BaseModel):
     top_k: int = Field(5, description="Number of sources to retrieve", ge=1, le=20)
 
 
+class ChatMessage(BaseModel):
+    """A single message in a conversation."""
+    role: str = Field(..., description="'user' or 'assistant'")
+    content: str = Field(..., description="Message text")
+
+
+class ChatRequest(BaseModel):
+    """Request body for the /api/ask/stream endpoint (streaming + chat history)."""
+    question: str = Field(..., description="Current question", min_length=3)
+    history: list[ChatMessage] = Field(default_factory=list, description="Previous messages")
+    company: str | None = Field(None, description="Filter by company")
+    year: str | None = Field(None, description="Filter by year")
+    region: str | None = Field(None, description="Filter by region")
+    top_k: int = Field(5, description="Number of sources to retrieve", ge=1, le=20)
+
+
 class SearchRequest(BaseModel):
     """Request body for the /api/search endpoint."""
     query: str = Field(..., description="Search query", min_length=2)

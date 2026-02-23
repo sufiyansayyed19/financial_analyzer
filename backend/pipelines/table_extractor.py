@@ -195,65 +195,85 @@ def extract_tables_from_pdf(pdf_path: Path, company: str = "", year: str = "") -
 
         table_count = 0
         pages_skipped = 0
+        page_num = 0
+        total_pages = len(pdf)
 
-        for page_num in range(len(pdf)):
-            page = pdf[page_num]
+        while page_num < total_pages:
+            try:
+                page = pdf[page_num]
 
-            # ── FAST PRE-CHECK: skip pages without table-like drawings ──
-            if not _page_has_table_lines(page):
-                pages_skipped += 1
-                continue
-
-            # find_tables() — only runs on pages that likely have tables
-            tables = page.find_tables()
-
-            if not tables.tables:
-                continue
-
-            for table in tables.tables:
-                # Extract the table data as a list of lists
-                table_data = table.extract()
-
-                # ── QUALITY FILTER ──
-                if not table_data or len(table_data) < 2:
-                    continue  # Need header + at least 1 data row
-
-                # Clean cell values: replace None, strip whitespace, fix newlines
-                cleaned_data = []
-                for row in table_data:
-                    cleaned_row = []
-                    for cell in row:
-                        if cell is None:
-                            cleaned_row.append("")
-                        else:
-                            # Replace internal newlines with space, strip whitespace
-                            cleaned_row.append(str(cell).replace("\n", " ").strip())
-                    cleaned_data.append(cleaned_row)
-
-                headers = cleaned_data[0]
-                rows = cleaned_data[1:]
-
-                # Skip if all headers are empty
-                if not any(h for h in headers if h.strip()):
+                # ── FAST PRE-CHECK: skip pages without table-like drawings ──
+                if not _page_has_table_lines(page):
+                    pages_skipped += 1
+                    page_num += 1
                     continue
 
-                # Skip single-column "tables" (not real tables)
-                non_empty_cols = sum(1 for h in headers if h.strip())
-                if non_empty_cols < 2:
-                    continue
+                # find_tables() — only runs on pages that likely have tables
+                tables = page.find_tables()
 
-                # ── CREATE TABLE OBJECT ──
-                extracted = ExtractedTable(
-                    table_index=table_count,
-                    page_number=page_num + 1,  # 1-indexed
-                    headers=headers,
-                    rows=rows,
-                )
+                if tables and tables.tables:
+                    for table in tables.tables:
+                        # Extract the table data as a list of lists
+                        table_data = table.extract()
 
-                result.tables.append(extracted)
-                table_count += 1
+                        # ── QUALITY FILTER ──
+                        if not table_data or len(table_data) < 2:
+                            continue  # Need header + at least 1 data row
 
-        pdf.close()
+                        # Clean cell values: replace None, strip whitespace, fix newlines
+                        cleaned_data = []
+                        for row in table_data:
+                            cleaned_row = []
+                            for cell in row:
+                                if cell is None:
+                                    cleaned_row.append("")
+                                else:
+                                    # Replace internal newlines with space, strip whitespace
+                                    cleaned_row.append(str(cell).replace("\n", " ").strip())
+                            cleaned_data.append(cleaned_row)
+
+                        headers = cleaned_data[0]
+                        rows = cleaned_data[1:]
+
+                        # Skip if all headers are empty
+                        if not any(h for h in headers if h.strip()):
+                            continue
+
+                        # Skip single-column "tables" (not real tables)
+                        non_empty_cols = sum(1 for h in headers if h.strip())
+                        if non_empty_cols < 2:
+                            continue
+
+                        # ── CREATE TABLE OBJECT ──
+                        extracted = ExtractedTable(
+                            table_index=table_count,
+                            page_number=page_num + 1,  # 1-indexed
+                            headers=headers,
+                            rows=rows,
+                        )
+
+                        result.tables.append(extracted)
+                        table_count += 1
+
+                page_num += 1
+
+            except Exception as e:
+                logger.warning(f"   ⚠️ Error extracting tables on page {page_num+1}: {e}")
+                
+                # If PyMuPDF suffers a severe internal crash, it closes the document object.
+                # We need to reopen it to continue processing the rest of the pages.
+                if "document closed" in str(e).lower() or "closed" in str(e).lower():
+                    logger.warning(f"   🔄 Reopening PDF to recover from crash...")
+                    try:
+                        pdf = fitz.open(str(pdf_path))
+                    except Exception as reopen_err:
+                        logger.error(f"   ❌ Could not reopen PDF, aborting table extraction: {reopen_err}")
+                        break
+                
+                page_num += 1
+
+        if not pdf.is_closed:
+            pdf.close()
         result.compute_stats()
 
         logger.info(

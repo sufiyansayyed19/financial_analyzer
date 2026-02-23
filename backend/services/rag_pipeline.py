@@ -43,6 +43,7 @@ from dataclasses import dataclass, field
 
 from backend.core.config import settings
 from backend.core.logging import get_logger
+from backend.engines.cache import rag_cache
 from backend.engines.search import SearchResult, search
 from backend.llm.llm_client import get_llm_client
 from backend.llm.prompt_builder import build_rag_prompt
@@ -118,6 +119,37 @@ def ask(
     if top_k is None:
         top_k = settings.rag_top_k
 
+    # ── Auto-detect company from query ──
+    # If the user didn't set a filter but mentions a company name in the query,
+    # auto-filter to that company. This prevents diversified retrieval from
+    # diluting results when the user clearly wants one company.
+    # Example: "revenue of tcs" → auto-sets company="tcs"
+    if not company:
+        from backend.db.database import get_session
+        from backend.db.models import Document
+        session = get_session()
+        try:
+            known_companies = [
+                r[0] for r in session.query(Document.company).distinct().all()
+            ]
+        finally:
+            session.close()
+
+        query_lower = question.lower()
+        for c in known_companies:
+            # Check if company name appears as a word boundary in the query
+            # e.g., "tcs" in "revenue of tcs" but not "cats" matching "at"
+            if f" {c}" in f" {query_lower} " or f" {c}'s" in f" {query_lower} ":
+                company = c
+                logger.info(f"🎯 Auto-detected company: '{c}' from query")
+                break
+
+    # For cross-company comparison queries (no company filter),
+    # boost top_k so the diversified retrieval can pull enough chunks
+    # from multiple companies. 5 chunks split across 10+ companies = useless.
+    if not company and top_k < 10:
+        top_k = 10
+
     total_start = time.time()
     filter_desc = ""
     if company:
@@ -129,8 +161,22 @@ def ask(
     if filter_desc:
         logger.info(f"   Filters:{filter_desc}")
 
+    # ── Step 0: CHECK CACHE ──
+    # If we've answered this exact question before, return instantly
+    cached = rag_cache.get(question, company=company, year=year, region=region)
+    if cached:
+        return RAGResponse(
+            answer=cached.answer,
+            query=question,
+            sources=cached.sources,
+            retrieval_time=0.0,
+            generation_time=0.0,
+            total_time=0.001,  # ~instant
+            chunks_searched=cached.chunks_searched,
+        )
+
     # ── Step 1: RETRIEVE ──
-    # Search for relevant chunks using semantic search
+    # Search for relevant chunks using hybrid search
     retrieve_start = time.time()
     search_results: list[SearchResult] = search(
         query=question,
@@ -185,6 +231,20 @@ def ask(
     logger.info(
         f"✅ Answer generated in {total_time:.1f}s "
         f"(retrieve={retrieval_time:.2f}s, generate={generation_time:.2f}s)"
+    )
+
+    # ── Step 5: CACHE THE ANSWER ──
+    rag_cache.put(
+        query=question,
+        answer=answer,
+        sources=sources,
+        retrieval_time=retrieval_time,
+        generation_time=generation_time,
+        total_time=total_time,
+        chunks_searched=len(search_results),
+        company=company,
+        year=year,
+        region=region,
     )
 
     return RAGResponse(

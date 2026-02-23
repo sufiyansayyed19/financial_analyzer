@@ -88,7 +88,7 @@ class Settings(BaseSettings):
     #              1.0 = creative (not what we want for financial data)
     llm_temperature: float = 0.1
     # Max tokens in the response
-    llm_max_tokens: int = 1024
+    llm_max_tokens: int = 2048
     # How many chunks to retrieve for context
     rag_top_k: int = 5
 

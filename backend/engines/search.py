@@ -53,6 +53,7 @@ WHAT YOU'LL LEARN:
 from dataclasses import dataclass
 
 import numpy as np
+from rank_bm25 import BM25Okapi
 
 from backend.core.logging import get_logger
 from backend.db.database import get_session
@@ -131,42 +132,112 @@ def search(
             logger.warning("No chunks found matching filters")
             return []
 
-        # ── Step 3: Deserialize embeddings ──
+        # ── Step 3: Compute Dense (Vector) Scores ──
         # Binary blobs → numpy arrays
         embeddings = np.array([
             np.frombuffer(chunk.embedding, dtype=np.float32)
             for chunk in chunks
         ])
+        dense_scores = cosine_similarity(query_vec, embeddings)
 
-        # ── Step 4: Compute similarities ──
-        scores = cosine_similarity(query_vec, embeddings)
+        # ── Step 4: Compute Sparse (BM25 Keyword) Scores ──
+        # Tokenize documents (simple split by whitespace/punctuation is okay for BM25)
+        # In a real production system, you'd use a proper tokenizer like SpaCy or NLTK
+        tokenized_corpus = [chunk.text.lower().split() for chunk in chunks]
+        bm25 = BM25Okapi(tokenized_corpus)
+        tokenized_query = query.lower().split()
+        sparse_scores = bm25.get_scores(tokenized_query)
 
-        # ── Step 5: Rank and filter ──
-        # Get indices sorted by score (highest first)
-        ranked_indices = np.argsort(scores)[::-1]
+        # ── Step 5: Normalize and Combine Scores (Hybrid Search) ──
+        # Dense scores (cosine similarity) are typically between -1 and 1
+        # Sparse scores (BM25) are unbounded (can be 0 to 50+)
+        # We need to scale both to [0, 1] before combining so one doesn't overpower the other.
 
-        results = []
-        for idx in ranked_indices[:top_k]:
-            score = float(scores[idx])
-            if score < score_threshold:
-                break
+        def min_max_scale(scores: np.ndarray) -> np.ndarray:
+            min_val, max_val = np.min(scores), np.max(scores)
+            if max_val == min_val:
+                return np.zeros_like(scores)
+            return (scores - min_val) / (max_val - min_val)
 
-            chunk = chunks[idx]
-            results.append(SearchResult(
-                text=chunk.text,
-                score=score,
-                company=chunk.company,
-                year=chunk.year,
-                region=chunk.region,
-                chunk_index=chunk.chunk_index,
-                document_id=chunk.document_id,
-            ))
+        norm_dense = min_max_scale(dense_scores)
+        norm_sparse = min_max_scale(np.array(sparse_scores))
+
+        # Weighting: 70% Semantic Meaning, 30% Exact Keyword Match
+        alpha = 0.70  
+        combined_scores = (alpha * norm_dense) + ((1 - alpha) * norm_sparse)
+
+        # ── Step 6: Rank with DIVERSITY (cross-company fairness) ──
+        # Problem: Without a company filter, one company can dominate all top_k slots.
+        # Example: "Compare revenue of all companies" → all 5 results from Pfizer.
+        # Solution: Round-robin across companies so each company gets at least 1 slot.
+
+        ranked_indices = np.argsort(combined_scores)[::-1]
+
+        if not company:
+            # DIVERSIFIED RETRIEVAL: Ensure every company is represented
+            # 1. Group top candidates by company
+            # 2. Round-robin: take the best chunk from each company, then repeat
+            from collections import defaultdict
+            company_buckets = defaultdict(list)
+            for idx in ranked_indices:
+                score = float(combined_scores[idx])
+                if score < score_threshold:
+                    continue
+                c = chunks[idx]
+                company_buckets[c.company].append((idx, score))
+
+            # Round-robin selection across all companies
+            diverse_picks = []
+            round_num = 0
+            while len(diverse_picks) < top_k:
+                added_this_round = False
+                for comp in sorted(company_buckets.keys()):
+                    bucket = company_buckets[comp]
+                    if round_num < len(bucket):
+                        diverse_picks.append(bucket[round_num])
+                        added_this_round = True
+                    if len(diverse_picks) >= top_k:
+                        break
+                if not added_this_round:
+                    break
+                round_num += 1
+
+            results = []
+            for idx, score in diverse_picks:
+                chunk = chunks[idx]
+                results.append(SearchResult(
+                    text=chunk.text,
+                    score=score,
+                    company=chunk.company,
+                    year=chunk.year,
+                    region=chunk.region,
+                    chunk_index=chunk.chunk_index,
+                    document_id=chunk.document_id,
+                ))
+        else:
+            # Single-company mode: just take the top_k as usual
+            results = []
+            for idx in ranked_indices[:top_k]:
+                score = float(combined_scores[idx])
+                if score < score_threshold:
+                    break
+
+                chunk = chunks[idx]
+                results.append(SearchResult(
+                    text=chunk.text,
+                    score=score,
+                    company=chunk.company,
+                    year=chunk.year,
+                    region=chunk.region,
+                    chunk_index=chunk.chunk_index,
+                    document_id=chunk.document_id,
+                ))
 
         logger.info(
-            f"🔍 Search: '{query[:50]}...' → {len(results)} results "
+            f"🔍 Hybrid Search: '{query[:50]}...' → {len(results)} results "
             f"(from {len(chunks):,} chunks, top score: {results[0].score:.3f})"
             if results else
-            f"🔍 Search: '{query[:50]}...' → 0 results"
+            f"🔍 Hybrid Search: '{query[:50]}...' → 0 results"
         )
 
         return results

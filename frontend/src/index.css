@@ -49,11 +49,346 @@
 
   .filter-select option {
     @apply bg-slate-900 text-gray-100;
-    /* Fixes white text on white background in dropdowns */
   }
 }
 
-/* Custom scrollbar */
+/* ─────────────────────────────────────────
+   📝 MARKDOWN PROSE (for LLM answers)
+   ───────────────────────────────────────── */
+
+.markdown-prose {
+  line-height: 1.75;
+  color: #d1d5db;
+  /* gray-300 */
+}
+
+.markdown-prose h1,
+.markdown-prose h2,
+.markdown-prose h3 {
+  color: #e5e7eb;
+  /* gray-200 */
+  font-weight: 600;
+  margin-top: 1.25em;
+  margin-bottom: 0.5em;
+}
+
+.markdown-prose h1 {
+  font-size: 1.25rem;
+}
+
+.markdown-prose h2 {
+  font-size: 1.125rem;
+}
+
+.markdown-prose h3 {
+  font-size: 1rem;
+}
+
+.markdown-prose p {
+  margin-bottom: 0.75em;
+}
+
+.markdown-prose strong {
+  color: #f3f4f6;
+  /* gray-100 */
+  font-weight: 600;
+}
+
+.markdown-prose ul,
+.markdown-prose ol {
+  padding-left: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+.markdown-prose ul {
+  list-style-type: disc;
+}
+
+.markdown-prose ol {
+  list-style-type: decimal;
+}
+
+.markdown-prose li {
+  margin-bottom: 0.25em;
+}
+
+.markdown-prose li::marker {
+  color: #818cf8;
+  /* brand-400 */
+}
+
+.markdown-prose code {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.15em 0.4em;
+  border-radius: 0.25rem;
+  font-size: 0.875em;
+  color: #a5b4fc;
+  /* indigo-300 */
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.markdown-prose pre {
+  background: rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 0.75rem;
+  padding: 1em;
+  overflow-x: auto;
+  margin-bottom: 0.75em;
+}
+
+.markdown-prose pre code {
+  background: transparent;
+  padding: 0;
+}
+
+.markdown-prose blockquote {
+  border-left: 3px solid #6366f1;
+  padding-left: 1em;
+  margin-left: 0;
+  margin-bottom: 0.75em;
+  color: #9ca3af;
+  /* gray-400 */
+  font-style: italic;
+}
+
+.markdown-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 0.75em;
+  font-size: 0.875rem;
+}
+
+.markdown-prose th {
+  text-align: left;
+  padding: 0.5em 0.75em;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1);
+  color: #e5e7eb;
+  font-weight: 600;
+}
+
+.markdown-prose td {
+  padding: 0.5em 0.75em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.markdown-prose tr:hover td {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.markdown-prose a {
+  color: #818cf8;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.markdown-prose hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 1em 0;
+}
+
+/* ─────────────────────────────────────────
+   🎬 ENTRANCE ANIMATIONS
+   ───────────────────────────────────────── */
+
+/* Fade in and slide up — the core entrance animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.5s ease-out forwards;
+  opacity: 0;
+}
+
+/* Staggered delays for lists */
+.stagger-1 {
+  animation-delay: 0.05s;
+}
+
+.stagger-2 {
+  animation-delay: 0.1s;
+}
+
+.stagger-3 {
+  animation-delay: 0.15s;
+}
+
+.stagger-4 {
+  animation-delay: 0.2s;
+}
+
+.stagger-5 {
+  animation-delay: 0.25s;
+}
+
+.stagger-6 {
+  animation-delay: 0.3s;
+}
+
+.stagger-7 {
+  animation-delay: 0.35s;
+}
+
+.stagger-8 {
+  animation-delay: 0.4s;
+}
+
+.stagger-9 {
+  animation-delay: 0.45s;
+}
+
+.stagger-10 {
+  animation-delay: 0.5s;
+}
+
+/* Fade in only (no slide) */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+/* Scale in — for cards and modals */
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.3s ease-out forwards;
+  opacity: 0;
+}
+
+/* ─────────────────────────────────────────
+   💀 SKELETON LOADING ANIMATION
+   ───────────────────────────────────────── */
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg,
+      rgba(255, 255, 255, 0.03) 25%,
+      rgba(255, 255, 255, 0.08) 50%,
+      rgba(255, 255, 255, 0.03) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.8s ease-in-out infinite;
+  border-radius: 0.5rem;
+}
+
+/* ─────────────────────────────────────────
+   ⚡ CACHE HIT BADGE GLOW
+   ───────────────────────────────────────── */
+
+@keyframes cacheGlow {
+
+  0%,
+  100% {
+    box-shadow: 0 0 8px rgba(34, 197, 94, 0.3);
+  }
+
+  50% {
+    box-shadow: 0 0 20px rgba(34, 197, 94, 0.6);
+  }
+}
+
+.cache-hit-badge {
+  animation: cacheGlow 2s ease-in-out infinite;
+}
+
+/* ─────────────────────────────────────────
+   ✨ TYPEWRITER CURSOR BLINK
+   ───────────────────────────────────────── */
+
+@keyframes cursorBlink {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0;
+  }
+}
+
+.typing-cursor::after {
+  content: "▊";
+  color: #818cf8;
+  animation: cursorBlink 0.8s step-end infinite;
+  margin-left: 2px;
+}
+
+/* ─────────────────────────────────────────
+   🌊 PROGRESS BAR
+   ───────────────────────────────────────── */
+
+@keyframes progressIndeterminate {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(400%);
+  }
+}
+
+.progress-bar-indeterminate {
+  position: relative;
+  overflow: hidden;
+  height: 3px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.progress-bar-indeterminate::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 25%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6366f1, #a855f7);
+  animation: progressIndeterminate 1.5s ease-in-out infinite;
+}
+
+/* ─────────────────────────────────────────
+   📜 CUSTOM SCROLLBAR
+   ───────────────────────────────────────── */
+
 ::-webkit-scrollbar {
   width: 6px;
 }

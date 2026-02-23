@@ -1,45 +1,72 @@
-# FinRAG: Mid-Project Recap
-*A step-by-step summary of the architecture and features built so far.*
+# FinRAG: End-to-End Project Architecture & Interview Guide
+*A comprehensive step-by-step summary of the architecture, tech stack, and features built for FinRAG.*
 
-We have successfully built a complete **Retrieval-Augmented Generation (RAG)** system from scratch, focusing on processing dense financial documents (like Annual Reports) and answering user questions with exact citations. 
-
-Here is exactly what we have built, layer by layer:
+This document serves as your "Interview Cheat Sheet." If an interviewer asks, *"Walk me through a complex AI project you built,"* this is your script.
 
 ---
 
-## 1. The Data Ingestion Layer (Phase 1)
-* **PDF Extraction:** We used `PyMuPDF` to crack open dense financial PDFs, extracting raw text while skipping empty pages or purely visual elements.
-* **Text Cleaning:** We built a robust text cleaner that removes weird characters (ligatures), standardizes whitespace, strips out tiny/irrelevant lines, and prepares the text for NLP tasks.
-* **Chunking Engine:** We implemented a "sliding window" chunking strategy. Because a 100-page report can't fit into an LLM's prompt, we cut the document into smaller pieces (chunks) of ~1000 characters with a 200-character overlap. This overlap ensures we don't accidentally cut a crucial sentence in half.
-
-## 2. The Vector & Database Layer (Phase 2)
-* **Embedding Model:** We used `SentenceTransformers` (specifically the `all-MiniLM-L6-v2` model) to convert our text chunks into numerical vectors (384 dimensions). This allows computers to understand the *meaning* of the text, not just the exact words.
-* **Database Storage:** We set up an `SQLite` database using `SQLAlchemy`. When a PDF is uploaded, we save its metadata (Company, Year) in one table, and all its individual text chunks (along with their binary vector embeddings) in another.
-* **Semantic Search:** We wrote a search engine that takes a user's question, converts it into a vector, and compares it against all chunk vectors in our database using **Cosine Similarity**. This finds the chunks most conceptually related to the question.
-
-## 3. The LLM & Generation Layer (Phase 3)
-* **Gemini Client:** We connected to Google's Gemini API (using the brand new `google-genai` SDK) to act as our reasoning engine.
-* **The RAG Prompt Builder:** We tell Gemini to act as an expert financial analyst. When a user asks a question, we retrieve the top 5 most relevant chunks from step 2 and inject them directly into the prompt.
-* **Strict Citations:** We instructed the LLM to *only* answer using the provided context and to append exact citations (e.g., `[Source 1]`) at the end of every claim, preventing hallucinations.
-
-## 4. The Backend API Layer (Phase 5)
-* **FastAPI Setup:** We wrapped all of our Python logic into a blazing-fast REST API server using `FastAPI` and `Uvicorn`.
-* **Endpoints:** We created endpoints to:
-    * `POST /api/upload`: Accept raw PDF files, process them through the ingestion engine, and save them to the database.
-    * `GET /api/documents`: List all processed documents.
-    * `DELETE /api/documents/{id}`: Remove a document and clear its chunks.
-    * `POST /api/search`: Run the semantic search engine and return raw source chunks.
-    * `POST /api/ask`: The main endpoint that triggers the full RAG pipeline and streams back the AI's formulated answer.
-
-## 5. The Frontend Dashboard Layer (Phase 7)
-* **React & Vite:** We spun up a modern Single Page Application (SPA) using React and Vite for a lightning-fast UI.
-* **Glassmorphism Design:** We styled the app using `Tailwind CSS`, enforcing a beautiful, dark-mode, glass-like aesthetic perfectly suited for modern AI products.
-* **Dynamic Ask & Search UI:** We built a user interface that lets you dynamically filter queries by the exact companies and years currently stored in your database (fetching this info live from the API!).
-* **Results Display:** The UI neatly separates the AI's conversational response from a grid of "Source Cards" that let users see exactly which document chunks informed the answer.
+## 🎯 The Elevator Pitch
+**"I built FinRAG, an end-to-end Retrieval-Augmented Generation (RAG) system for financial analysis. It allows users to upload dense, 100+ page financial PDFs (like 10-Ks or Annual Reports), processes them into a vector database, and provides a real-time, streaming chat interface. The system uses a Hybrid Search approach combining vector embeddings and BM25 to achieve high precision, and it grounds every AI answer with exact source citations to prevent hallucinations."**
 
 ---
 
-### Total Result So Far
-You can drop a massive 100-page Tesla Annual Report into the UI, wait a few seconds, and then ask *"What were Tesla's primary risk factors regarding lithium supply chains in 2024?"* 
+## 🛠️ Tech Stack
+* **Backend:** Python, FastAPI, Uvicorn
+* **Database & ORM:** SQLite, SQLAlchemy
+* **AI / ML Models:** 
+  * **Embeddings:** `all-MiniLM-L6-v2` (SentenceTransformers, HuggingFace)
+  * **LLM:** Google Gemini (`google-genai` SDK)
+* **Data Ingestion:** `PyMuPDF` (PDF parsing), `rank_bm25` (Sparse retrieval)
+* **Frontend:** React, Vite, Tailwind CSS, Server-Sent Events (SSE)
 
-The system will instantly fish out the exact paragraphs mentioning lithium from the depths of the document and synthesize a clean, cited answer on the spot.
+---
+
+## 🏗️ Step-by-Step Implementation Process
+
+### Step 1: Data Ingestion & Chunking (The Foundation)
+You cannot pass a 100-page PDF directly to an LLM. It exceeds the context window and dilutes focus.
+1. **Extraction:** Used `PyMuPDF` to read raw text from uploaded PDFs, skipping blank pages.
+2. **Cleaning:** Built a text pipeline to normalize whitespace, remove ligatures, and drop irrelevant tiny lines.
+3. **Sliding Window Chunking:** Split the cleaned text into ~1000-character blocks with a 200-character overlap. 
+   * *Interview Talking Point:* "The overlap is crucial. If a sentence explaining 'NVIDIA's revenue' spans across a hard cutoff, both chunks lose context. The 200-character overlap ensures context is preserved across boundaries."
+
+### Step 2: Vectorization & Database (The Knowledge Base)
+To make text searchable by *meaning*, it must be converted into math (vectors).
+1. **Embeddings:** Passed every chunk through `SentenceTransformers` to generate a 384-dimensional dense vector.
+2. **Relational Storage:** Used `SQLAlchemy` and `SQLite` to store the data. 
+   * **Documents Table:** Stores metadata (Company, Year, Region).
+   * **Chunks Table:** Stores the raw text, the parent Document ID, and the binary-encoded vector blob.
+
+### Step 3: Hybrid Search Retrieval (The Engine)
+When a user asks a question, how do we find the right paragraphs?
+1. **Vector Search (Dense):** Converts the user's question into a vector and calculates **Cosine Similarity** against all chunks in the DB. Great for "semantic" meaning (e.g., "money" matches "revenue").
+2. **BM25 Search (Sparse):** Great for exact keyword matching (e.g., specific part numbers, "EPS", or acronyms).
+3. **Reciprocal Rank Fusion (RRF):** Combined both algorithms. RRF looks at the rank of a chunk in both lists and assigns a penalty-based blended score `1/(k+rank)`.
+   * *Interview Talking Point:* "RAG systems often fail because vector search misses exact keywords. By combining Semantic Search (Vector) with Keyword Search (BM25) via RRF, I drastically improved retrieval accuracy for specific financial terminology."
+
+### Step 4: The RAG Generation Pipeline (The Brain)
+Once we have the top 5 most relevant chunks from Step 3, we generate the answer.
+1. **Prompt Engineering:** Injected the retrieved chunks into a strict system prompt.
+2. **Grounding:** explicitly instructed the LLM (Gemini) to *only* use the provided context and to cite its sources using `[Source N]` tags.
+3. **Smart Company Detection:** Built a query parser that detects company names in the user's question and auto-filters the database search to that specific company.
+   * *Interview Talking Point:* "If a user asks 'Compare revenues', the system uses round-robin diversified retrieval across all companies. But if they ask 'Revenue of TCS', my regex-based auto-detector catches 'TCS' and automatically applies a SQL filter, preventing query dilution."
+
+### Step 5: Advanced Optimization (Production Readiness)
+To make the app feel like a real product (fast and cheap), I implemented:
+1. **In-Memory Caching:** Built a dictionary-based TTL cache. It hashes the user's normalized query and filters. If there is a cache hit, the response returns in 0.001s, saving a 5-second API call and lowering costs.
+2. **Cache Invalidation:** Hooked the cache to the Document Upload/Delete endpoints so stale answers are immediately wiped when the underlying data changes.
+3. **Server-Sent Events (SSE) Streaming:** Instead of making the user wait 8 seconds for the full LLM payload, the backend yields tokens using `StreamingResponse`. The React frontend parses the stream and updates the UI word-by-word instantly.
+4. **Conversational Memory:** Passed the last 3 turns of the chat history back to the backend, injecting it into the prompt.
+   * *Interview Talking Point:* "Standard RAG is stateless. I added conversational memory by injecting the chat history transcript into the context window, allowing the LLM to successfully answer follow-up questions with pronoun resolution like 'What about *their* risks?'"
+
+### Step 6: Frontend Polish (The User Experience)
+1. **React SPA:** Built a rapid Single Page Application with dynamic routing.
+2. **Markdown Parsing:** Used `react-markdown` to format LLM outputs beautifully (tables, bolding, code blocks).
+3. **Micro-Interactions:** Added "skeleton shimmer" loading states, fade-in-up staggered entrance animations, and dynamic source chips showing relevance scores.
+
+---
+
+## 📈 Summary of Achievements
+You took a raw PDF and transformed it into a fully conversational, real-time, streaming AI agent with exact citations, hybrid search, and caching. You handled the data engineering, the AI pipeline, the backend API, and the frontend UX. 
+
+**This is a complete Full-Stack AI Engineer portfolio piece.**

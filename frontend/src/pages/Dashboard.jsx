@@ -48,10 +48,27 @@ function Dashboard() {
 
     if (loading) {
         return (
-            <div className="flex items-center justify-center h-64">
-                <div className="flex flex-col items-center gap-3">
-                    <div className="w-8 h-8 border-2 border-brand-500 border-t-transparent rounded-full animate-spin" />
-                    <span className="text-gray-400 text-sm">Loading dashboard...</span>
+            <div className="space-y-8">
+                {/* Skeleton header */}
+                <div>
+                    <div className="skeleton w-48 h-8 mb-2" />
+                    <div className="skeleton w-72 h-4" />
+                </div>
+                {/* Skeleton stats */}
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+                    {[1, 2, 3, 4].map(i => (
+                        <div key={i} className="glass-card p-5 space-y-2">
+                            <div className="skeleton w-16 h-3" />
+                            <div className="skeleton w-24 h-7" />
+                        </div>
+                    ))}
+                </div>
+                {/* Skeleton table */}
+                <div className="glass-card p-5 space-y-3">
+                    <div className="skeleton w-32 h-5 mb-4" />
+                    {[1, 2, 3].map(i => (
+                        <div key={i} className="skeleton w-full h-10" />
+                    ))}
                 </div>
             </div>
         )
@@ -80,7 +97,7 @@ function Dashboard() {
     return (
         <div className="space-y-8">
             {/* Header */}
-            <div>
+            <div className="animate-fade-in-up">
                 <h1 className="text-3xl font-bold gradient-text">Dashboard</h1>
                 <p className="text-gray-400 mt-1">Your financial document knowledge base</p>
             </div>
@@ -88,27 +105,15 @@ function Dashboard() {
             {/* Stats Row */}
             {health && (
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    <StatCard
-                        label="Status"
-                        value={health.status === 'healthy' ? '🟢 Online' : '🔴 Offline'}
-                    />
-                    <StatCard
-                        label="Documents"
-                        value={health.total_documents}
-                    />
-                    <StatCard
-                        label="Total Chunks"
-                        value={health.total_chunks.toLocaleString()}
-                    />
-                    <StatCard
-                        label="Companies"
-                        value={Object.keys(grouped).length}
-                    />
+                    <StatCard label="Status" value={health.status === 'healthy' ? '🟢 Online' : '🔴 Offline'} delay={1} />
+                    <StatCard label="Documents" value={health.total_documents} delay={2} />
+                    <StatCard label="Total Chunks" value={health.total_chunks.toLocaleString()} delay={3} />
+                    <StatCard label="Companies" value={Object.keys(grouped).length} delay={4} />
                 </div>
             )}
 
             {/* Documents Table */}
-            <div className="glass-card overflow-hidden">
+            <div className="glass-card overflow-hidden animate-fade-in-up stagger-5">
                 <div className="p-5 border-b border-white/10 flex items-center justify-between">
                     <h2 className="text-lg font-semibold text-gray-200">📄 Documents</h2>
                     <span className="text-sm text-gray-500">{documents.length} files</span>
@@ -171,9 +176,9 @@ function Dashboard() {
     )
 }
 
-function StatCard({ label, value }) {
+function StatCard({ label, value, delay = 0 }) {
     return (
-        <div className="stat-card">
+        <div className={`stat-card animate-fade-in-up stagger-${delay}`}>
             <span className="text-xs text-gray-500 uppercase tracking-wider">{label}</span>
             <span className="text-2xl font-bold text-gray-100">{value}</span>
         </div>

@@ -35,6 +35,7 @@ WHAT YOU'LL LEARN:
 
 import time
 from abc import ABC, abstractmethod
+from typing import Generator
 
 from google import genai
 from google.genai import types
@@ -75,6 +76,19 @@ class BaseLLMClient(ABC):
             The LLM's text response
         """
         pass
+
+    def generate_stream(self, prompt: str, system_prompt: str = "") -> Generator[str, None, None]:
+        """
+        Stream a response from the LLM token by token.
+
+        Override this in subclasses that support streaming.
+        Default implementation falls back to non-streaming generate().
+
+        Yields:
+            Text chunks as they arrive from the LLM
+        """
+        # Fallback: return the full response as a single chunk
+        yield self.generate(prompt, system_prompt)
 
 
 # ──────────────────────────────────────────────
@@ -170,6 +184,37 @@ class GeminiClient(BaseLLMClient):
                 return f"Error communicating with the LLM: {error_str}"
 
         return "Rate limit exceeded after retries. Please wait a moment and try again."
+
+    def generate_stream(self, prompt: str, system_prompt: str = "") -> Generator[str, None, None]:
+        """
+        Stream Gemini's response token by token.
+
+        HOW STREAMING WORKS:
+        Instead of waiting for the FULL response (3-8 seconds), we get
+        partial text chunks as the model generates them. Each chunk
+        arrives every 100-500ms, so the user sees text appearing in
+        real-time — just like ChatGPT.
+
+        Uses Server-Sent Events (SSE) on the frontend to receive chunks.
+        """
+        full_prompt = prompt
+        if system_prompt:
+            full_prompt = f"{system_prompt}\n\n{prompt}"
+
+        try:
+            response_stream = self.client.models.generate_content_stream(
+                model=self.model_name,
+                contents=full_prompt,
+                config=self.config,
+            )
+
+            for chunk in response_stream:
+                if chunk.text:
+                    yield chunk.text
+
+        except Exception as e:
+            logger.error(f"❌ Gemini streaming error: {e}")
+            yield f"Error: {str(e)}"
 
 
 # ──────────────────────────────────────────────

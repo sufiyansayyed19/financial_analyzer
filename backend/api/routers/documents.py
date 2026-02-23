@@ -25,6 +25,7 @@ from backend.core.config import settings
 from backend.core.logging import get_logger
 from backend.db.database import get_session, init_db
 from backend.db.models import Chunk, Document
+from backend.engines.cache import rag_cache
 
 logger = get_logger(__name__)
 
@@ -89,6 +90,8 @@ async def upload_pdf(file: UploadFile = File(...)):
         from backend.pipelines.text_cleaner import clean_text
         from backend.pipelines.chunker import chunk_text
         from backend.engines.embedder import embed_batch
+        from backend.pipelines.table_extractor import extract_tables_from_pdf, save_tables
+        from backend.core.config import settings
         import numpy as np
 
         # Step 1: Extract text (returns ExtractedDocument with .full_text)
@@ -128,7 +131,16 @@ async def upload_pdf(file: UploadFile = File(...)):
         chunk_texts = [c.text for c in chunks]
         embeddings = embed_batch(chunk_texts, show_progress=False)
 
-        # Step 6: Store in database
+        # Step 6: Extract and preserve tables (saving to disk just like Phase 1)
+        try:
+            doc_tables = extract_tables_from_pdf(tmp_path, company=company, year=year)
+            if doc_tables and doc_tables.tables:
+                output_dir = settings.processed_dir / region / "annual" / company
+                save_tables(doc_tables, output_dir)
+        except Exception as e:
+            logger.warning(f"Table extraction failed, but continuing upload: {e}")
+
+        # Step 7: Store in database
         init_db()
         session = get_session()
         try:
@@ -161,6 +173,9 @@ async def upload_pdf(file: UploadFile = File(...)):
             session.commit()
 
             logger.info(f"✅ Stored {len(chunk_objects)} chunks for {file.filename}")
+
+            # Invalidate the answer cache — new data means old answers may be stale
+            rag_cache.invalidate()
 
             return UploadResponse(
                 message=f"Successfully processed {file.filename}",
@@ -241,6 +256,9 @@ async def delete_document(document_id: int):
         session.commit()
 
         logger.info(f"🗑️ Deleted: {file_name} ({chunk_count} chunks)")
+
+        # Invalidate the answer cache — removed data means old answers may be stale
+        rag_cache.invalidate()
 
         return {
             "message": f"Deleted {file_name}",
