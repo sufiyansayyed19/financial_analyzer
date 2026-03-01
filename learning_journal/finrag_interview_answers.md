@@ -313,3 +313,89 @@ All answers are written the way you would actually speak in an interview. No fan
 
 **Q: If your team had 3 more engineers, what would you build next?**
 > One person would build the analytics dashboard (extract financial metrics into charts). One would handle deployment and monitoring (Docker, CI/CD, Sentry). One would add authentication, access control, and multi-tenant support so different companies can use the system with their own private documents.
+
+---
+
+## 11. Critical / Negative / "Poking Holes" Questions
+
+These are the toughest questions. Interviewers ask these to see if you are honest, self-aware, and can think beyond what you built.
+
+---
+
+### "Why not just use ChatGPT?"
+
+**Q: A user can just upload a PDF to ChatGPT and ask questions. Why would anyone use your system instead?**
+> Fair point. ChatGPT works great for one-off questions on a single file. But FinRAG solves a different problem. It lets you upload 20+ documents, store them permanently in a searchable database, and ask questions across all of them at once. ChatGPT doesn't remember files across sessions, can't do cross-document comparison, and doesn't let you filter by company or year. Also, ChatGPT is a black box — you don't know which part of the PDF it read. FinRAG gives exact source citations so you can verify every answer.
+
+**Q: ChatGPT has a 2 million token context window now. Why even bother with RAG?**
+> Three reasons. 1) Cost — sending 2 million tokens per question is very expensive. 2) Speed — processing a 2M token prompt takes 30-60 seconds before the first word appears. 3) Accuracy — research shows LLMs struggle with the "lost in the middle" problem, where they miss facts buried deep inside huge context windows. RAG is cheaper, faster, and more precise because it only sends the 5 most relevant paragraphs, not the entire document.
+
+---
+
+### "What you should have done but didn't"
+
+**Q: Why didn't you use a proper vector database like Pinecone or ChromaDB?**
+> Because at 25,000 chunks, loading everything into numpy and computing dot products takes under 100ms in RAM. Adding Pinecone would introduce network latency, an external dependency, and a paid service — all for zero speed improvement at this scale. But I'm fully aware that beyond 100K-500K chunks, I'd need to switch to pgvector or Pinecone because RAM loading won't scale.
+
+**Q: Why didn't you write any unit tests?**
+> Honest answer — I focused on building features and learning the architecture. In a production project, I would absolutely write tests. I'd use `pytest` for the backend (testing the RAG pipeline, search, and API endpoints) and something like Vitest or React Testing Library for the frontend. It's a gap I'm aware of.
+
+**Q: Why didn't you use LangChain or LlamaIndex? They do all of this for you.**
+> That was a deliberate decision. Frameworks like LangChain abstract everything away. If I used LangChain, I'd call `RetrievalQA.from_chain_type()` and it would work — but I wouldn't understand how the vector search, prompt building, or streaming actually works under the hood. I built it from scratch specifically to learn the internals. In a production team, I'd definitely consider using a framework for speed.
+
+**Q: Why didn't you add authentication or user login?**
+> Because the core learning goal was the RAG pipeline, not user management. Adding JWT auth is a well-understood pattern I've done in my MERN project (Cartix). I kept FinRAG focused on the AI and search complexity. But I know exactly how I'd add it — FastAPI has built-in OAuth2 support with `Depends()` for protecting routes.
+
+**Q: You don't have any evaluation metrics. How do you know your system actually works well?**
+> You are right, I don't have automated evaluation. I tested manually — asking questions and checking if the retrieved chunks contain the right answer and if the citations are accurate. For production, I would build an evaluation dataset (50-100 question-answer pairs), and measure metrics like Recall@5 (did the correct chunk appear in the top 5?) and answer faithfulness (does the LLM's answer match the source text?).
+
+**Q: You used the free tier of Gemini. What if Google changes their pricing or limits tomorrow?**
+> That's a real risk with any external API. That's exactly why I built the Strategy pattern with `BaseLLMClient`. If Gemini's free tier disappears, I swap in an `OpenAIClient` or even a local model like Ollama running Llama-3. The rest of the codebase doesn't change at all. I designed for this exact scenario.
+
+---
+
+### "Your system is weak because..."
+
+**Q: Your search loads ALL 25,000 vectors into memory every time. That's terrible for performance, isn't it?**
+> At 25K chunks with 384-dimensional vectors, the total memory is about 37MB. Loading and computing dot products on that takes under 100ms. So right now, it's actually fine. But yes, at 1 million chunks that becomes 1.5GB of RAM per request, which is not sustainable. At that point I'd move to pgvector or Pinecone, which use HNSW indexing to search without loading everything.
+
+**Q: Your cache invalidation is too aggressive. You clear the ENTIRE cache when one document is uploaded. Why not be smarter?**
+> You are right — it's a brute-force approach. A smarter system would only invalidate cache entries that reference chunks from the affected document. I chose the simple approach because: 1) the cache rebuilds quickly (one LLM call), and 2) for a small-scale system, the simplicity is worth more than the optimization. But I understand the tradeoff.
+
+**Q: What if two people upload the same PDF with different filenames? You'd get duplicate data.**
+> Good catch. Right now I check for duplicate `file_name`. If someone uploads the same content as `report_v1.pdf` and `report_v2.pdf`, both would get indexed. A better approach would be to hash the file content (like SHA-256 of the PDF bytes) and check for content-level duplicates, not just filename.
+
+**Q: Your text cleaning pipeline has 10 steps. Isn't that fragile? What if the order changes?**
+> The order matters a lot. For example, Unicode normalization (Step 1) must happen before regex matching (Step 4), because regex won't match ligature characters. I documented each step and why it's in that position. It's not fragile — it's sequential by design. Each step has a clear purpose and they build on each other.
+
+---
+
+### "Prove you understand the theory"
+
+**Q: You say you used cosine similarity. But what happens if your embeddings are NOT normalized?**
+> Then plain dot product gives you wrong results because longer vectors get unfairly high scores. Cosine similarity fixes this by dividing by the vector magnitudes. In my code, I pass `normalize_embeddings=True` when encoding, so all vectors have length 1. After that, cosine similarity equals the dot product, which is faster to compute.
+
+**Q: Can your system handle PDFs in Hindi or other languages?**
+> Not well right now. The embedding model `all-MiniLM-L6-v2` is trained primarily on English text. For Hindi PDFs, I'd need a multilingual embedding model like `paraphrase-multilingual-MiniLM-L12-v2` from HuggingFace. The rest of the pipeline (extraction, chunking, search) would work the same.
+
+**Q: What if two companies report very different things under the same heading "Revenue"? Would your search get confused?**
+> This is exactly why I built company auto-detection and filtering. If the user says "TCS revenue", my system detects "TCS" and filters chunks to only that company before searching. Without this filter, yes — NVIDIA's revenue chunks might outrank TCS's because NVIDIA's numbers appear more frequently in the dataset.
+
+---
+
+### "Honesty & Self-awareness"
+
+**Q: What is the weakest part of your project?**
+> The lack of automated testing and evaluation metrics. I can tell you it works from manual testing, but I can't give you a precision or recall number. In a real job, I would build a ground-truth evaluation set first and measure performance before and after every change.
+
+**Q: Is this project production-ready?**
+> No, and I wouldn't claim it is. It's missing authentication, proper error monitoring, automated tests, database migrations, Docker containerization, and HTTPS. It's a fully working prototype that demonstrates the complete architecture. Making it production-ready would be the next phase.
+
+**Q: Did you use AI tools to help you build this?**
+> Yes. I used AI for guidance on architecture decisions, debugging errors, and understanding new concepts. But I wrote and understood every line of code. I can explain any file in the project and trace any request through the full system. The learning was real — the AI was like a smart textbook, not a copy-paste source.
+
+**Q: What would a senior developer criticize about your code?**
+> Probably: no tests, no Docker, no CI/CD pipeline, cache invalidation is too aggressive, and the vector search won't scale past 100K chunks. All valid points. I'm aware of each one and I know how to fix them. The goal of this project was learning the RAG architecture end-to-end, not building a production SaaS product.
+
+**Q: If you were hiring someone and they showed you this project, what would impress you and what wouldn't?**
+> I'd be impressed that they built the full stack from scratch — PDF processing, vector search, LLM integration, streaming, and a React chat UI. That's a lot of surface area. I wouldn't be impressed if they couldn't explain how cosine similarity works or why they chose BM25 over just vector search. The code matters less than the understanding behind it.
